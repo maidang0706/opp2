@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>线马商机 - 全平台云同步</title>
+<style>
+  *{box-sizing:border-box;font-family:Microsoft YaHei}
+  html,body{margin:0;padding:8px;background:#f5f7fa;height:100vh}
+  .container{background:#fff;border-radius:10px;padding:10px;height:100%;display:flex;flex-direction:column}
+  .top-bar{display:flex;justify-content:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+  button{padding:6px 10px;border:none;border-radius:4px;background:#0d7bff;color:#fff;cursor:pointer}
+  button.save{background:#07c160}
+  button.sync{background:#165DFF}
+  button.del{background:#ff4d4f}
+  .filter-row{display:flex;gap:3px;margin-bottom:8px;flex-wrap:wrap}
+  .filter-row input{flex:1;min-width:100px;padding:4px 6px;font-size:12px;border:1px solid #ddd}
+  .table-box{flex:1;overflow:auto;border:1px solid #eee}
+  table{width:100%;border-collapse:collapse;table-layout:fixed}
+  th,td{padding:6px 4px;text-align:center;border:1px solid #eee;font-size:12px;position:relative}
+  th{background:#f7f7fa}
+  .edit-input{position:absolute;left:0;top:0;width:100%;height:100%;border:none;text-align:center;background:transparent}
+  .move-btn{background:#66bb6a;color:#fff;border:none;border-radius:2px;padding:2px 4px;font-size:12px}
+  .del-btn{background:#ff4d4f;color:#fff;border:none;border-radius:2px;padding:2px 4px}
+  .pri-high{background:#ff4d4f;color:#fff}
+  .pri-middle{background:#ffeb3b}
+  .pri-low{background:#90ee90}
+  .modal{position:fixed;left:0;top:0;width:100%;height:100%;background:rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;z-index:999}
+  .modal-box{background:#fff;padding:12px;border-radius:8px;width:240px}
+  .stage-option{padding:6px;background:#f2f2f2;border-radius:4px;margin:4px 0;cursor:pointer}
+  .stage-option:hover{background:#0d7bff;color:#fff}
+  .modal-hide{display:none}
+  #tip{text-align:center;font-size:12px;color:#666}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="top-bar">
+    <button onclick="addRow()">＋ 新增</button>
+    <button class="save" onclick="saveData()">💾 保存并同步</button>
+    <button class="sync" onclick="loadData()">🔄 立即同步</button>
+    <button class="del" onclick="clearAll()">清空</button>
+  </div>
+  <div id="tip"></div>
+
+  <div class="filter-row">
+    <input placeholder="更新日期" data-field="updateTime">
+    <input placeholder="创建日期" data-field="createTime">
+    <input placeholder="客户" data-field="customer">
+    <input placeholder="项目" data-field="project">
+    <input placeholder="优先级" data-field="priority">
+    <input placeholder="金额" data-field="amount">
+    <input placeholder="阶段" data-field="stage">
+    <input placeholder="备注" data-field="remark">
+  </div>
+
+  <div class="table-box">
+    <table>
+      <thead>
+        <tr>
+          <th width="70">操作</th>
+          <th width="35">序</th>
+          <th>更新</th>
+          <th>创建</th>
+          <th>客户</th>
+          <th>项目</th>
+          <th>优先级</th>
+          <th>金额</th>
+          <th>阶段</th>
+          <th>备注</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+  </div>
+</div>
+
+<div id="stageModal" class="modal modal-hide">
+  <div class="modal-box">
+    <h4>选择阶段</h4>
+    <div class="stage-option" data-val="0-项目丢失">0-项目丢失</div>
+    <div class="stage-option" data-val="1-前期投标">1-前期投标</div>
+    <div class="stage-option" data-val="2-项目立项">2-项目立项</div>
+    <div class="stage-option" data-val="3-方案对接">3-方案对接</div>
+    <div class="stage-option" data-val="4-确定bom单">4-确定bom单</div>
+    <div class="stage-option" data-val="5-采购询价">5-采购询价</div>
+    <div class="stage-option" data-val="6-项目成交">6-项目成交</div>
+  </div>
+</div>
+
+<script>
+// 全局公用云端 key（电脑手机必须一样）
+const KEY = "xianma_shangji_global";
+
+let list = [];
+let filter = {}, editRow = null, editField = null;
+
+function tip(t) { document.getElementById("tip").innerText = t; }
+
+// 保存到公共云端
+async function saveData() {
+  try {
+    await fetch("https://api.jsdelivr.net/data", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ key: KEY, data: list })
+    });
+    tip("✅ 已同步到云端");
+  } catch (e) {
+    tip("💾 已本地备份");
+    localStorage.setItem(KEY, JSON.stringify(list));
+  }
+}
+
+// 从云端读取
+async function loadData() {
+  try {
+    const res = await fetch("https://api.jsdelivr.net/data?key=" + KEY);
+    const result = await res.json();
+    if (result.data) list = result.data;
+    render();
+    tip("✅ 已从云端同步");
+  } catch (e) {
+    const local = localStorage.getItem(KEY);
+    if (local) list = JSON.parse(local);
+    render();
+    tip("⚠️ 使用本地数据");
+  }
+}
+
+// 自动同步
+setInterval(loadData, 3000);
+
+function now() {
+  const d = new Date();
+  return d.getFullYear() + "-" +
+    String(d.getMonth()+1).padStart(2,'0') + "-" +
+    String(d.getDate()).padStart(2,'0');
+}
+
+function initFilter() {
+  document.querySelectorAll('.filter-row input').forEach(inp => {
+    inp.oninput = () => {
+      filter[inp.dataset.field] = inp.value.trim().toLowerCase();
+      render();
+    }
+  });
+}
+
+document.querySelectorAll('.stage-option').forEach(opt => {
+  opt.onclick = () => {
+    list[editRow][editField] = opt.dataset.val;
+    saveData();
+    closeModal();
+    render();
+  }
+});
+
+function openModal(r,f) { editRow=r; editField=f; stageModal.classList.remove('modal-hide'); }
+function closeModal() { stageModal.classList.add('modal-hide'); }
+
+function addRow() {
+  list.unshift({
+    updateTime: now(),
+    createTime: now(),
+    customer:'',project:'',priority:'',amount:'',stage:'',remark:''
+  });
+  saveData();
+  render();
+}
+
+function deleteRow(i) {
+  if(confirm('确定删除？')){
+    list.splice(i,1);
+    saveData();
+    render();
+  }
+}
+
+function moveUp(i) {
+  if(i <= 0) return;
+  [list[i], list[i-1]] = [list[i-1], list[i]];
+  render();
+}
+
+function moveDown(i) {
+  if(i >= list.length-1) return;
+  [list[i], list[i+1]] = [list[i+1], list[i]];
+  render();
+}
+
+function render() {
+  tableBody.innerHTML = '';
+  const fields = ['updateTime','createTime','customer','project','priority','amount','stage','remark'];
+  list.filter(item => 
+    Object.keys(filter).every(k => (item[k] || '').toLowerCase().includes(filter[k]))
+  ).forEach((item, idx) => {
+    const tr = document.createElement('tr');
+    const cls = item.priority==='高' ? 'pri-high' :
+               item.priority==='中' ? 'pri-middle' :
+               item.priority==='低' ? 'pri-low' : '';
+
+    tr.innerHTML = `
+      <td>
+        <button class="move-btn" onclick="moveUp(${idx})">↑</button>
+        <button class="move-btn" onclick="moveDown(${idx})">↓</button>
+        <button class="del-btn" onclick="deleteRow(${idx})">删</button>
+      </td>
+      <td>${idx+1}</td>
+      <td>${item.updateTime || ''}</td>
+      <td>${item.createTime || ''}</td>
+      <td>${item.customer || ''}</td>
+      <td>${item.project || ''}</td>
+      <td class="${cls}">${item.priority || ''}</td>
+      <td>${item.amount || ''}</td>
+      <td>${item.stage || ''}</td>
+      <td>${item.remark || ''}</td>
+    `;
+    tableBody.appendChild(tr);
+
+    tr.querySelectorAll('td').forEach((td,j) => {
+      if(j < 2) return;
+      td.onclick = () => startEdit(td, idx, fields[j-2]);
+    });
+  });
+}
+
+function startEdit(td, i, f) {
+  if(f === 'stage') { openModal(i,f); return; }
+  const input = document.createElement('input');
+  input.className = 'edit-input';
+  input.value = td.innerText;
+  td.innerHTML = '';
+  td.appendChild(input);
+  input.focus();
+  input.onblur = input.onkeydown = e => {
+    if(e.type === 'keydown' && e.key !== 'Enter') return;
+    list[i][f] = input.value.trim();
+    if(f !== 'createTime') list[i].updateTime = now();
+    saveData();
+    render();
+  }
+}
+
+function clearAll() {
+  if(confirm('确定清空所有数据？')) {
+    list = [];
+    saveData();
+    render();
+  }
+}
+
+loadData();
+initFilter();
+</script>
+</body>
+</html>

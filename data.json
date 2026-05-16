@@ -1,5 +1,1315 @@
 {
-  "todos": [],
-  "workList": [],
-  "otherList": []
+  "todos": [
+    {
+      "id": "1772179104535-883mqo",
+      "text": "艾文计算",
+      "date": "2026-03-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1772370540872-mesmm1",
+      "text": "整理精朗大圆柱数量和型号",
+      "date": "2026-03-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1772373449585-acgu4r",
+      "text": "拜访计划写到crm",
+      "date": "2026-03-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 1,
+        "days": [
+          7
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [
+        -4
+      ]
+    },
+    {
+      "id": "1772374365668-nny4pq",
+      "text": "精朗读头和安装块报价和货期",
+      "date": "2026-03-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1772524694694-qzl97r",
+      "text": "客户特殊备注记录在哪里",
+      "date": "2026-03-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1772719851961-o9x38s",
+      "text": "文通端盖板问题",
+      "date": "2026-03-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1772955596862-aq0509",
+      "text": "捷牛DDR问题解决",
+      "date": "2026-03-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1772955948652-ugdim6",
+      "text": "艾文选型",
+      "date": "2026-03-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1773021136935-0a3qua",
+      "text": "联赢找新的部门的合作机会",
+      "date": "2026-03-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1773214420690-8z7q81",
+      "text": "文通未用出去的模组型号",
+      "date": "2026-03-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1773320971059-c31u7j",
+      "text": "中欣更换10A驱动器",
+      "date": "2026-03-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773321442994-5adhjn",
+      "text": "刘钊哲音圈",
+      "date": "2026-03-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1773321527409-semdnh",
+      "text": "汇艺DDR报价",
+      "date": "2026-03-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773321652460-4d8mya",
+      "text": "艾贝特情况",
+      "date": "2026-03-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773321748665-f1ylms",
+      "text": "文通合同落实",
+      "date": "2026-03-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773582566594-q9cvhj",
+      "text": "赛纳三维方案沟通",
+      "date": "2026-03-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773625236800-crcu4g",
+      "text": "内嵌统计",
+      "date": "2026-03-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773630136777-5bqbfr",
+      "text": "重新梳理客户，MP，MP+",
+      "date": "2026-04-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1773631256535-axif5m",
+      "text": "中基0124换0064驱动器",
+      "date": "2026-03-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773631667055-ktbtss",
+      "text": "精智达退货",
+      "date": "2026-03-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773644850901-ztzycn",
+      "text": "无锡先驱，中基外发单",
+      "date": "2026-03-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1773732932071-fmw01a",
+      "text": "中基换PN总线驱动器",
+      "date": "2026-03-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773902480317-aw5flf",
+      "text": "精朗给图纸",
+      "date": "2026-03-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1773909182600-04dckr",
+      "text": "中欣取消合同",
+      "date": "2026-03-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774066662350-xxc9tj",
+      "text": "赛纳三维情况",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774066704596-gs1v5l",
+      "text": "文通和中欣交货",
+      "date": "2026-03-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774099313298-qplcve",
+      "text": "做一个公众号的软件",
+      "date": "2026-03-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1774099599805-7055mh",
+      "text": "做一个客户组织价格和联系人信息软件",
+      "date": "2026-03-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1774099665571-lyi6ez",
+      "text": "做一个交期软件",
+      "date": "2026-03-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1774315168579-k0233a",
+      "text": "精朗8米线缆",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774317294681-hxlbcj",
+      "text": "誉辰刹车电阻",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774338858139-829bcl",
+      "text": "捷牛谢总",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1774356816009-gqip64",
+      "text": "海得地订单沟通",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774356831532-o6qp8s",
+      "text": "中基暂停模组处理",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1774356918769-wllc4b",
+      "text": "中欣表格",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774356938083-m06fpo",
+      "text": "捷佳伟创新商承",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774356989840-f91nrw",
+      "text": "运泰利音圈",
+      "date": "2026-03-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1774501573674-4brdiu",
+      "text": "精朗换线",
+      "date": "2026-03-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774501586090-n14ec6",
+      "text": "赛纳三维和小鑫沟通",
+      "date": "2026-03-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774501690749-3r6lj5",
+      "text": "中欣交期",
+      "date": "2026-03-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1774837588478-ad565z",
+      "text": "把开周会的各个销售的客户如何汇总",
+      "date": "2026-04-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1775052439342-pdtq1e",
+      "text": "给小蔡培训选型",
+      "date": "2026-04-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1775053060944-3fmblk",
+      "text": "联赢任总要的资料和他给需求我们",
+      "date": "2026-04-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1775053081479-4hq19z",
+      "text": "陶小康",
+      "date": "2026-04-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1775121709460-mqiopv",
+      "text": "整理线缆折扣，把20米或者其他没有的算进去",
+      "date": "2026-04-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1775186239160-lfjaiu",
+      "text": "中欣寄刹车电阻",
+      "date": "2026-04-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1775188546059-x38u1o",
+      "text": "精朗驱动器端子申请",
+      "date": "2026-04-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1775894327004-cd2bfg",
+      "text": "誉辰寄到工厂的读头情况",
+      "date": "2026-04-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1775894337844-uuaf1u",
+      "text": "中欣读头寄回来",
+      "date": "2026-04-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1775894406428-csyzob",
+      "text": "中基合同回传件",
+      "date": "2026-04-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1775894424215-mzwtzp",
+      "text": "如何杜绝合同未回传",
+      "date": "2026-04-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1775897403196-jkkc29",
+      "text": "汇艺的PDF",
+      "date": "2026-04-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1775965292344-9pdped",
+      "text": "下厨的视频如何整理",
+      "date": "2026-04-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": []
+    },
+    {
+      "id": "1776000102176-m9499g",
+      "text": "问其他同事刹车电阻怎么处理的",
+      "date": "2026-04-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1776052798080-gy4l34",
+      "text": "中欣要的挡光片和安装座",
+      "date": "2026-04-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1776223342432-nogjx8",
+      "text": "精朗罗洋图纸",
+      "date": "2026-04-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "id": "1776223349422-8zxbz7",
+      "text": "卓誉李工图纸",
+      "date": "2026-04-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": []
+    },
+    {
+      "text": "中基报价",
+      "date": "2026-04-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1776299598765-7mmlg4"
+    },
+    {
+      "text": "誉辰报价",
+      "date": "2026-04-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1776299604197-2zh5m9"
+    },
+    {
+      "text": "卓誉李工要的图纸",
+      "date": "2026-04-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1776299624627-8y5rj6"
+    },
+    {
+      "text": "答复山伯哥",
+      "date": "2026-04-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1776299678022-toogii"
+    },
+    {
+      "text": "中欣报价",
+      "date": "2026-04-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1776299702181-7xts61"
+    },
+    {
+      "text": "汇艺换线缆",
+      "date": "2026-04-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1776303253675-8bpadk"
+    },
+    {
+      "text": "研发电机的新表格",
+      "date": "2026-04-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1777010741739-ir78wn"
+    },
+    {
+      "text": "中基谭经理模组配置",
+      "date": "2026-04-27",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777208351115-gr95fz"
+    },
+    {
+      "text": "精朗",
+      "date": "2026-04-27",
+      "time": "16:00",
+      "isAllDay": false,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777208367002-vnrucs"
+    },
+    {
+      "text": "誉昊报价",
+      "date": "2026-04-27",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777208392789-tk9ztr"
+    },
+    {
+      "text": "誉昊方案",
+      "date": "2026-04-27",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777208406732-w9hapg"
+    },
+    {
+      "text": "答复中基技术群李想",
+      "date": "2026-04-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777208579561-nnf9yo"
+    },
+    {
+      "text": "中基授信申请",
+      "date": "2026-04-27",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777208754874-morxrh"
+    },
+    {
+      "text": "卓誉报价",
+      "date": "2026-04-27",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777208912596-d18lrm"
+    },
+    {
+      "text": "誉辰何总沟通",
+      "date": "2026-04-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777209268098-crjz6n"
+    },
+    {
+      "text": "汇艺黄龙选型",
+      "date": "2026-04-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": true,
+      "onlyDone": [],
+      "id": "1777253046714-605bj7"
+    },
+    {
+      "text": "新增",
+      "date": "2026-05-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1778910330527-xxmgp8"
+    }
+  ],
+  "workList": [
+    {
+      "text": "改进代办表： 1.优先级高排在上面 2.重复的代办就单一任务可以修改完成和未完成 3.周重复功能点击不了完成 4.右边加入一列本周代办",
+      "done": false
+    },
+    {
+      "text": "商机改进方案：1.商机名称后面加入备注项，可以写项目情况或者丢单原因",
+      "done": false
+    },
+    {
+      "text": "选型变动记录如何记录",
+      "done": false
+    },
+    {
+      "text": "汇艺要求发货驱动器接线方式放里面",
+      "done": false
+    }
+  ],
+  "otherList": [
+    {
+      "text": "做个对账软件",
+      "done": false
+    },
+    {
+      "text": "做个行程记录软件，做个可以自动生成开车里程的软件",
+      "done": false
+    },
+    {
+      "text": "做个交期的软件",
+      "done": false
+    },
+    {
+      "text": "做个记每月消费的软件",
+      "done": false
+    },
+    {
+      "text": "做个线马OPP软件",
+      "done": false
+    },
+    {
+      "text": "洗车",
+      "done": false
+    },
+    {
+      "text": "改电信套餐",
+      "done": false
+    }
+  ],
+  "updateTime": "2026/5/16 13:45:35"
 }

@@ -1263,23 +1263,6 @@
       "id": "1778910877951-29wfgv"
     },
     {
-      "text": "车资料",
-      "date": "2026-05-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778911164784-3quhjf"
-    },
-    {
       "text": "捷牛报价",
       "date": "2026-05-15",
       "time": "",
@@ -1566,5 +1549,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/16 14:19:25"
+  "updateTime": "2026/5/16 14:27:53"
 }

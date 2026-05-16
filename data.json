@@ -1550,6 +1550,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1778913822682-wvx9ec"
+    },
+    {
+      "text": "中欣选型",
+      "date": "2026-05-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1778915535938-gblb4w"
     }
   ],
   "workList": [
@@ -1600,5 +1617,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/16 14:43:55"
+  "updateTime": "2026/5/16 15:12:17"
 }

@@ -1258,7 +1258,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1778910877951-29wfgv"
     },
@@ -1635,6 +1635,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1778998259159-qion19"
+    },
+    {
+      "text": "精朗定子补单",
+      "date": "2026-05-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1778998290785-t3nwun"
     }
   ],
   "workList": [
@@ -1685,5 +1702,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/17 14:11:00"
+  "updateTime": "2026/5/17 14:12:55"
 }

@@ -1618,6 +1618,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1778995135853-0m0zxt"
+    },
+    {
+      "text": "中基要的插针",
+      "date": "2026-05-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1778998259159-qion19"
     }
   ],
   "workList": [
@@ -1668,5 +1685,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/17 13:19:12"
+  "updateTime": "2026/5/17 14:11:00"
 }

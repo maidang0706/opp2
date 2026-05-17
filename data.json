@@ -1552,10 +1552,10 @@
       "id": "1778913822682-wvx9ec"
     },
     {
-      "text": "中欣选型",
-      "date": "2026-05-17",
-      "time": "",
-      "isAllDay": true,
+      "text": "中欣选型，给图纸，和报价",
+      "date": "2026-05-18",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1703,6 +1703,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779022353080-pw29rg"
+    },
+    {
+      "text": "车解压",
+      "date": "2026-05-18",
+      "time": "16:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779023750137-vwz12y"
     }
   ],
   "workList": [
@@ -1753,5 +1770,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/17 20:52:38"
+  "updateTime": "2026/5/17 21:16:15"
 }

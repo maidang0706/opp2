@@ -1315,24 +1315,7 @@
       "id": "1778911343565-n0notm"
     },
     {
-      "text": "誉昊新订单",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778911354414-k5cqkx"
-    },
-    {
-      "text": "中基20W订单下了没",
+      "text": "中基20W订单更新备注",
       "date": "2026-05-18",
       "time": "",
       "isAllDay": true,
@@ -1384,7 +1367,7 @@
     },
     {
       "text": "誉昊款",
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1451,23 +1434,6 @@
       "id": "1778911491798-aez151"
     },
     {
-      "text": "中欣合同加急",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778911926798-q0d59f"
-    },
-    {
       "text": "满意度调查表",
       "date": "2026-05-18",
       "time": "",
@@ -1486,11 +1452,11 @@
     },
     {
       "text": "叁迪出货",
-      "date": "2026-05-22",
+      "date": "2026-05-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1503,11 +1469,11 @@
     },
     {
       "text": "精朗出货",
-      "date": "2026-05-22",
+      "date": "2026-05-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1655,40 +1621,6 @@
       "id": "1779009313404-wniwav"
     },
     {
-      "text": "誉昊订单备注",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779022345219-09pmwv"
-    },
-    {
-      "text": "中欣订单备注",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779022353080-pw29rg"
-    },
-    {
       "text": "车解压",
       "date": "2026-05-18",
       "time": "16:00",
@@ -1721,6 +1653,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779028736572-ax9ax7"
+    },
+    {
+      "text": "XRAY的分类",
+      "date": "2026-05-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779072103617-8ho5c2"
     }
   ],
   "workList": [
@@ -1771,5 +1720,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/18 08:30:47"
+  "updateTime": "2026/5/18 18:31:33"
 }

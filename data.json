@@ -1298,40 +1298,6 @@
       "id": "1778911304959-qq5guh"
     },
     {
-      "text": "誉昊交货",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778911343565-n0notm"
-    },
-    {
-      "text": "中基20W订单更新备注",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778911365713-ovxvcd"
-    },
-    {
       "text": "月会新增工作内容",
       "date": "2026-05-16",
       "time": "",
@@ -1485,23 +1451,6 @@
       "id": "1778913753537-4qd3if"
     },
     {
-      "text": "卓誉",
-      "date": "2026-05-18",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778913822682-wvx9ec"
-    },
-    {
       "text": "中欣选型，给图纸，和报价",
       "date": "2026-05-18",
       "time": "09:00",
@@ -1570,23 +1519,6 @@
       "id": "1778995135853-0m0zxt"
     },
     {
-      "text": "中基要的插针",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778998259159-qion19"
-    },
-    {
       "text": "精朗定子补单",
       "date": "2026-05-19",
       "time": "",
@@ -1619,23 +1551,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1779009313404-wniwav"
-    },
-    {
-      "text": "车解压",
-      "date": "2026-05-18",
-      "time": "16:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779023750137-vwz12y"
     },
     {
       "text": "交报销",
@@ -1720,5 +1635,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/18 18:31:33"
+  "updateTime": "2026/5/18 18:33:43"
 }

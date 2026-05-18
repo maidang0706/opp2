@@ -1247,23 +1247,6 @@
       "id": "1777253046714-605bj7"
     },
     {
-      "text": "精朗定子发货",
-      "date": "2026-05-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1778910877951-29wfgv"
-    },
-    {
       "text": "捷牛报价",
       "date": "2026-05-19",
       "time": "",
@@ -1536,23 +1519,6 @@
       "id": "1778998290785-t3nwun"
     },
     {
-      "text": "整理报销",
-      "date": "2026-05-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1779009313404-wniwav"
-    },
-    {
       "text": "交报销",
       "date": "2026-05-18",
       "time": "",
@@ -1635,5 +1601,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/18 18:33:43"
+  "updateTime": "2026/5/19 00:16:46"
 }

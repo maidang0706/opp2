@@ -1687,6 +1687,40 @@
       "done": false,
       "onlyDone": [],
       "id": "1779180220672-bo2p79"
+    },
+    {
+      "text": "精朗替换横川",
+      "date": "2026-05-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779181959829-ff5b7k"
+    },
+    {
+      "text": "中欣李工的选型",
+      "date": "2026-05-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779182640870-wsjji4"
     }
   ],
   "workList": [
@@ -1737,5 +1771,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/19 17:02:35"
+  "updateTime": "2026/5/19 17:24:02"
 }

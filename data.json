@@ -1468,23 +1468,6 @@
       "id": "1778983766638-s2mcnw"
     },
     {
-      "text": "中山誉辰",
-      "date": "2026-05-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1778995105881-5ww1fk"
-    },
-    {
       "text": "中基2台驱动器寄回来",
       "date": "2026-05-19",
       "time": "",
@@ -1587,23 +1570,6 @@
       "id": "1779121152209-u9reu2"
     },
     {
-      "text": "泰德模组情况确认",
-      "date": "2026-05-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779121310398-azyx3o"
-    },
-    {
       "text": "黄宇泽锂电表格整理",
       "date": "2026-05-18",
       "time": "",
@@ -1690,7 +1656,7 @@
     },
     {
       "text": "精朗替换横川",
-      "date": "2026-05-19",
+      "date": "2026-05-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1706,27 +1672,10 @@
       "id": "1779181959829-ff5b7k"
     },
     {
-      "text": "中欣李工的选型",
-      "date": "2026-05-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779182640870-wsjji4"
-    },
-    {
       "text": "科瑞思音圈",
-      "date": "2026-05-19",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-05-20",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1738,6 +1687,40 @@
       "done": false,
       "onlyDone": [],
       "id": "1779190192696-32juho"
+    },
+    {
+      "text": "答复卓誉降价",
+      "date": "2026-05-20",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779198346150-3ouqcq"
+    },
+    {
+      "text": "中欣李工第一个选型",
+      "date": "2026-05-20",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779199431472-df1gsj"
     }
   ],
   "workList": [
@@ -1788,5 +1771,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/19 21:44:30"
+  "updateTime": "2026/5/19 22:12:40"
 }

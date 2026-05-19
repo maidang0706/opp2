@@ -1755,23 +1755,57 @@
       "done": false,
       "onlyDone": [],
       "id": "1779200472895-pwwgfb"
+    },
+    {
+      "text": "中基要插针",
+      "date": "2026-05-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779200541251-lf54wa"
+    },
+    {
+      "text": "中基丢栅尺",
+      "date": "2026-05-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779200557214-pnekzx"
     }
   ],
   "workList": [
+    {
+      "text": "实时同步，不用点击同步功能",
+      "done": false
+    },
+    {
+      "text": "优先级高的排在上面",
+      "done": false
+    },
     {
       "text": "改进代办表： 1.优先级高排在上面 2.重复的代办就单一任务可以修改完成和未完成 3.周重复功能点击不了完成 4.右边加入一列本周代办",
       "done": false
     },
     {
       "text": "商机改进方案：1.商机名称后面加入备注项，可以写项目情况或者丢单原因",
-      "done": false
-    },
-    {
-      "text": "选型变动记录如何记录",
-      "done": false
-    },
-    {
-      "text": "汇艺要求发货驱动器接线方式放里面",
       "done": false
     }
   ],
@@ -1805,5 +1839,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/19 22:21:18"
+  "updateTime": "2026/5/19 22:25:16"
 }

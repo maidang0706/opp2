@@ -1721,6 +1721,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779182640870-wsjji4"
+    },
+    {
+      "text": "科瑞思音圈",
+      "date": "2026-05-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779190192696-32juho"
     }
   ],
   "workList": [
@@ -1771,5 +1788,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/19 17:24:02"
+  "updateTime": "2026/5/19 19:29:53"
 }

@@ -1452,11 +1452,11 @@
     },
     {
       "text": "名哥小舅子",
-      "date": "2026-05-20",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-05-21",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1806,6 +1806,74 @@
       "done": false,
       "onlyDone": [],
       "id": "1779200924160-sz96nx"
+    },
+    {
+      "text": "新华鹏",
+      "date": "2026-05-20",
+      "time": "10:00",
+      "isAllDay": false,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779202189747-qd1nv8"
+    },
+    {
+      "text": "天一",
+      "date": "2026-05-20",
+      "time": "14:00",
+      "isAllDay": false,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779202214655-lkhivx"
+    },
+    {
+      "text": "汇艺",
+      "date": "2026-05-20",
+      "time": "16:00",
+      "isAllDay": false,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779202227064-13j1t6"
+    },
+    {
+      "text": "公积金基数",
+      "date": "2026-05-21",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779202264805-p8hq06"
     }
   ],
   "workList": [
@@ -1856,5 +1924,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/19 22:32:41"
+  "updateTime": "2026/5/19 22:51:20"
 }

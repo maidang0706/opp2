@@ -1452,7 +1452,7 @@
     },
     {
       "text": "名哥小舅子",
-      "date": "2026-05-18",
+      "date": "2026-05-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1677,7 +1677,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1694,7 +1694,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1711,7 +1711,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1789,6 +1789,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779200557214-pnekzx"
+    },
+    {
+      "text": "彭晶线缆型号",
+      "date": "2026-05-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779200924160-sz96nx"
     }
   ],
   "workList": [
@@ -1839,5 +1856,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/19 22:25:16"
+  "updateTime": "2026/5/19 22:32:41"
 }

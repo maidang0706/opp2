@@ -1299,9 +1299,9 @@
     },
     {
       "text": "艾文报价",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-05-21",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -1401,7 +1401,7 @@
     },
     {
       "text": "叁迪出货",
-      "date": "2026-05-19",
+      "date": "2026-05-26",
       "time": "15:00",
       "isAllDay": false,
       "isVisit": false,
@@ -1435,9 +1435,9 @@
     },
     {
       "text": "中欣选型，给图纸，和报价",
-      "date": "2026-05-18",
-      "time": "09:00",
-      "isAllDay": false,
+      "date": "2026-05-21",
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -1558,7 +1558,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1568,23 +1568,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1779121152209-u9reu2"
-    },
-    {
-      "text": "黄宇泽锂电表格整理",
-      "date": "2026-05-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779121615149-gadji7"
     },
     {
       "text": "丹宁发的欠款客户",
@@ -1656,7 +1639,7 @@
     },
     {
       "text": "精朗替换横川",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1741,7 +1724,7 @@
     },
     {
       "text": "中基降价",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1757,29 +1740,12 @@
       "id": "1779253581684-v6sbcy"
     },
     {
-      "text": "卓誉账期沟通",
-      "date": "2026-05-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779269603039-uhl7yb"
-    },
-    {
       "text": "中欣欧阳拼接模组",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1826,9 +1792,9 @@
     },
     {
       "text": "誉辰刹车电阻",
-      "date": "2026-05-20",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-05-21",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1890,5 +1856,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/20 22:32:29"
+  "updateTime": "2026/5/20 22:34:32"
 }

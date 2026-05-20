@@ -1684,7 +1684,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1779190192696-32juho"
     },
@@ -1701,7 +1701,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1779198346150-3ouqcq"
     },
@@ -1718,7 +1718,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1779199431472-df1gsj"
     },
@@ -1755,23 +1755,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1779200472895-pwwgfb"
-    },
-    {
-      "text": "中基要插针",
-      "date": "2026-05-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779200541251-lf54wa"
     },
     {
       "text": "中基丢栅尺",
@@ -1820,7 +1803,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1779202189747-qd1nv8"
     },
@@ -1837,7 +1820,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1779202214655-lkhivx"
     },
@@ -1854,7 +1837,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1779202227064-13j1t6"
     },
@@ -1874,6 +1857,40 @@
       "done": false,
       "onlyDone": [],
       "id": "1779202264805-p8hq06"
+    },
+    {
+      "text": "中基采购报价",
+      "date": "2026-05-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779253576629-6zv8nk"
+    },
+    {
+      "text": "中基降价",
+      "date": "2026-05-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779253581684-v6sbcy"
     }
   ],
   "workList": [
@@ -1924,5 +1941,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/19 22:51:20"
+  "updateTime": "2026/5/20 16:05:59"
 }

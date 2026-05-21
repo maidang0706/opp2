@@ -1434,23 +1434,6 @@
       "id": "1778913753537-4qd3if"
     },
     {
-      "text": "中欣选型，给图纸，和报价",
-      "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778915535938-gblb4w"
-    },
-    {
       "text": "名哥小舅子",
       "date": "2026-05-22",
       "time": "09:00",
@@ -1521,10 +1504,10 @@
     {
       "text": "中欣货款沟通",
       "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
+      "time": "14:00",
+      "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1691,8 +1674,8 @@
     {
       "text": "中基降价",
       "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
+      "time": "14:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1725,8 +1708,8 @@
     {
       "text": "精朗孙岩松选型",
       "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
+      "time": "14:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1738,23 +1721,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1779338674806-zokoin"
-    },
-    {
-      "text": "中欣李工图纸",
-      "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779338681205-lmeyqh"
     }
   ],
   "workList": [
@@ -1805,5 +1771,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/21 12:46:08"
+  "updateTime": "2026/5/21 13:20:18"
 }

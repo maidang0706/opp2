@@ -1602,6 +1602,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779422486497-oepzpd"
+    },
+    {
+      "text": "中基少驱动器，线缆不对问题",
+      "date": "2026-05-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779433602644-h8sfis"
     }
   ],
   "workList": [
@@ -1652,5 +1669,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/22 12:01:45"
+  "updateTime": "2026/5/22 15:06:43"
 }

@@ -1485,23 +1485,6 @@
       "id": "1779121133085-ap1uki"
     },
     {
-      "text": "交报销",
-      "date": "2026-05-22",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779121152209-u9reu2"
-    },
-    {
       "text": "邹工接油槽",
       "date": "2026-05-19",
       "time": "",
@@ -1587,8 +1570,8 @@
       "id": "1779200472895-pwwgfb"
     },
     {
-      "text": "中基丢栅尺",
-      "date": "2026-05-20",
+      "text": "把4月份销售数据补到大表里面",
+      "date": "2026-05-23",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1601,28 +1584,11 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1779200557214-pnekzx"
+      "id": "1779420235281-o7r4m6"
     },
     {
-      "text": "公积金基数",
+      "text": "卓誉刹车电阻",
       "date": "2026-05-22",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779202264805-p8hq06"
-    },
-    {
-      "text": "中基降价",
-      "date": "2026-05-21",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1635,41 +1601,7 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1779253581684-v6sbcy"
-    },
-    {
-      "text": "誉辰刹车电阻",
-      "date": "2026-05-21",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779269700696-0g2ygx"
-    },
-    {
-      "text": "精朗孙岩松选型",
-      "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779338674806-zokoin"
+      "id": "1779422486497-oepzpd"
     }
   ],
   "workList": [
@@ -1720,5 +1652,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/22 08:50:30"
+  "updateTime": "2026/5/22 12:01:45"
 }

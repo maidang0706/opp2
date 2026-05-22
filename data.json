@@ -1451,23 +1451,6 @@
       "id": "1778983766638-s2mcnw"
     },
     {
-      "text": "精朗定子补单",
-      "date": "2026-05-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778998290785-t3nwun"
-    },
-    {
       "text": "XRAY的分类",
       "date": "2026-05-23",
       "time": "",
@@ -1502,23 +1485,6 @@
       "id": "1779121133085-ap1uki"
     },
     {
-      "text": "中欣货款沟通",
-      "date": "2026-05-21",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779121141399-3tl5t1"
-    },
-    {
       "text": "交报销",
       "date": "2026-05-22",
       "time": "09:00",
@@ -1534,23 +1500,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1779121152209-u9reu2"
-    },
-    {
-      "text": "线索crm答复",
-      "date": "2026-05-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779172250591-beufs2"
     },
     {
       "text": "邹工接油槽",
@@ -1674,8 +1623,8 @@
     {
       "text": "中基降价",
       "date": "2026-05-21",
-      "time": "14:00",
-      "isAllDay": false,
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1708,8 +1657,8 @@
     {
       "text": "精朗孙岩松选型",
       "date": "2026-05-21",
-      "time": "14:00",
-      "isAllDay": false,
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1771,5 +1720,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/21 13:20:18"
+  "updateTime": "2026/5/22 08:50:30"
 }

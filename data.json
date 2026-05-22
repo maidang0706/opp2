@@ -1619,6 +1619,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779433602644-h8sfis"
+    },
+    {
+      "text": "代办软件实时同步修改",
+      "date": "2026-05-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779433619445-1fzbye"
     }
   ],
   "workList": [
@@ -1669,5 +1686,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/22 15:06:43"
+  "updateTime": "2026/5/22 15:07:00"
 }

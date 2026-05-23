@@ -1602,6 +1602,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779557290849-uds1kq"
+    },
+    {
+      "text": "商机html文件修改：\n1.本月预测清零，下月预测清零，把下月预测数据导入本月预测\n2.商机指标合计算法不对\n3.丢失的商机颜色是否能标记",
+      "date": "2026-05-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779560937085-64mzyz"
     }
   ],
   "workList": [
@@ -1652,5 +1669,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 02:27:36"
+  "updateTime": "2026/5/24 02:28:57"
 }

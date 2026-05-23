@@ -1585,6 +1585,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779554363262-4n18wx"
+    },
+    {
+      "text": "找山伯哥",
+      "date": "2026-05-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779557290849-uds1kq"
     }
   ],
   "workList": [
@@ -1635,5 +1652,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 01:27:49"
+  "updateTime": "2026/5/24 01:28:11"
 }

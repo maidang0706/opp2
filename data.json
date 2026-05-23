@@ -1602,6 +1602,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779516698336-j4qphw"
+    },
+    {
+      "text": "aaa",
+      "date": "2026-05-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779550117700-ngsq4l"
     }
   ],
   "workList": [
@@ -1652,5 +1669,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/23 23:28:27"
+  "updateTime": "2026/5/23 23:28:38"
 }

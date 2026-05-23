@@ -1298,23 +1298,6 @@
       "id": "1778911387573-nr2g71"
     },
     {
-      "text": "艾文报价",
-      "date": "2026-05-21",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1778911399195-flpvkm"
-    },
-    {
       "text": "誉昊款",
       "date": "2026-05-19",
       "time": "16:00",
@@ -1686,5 +1669,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 00:38:44"
+  "updateTime": "2026/5/24 00:38:52"
 }

@@ -1789,6 +1789,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779562664818-7c4grb"
+    },
+    {
+      "text": "汇艺寄回读头",
+      "date": "2026-05-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779562769573-khkca9"
     }
   ],
   "workList": [
@@ -1839,5 +1856,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 02:57:45"
+  "updateTime": "2026/5/24 02:59:30"
 }

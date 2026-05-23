@@ -1434,23 +1434,6 @@
       "id": "1778913753537-4qd3if"
     },
     {
-      "text": "名哥小舅子",
-      "date": "2026-05-22",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778983766638-s2mcnw"
-    },
-    {
       "text": "XRAY的分类",
       "date": "2026-05-23",
       "time": "",
@@ -1587,40 +1570,6 @@
       "id": "1779420235281-o7r4m6"
     },
     {
-      "text": "卓誉刹车电阻",
-      "date": "2026-05-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779422486497-oepzpd"
-    },
-    {
-      "text": "中基少驱动器，线缆不对问题",
-      "date": "2026-05-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779433602644-h8sfis"
-    },
-    {
       "text": "代办软件实时同步修改",
       "date": "2026-05-23",
       "time": "",
@@ -1638,10 +1587,10 @@
       "id": "1779433619445-1fzbye"
     },
     {
-      "text": "中欣杨志强图纸",
-      "date": "2026-05-22",
-      "time": "",
-      "isAllDay": true,
+      "text": "中欣李工图纸",
+      "date": "2026-05-25",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1652,7 +1601,7 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1779434493519-3n8zbb"
+      "id": "1779516698336-j4qphw"
     }
   ],
   "workList": [
@@ -1703,5 +1652,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/22 15:21:36"
+  "updateTime": "2026/5/23 14:11:46"
 }

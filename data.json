@@ -1570,23 +1570,6 @@
       "id": "1779420235281-o7r4m6"
     },
     {
-      "text": "代办软件实时同步修改",
-      "date": "2026-05-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779433619445-1fzbye"
-    },
-    {
       "text": "中欣李工图纸",
       "date": "2026-05-25",
       "time": "09:00",
@@ -1669,5 +1652,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/23 23:51:56"
+  "updateTime": "2026/5/23 23:52:44"
 }

@@ -1606,8 +1606,8 @@
     {
       "text": "kkk",
       "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1669,5 +1669,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 00:12:04"
+  "updateTime": "2026/5/24 00:12:13"
 }

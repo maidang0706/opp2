@@ -1755,6 +1755,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779562559941-58ie1h"
+    },
+    {
+      "text": "整理中欣选型",
+      "date": "2026-05-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779562600480-gq3wuj"
     }
   ],
   "workList": [
@@ -1805,5 +1822,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 02:56:00"
+  "updateTime": "2026/5/24 02:56:41"
 }

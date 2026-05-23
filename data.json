@@ -1687,6 +1687,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779562402100-aduttt"
+    },
+    {
+      "text": "瑞声劳总项目",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779562447722-ktchou"
     }
   ],
   "workList": [
@@ -1737,5 +1754,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 02:53:22"
+  "updateTime": "2026/5/24 02:54:08"
 }

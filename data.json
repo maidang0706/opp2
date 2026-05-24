@@ -329,23 +329,6 @@
       "onlyDone": []
     },
     {
-      "id": "1773732932071-fmw01a",
-      "text": "中基换PN总线驱动器",
-      "date": "2026-03-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": []
-    },
-    {
       "id": "1773902480317-aw5flf",
       "text": "精朗给图纸",
       "date": "2026-03-19",
@@ -1674,5 +1657,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:58:30"
+  "updateTime": "2026/5/25 00:58:37"
 }

@@ -1772,6 +1772,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779614293811-dva2u3"
+    },
+    {
+      "text": "精朗读头问题",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779627265310-jg55hn"
     }
   ],
   "workList": [
@@ -1822,5 +1839,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 20:54:19"
+  "updateTime": "2026/5/24 20:54:26"
 }

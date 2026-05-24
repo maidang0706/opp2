@@ -1604,23 +1604,6 @@
       "id": "1779557290849-uds1kq"
     },
     {
-      "text": "商机html文件修改：\n1.本月预测清零，下月预测清零，把下月预测数据导入本月预测\n2.商机指标合计算法不对\n3.丢失的商机颜色是否能标记",
-      "date": "2026-05-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779560937085-64mzyz"
-    },
-    {
       "text": "襄阳中基服务",
       "date": "2026-05-24",
       "time": "",
@@ -1856,5 +1839,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 12:36:07"
+  "updateTime": "2026/5/24 13:57:27"
 }

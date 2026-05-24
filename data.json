@@ -1789,6 +1789,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779562780303-5zjtsd"
+    },
+    {
+      "text": "整理商机预测数据",
+      "date": "2026-05-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779602262637-2ahil5"
     }
   ],
   "workList": [
@@ -1839,5 +1856,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 13:57:27"
+  "updateTime": "2026/5/24 13:57:43"
 }

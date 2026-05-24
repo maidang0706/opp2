@@ -1400,23 +1400,6 @@
       "id": "1779072103617-8ho5c2"
     },
     {
-      "text": "中基对账单",
-      "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779121133085-ap1uki"
-    },
-    {
       "text": "邹工L4080的8条加接油槽",
       "date": "2026-05-25",
       "time": "",
@@ -1839,5 +1822,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 14:42:03"
+  "updateTime": "2026/5/24 14:42:20"
 }

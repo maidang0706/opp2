@@ -1622,11 +1622,11 @@
     },
     {
       "text": "精朗报价",
-      "date": "2026-05-24",
+      "date": "2026-05-25",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1839,5 +1839,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:19:15"
+  "updateTime": "2026/5/25 00:19:24"
 }

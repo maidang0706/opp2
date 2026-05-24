@@ -1638,6 +1638,25 @@
       "done": false,
       "onlyDone": [],
       "id": "1779641786391-44i0x1"
+    },
+    {
+      "text": "报燃气",
+      "date": "2026-05-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 2,
+        "days": [
+          28
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779641808179-r8j9ez"
     }
   ],
   "workList": [
@@ -1688,5 +1707,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:56:27"
+  "updateTime": "2026/5/25 00:56:48"
 }

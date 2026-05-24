@@ -1451,23 +1451,6 @@
       "id": "1779200472895-pwwgfb"
     },
     {
-      "text": "把4月份销售数据补到大表里面",
-      "date": "2026-05-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779420235281-o7r4m6"
-    },
-    {
       "text": "中欣李工图纸",
       "date": "2026-05-25",
       "time": "09:00",
@@ -1805,5 +1788,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 14:42:52"
+  "updateTime": "2026/5/24 14:42:57"
 }

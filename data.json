@@ -720,23 +720,6 @@
       "onlyDone": []
     },
     {
-      "id": "1775894337844-uuaf1u",
-      "text": "中欣读头寄回来",
-      "date": "2026-04-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": []
-    },
-    {
       "id": "1775894406428-csyzob",
       "text": "中基合同回传件",
       "date": "2026-04-13",
@@ -1737,5 +1720,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:46:10"
+  "updateTime": "2026/5/25 00:46:14"
 }

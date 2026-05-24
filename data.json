@@ -1451,23 +1451,6 @@
       "id": "1779180220672-bo2p79"
     },
     {
-      "text": "精朗替换横川",
-      "date": "2026-05-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779181959829-ff5b7k"
-    },
-    {
       "text": "问科瑞情况",
       "date": "2026-05-20",
       "time": "",
@@ -1856,5 +1839,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 14:40:49"
+  "updateTime": "2026/5/24 14:41:39"
 }

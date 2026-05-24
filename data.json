@@ -686,23 +686,6 @@
       "onlyDone": []
     },
     {
-      "id": "1775186239160-lfjaiu",
-      "text": "中欣寄刹车电阻",
-      "date": "2026-04-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": []
-    },
-    {
       "id": "1775188546059-x38u1o",
       "text": "精朗驱动器端子申请",
       "date": "2026-04-03",
@@ -1754,5 +1737,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:46:05"
+  "updateTime": "2026/5/25 00:46:10"
 }

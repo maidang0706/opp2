@@ -1789,6 +1789,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779602296402-xg5lpc"
+    },
+    {
+      "text": "中欣",
+      "date": "2026-05-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779602333546-pispot"
     }
   ],
   "workList": [
@@ -1839,5 +1856,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 13:58:41"
+  "updateTime": "2026/5/24 13:58:54"
 }

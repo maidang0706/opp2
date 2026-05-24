@@ -1299,16 +1299,16 @@
     },
     {
       "text": "誉昊款",
-      "date": "2026-05-19",
+      "date": "2026-05-25",
       "time": "16:00",
       "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
-        "type": 0,
+        "type": 3,
         "days": [],
-        "start": "",
-        "end": ""
+        "start": "2026-05-24",
+        "end": "2026-05-29"
       },
       "done": false,
       "onlyDone": [],
@@ -1856,5 +1856,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 14:40:06"
+  "updateTime": "2026/5/24 14:40:35"
 }

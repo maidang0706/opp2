@@ -1298,12 +1298,12 @@
       "id": "1778911387573-nr2g71"
     },
     {
-      "text": "誉昊款",
+      "text": "收款",
       "date": "2026-05-25",
       "time": "16:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 3,
         "days": [],
@@ -1856,5 +1856,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 14:40:35"
+  "updateTime": "2026/5/24 14:40:49"
 }

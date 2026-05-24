@@ -176,23 +176,6 @@
       "onlyDone": []
     },
     {
-      "id": "1773320971059-c31u7j",
-      "text": "中欣更换10A驱动器",
-      "date": "2026-03-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": []
-    },
-    {
       "id": "1773321442994-5adhjn",
       "text": "刘钊哲音圈",
       "date": "2026-03-13",
@@ -1839,5 +1822,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:45:06"
+  "updateTime": "2026/5/25 00:45:48"
 }

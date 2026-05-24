@@ -805,23 +805,6 @@
       "onlyDone": []
     },
     {
-      "id": "1776052798080-gy4l34",
-      "text": "中欣要的挡光片和安装座",
-      "date": "2026-04-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": []
-    },
-    {
       "id": "1776223342432-nogjx8",
       "text": "精朗罗洋图纸",
       "date": "2026-04-15",
@@ -922,23 +905,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1776299678022-toogii"
-    },
-    {
-      "text": "中欣报价",
-      "date": "2026-04-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1776299702181-7xts61"
     },
     {
       "text": "汇艺换线缆",
@@ -1485,23 +1451,6 @@
       "id": "1779562559941-58ie1h"
     },
     {
-      "text": "整理中欣选型",
-      "date": "2026-05-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1779562600480-gq3wuj"
-    },
-    {
       "text": "精朗报价",
       "date": "2026-05-25",
       "time": "",
@@ -1720,5 +1669,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:46:14"
+  "updateTime": "2026/5/25 00:46:32"
 }

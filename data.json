@@ -295,23 +295,6 @@
       "onlyDone": []
     },
     {
-      "id": "1773631256535-axif5m",
-      "text": "中基0124换0064驱动器",
-      "date": "2026-03-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": []
-    },
-    {
       "id": "1773631667055-ktbtss",
       "text": "精智达退货",
       "date": "2026-03-16",
@@ -1687,13 +1670,9 @@
       "done": false
     },
     {
-      "text": "洗车",
-      "done": false
-    },
-    {
       "text": "改电信套餐",
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:58:02"
+  "updateTime": "2026/5/25 00:58:30"
 }

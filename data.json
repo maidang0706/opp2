@@ -1332,23 +1332,6 @@
       "id": "1778911450368-8imfz7"
     },
     {
-      "text": "楚能武汉8+8",
-      "date": "2026-05-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778911491798-aez151"
-    },
-    {
       "text": "叁迪出货",
       "date": "2026-05-26",
       "time": "15:00",
@@ -1822,5 +1805,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/24 14:42:20"
+  "updateTime": "2026/5/24 14:42:52"
 }

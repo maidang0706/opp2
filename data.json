@@ -397,23 +397,6 @@
       "onlyDone": []
     },
     {
-      "id": "1774066704596-gs1v5l",
-      "text": "文通和中欣交货",
-      "date": "2026-03-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": []
-    },
-    {
       "id": "1774099313298-qplcve",
       "text": "做一个公众号的软件",
       "date": "2026-03-22",
@@ -1805,5 +1788,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:45:56"
+  "updateTime": "2026/5/25 00:46:00"
 }

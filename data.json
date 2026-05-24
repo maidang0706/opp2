@@ -1619,6 +1619,25 @@
       "done": false,
       "onlyDone": [],
       "id": "1779627265310-jg55hn"
+    },
+    {
+      "text": "油票",
+      "date": "2026-05-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 2,
+        "days": [
+          28
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779641786391-44i0x1"
     }
   ],
   "workList": [
@@ -1669,5 +1688,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 00:56:14"
+  "updateTime": "2026/5/25 00:56:27"
 }

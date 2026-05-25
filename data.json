@@ -1640,6 +1640,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779675007597-qtmksq"
+    },
+    {
+      "text": "联系下罗晓玲说欧盛的事情",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779675845207-wtadap"
     }
   ],
   "workList": [
@@ -1674,5 +1691,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 10:10:08"
+  "updateTime": "2026/5/25 10:24:06"
 }

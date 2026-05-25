@@ -1640,6 +1640,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779697739719-5qehyj"
+    },
+    {
+      "text": "中欣李工分段确认",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779699148680-jmp44h"
     }
   ],
   "workList": [
@@ -1674,5 +1691,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 16:52:23"
+  "updateTime": "2026/5/25 16:52:29"
 }

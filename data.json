@@ -1589,6 +1589,40 @@
       "done": false,
       "onlyDone": [],
       "id": "1779699896925-s7b4cx"
+    },
+    {
+      "text": "科瑞思报价",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779699909855-dl1q2z"
+    },
+    {
+      "text": "博杰报价",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779700165486-9pzuzg"
     }
   ],
   "workList": [
@@ -1623,5 +1657,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 17:04:57"
+  "updateTime": "2026/5/25 17:09:26"
 }

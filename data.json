@@ -1606,6 +1606,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779674054758-nhxnx4"
+    },
+    {
+      "text": "盛鑫催款",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779674573151-j4kzu5"
     }
   ],
   "workList": [
@@ -1640,5 +1657,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 09:54:15"
+  "updateTime": "2026/5/25 10:02:53"
 }

@@ -1623,6 +1623,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779674573151-j4kzu5"
+    },
+    {
+      "text": "和晁总过客户",
+      "date": "2026-05-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779675007597-qtmksq"
     }
   ],
   "workList": [
@@ -1657,5 +1674,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 10:02:53"
+  "updateTime": "2026/5/25 10:10:08"
 }

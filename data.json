@@ -1623,6 +1623,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779697193366-qhs49a"
+    },
+    {
+      "text": "找中基侯总",
+      "date": "2026-05-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779697739719-5qehyj"
     }
   ],
   "workList": [
@@ -1657,5 +1674,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 16:28:57"
+  "updateTime": "2026/5/25 16:29:00"
 }

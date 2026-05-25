@@ -1589,6 +1589,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779675845207-wtadap"
+    },
+    {
+      "text": "邝春兰报价单",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779697184356-ibwg4t"
     }
   ],
   "workList": [
@@ -1623,5 +1640,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 16:19:40"
+  "updateTime": "2026/5/25 16:19:45"
 }

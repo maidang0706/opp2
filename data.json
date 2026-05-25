@@ -1298,23 +1298,6 @@
       "id": "1779557290849-uds1kq"
     },
     {
-      "text": "蜀丰交期",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779562402100-aduttt"
-    },
-    {
       "text": "瑞声劳总项目",
       "date": "2026-05-25",
       "time": "",
@@ -1674,5 +1657,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 16:53:17"
+  "updateTime": "2026/5/25 16:58:58"
 }

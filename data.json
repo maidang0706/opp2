@@ -1264,23 +1264,6 @@
       "id": "1779200472895-pwwgfb"
     },
     {
-      "text": "中欣李工图纸",
-      "date": "2026-05-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779516698336-j4qphw"
-    },
-    {
       "text": "中欣，汇艺调查表",
       "date": "2026-05-25",
       "time": "09:00",
@@ -1640,5 +1623,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 09:24:04"
+  "updateTime": "2026/5/25 09:24:11"
 }

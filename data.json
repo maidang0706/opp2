@@ -1640,6 +1640,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779701982945-dcarql"
+    },
+    {
+      "text": "神界狂舞。",
+      "date": "2026-05-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779732288443-velzhv"
     }
   ],
   "workList": [
@@ -1674,5 +1691,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 02:04:41"
+  "updateTime": "2026/5/26 02:04:49"
 }

@@ -1572,6 +1572,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779699148680-jmp44h"
+    },
+    {
+      "text": "博滔计算",
+      "date": "2026-05-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779699896925-s7b4cx"
     }
   ],
   "workList": [
@@ -1606,5 +1623,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 16:59:49"
+  "updateTime": "2026/5/25 17:04:57"
 }

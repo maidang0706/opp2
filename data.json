@@ -1523,23 +1523,6 @@
       "id": "1779675007597-qtmksq"
     },
     {
-      "text": "联系下罗晓玲说欧盛的事情",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779675845207-wtadap"
-    },
-    {
       "text": "誉辰廖工要的pdf",
       "date": "2026-05-25",
       "time": "",
@@ -1623,5 +1606,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 16:59:34"
+  "updateTime": "2026/5/25 16:59:49"
 }

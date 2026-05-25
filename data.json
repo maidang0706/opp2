@@ -1298,23 +1298,6 @@
       "id": "1779557290849-uds1kq"
     },
     {
-      "text": "襄阳中基服务",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779562305621-bz21kl"
-    },
-    {
       "text": "文通新订单",
       "date": "2026-05-25",
       "time": "",
@@ -1623,5 +1606,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 09:24:11"
+  "updateTime": "2026/5/25 09:24:41"
 }

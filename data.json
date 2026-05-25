@@ -1519,23 +1519,6 @@
       "id": "1779602333546-pispot"
     },
     {
-      "text": "要本月销售数据",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779605057013-265yrh"
-    },
-    {
       "text": "中基L660的编码器线错误",
       "date": "2026-05-25",
       "time": "",
@@ -1657,5 +1640,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 08:30:14"
+  "updateTime": "2026/5/25 08:32:12"
 }

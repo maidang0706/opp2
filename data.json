@@ -1366,23 +1366,6 @@
       "id": "1779562559941-58ie1h"
     },
     {
-      "text": "精朗报价",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779562664818-7c4grb"
-    },
-    {
       "text": "汇艺寄回读头",
       "date": "2026-05-24",
       "time": "",
@@ -1674,5 +1657,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/25 13:07:15"
+  "updateTime": "2026/5/25 13:07:21"
 }

@@ -1591,23 +1591,6 @@
       "id": "1779700165486-9pzuzg"
     },
     {
-      "text": "卓誉备注",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779701982945-dcarql"
-    },
-    {
       "text": "神界狂舞。",
       "date": "2026-05-26",
       "time": "",
@@ -1657,5 +1640,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 11:28:48"
+  "updateTime": "2026/5/26 11:28:54"
 }

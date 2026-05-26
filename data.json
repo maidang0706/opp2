@@ -1455,23 +1455,6 @@
       "id": "1779641808179-r8j9ez"
     },
     {
-      "text": "骏龙联系方式",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779674054758-nhxnx4"
-    },
-    {
       "text": "盛鑫催款",
       "date": "2026-05-25",
       "time": "",
@@ -1657,5 +1640,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 16:11:19"
+  "updateTime": "2026/5/26 16:13:17"
 }

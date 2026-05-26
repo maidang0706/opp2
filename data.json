@@ -1489,23 +1489,6 @@
       "id": "1779675007597-qtmksq"
     },
     {
-      "text": "誉辰廖工要的pdf",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779697193366-qhs49a"
-    },
-    {
       "text": "找中基侯总",
       "date": "2026-05-27",
       "time": "",
@@ -1657,5 +1640,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 17:09:34"
+  "updateTime": "2026/5/26 17:09:38"
 }

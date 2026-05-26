@@ -1640,6 +1640,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779786088749-q4f4co"
+    },
+    {
+      "text": "宏唯选型",
+      "date": "2026-05-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779786222101-x2ctjb"
     }
   ],
   "workList": [
@@ -1674,5 +1691,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 17:03:35"
+  "updateTime": "2026/5/26 17:03:42"
 }

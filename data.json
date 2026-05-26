@@ -1606,6 +1606,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779783465944-8zx6wr"
+    },
+    {
+      "text": "刘博伟报价",
+      "date": "2026-05-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779783635216-qphi51"
     }
   ],
   "workList": [
@@ -1640,5 +1657,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 16:17:46"
+  "updateTime": "2026/5/26 16:20:36"
 }

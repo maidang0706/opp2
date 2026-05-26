@@ -1417,23 +1417,6 @@
       "id": "1779602296402-xg5lpc"
     },
     {
-      "text": "精朗读头问题",
-      "date": "2026-05-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779627265310-jg55hn"
-    },
-    {
       "text": "油票",
       "date": "2026-05-28",
       "time": "",
@@ -1691,5 +1674,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 11:28:14"
+  "updateTime": "2026/5/26 11:28:17"
 }

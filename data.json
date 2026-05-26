@@ -1606,6 +1606,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779732288443-velzhv"
+    },
+    {
+      "text": "邝春兰报价",
+      "date": "2026-05-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779766141992-5j3fin"
     }
   ],
   "workList": [
@@ -1640,5 +1657,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 11:28:54"
+  "updateTime": "2026/5/26 11:29:02"
 }

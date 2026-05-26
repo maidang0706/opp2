@@ -1264,23 +1264,6 @@
       "id": "1779200472895-pwwgfb"
     },
     {
-      "text": "中欣，汇艺调查表",
-      "date": "2026-05-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779554363262-4n18wx"
-    },
-    {
       "text": "山伯哥",
       "date": "2026-05-25",
       "time": "",
@@ -1640,5 +1623,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 22:49:22"
+  "updateTime": "2026/5/26 22:49:28"
 }

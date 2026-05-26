@@ -1557,23 +1557,6 @@
       "id": "1779732288443-velzhv"
     },
     {
-      "text": "邝春兰报价",
-      "date": "2026-05-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779766141992-5j3fin"
-    },
-    {
       "text": "中基霍尔线缆问题",
       "date": "2026-05-26",
       "time": "",
@@ -1691,5 +1674,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 17:08:24"
+  "updateTime": "2026/5/26 17:09:20"
 }

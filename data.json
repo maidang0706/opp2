@@ -1623,6 +1623,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779766141992-5j3fin"
+    },
+    {
+      "text": "中基线缆型号",
+      "date": "2026-05-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779766153712-mhrnpn"
     }
   ],
   "workList": [
@@ -1657,5 +1674,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 11:29:02"
+  "updateTime": "2026/5/26 11:29:14"
 }

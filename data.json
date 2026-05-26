@@ -1623,6 +1623,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779783635216-qphi51"
+    },
+    {
+      "text": "宏维选型",
+      "date": "2026-05-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779786088749-q4f4co"
     }
   ],
   "workList": [
@@ -1657,5 +1674,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 17:01:21"
+  "updateTime": "2026/5/26 17:01:29"
 }

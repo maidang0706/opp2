@@ -1163,9 +1163,9 @@
     },
     {
       "text": "精朗出货",
-      "date": "2026-05-26",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-05-27",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -1691,5 +1691,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/26 17:08:08"
+  "updateTime": "2026/5/26 17:08:16"
 }

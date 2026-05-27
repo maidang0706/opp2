@@ -1540,23 +1540,6 @@
       "id": "1779783465944-8zx6wr"
     },
     {
-      "text": "宏维选型",
-      "date": "2026-05-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779786088749-q4f4co"
-    },
-    {
       "text": "科瑞思PDF",
       "date": "2026-05-27",
       "time": "",
@@ -1606,5 +1589,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/27 11:34:38"
+  "updateTime": "2026/5/27 11:35:12"
 }

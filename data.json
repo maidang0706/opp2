@@ -1555,23 +1555,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1779786088749-q4f4co"
-    },
-    {
-      "text": "博韬刹车电阻",
-      "date": "2026-05-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779807068290-x8s8lf"
     }
   ],
   "workList": [
@@ -1606,5 +1589,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/27 11:21:28"
+  "updateTime": "2026/5/27 11:31:14"
 }

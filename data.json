@@ -1523,8 +1523,8 @@
       "id": "1779783465944-8zx6wr"
     },
     {
-      "text": "科瑞思PDF",
-      "date": "2026-05-27",
+      "text": "科瑞思备注",
+      "date": "2026-05-28",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1535,9 +1535,9 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
-      "id": "1779852806918-ec2w6i"
+      "id": "1779887677170-ej7zif"
     }
   ],
   "workList": [
@@ -1572,5 +1572,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/27 21:14:25"
+  "updateTime": "2026/5/27 21:14:37"
 }

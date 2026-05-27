@@ -1112,16 +1112,16 @@
     },
     {
       "text": "收款",
-      "date": "2026-05-25",
+      "date": "2026-05-28",
       "time": "16:00",
       "isAllDay": false,
       "isVisit": false,
       "priority": "high",
       "repeat": {
-        "type": 3,
+        "type": 0,
         "days": [],
-        "start": "2026-05-25",
-        "end": "2026-05-29"
+        "start": "",
+        "end": ""
       },
       "done": false,
       "onlyDone": [],
@@ -1589,5 +1589,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/27 21:17:06"
+  "updateTime": "2026/5/27 21:17:16"
 }

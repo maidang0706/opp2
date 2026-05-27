@@ -1555,6 +1555,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779786088749-q4f4co"
+    },
+    {
+      "text": "科瑞思PDF",
+      "date": "2026-05-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779852806918-ec2w6i"
     }
   ],
   "workList": [
@@ -1589,5 +1606,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/27 11:31:14"
+  "updateTime": "2026/5/27 11:33:27"
 }

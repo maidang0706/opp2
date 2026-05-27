@@ -1162,23 +1162,6 @@
       "id": "1778913748070-uwee4d"
     },
     {
-      "text": "精朗出货",
-      "date": "2026-05-27",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1778913753537-4qd3if"
-    },
-    {
       "text": "XRAY的分类",
       "date": "2026-05-23",
       "time": "",
@@ -1589,5 +1572,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/27 21:14:09"
+  "updateTime": "2026/5/27 21:14:25"
 }

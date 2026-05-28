@@ -1557,6 +1557,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779975996109-49lnnv"
+    },
+    {
+      "text": "信用",
+      "date": "2026-05-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779980117960-zuic86"
     }
   ],
   "workList": [
@@ -1591,5 +1608,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 22:55:13"
+  "updateTime": "2026/5/28 22:55:18"
 }

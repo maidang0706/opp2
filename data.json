@@ -1538,6 +1538,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779975782193-bos27t"
+    },
+    {
+      "text": "中基返工线缆",
+      "date": "2026-05-29",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779975825109-7xzbgd"
     }
   ],
   "workList": [
@@ -1572,5 +1589,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 21:43:03"
+  "updateTime": "2026/5/28 21:43:45"
 }

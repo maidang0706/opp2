@@ -1247,23 +1247,6 @@
       "id": "1779200472895-pwwgfb"
     },
     {
-      "text": "山伯哥",
-      "date": "2026-05-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779557290849-uds1kq"
-    },
-    {
       "text": "准备中基订单备注",
       "date": "2026-05-24",
       "time": "",
@@ -1589,5 +1572,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 21:44:05"
+  "updateTime": "2026/5/28 21:44:09"
 }

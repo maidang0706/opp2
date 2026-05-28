@@ -1111,23 +1111,6 @@
       "id": "1778911387573-nr2g71"
     },
     {
-      "text": "收款",
-      "date": "2026-05-28",
-      "time": "16:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1778911415243-jzflh0"
-    },
-    {
       "text": "手机和电脑方便记录方案的方法",
       "date": "2026-05-23",
       "time": "",
@@ -1333,7 +1316,7 @@
     },
     {
       "text": "中基对账单",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1589,5 +1572,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 21:44:33"
+  "updateTime": "2026/5/28 21:44:44"
 }

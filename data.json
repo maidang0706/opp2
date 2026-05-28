@@ -1180,11 +1180,11 @@
     },
     {
       "text": "邹工L4080的8条加接油槽",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "high",
+      "priority": "low",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1589,5 +1589,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 21:43:45"
+  "updateTime": "2026/5/28 21:44:05"
 }

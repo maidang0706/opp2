@@ -1506,23 +1506,6 @@
       "id": "1779766248734-ahpli0"
     },
     {
-      "text": "科瑞思备注",
-      "date": "2026-05-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779887677170-ej7zif"
-    },
-    {
       "text": "卓誉挡光片",
       "date": "2026-05-28",
       "time": "",
@@ -1572,5 +1555,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 13:56:39"
+  "updateTime": "2026/5/28 13:57:33"
 }

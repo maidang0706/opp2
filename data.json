@@ -1405,11 +1405,11 @@
     },
     {
       "text": "找中基侯总",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1572,5 +1572,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 21:44:44"
+  "updateTime": "2026/5/28 21:44:56"
 }

@@ -1504,23 +1504,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1779766248734-ahpli0"
-    },
-    {
-      "text": "卓誉挡光片",
-      "date": "2026-05-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779887750329-u65lfn"
     }
   ],
   "workList": [
@@ -1555,5 +1538,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 13:57:33"
+  "updateTime": "2026/5/28 13:57:38"
 }

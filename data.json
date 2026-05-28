@@ -1555,6 +1555,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1779887750329-u65lfn"
+    },
+    {
+      "text": "誉辰交期答复",
+      "date": "2026-05-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1779946785562-zwobve"
     }
   ],
   "workList": [
@@ -1589,5 +1606,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/28 03:51:12"
+  "updateTime": "2026/5/28 13:39:46"
 }

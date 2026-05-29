@@ -1557,6 +1557,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1779980117960-zuic86"
+    },
+    {
+      "text": "誉辰回复价格",
+      "date": "2026-05-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780079210534-qzzsug"
     }
   ],
   "workList": [
@@ -1591,5 +1608,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/30 02:26:40"
+  "updateTime": "2026/5/30 02:26:51"
 }

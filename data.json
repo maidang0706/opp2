@@ -1574,6 +1574,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780079210534-qzzsug"
+    },
+    {
+      "text": "超盈的线缆型号",
+      "date": "2026-05-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780079219090-eh2c7q"
     }
   ],
   "workList": [
@@ -1608,5 +1625,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/30 02:26:51"
+  "updateTime": "2026/5/30 02:26:59"
 }

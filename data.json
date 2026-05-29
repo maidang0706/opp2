@@ -1247,23 +1247,6 @@
       "id": "1779562499899-mn40rp"
     },
     {
-      "text": "吴馨",
-      "date": "2026-05-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779562559941-58ie1h"
-    },
-    {
       "text": "汇艺总共3个读头要寄回",
       "date": "2026-05-24",
       "time": "",
@@ -1608,5 +1591,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/29 10:51:45"
+  "updateTime": "2026/5/29 10:51:55"
 }

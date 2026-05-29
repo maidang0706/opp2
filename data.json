@@ -1591,6 +1591,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780079219090-eh2c7q"
+    },
+    {
+      "text": "中欣的3D",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780079232193-t1bo75"
     }
   ],
   "workList": [
@@ -1625,5 +1642,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/30 02:26:59"
+  "updateTime": "2026/5/30 02:27:12"
 }

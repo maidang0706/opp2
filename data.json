@@ -1162,23 +1162,6 @@
       "id": "1779072103617-8ho5c2"
     },
     {
-      "text": "邹工L4080的8条加接油槽",
-      "date": "2026-05-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1779175969287-wyuhls"
-    },
-    {
       "text": "union",
       "date": "2026-05-19",
       "time": "",
@@ -1695,5 +1678,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 15:59:55"
+  "updateTime": "2026/5/31 16:00:01"
 }

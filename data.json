@@ -1712,6 +1712,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780237609491-mrozm7"
+    },
+    {
+      "text": "约兰新华",
+      "date": "2026-06-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780238049647-6bdmdf"
     }
   ],
   "workList": [
@@ -1746,5 +1763,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 22:26:50"
+  "updateTime": "2026/5/31 22:34:10"
 }

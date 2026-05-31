@@ -1374,23 +1374,6 @@
       "id": "1779675007597-qtmksq"
     },
     {
-      "text": "找中基侯总",
-      "date": "2026-05-29",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1779697739719-5qehyj"
-    },
-    {
       "text": "博杰替换E170",
       "date": "2026-05-25",
       "time": "",
@@ -1661,5 +1644,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 16:00:10"
+  "updateTime": "2026/5/31 16:00:20"
 }

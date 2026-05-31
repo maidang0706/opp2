@@ -1425,23 +1425,6 @@
       "id": "1779975540845-lvgsji"
     },
     {
-      "text": "中基，中欣，誉昊，精朗回款",
-      "date": "2026-05-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779975872819-kvjccc"
-    },
-    {
       "text": "誉辰回复价格",
       "date": "2026-06-01",
       "time": "09:00",
@@ -1763,5 +1746,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 22:35:15"
+  "updateTime": "2026/5/31 22:35:25"
 }

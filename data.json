@@ -1525,6 +1525,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780214395043-8qm4la"
+    },
+    {
+      "text": "给小黄钱",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780230267499-hy196b"
     }
   ],
   "workList": [
@@ -1559,5 +1576,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 20:24:23"
+  "updateTime": "2026/5/31 20:24:28"
 }

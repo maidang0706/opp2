@@ -1476,23 +1476,6 @@
       "id": "1779975782193-bos27t"
     },
     {
-      "text": "中基返工线缆",
-      "date": "2026-05-29",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1779975825109-7xzbgd"
-    },
-    {
       "text": "中基，中欣，誉昊，精朗回款",
       "date": "2026-05-29",
       "time": "",
@@ -1678,5 +1661,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 16:00:01"
+  "updateTime": "2026/5/31 16:00:10"
 }

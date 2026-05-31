@@ -1576,6 +1576,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780236071492-rxwrpm"
+    },
+    {
+      "text": "炜嘉小樊要的音圈价格",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780236095326-b7y52p"
     }
   ],
   "workList": [
@@ -1610,5 +1627,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 22:01:12"
+  "updateTime": "2026/5/31 22:01:36"
 }

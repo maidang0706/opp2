@@ -1282,7 +1282,7 @@
     },
     {
       "text": "中基对账单",
-      "date": "2026-05-29",
+      "date": "2026-06-02",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1712,6 +1712,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780238049647-6bdmdf"
+    },
+    {
+      "text": "吴馨汇艺",
+      "date": "2026-06-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780239061090-155t2j"
     }
   ],
   "workList": [
@@ -1746,5 +1763,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 22:35:25"
+  "updateTime": "2026/5/31 22:51:01"
 }

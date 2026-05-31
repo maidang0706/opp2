@@ -1644,6 +1644,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780203329766-qzr2zt"
+    },
+    {
+      "text": "更新CRM",
+      "date": "2026-05-31",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780214395043-8qm4la"
     }
   ],
   "workList": [
@@ -1678,5 +1695,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 15:59:45"
+  "updateTime": "2026/5/31 15:59:55"
 }

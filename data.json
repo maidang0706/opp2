@@ -1357,23 +1357,6 @@
       "id": "1779674573151-j4kzu5"
     },
     {
-      "text": "和晁总过客户",
-      "date": "2026-05-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1779675007597-qtmksq"
-    },
-    {
       "text": "博杰替换E170",
       "date": "2026-05-25",
       "time": "",
@@ -1440,23 +1423,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1779975540845-lvgsji"
-    },
-    {
-      "text": "誉辰价格",
-      "date": "2026-05-29",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1779975782193-bos27t"
     },
     {
       "text": "中基，中欣，誉昊，精朗回款",
@@ -1644,5 +1610,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 16:00:20"
+  "updateTime": "2026/5/31 16:00:26"
 }

@@ -1498,7 +1498,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1661,5 +1661,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 22:03:40"
+  "updateTime": "2026/5/31 22:03:46"
 }

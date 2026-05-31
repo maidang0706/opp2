@@ -1443,9 +1443,9 @@
     },
     {
       "text": "誉辰回复价格",
-      "date": "2026-05-31",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-01",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1593,5 +1593,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 21:33:42"
+  "updateTime": "2026/5/31 21:33:49"
 }

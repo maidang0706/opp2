@@ -1627,6 +1627,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780236208812-37dti0"
+    },
+    {
+      "text": "宋思聪DDR",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780237408840-6gusfn"
     }
   ],
   "workList": [
@@ -1661,5 +1678,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 22:05:37"
+  "updateTime": "2026/5/31 22:23:29"
 }

@@ -1730,6 +1730,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780239061090-155t2j"
+    },
+    {
+      "text": "中基技术群发线缆型号",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780240363569-hvzon4"
     }
   ],
   "workList": [
@@ -1764,5 +1781,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 23:12:20"
+  "updateTime": "2026/5/31 23:12:44"
 }

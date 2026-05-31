@@ -1661,6 +1661,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780237486058-6fvbjr"
+    },
+    {
+      "text": "中基付款",
+      "date": "2026-06-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780237496970-4cxbem"
     }
   ],
   "workList": [
@@ -1695,5 +1712,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 22:24:46"
+  "updateTime": "2026/5/31 22:24:57"
 }

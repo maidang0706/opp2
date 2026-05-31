@@ -1542,6 +1542,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780230267499-hy196b"
+    },
+    {
+      "text": "行程HTML文件修改",
+      "date": "2026-05-31",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780234347123-lk7u0x"
     }
   ],
   "workList": [
@@ -1576,5 +1593,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/5/31 21:32:17"
+  "updateTime": "2026/5/31 21:32:27"
 }

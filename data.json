@@ -1730,6 +1730,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1780240363569-hvzon4"
+    },
+    {
+      "text": "找汉彬要栅尺",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780279569907-w49k0k"
     }
   ],
   "workList": [
@@ -1764,5 +1781,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 10:06:03"
+  "updateTime": "2026/6/1 10:06:10"
 }

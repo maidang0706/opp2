@@ -1815,6 +1815,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780313593750-2vczv2"
+    },
+    {
+      "text": "精朗要的安装座和钣金",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780314203965-t5tq2x"
     }
   ],
   "workList": [
@@ -1849,5 +1866,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 19:33:23"
+  "updateTime": "2026/6/1 19:43:24"
 }

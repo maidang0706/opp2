@@ -1732,23 +1732,6 @@
       "id": "1780240363569-hvzon4"
     },
     {
-      "text": "找汉彬要栅尺",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780279569907-w49k0k"
-    },
-    {
       "text": "小蔡不跑珠海客户",
       "date": "2026-06-01",
       "time": "",
@@ -1832,5 +1815,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 11:16:28"
+  "updateTime": "2026/6/1 11:16:41"
 }

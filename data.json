@@ -1767,7 +1767,7 @@
     },
     {
       "text": "中欣",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "time": "14:00",
       "isAllDay": false,
       "isVisit": true,
@@ -1849,5 +1849,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 19:33:14"
+  "updateTime": "2026/6/1 19:33:23"
 }

@@ -1747,6 +1747,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780279569907-w49k0k"
+    },
+    {
+      "text": "小蔡不跑珠海客户",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780279580812-w12yxo"
     }
   ],
   "workList": [
@@ -1781,5 +1798,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 10:06:10"
+  "updateTime": "2026/6/1 10:06:21"
 }

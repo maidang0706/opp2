@@ -1781,6 +1781,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780286151863-ntp5zf"
+    },
+    {
+      "text": "业绩和回款预测",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780313576541-992t8m"
     }
   ],
   "workList": [
@@ -1815,5 +1832,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 19:32:54"
+  "updateTime": "2026/6/1 19:32:57"
 }

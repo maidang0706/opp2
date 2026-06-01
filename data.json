@@ -1764,6 +1764,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780279580812-w12yxo"
+    },
+    {
+      "text": "小黄着重点胶机和艾贝特的客户",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780279599823-hdx3tk"
     }
   ],
   "workList": [
@@ -1798,5 +1815,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 10:06:21"
+  "updateTime": "2026/6/1 10:06:40"
 }

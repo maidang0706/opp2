@@ -1562,23 +1562,6 @@
       "id": "1780236189538-ez0u2z"
     },
     {
-      "text": "叁迪栅尺处理",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780236208812-37dti0"
-    },
-    {
       "text": "宋思聪DDR",
       "date": "2026-06-01",
       "time": "",
@@ -1849,5 +1832,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 19:51:33"
+  "updateTime": "2026/6/1 19:51:37"
 }

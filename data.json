@@ -1511,23 +1511,6 @@
       "id": "1780214395043-8qm4la"
     },
     {
-      "text": "给小黄钱",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780230267499-hy196b"
-    },
-    {
       "text": "行程HTML文件修改",
       "date": "2026-05-31",
       "time": "",
@@ -1781,5 +1764,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/1 08:46:37"
+  "updateTime": "2026/6/1 09:36:18"
 }

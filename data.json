@@ -1749,23 +1749,6 @@
       "id": "1780313576541-992t8m"
     },
     {
-      "text": "江华拼接模组确认",
-      "date": "2026-06-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780313593750-2vczv2"
-    },
-    {
       "text": "精朗要的安装座和钣金",
       "date": "2026-06-01",
       "time": "",
@@ -1866,5 +1849,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 13:59:07"
+  "updateTime": "2026/6/2 14:01:52"
 }

@@ -1798,6 +1798,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780411135337-fu6rgz"
+    },
+    {
+      "text": "中欣陈耀龙图纸更新",
+      "date": "2026-06-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780411164499-9vtu7t"
     }
   ],
   "workList": [
@@ -1832,5 +1849,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 22:38:56"
+  "updateTime": "2026/6/2 22:39:25"
 }

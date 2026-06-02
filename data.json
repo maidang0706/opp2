@@ -1815,6 +1815,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780314733794-zdf2f1"
+    },
+    {
+      "text": "回款预测",
+      "date": "2026-06-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780379308721-s3513o"
     }
   ],
   "workList": [
@@ -1849,5 +1866,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 09:33:59"
+  "updateTime": "2026/6/2 13:48:29"
 }

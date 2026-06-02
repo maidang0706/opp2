@@ -1477,23 +1477,6 @@
       "id": "1780203288396-h73hdh"
     },
     {
-      "text": "超盈价格",
-      "date": "2026-06-01",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780203329766-qzr2zt"
-    },
-    {
       "text": "更新CRM",
       "date": "2026-05-31",
       "time": "",
@@ -1883,5 +1866,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 13:48:48"
+  "updateTime": "2026/6/2 13:59:07"
 }

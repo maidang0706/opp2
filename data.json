@@ -1747,6 +1747,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780395541290-87hdgq"
+    },
+    {
+      "text": "小陆",
+      "date": "2026-06-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780395635154-sx3hsz"
     }
   ],
   "workList": [
@@ -1781,5 +1798,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 18:20:12"
+  "updateTime": "2026/6/2 18:20:35"
 }

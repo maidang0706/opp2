@@ -1832,6 +1832,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780411381405-b0qf7m"
+    },
+    {
+      "text": "赵志光要的PDF",
+      "date": "2026-06-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780412117669-jy5afu"
     }
   ],
   "workList": [
@@ -1866,5 +1883,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 22:44:25"
+  "updateTime": "2026/6/2 22:55:18"
 }

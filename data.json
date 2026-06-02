@@ -1815,6 +1815,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780411164499-9vtu7t"
+    },
+    {
+      "text": "问定损金额为什么不公布",
+      "date": "2026-06-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780411381405-b0qf7m"
     }
   ],
   "workList": [
@@ -1849,5 +1866,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 22:39:25"
+  "updateTime": "2026/6/2 22:43:02"
 }

@@ -1647,8 +1647,8 @@
       "id": "1780286151863-ntp5zf"
     },
     {
-      "text": "业绩和回款预测",
-      "date": "2026-06-01",
+      "text": "回款预测和完成率",
+      "date": "2026-06-02",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1659,7 +1659,7 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1780313576541-992t8m"
     },
@@ -1798,5 +1798,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 18:19:43"
+  "updateTime": "2026/6/2 18:20:01"
 }

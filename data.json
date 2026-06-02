@@ -1664,23 +1664,6 @@
       "id": "1780313576541-992t8m"
     },
     {
-      "text": "精朗要的安装座和钣金",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780314203965-t5tq2x"
-    },
-    {
       "text": "怎么看抖音更新和收藏",
       "date": "2026-06-06",
       "time": "",
@@ -1798,5 +1781,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 18:20:01"
+  "updateTime": "2026/6/2 18:20:12"
 }

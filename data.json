@@ -1596,23 +1596,6 @@
       "id": "1780239061090-155t2j"
     },
     {
-      "text": "中基技术群发线缆型号",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780240363569-hvzon4"
-    },
-    {
       "text": "小蔡不跑珠海客户",
       "date": "2026-06-01",
       "time": "",
@@ -1645,23 +1628,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1780279599823-hdx3tk"
-    },
-    {
-      "text": "整理上个月订单表格",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780283787876-m0ps50"
     },
     {
       "text": "中欣",
@@ -1832,5 +1798,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 18:19:37"
+  "updateTime": "2026/6/2 18:19:43"
 }

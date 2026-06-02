@@ -1494,23 +1494,6 @@
       "id": "1780234347123-lk7u0x"
     },
     {
-      "text": "精朗送货单重新发",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780236071492-rxwrpm"
-    },
-    {
       "text": "星特方案对接",
       "date": "2026-06-01",
       "time": "",
@@ -1866,5 +1849,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 18:19:27"
+  "updateTime": "2026/6/2 18:19:31"
 }

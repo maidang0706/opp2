@@ -1832,6 +1832,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780379314999-5hj0lh"
+    },
+    {
+      "text": "况帅的东西寄出",
+      "date": "2026-06-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780379322905-3eiloh"
     }
   ],
   "workList": [
@@ -1866,5 +1883,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 13:48:35"
+  "updateTime": "2026/6/2 13:48:43"
 }

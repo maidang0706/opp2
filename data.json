@@ -1764,6 +1764,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780395635154-sx3hsz"
+    },
+    {
+      "text": "超盈的价格",
+      "date": "2026-06-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780410705633-93ftme"
     }
   ],
   "workList": [
@@ -1798,5 +1815,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/2 22:31:38"
+  "updateTime": "2026/6/2 22:31:46"
 }

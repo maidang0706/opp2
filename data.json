@@ -1968,6 +1968,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780496918393-w8yvx3"
+    },
+    {
+      "text": "捷牛",
+      "date": "2026-06-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780496929304-1yzik5"
     }
   ],
   "workList": [
@@ -2002,5 +2019,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:28:39"
+  "updateTime": "2026/6/3 22:28:50"
 }

@@ -1749,23 +1749,6 @@
       "id": "1780395635154-sx3hsz"
     },
     {
-      "text": "超盈的价格",
-      "date": "2026-06-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780410705633-93ftme"
-    },
-    {
       "text": "中基9个钉子",
       "date": "2026-06-03",
       "time": "",
@@ -1781,23 +1764,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1780411135337-fu6rgz"
-    },
-    {
-      "text": "中欣陈耀龙图纸更新",
-      "date": "2026-06-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780411164499-9vtu7t"
     },
     {
       "text": "问定损金额为什么不公布",
@@ -1900,5 +1866,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 13:52:05"
+  "updateTime": "2026/6/3 13:52:14"
 }

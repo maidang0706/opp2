@@ -1883,6 +1883,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780496784588-xfhseb"
+    },
+    {
+      "text": "誉辰合同",
+      "date": "2026-06-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780496795765-4i9oxq"
     }
   ],
   "workList": [
@@ -1917,5 +1934,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:26:25"
+  "updateTime": "2026/6/3 22:26:36"
 }

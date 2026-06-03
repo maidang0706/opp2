@@ -1596,23 +1596,6 @@
       "id": "1780279599823-hdx3tk"
     },
     {
-      "text": "中欣",
-      "date": "2026-06-02",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780286151863-ntp5zf"
-    },
-    {
       "text": "回款预测和完成率",
       "date": "2026-06-02",
       "time": "",
@@ -2070,5 +2053,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:31:15"
+  "updateTime": "2026/6/3 22:31:24"
 }

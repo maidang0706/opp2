@@ -2019,6 +2019,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780496956350-2834bw"
+    },
+    {
+      "text": "家伟出差明细",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780497074633-mz0yvt"
     }
   ],
   "workList": [
@@ -2053,5 +2070,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:30:14"
+  "updateTime": "2026/6/3 22:31:15"
 }

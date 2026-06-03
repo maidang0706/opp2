@@ -1494,6 +1494,23 @@
       "id": "1780237408840-6gusfn"
     },
     {
+      "text": "中基线缆送货单不签字",
+      "date": "2026-06-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780237486058-6fvbjr"
+    },
+    {
       "text": "中基付款",
       "date": "2026-06-10",
       "time": "",
@@ -1693,7 +1710,7 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1780395484957-y372gi"
     },
@@ -1795,9 +1812,26 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1780412169046-vqo4ob"
+    },
+    {
+      "text": "成品库引油管出来集中注油\n量产线，不用油管和注油嘴",
+      "date": "2026-06-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780477231741-6lf82m"
     }
   ],
   "workList": [
@@ -1832,5 +1866,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 14:07:23"
+  "updateTime": "2026/6/3 17:00:32"
 }

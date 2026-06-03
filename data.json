@@ -1934,6 +1934,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780496824582-j5q8zi"
+    },
+    {
+      "text": "誉辰廖工要的编码",
+      "date": "2026-06-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780496901913-2a9jsv"
     }
   ],
   "workList": [
@@ -1968,5 +1985,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:27:05"
+  "updateTime": "2026/6/3 22:28:22"
 }

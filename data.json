@@ -1974,8 +1974,8 @@
       "date": "2026-06-05",
       "time": "",
       "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
+      "isVisit": true,
+      "priority": "low",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2019,5 +2019,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:28:50"
+  "updateTime": "2026/6/3 22:28:57"
 }

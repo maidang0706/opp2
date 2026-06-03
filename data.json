@@ -1985,6 +1985,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780496929304-1yzik5"
+    },
+    {
+      "text": "科瑞",
+      "date": "2026-06-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780496943958-c2jexd"
     }
   ],
   "workList": [
@@ -2019,5 +2036,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:28:57"
+  "updateTime": "2026/6/3 22:29:04"
 }

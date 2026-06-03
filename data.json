@@ -1917,6 +1917,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780496815045-csj8p0"
+    },
+    {
+      "text": "宏唯",
+      "date": "2026-06-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780496824582-j5q8zi"
     }
   ],
   "workList": [
@@ -1951,5 +1968,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:26:55"
+  "updateTime": "2026/6/3 22:27:05"
 }

@@ -1494,23 +1494,6 @@
       "id": "1780237408840-6gusfn"
     },
     {
-      "text": "中基线缆送货单不签字",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780237486058-6fvbjr"
-    },
-    {
       "text": "中基付款",
       "date": "2026-06-10",
       "time": "",
@@ -1849,5 +1832,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 13:58:25"
+  "updateTime": "2026/6/3 14:00:15"
 }

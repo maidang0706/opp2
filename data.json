@@ -1062,7 +1062,7 @@
     },
     {
       "text": "捷牛合同",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1664,23 +1664,6 @@
       "id": "1780411381405-b0qf7m"
     },
     {
-      "text": "汇艺价格申请",
-      "date": "2026-06-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780496672479-30p9bd"
-    },
-    {
       "text": "精朗合同",
       "date": "2026-06-04",
       "time": "",
@@ -1917,5 +1900,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:41:02"
+  "updateTime": "2026/6/3 22:41:16"
 }

@@ -1832,6 +1832,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780496672479-30p9bd"
+    },
+    {
+      "text": "精朗合同",
+      "date": "2026-06-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780496771592-ik5jwq"
     }
   ],
   "workList": [
@@ -1866,5 +1883,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:24:44"
+  "updateTime": "2026/6/3 22:26:12"
 }

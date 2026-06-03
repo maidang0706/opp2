@@ -1664,23 +1664,6 @@
       "id": "1780411381405-b0qf7m"
     },
     {
-      "text": "誉辰方案生成代码",
-      "date": "2026-06-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780490678353-nnvmx6"
-    },
-    {
       "text": "汇艺价格申请",
       "date": "2026-06-03",
       "time": "",
@@ -1934,5 +1917,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 22:32:40"
+  "updateTime": "2026/6/3 22:32:56"
 }

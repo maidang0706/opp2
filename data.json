@@ -1426,23 +1426,6 @@
       "id": "1779975540845-lvgsji"
     },
     {
-      "text": "誉辰回复价格",
-      "date": "2026-06-02",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780079210534-qzzsug"
-    },
-    {
       "text": "79是什么",
       "date": "2026-06-01",
       "time": "",
@@ -1866,5 +1849,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/3 13:54:36"
+  "updateTime": "2026/6/3 13:54:41"
 }

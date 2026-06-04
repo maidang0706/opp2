@@ -1681,23 +1681,6 @@
       "id": "1780496771592-ik5jwq"
     },
     {
-      "text": "汇艺报价",
-      "date": "2026-06-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780496779251-h9iooc"
-    },
-    {
       "text": "中欣价格",
       "date": "2026-06-04",
       "time": "",
@@ -1866,5 +1849,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/5 00:13:35"
+  "updateTime": "2026/6/5 00:13:41"
 }

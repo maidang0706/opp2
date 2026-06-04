@@ -1681,23 +1681,6 @@
       "id": "1780496771592-ik5jwq"
     },
     {
-      "text": "中欣价格",
-      "date": "2026-06-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780496784588-xfhseb"
-    },
-    {
       "text": "誉辰合同",
       "date": "2026-06-04",
       "time": "",
@@ -1744,7 +1727,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1780496824582-j5q8zi"
     },
@@ -1849,5 +1832,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/5 00:13:41"
+  "updateTime": "2026/6/5 00:13:45"
 }

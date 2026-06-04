@@ -1766,23 +1766,6 @@
       "id": "1780496824582-j5q8zi"
     },
     {
-      "text": "给研发说誉辰成品库要配注油嘴",
-      "date": "2026-06-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780496918393-w8yvx3"
-    },
-    {
       "text": "捷牛",
       "date": "2026-06-05",
       "time": "",
@@ -1883,5 +1866,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/5 00:13:30"
+  "updateTime": "2026/6/5 00:13:35"
 }

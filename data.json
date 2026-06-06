@@ -1428,23 +1428,6 @@
       "id": "1779975540845-lvgsji"
     },
     {
-      "text": "79是什么",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780203288396-h73hdh"
-    },
-    {
       "text": "更新CRM",
       "date": "2026-05-31",
       "time": "",
@@ -1817,5 +1800,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/6 23:57:01"
+  "updateTime": "2026/6/6 23:57:11"
 }

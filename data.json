@@ -1783,6 +1783,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780761997766-4fb81z"
+    },
+    {
+      "text": "好的",
+      "date": "2026-06-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780762004898-zt1vf7"
     }
   ],
   "workList": [
@@ -1817,5 +1834,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 00:06:38"
+  "updateTime": "2026/6/7 00:06:45"
 }

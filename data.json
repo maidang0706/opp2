@@ -1649,23 +1649,6 @@
       "id": "1780496795765-4i9oxq"
     },
     {
-      "text": "捷牛",
-      "date": "2026-06-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780496929304-1yzik5"
-    },
-    {
       "text": "科瑞",
       "date": "2026-06-05",
       "time": "",
@@ -1681,23 +1664,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1780496943958-c2jexd"
-    },
-    {
-      "text": "誉昊",
-      "date": "2026-06-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780496956350-2834bw"
     },
     {
       "text": "家伟出差明细",
@@ -1800,5 +1766,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/6 23:57:30"
+  "updateTime": "2026/6/6 23:57:38"
 }

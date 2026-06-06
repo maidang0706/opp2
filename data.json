@@ -1682,40 +1682,6 @@
       "id": "1780496795765-4i9oxq"
     },
     {
-      "text": "华冠",
-      "date": "2026-06-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780496815045-csj8p0"
-    },
-    {
-      "text": "宏唯",
-      "date": "2026-06-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780496824582-j5q8zi"
-    },
-    {
       "text": "捷牛",
       "date": "2026-06-05",
       "time": "",
@@ -1850,5 +1816,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/6 23:49:02"
+  "updateTime": "2026/6/6 23:49:08"
 }

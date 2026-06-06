@@ -1816,6 +1816,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780729228973-74tz6v"
+    },
+    {
+      "text": "加一个本周代办",
+      "date": "2026-06-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780750467994-xonfuc"
     }
   ],
   "workList": [
@@ -1850,5 +1867,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/6 20:54:10"
+  "updateTime": "2026/6/6 20:54:28"
 }

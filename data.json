@@ -1732,6 +1732,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780761832842-bp3od8"
+    },
+    {
+      "text": "确认精朗订单",
+      "date": "2026-06-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780761845675-nmwbce"
     }
   ],
   "workList": [
@@ -1766,5 +1783,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 00:03:53"
+  "updateTime": "2026/6/7 00:04:06"
 }

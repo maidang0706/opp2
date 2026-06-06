@@ -1283,23 +1283,6 @@
       "id": "1779602262637-2ahil5"
     },
     {
-      "text": "中基对账单",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779602296402-xg5lpc"
-    },
-    {
       "text": "油票",
       "date": "2026-05-28",
       "time": "",
@@ -1766,6 +1749,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780761856686-gsj6z0"
+    },
+    {
+      "text": "中基对账",
+      "date": "2026-06-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780761862067-hpin06"
     }
   ],
   "workList": [
@@ -1800,5 +1800,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 00:04:17"
+  "updateTime": "2026/6/7 00:04:28"
 }

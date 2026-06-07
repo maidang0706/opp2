@@ -1566,7 +1566,7 @@
     },
     {
       "text": "精朗合同",
-      "date": "2026-06-04",
+      "date": "2026-06-08",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1665,23 +1665,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1780761444065-5xew9k"
-    },
-    {
-      "text": "中欣选型申请价格",
-      "date": "2026-06-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780761832842-bp3od8"
     },
     {
       "text": "确认精朗订单",
@@ -1852,5 +1835,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 22:37:01"
+  "updateTime": "2026/6/7 22:37:23"
 }

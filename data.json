@@ -1920,6 +1920,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780843543126-8rljdy"
+    },
+    {
+      "text": "艾贝特大理石",
+      "date": "2026-06-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780843584876-uowiib"
     }
   ],
   "workList": [
@@ -1954,5 +1971,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 22:45:43"
+  "updateTime": "2026/6/7 22:46:25"
 }

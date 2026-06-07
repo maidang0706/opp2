@@ -1164,7 +1164,7 @@
       "id": "1779072103617-8ho5c2"
     },
     {
-      "text": "union",
+      "text": "union-誉昊终端",
       "date": "2026-05-19",
       "time": "",
       "isAllDay": true,
@@ -1179,23 +1179,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1779180220672-bo2p79"
-    },
-    {
-      "text": "问华冠情况",
-      "date": "2026-05-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779200472895-pwwgfb"
     },
     {
       "text": "准备中基订单备注",
@@ -1988,5 +1971,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 23:10:18"
+  "updateTime": "2026/6/7 23:10:27"
 }

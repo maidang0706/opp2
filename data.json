@@ -1581,23 +1581,6 @@
       "id": "1780314733794-zdf2f1"
     },
     {
-      "text": "小陆",
-      "date": "2026-06-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780395635154-sx3hsz"
-    },
-    {
       "text": "精朗合同",
       "date": "2026-06-04",
       "time": "",
@@ -1817,5 +1800,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 19:59:34"
+  "updateTime": "2026/6/7 19:59:48"
 }

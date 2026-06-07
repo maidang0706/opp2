@@ -1818,6 +1818,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780843351385-20cewj"
+    },
+    {
+      "text": "中欣回传合同",
+      "date": "2026-06-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780843389864-layyl5"
     }
   ],
   "workList": [
@@ -1852,5 +1869,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 22:42:32"
+  "updateTime": "2026/6/7 22:43:10"
 }

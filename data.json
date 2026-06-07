@@ -1835,6 +1835,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780843389864-layyl5"
+    },
+    {
+      "text": "中基清陶合同确认",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780843416412-opggsc"
     }
   ],
   "workList": [
@@ -1869,5 +1886,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 22:43:10"
+  "updateTime": "2026/6/7 22:43:37"
 }

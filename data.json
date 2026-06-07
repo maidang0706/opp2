@@ -54,7 +54,8 @@
       "onlyDone": [
         -4,
         -11,
-        -13
+        -13,
+        -14
       ]
     },
     {
@@ -1767,7 +1768,7 @@
       "id": "1780761862067-hpin06"
     },
     {
-      "text": "好的",
+      "text": "做个记账的软件",
       "date": "2026-06-07",
       "time": "",
       "isAllDay": true,
@@ -1781,41 +1782,7 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1780761997766-4fb81z"
-    },
-    {
-      "text": "好的",
-      "date": "2026-06-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780762004898-zt1vf7"
-    },
-    {
-      "text": "好的",
-      "date": "2026-06-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780762012221-xibx52"
+      "id": "1780801185160-xowrq2"
     }
   ],
   "workList": [
@@ -1850,5 +1817,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 00:07:00"
+  "updateTime": "2026/6/7 10:59:45"
 }

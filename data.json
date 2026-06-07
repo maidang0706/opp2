@@ -1299,7 +1299,8 @@
       },
       "done": false,
       "onlyDone": [
-        0
+        0,
+        -1
       ],
       "id": "1779641786391-44i0x1"
     },
@@ -1426,23 +1427,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1780214395043-8qm4la"
-    },
-    {
-      "text": "行程HTML文件修改",
-      "date": "2026-05-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780234347123-lk7u0x"
     },
     {
       "text": "宋思聪DDR",
@@ -1800,5 +1784,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 20:00:16"
+  "updateTime": "2026/6/7 20:00:40"
 }

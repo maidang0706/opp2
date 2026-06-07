@@ -1767,6 +1767,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780841776628-my31zb"
+    },
+    {
+      "text": "黄宇泽顺昱",
+      "date": "2026-06-08",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780842984085-q35pm0"
     }
   ],
   "workList": [
@@ -1801,5 +1818,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 22:36:11"
+  "updateTime": "2026/6/7 22:36:24"
 }

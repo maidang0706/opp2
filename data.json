@@ -909,23 +909,6 @@
       "id": "1777010741739-ir78wn"
     },
     {
-      "text": "中基谭经理模组配置",
-      "date": "2026-04-27",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1777208351115-gr95fz"
-    },
-    {
       "text": "精朗",
       "date": "2026-04-27",
       "time": "16:00",
@@ -1971,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 23:10:27"
+  "updateTime": "2026/6/7 23:10:54"
 }

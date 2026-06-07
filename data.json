@@ -1181,23 +1181,6 @@
       "id": "1779180220672-bo2p79"
     },
     {
-      "text": "问科瑞情况",
-      "date": "2026-05-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1779200466333-2ms0n2"
-    },
-    {
       "text": "问华冠情况",
       "date": "2026-05-20",
       "time": "",
@@ -2005,5 +1988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 23:09:55"
+  "updateTime": "2026/6/7 23:10:18"
 }

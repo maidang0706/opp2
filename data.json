@@ -1958,8 +1958,8 @@
     {
       "text": "给弟打电话",
       "date": "2026-06-08",
-      "time": "",
-      "isAllDay": true,
+      "time": "20:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2005,5 +2005,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 23:09:44"
+  "updateTime": "2026/6/7 23:09:55"
 }

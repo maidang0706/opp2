@@ -1869,6 +1869,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780843436032-rijw45"
+    },
+    {
+      "text": "宏唯询价",
+      "date": "2026-06-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780843462781-qqu4yx"
     }
   ],
   "workList": [
@@ -1903,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 22:44:02"
+  "updateTime": "2026/6/7 22:44:23"
 }

@@ -1937,6 +1937,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780843584876-uowiib"
+    },
+    {
+      "text": "卓誉货期",
+      "date": "2026-06-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780843662086-xbbvi1"
     }
   ],
   "workList": [
@@ -1971,5 +1988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 22:46:25"
+  "updateTime": "2026/6/7 22:47:42"
 }

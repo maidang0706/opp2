@@ -926,40 +926,6 @@
       "id": "1777208367002-vnrucs"
     },
     {
-      "text": "誉昊报价",
-      "date": "2026-04-27",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1777208392789-tk9ztr"
-    },
-    {
-      "text": "誉昊方案",
-      "date": "2026-04-27",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1777208406732-w9hapg"
-    },
-    {
       "text": "答复中基技术群李想",
       "date": "2026-04-27",
       "time": "",
@@ -1954,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/7 23:10:54"
+  "updateTime": "2026/6/7 23:11:00"
 }

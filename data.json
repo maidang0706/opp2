@@ -1988,6 +1988,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780926612852-13ue5w"
+    },
+    {
+      "text": "誉辰订单给备注",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780926757740-tkia6a"
     }
   ],
   "workList": [
@@ -2022,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 21:51:51"
+  "updateTime": "2026/6/8 21:52:38"
 }

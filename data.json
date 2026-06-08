@@ -1903,6 +1903,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780889502288-jzqef4"
+    },
+    {
+      "text": "艾贝特费用申请",
+      "date": "2026-06-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780889727143-2c2n0q"
     }
   ],
   "workList": [
@@ -1937,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 11:31:43"
+  "updateTime": "2026/6/8 11:35:27"
 }

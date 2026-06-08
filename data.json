@@ -1668,8 +1668,8 @@
     },
     {
       "text": "取车",
-      "date": "2026-06-08",
-      "time": "14:00",
+      "date": "2026-06-09",
+      "time": "12:00",
       "isAllDay": false,
       "isVisit": false,
       "priority": "low",
@@ -1954,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 21:27:17"
+  "updateTime": "2026/6/8 21:27:29"
 }

@@ -1497,23 +1497,6 @@
       "id": "1780496771592-ik5jwq"
     },
     {
-      "text": "誉辰合同",
-      "date": "2026-06-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780496795765-4i9oxq"
-    },
-    {
       "text": "家伟出差明细",
       "date": "2026-06-01",
       "time": "",
@@ -1583,7 +1566,7 @@
     },
     {
       "text": "中基对账",
-      "date": "2026-06-08",
+      "date": "2026-06-10",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2039,5 +2022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 22:39:22"
+  "updateTime": "2026/6/8 22:39:36"
 }

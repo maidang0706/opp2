@@ -1667,23 +1667,6 @@
       "id": "1780843351385-20cewj"
     },
     {
-      "text": "中欣回传合同",
-      "date": "2026-06-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780843389864-layyl5"
-    },
-    {
       "text": "中基清陶模组确认",
       "date": "2026-06-09",
       "time": "",
@@ -1699,23 +1682,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1780843416412-opggsc"
-    },
-    {
-      "text": "精朗携客云合同",
-      "date": "2026-06-08",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780843436032-rijw45"
     },
     {
       "text": "宏唯询价",
@@ -2073,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 22:34:39"
+  "updateTime": "2026/6/8 22:34:44"
 }

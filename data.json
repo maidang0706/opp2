@@ -1852,6 +1852,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780844984018-85nm1z"
+    },
+    {
+      "text": "东莞启点",
+      "date": "2026-06-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780884152343-ejcqrj"
     }
   ],
   "workList": [
@@ -1886,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 09:53:49"
+  "updateTime": "2026/6/8 10:02:34"
 }

@@ -1991,11 +1991,11 @@
     },
     {
       "text": "小廖",
-      "date": "2026-06-12",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-09",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2039,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 22:38:28"
+  "updateTime": "2026/6/8 22:38:44"
 }

@@ -2039,6 +2039,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780927279891-aekbso"
+    },
+    {
+      "text": "中基孙超要的资料",
+      "date": "2026-06-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780927636552-5srsoo"
     }
   ],
   "workList": [
@@ -2073,5 +2090,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 22:03:09"
+  "updateTime": "2026/6/8 22:07:17"
 }

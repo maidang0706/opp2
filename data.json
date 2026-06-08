@@ -1937,6 +1937,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780925962486-yk6pbd"
+    },
+    {
+      "text": "汇艺给备注",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780926213699-jj3h7e"
     }
   ],
   "workList": [
@@ -1971,5 +1988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 21:39:50"
+  "updateTime": "2026/6/8 21:43:35"
 }

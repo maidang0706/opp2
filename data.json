@@ -1869,6 +1869,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780884152343-ejcqrj"
+    },
+    {
+      "text": "任务管理表加入黄蔡",
+      "date": "2026-06-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780888283870-8mhrm0"
     }
   ],
   "workList": [
@@ -1903,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 10:02:34"
+  "updateTime": "2026/6/8 11:11:24"
 }

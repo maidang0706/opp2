@@ -1920,6 +1920,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780889925924-lsvu3b"
+    },
+    {
+      "text": "让阿连给精智达资料",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780925962486-yk6pbd"
     }
   ],
   "workList": [
@@ -1954,5 +1971,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 21:39:18"
+  "updateTime": "2026/6/8 21:39:23"
 }

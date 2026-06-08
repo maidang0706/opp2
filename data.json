@@ -1633,23 +1633,6 @@
       "id": "1780841776628-my31zb"
     },
     {
-      "text": "黄宇泽顺昱",
-      "date": "2026-06-08",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780842984085-q35pm0"
-    },
-    {
       "text": "过客户",
       "date": "2026-06-08",
       "time": "09:00",
@@ -1971,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 11:38:46"
+  "updateTime": "2026/6/8 17:22:13"
 }

@@ -1633,23 +1633,6 @@
       "id": "1780841776628-my31zb"
     },
     {
-      "text": "过客户",
-      "date": "2026-06-08",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780842994122-jgrsm4"
-    },
-    {
       "text": "中欣报价和选型确认",
       "date": "2026-06-09",
       "time": "09:00",
@@ -2090,5 +2073,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 22:34:00"
+  "updateTime": "2026/6/8 22:34:39"
 }

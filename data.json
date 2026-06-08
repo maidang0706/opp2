@@ -1971,6 +1971,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780926333479-2ilv4o"
+    },
+    {
+      "text": "博滔报价",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780926612852-13ue5w"
     }
   ],
   "workList": [
@@ -2005,5 +2022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 21:45:34"
+  "updateTime": "2026/6/8 21:50:13"
 }

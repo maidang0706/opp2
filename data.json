@@ -1718,23 +1718,6 @@
       "id": "1780843497084-ud2lb2"
     },
     {
-      "text": "小蔡客户看E065模组",
-      "date": "2026-06-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780843543126-8rljdy"
-    },
-    {
       "text": "艾贝特大理石",
       "date": "2026-06-19",
       "time": "",
@@ -2005,6 +1988,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780927636552-5srsoo"
+    },
+    {
+      "text": "小廖",
+      "date": "2026-06-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780929302880-jqmg8x"
     }
   ],
   "workList": [
@@ -2039,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 22:34:44"
+  "updateTime": "2026/6/8 22:35:03"
 }

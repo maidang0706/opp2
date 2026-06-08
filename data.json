@@ -1954,6 +1954,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780926213699-jj3h7e"
+    },
+    {
+      "text": "汇艺模组发新地址",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780926333479-2ilv4o"
     }
   ],
   "workList": [
@@ -1988,5 +2005,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/8 21:43:35"
+  "updateTime": "2026/6/8 21:45:34"
 }

@@ -1684,23 +1684,6 @@
       "id": "1780843462781-qqu4yx"
     },
     {
-      "text": "申请去武汉中基",
-      "date": "2026-06-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780843497084-ud2lb2"
-    },
-    {
       "text": "艾贝特大理石",
       "date": "2026-06-19",
       "time": "",
@@ -2056,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 15:26:52"
+  "updateTime": "2026/6/9 15:27:00"
 }

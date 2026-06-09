@@ -1701,23 +1701,6 @@
       "id": "1780843662086-xbbvi1"
     },
     {
-      "text": "给弟打电话",
-      "date": "2026-06-08",
-      "time": "20:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780844984018-85nm1z"
-    },
-    {
       "text": "东莞启点-镜头组装设备",
       "date": "2026-06-05",
       "time": "",
@@ -1854,23 +1837,6 @@
       "id": "1780970161013-0g9pwi"
     },
     {
-      "text": "誉辰备注",
-      "date": "2026-06-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780982299236-2c0bpt"
-    },
-    {
       "text": "瑞声选型",
       "date": "2026-06-09",
       "time": "",
@@ -1971,5 +1937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 18:15:44"
+  "updateTime": "2026/6/9 23:00:05"
 }

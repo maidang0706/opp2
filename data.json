@@ -1871,23 +1871,6 @@
       "id": "1780970161013-0g9pwi"
     },
     {
-      "text": "陈耀龙图纸",
-      "date": "2026-06-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780982290209-gx9d4j"
-    },
-    {
       "text": "誉辰备注",
       "date": "2026-06-09",
       "time": "",
@@ -2005,5 +1988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 18:15:22"
+  "updateTime": "2026/6/9 18:15:33"
 }

@@ -1820,23 +1820,6 @@
       "id": "1780889925924-lsvu3b"
     },
     {
-      "text": "让阿连给精智达资料",
-      "date": "2026-06-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780925962486-yk6pbd"
-    },
-    {
       "text": "博滔报价，问下何健光栅尺-0100是不是1米的意思",
       "date": "2026-06-09",
       "time": "",
@@ -2039,5 +2022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 15:27:00"
+  "updateTime": "2026/6/9 15:29:24"
 }

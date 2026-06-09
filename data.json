@@ -1791,7 +1791,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -1869,23 +1869,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1780926612852-13ue5w"
-    },
-    {
-      "text": "誉辰订单给备注和其他合同",
-      "date": "2026-06-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780926757740-tkia6a"
     },
     {
       "text": "捷牛",
@@ -2056,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 13:19:02"
+  "updateTime": "2026/6/9 13:19:12"
 }

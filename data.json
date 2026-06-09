@@ -2005,6 +2005,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780982305223-yb83vv"
+    },
+    {
+      "text": "中基武汉",
+      "date": "2026-06-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780990011843-7hbyds"
     }
   ],
   "workList": [
@@ -2039,5 +2056,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 15:26:34"
+  "updateTime": "2026/6/9 15:26:52"
 }

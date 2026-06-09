@@ -1988,6 +1988,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780982290209-gx9d4j"
+    },
+    {
+      "text": "誉辰备注",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780982299236-2c0bpt"
     }
   ],
   "workList": [
@@ -2022,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 13:18:11"
+  "updateTime": "2026/6/9 13:18:20"
 }

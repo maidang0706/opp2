@@ -1617,9 +1617,9 @@
     },
     {
       "text": "中欣杨志强选型和李工确认",
-      "date": "2026-06-09",
-      "time": "09:00",
-      "isAllDay": false,
+      "date": "2026-06-10",
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -1937,5 +1937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 23:00:27"
+  "updateTime": "2026/6/9 23:00:36"
 }

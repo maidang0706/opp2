@@ -1971,6 +1971,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780970161013-0g9pwi"
+    },
+    {
+      "text": "陈耀龙图纸",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780982290209-gx9d4j"
     }
   ],
   "workList": [
@@ -2005,5 +2022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 13:17:56"
+  "updateTime": "2026/6/9 13:18:11"
 }

@@ -1871,23 +1871,6 @@
       "id": "1780926213699-jj3h7e"
     },
     {
-      "text": "汇艺模组发新地址",
-      "date": "2026-06-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780926333479-2ilv4o"
-    },
-    {
       "text": "博滔报价，问下何健光栅尺-0100是不是1米的意思",
       "date": "2026-06-09",
       "time": "",
@@ -2022,5 +2005,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 09:24:48"
+  "updateTime": "2026/6/9 09:24:53"
 }

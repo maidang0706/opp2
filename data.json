@@ -1954,6 +1954,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780990011843-7hbyds"
+    },
+    {
+      "text": "备注加上不要注油嘴",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780996785048-mq8n09"
     }
   ],
   "workList": [
@@ -1988,5 +2005,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 15:55:16"
+  "updateTime": "2026/6/9 17:19:45"
 }

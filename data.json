@@ -1954,6 +1954,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780929302880-jqmg8x"
+    },
+    {
+      "text": "誉辰光电座",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780970161013-0g9pwi"
     }
   ],
   "workList": [
@@ -1988,5 +2005,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 09:55:54"
+  "updateTime": "2026/6/9 09:56:01"
 }

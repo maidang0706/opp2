@@ -1854,23 +1854,6 @@
       "id": "1780990011843-7hbyds"
     },
     {
-      "text": "中欣李工全封闭选型",
-      "date": "2026-06-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1781000088613-uzvw5m"
-    },
-    {
       "text": "唐自祥去捷牛",
       "date": "2026-06-10",
       "time": "14:00",
@@ -1920,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 23:07:13"
+  "updateTime": "2026/6/9 23:20:52"
 }

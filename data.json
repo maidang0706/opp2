@@ -1869,6 +1869,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781017277987-po5ucs"
+    },
+    {
+      "text": "中基取消订单申请",
+      "date": "2026-06-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781018860597-x25hjl"
     }
   ],
   "workList": [
@@ -1903,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 23:20:52"
+  "updateTime": "2026/6/9 23:27:41"
 }

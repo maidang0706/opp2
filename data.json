@@ -1954,6 +1954,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780996785048-mq8n09"
+    },
+    {
+      "text": "中欣李工全封闭选型",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781000088613-uzvw5m"
     }
   ],
   "workList": [
@@ -1988,5 +2005,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 18:14:38"
+  "updateTime": "2026/6/9 18:14:49"
 }

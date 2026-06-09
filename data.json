@@ -2005,6 +2005,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1780982299236-2c0bpt"
+    },
+    {
+      "text": "瑞声选型",
+      "date": "2026-06-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1780982305223-yb83vv"
     }
   ],
   "workList": [
@@ -2039,5 +2056,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/9 13:18:20"
+  "updateTime": "2026/6/9 13:18:26"
 }

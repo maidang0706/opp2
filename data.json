@@ -1599,23 +1599,6 @@
       "id": "1780841776628-my31zb"
     },
     {
-      "text": "中欣杨志强选型和李工确认",
-      "date": "2026-06-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780843005911-b0o7ix"
-    },
-    {
       "text": "中基清陶模组确认",
       "date": "2026-06-10",
       "time": "",
@@ -1937,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 11:00:50"
+  "updateTime": "2026/6/10 13:03:45"
 }

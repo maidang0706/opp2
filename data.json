@@ -1886,6 +1886,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781079376200-u5vgbc"
+    },
+    {
+      "text": "博杰的样机合同",
+      "date": "2026-06-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781079547468-k1vnp6"
     }
   ],
   "workList": [
@@ -1920,5 +1937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 16:16:38"
+  "updateTime": "2026/6/10 16:19:08"
 }

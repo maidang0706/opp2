@@ -1869,6 +1869,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781060449725-chcdmb"
+    },
+    {
+      "text": "中欣DXM报价",
+      "date": "2026-06-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781079376200-u5vgbc"
     }
   ],
   "workList": [
@@ -1903,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 16:13:49"
+  "updateTime": "2026/6/10 16:16:17"
 }

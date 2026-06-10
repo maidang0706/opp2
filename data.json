@@ -1786,23 +1786,6 @@
       "id": "1780970161013-0g9pwi"
     },
     {
-      "text": "瑞声报价",
-      "date": "2026-06-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780982305223-yb83vv"
-    },
-    {
       "text": "中基武汉",
       "date": "2026-06-16",
       "time": "",
@@ -1905,23 +1888,6 @@
       "id": "1781079547468-k1vnp6"
     },
     {
-      "text": "中基DDR选型",
-      "date": "2026-06-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1781080680879-6s82v4"
-    },
-    {
       "text": "孙超直线确认",
       "date": "2026-06-10",
       "time": "",
@@ -1971,5 +1937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 22:46:24"
+  "updateTime": "2026/6/10 22:46:46"
 }

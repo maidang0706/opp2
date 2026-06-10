@@ -1920,6 +1920,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781080680879-6s82v4"
+    },
+    {
+      "text": "孙超直线确认",
+      "date": "2026-06-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781080692088-w45o8d"
     }
   ],
   "workList": [
@@ -1954,5 +1971,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 16:38:01"
+  "updateTime": "2026/6/10 16:38:12"
 }

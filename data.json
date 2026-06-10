@@ -1903,6 +1903,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781079547468-k1vnp6"
+    },
+    {
+      "text": "中基DDR选型",
+      "date": "2026-06-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781080680879-6s82v4"
     }
   ],
   "workList": [
@@ -1937,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 16:35:52"
+  "updateTime": "2026/6/10 16:38:01"
 }

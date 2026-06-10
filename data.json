@@ -1837,8 +1837,8 @@
       "id": "1781079547468-k1vnp6"
     },
     {
-      "text": "孙超直线确认",
-      "date": "2026-06-10",
+      "text": "孙超要的协议",
+      "date": "2026-06-08",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1849,9 +1849,9 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
-      "id": "1781080692088-w45o8d"
+      "id": "1781102830914-o72tgd"
     }
   ],
   "workList": [
@@ -1886,5 +1886,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 22:46:55"
+  "updateTime": "2026/6/10 22:47:11"
 }

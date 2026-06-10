@@ -1752,23 +1752,6 @@
       "id": "1780889925924-lsvu3b"
     },
     {
-      "text": "答复晁总去不去誉辰",
-      "date": "2026-06-10",
-      "time": "15:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780927279891-aekbso"
-    },
-    {
       "text": "小廖",
       "date": "2026-06-10",
       "time": "16:00",
@@ -1920,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 15:52:36"
+  "updateTime": "2026/6/10 16:13:49"
 }

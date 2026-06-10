@@ -1852,6 +1852,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781102830914-o72tgd"
+    },
+    {
+      "text": "中欣价格",
+      "date": "2026-06-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781102880043-or6pvy"
     }
   ],
   "workList": [
@@ -1886,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/10 22:47:11"
+  "updateTime": "2026/6/10 22:48:00"
 }

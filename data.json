@@ -1600,9 +1600,9 @@
     },
     {
       "text": "中基清陶模组确认",
-      "date": "2026-06-10",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-12",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1820,23 +1820,6 @@
       "id": "1781102830914-o72tgd"
     },
     {
-      "text": "中欣价格",
-      "date": "2026-06-11",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1781102880043-or6pvy"
-    },
-    {
       "text": "儿童医院",
       "date": "2026-06-12",
       "time": "16:00",
@@ -1920,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/11 21:49:38"
+  "updateTime": "2026/6/11 21:50:45"
 }

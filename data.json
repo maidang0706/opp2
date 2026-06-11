@@ -1080,7 +1080,7 @@
     },
     {
       "text": "叁迪出货",
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "time": "15:00",
       "isAllDay": false,
       "isVisit": false,
@@ -1718,23 +1718,6 @@
       "id": "1780889727143-2c2n0q"
     },
     {
-      "text": "誉辰",
-      "date": "2026-06-11",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780889925924-lsvu3b"
-    },
-    {
       "text": "小廖",
       "date": "2026-06-11",
       "time": "16:00",
@@ -1920,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/11 21:48:10"
+  "updateTime": "2026/6/11 21:48:24"
 }

@@ -1869,6 +1869,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781104241775-51wwll"
+    },
+    {
+      "text": "中欣调价格",
+      "date": "2026-06-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781185741520-mp0mp4"
     }
   ],
   "workList": [
@@ -1903,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/11 21:48:24"
+  "updateTime": "2026/6/11 21:49:02"
 }

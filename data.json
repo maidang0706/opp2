@@ -1787,9 +1787,9 @@
     },
     {
       "text": "博杰的样机合同",
-      "date": "2026-06-10",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-12",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1903,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/11 21:50:45"
+  "updateTime": "2026/6/11 21:50:54"
 }

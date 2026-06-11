@@ -1786,23 +1786,6 @@
       "id": "1781018860597-x25hjl"
     },
     {
-      "text": "戴伟平",
-      "date": "2026-06-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1781060449725-chcdmb"
-    },
-    {
       "text": "博杰的样机合同",
       "date": "2026-06-10",
       "time": "",
@@ -1937,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/11 21:49:24"
+  "updateTime": "2026/6/11 21:49:38"
 }

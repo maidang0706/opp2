@@ -1854,23 +1854,6 @@
       "id": "1781185741520-mp0mp4"
     },
     {
-      "text": "陈耀龙图纸",
-      "date": "2026-06-12",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1781185763437-oz98py"
-    },
-    {
       "text": "誉昊服务",
       "date": "2026-06-12",
       "time": "09:00",
@@ -1920,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/12 09:32:57"
+  "updateTime": "2026/6/12 10:54:04"
 }

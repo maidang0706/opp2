@@ -1582,23 +1582,6 @@
       "id": "1780801185160-xowrq2"
     },
     {
-      "text": "答复借用",
-      "date": "2026-06-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780841776628-my31zb"
-    },
-    {
       "text": "中基清陶模组确认",
       "date": "2026-06-12",
       "time": "09:00",
@@ -1650,8 +1633,8 @@
       "id": "1780843584876-uowiib"
     },
     {
-      "text": "卓誉货期",
-      "date": "2026-06-12",
+      "text": "卓誉交货",
+      "date": "2026-06-15",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1886,5 +1869,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/13 20:53:52"
+  "updateTime": "2026/6/13 20:54:07"
 }

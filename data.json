@@ -1835,6 +1835,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781443860718-b9xh19"
+    },
+    {
+      "text": "汇艺读头",
+      "date": "2026-06-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781443965943-s030u5"
     }
   ],
   "workList": [
@@ -1869,5 +1886,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/14 21:31:15"
+  "updateTime": "2026/6/14 21:32:46"
 }

@@ -1818,23 +1818,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1781185741520-mp0mp4"
-    },
-    {
-      "text": "誉昊服务",
-      "date": "2026-06-12",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781185914225-e272m0"
     }
   ],
   "workList": [
@@ -1869,5 +1852,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/14 21:20:17"
+  "updateTime": "2026/6/14 21:20:22"
 }

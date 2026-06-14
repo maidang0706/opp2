@@ -1818,6 +1818,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781443835388-vpi5ks"
+    },
+    {
+      "text": "中欣给备注",
+      "date": "2026-06-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781443860718-b9xh19"
     }
   ],
   "workList": [
@@ -1852,5 +1869,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/14 21:30:53"
+  "updateTime": "2026/6/14 21:31:01"
 }

@@ -1818,6 +1818,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781185741520-mp0mp4"
+    },
+    {
+      "text": "协正没有配线缆",
+      "date": "2026-06-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781443835388-vpi5ks"
     }
   ],
   "workList": [
@@ -1852,5 +1869,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/14 21:30:14"
+  "updateTime": "2026/6/14 21:30:36"
 }

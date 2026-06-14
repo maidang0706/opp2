@@ -1903,6 +1903,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781444278066-fktoxh"
+    },
+    {
+      "text": "拓誉寄回的读头",
+      "date": "2026-06-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781444316022-a9f43f"
     }
   ],
   "workList": [
@@ -1937,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/14 21:37:58"
+  "updateTime": "2026/6/14 21:38:36"
 }

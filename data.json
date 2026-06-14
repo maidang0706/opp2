@@ -1582,23 +1582,6 @@
       "id": "1780801185160-xowrq2"
     },
     {
-      "text": "中基清陶模组确认",
-      "date": "2026-06-12",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780843416412-opggsc"
-    },
-    {
       "text": "宏唯询价",
       "date": "2026-06-08",
       "time": "",
@@ -1954,5 +1937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/14 21:51:39"
+  "updateTime": "2026/6/14 21:51:43"
 }

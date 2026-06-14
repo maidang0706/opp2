@@ -1869,6 +1869,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781444073329-0lf2mf"
+    },
+    {
+      "text": "中基改两条线缆",
+      "date": "2026-06-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781444115292-mwb3la"
     }
   ],
   "workList": [
@@ -1903,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/14 21:34:34"
+  "updateTime": "2026/6/14 21:35:16"
 }

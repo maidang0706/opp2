@@ -1920,6 +1920,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781484812803-riqpxo"
+    },
+    {
+      "text": "中基拼接模组安排",
+      "date": "2026-06-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781506617771-dnu3q1"
     }
   ],
   "workList": [
@@ -1954,5 +1971,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 14:56:47"
+  "updateTime": "2026/6/15 14:56:58"
 }

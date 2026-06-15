@@ -1886,6 +1886,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781531181962-bgq9ko"
+    },
+    {
+      "text": "瑞浦印尼报价",
+      "date": "2026-06-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781534584476-c8qa6m"
     }
   ],
   "workList": [
@@ -1920,5 +1937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 22:42:50"
+  "updateTime": "2026/6/15 22:43:05"
 }

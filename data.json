@@ -1769,40 +1769,6 @@
       "id": "1781102830914-o72tgd"
     },
     {
-      "text": "协正没有配线缆",
-      "date": "2026-06-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781443835388-vpi5ks"
-    },
-    {
-      "text": "中欣给备注",
-      "date": "2026-06-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781443860718-b9xh19"
-    },
-    {
       "text": "汇艺读头",
       "date": "2026-06-15",
       "time": "",
@@ -1954,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 15:36:17"
+  "updateTime": "2026/6/15 15:36:22"
 }

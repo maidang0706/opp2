@@ -1786,40 +1786,6 @@
       "id": "1781443965943-s030u5"
     },
     {
-      "text": "汇艺报价",
-      "date": "2026-06-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781444073329-0lf2mf"
-    },
-    {
-      "text": "中基改两条线缆",
-      "date": "2026-06-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781444115292-mwb3la"
-    },
-    {
       "text": "捷牛报价给谁",
       "date": "2026-06-15",
       "time": "",
@@ -1920,5 +1886,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 15:36:22"
+  "updateTime": "2026/6/15 15:36:27"
 }

@@ -1617,7 +1617,7 @@
     },
     {
       "text": "卓誉交货",
-      "date": "2026-06-15",
+      "date": "2026-06-17",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1866,7 +1866,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1781444115292-mwb3la"
     },
@@ -1954,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 11:54:13"
+  "updateTime": "2026/6/15 11:54:26"
 }

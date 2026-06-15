@@ -1480,23 +1480,6 @@
       "id": "1780314733794-zdf2f1"
     },
     {
-      "text": "精朗纳美价格",
-      "date": "2026-06-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780496771592-ik5jwq"
-    },
-    {
       "text": "家伟出差明细",
       "date": "2026-06-01",
       "time": "",
@@ -1920,5 +1903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 21:39:02"
+  "updateTime": "2026/6/15 21:39:07"
 }

@@ -1735,23 +1735,6 @@
       "id": "1780990011843-7hbyds"
     },
     {
-      "text": "中基取消订单申请",
-      "date": "2026-06-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781018860597-x25hjl"
-    },
-    {
       "text": "博杰的样机合同",
       "date": "2026-06-15",
       "time": "09:00",
@@ -1971,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 15:36:05"
+  "updateTime": "2026/6/15 15:36:17"
 }

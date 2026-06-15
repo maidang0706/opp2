@@ -1869,6 +1869,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781530193719-nea231"
+    },
+    {
+      "text": "精朗纳美报价",
+      "date": "2026-06-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781530741659-szdwl2"
     }
   ],
   "workList": [
@@ -1903,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 21:38:55"
+  "updateTime": "2026/6/15 21:39:02"
 }

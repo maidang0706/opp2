@@ -1890,8 +1890,8 @@
     {
       "text": "瑞浦印尼报价",
       "date": "2026-06-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1937,5 +1937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 22:43:05"
+  "updateTime": "2026/6/15 22:43:10"
 }

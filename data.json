@@ -1856,8 +1856,8 @@
     {
       "text": "精朗纳美报价",
       "date": "2026-06-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1920,5 +1920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 21:46:22"
+  "updateTime": "2026/6/15 21:46:28"
 }

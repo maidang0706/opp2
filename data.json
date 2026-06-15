@@ -1903,6 +1903,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781444316022-a9f43f"
+    },
+    {
+      "text": "誉辰注油管",
+      "date": "2026-06-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781484812803-riqpxo"
     }
   ],
   "workList": [
@@ -1937,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/15 08:47:59"
+  "updateTime": "2026/6/15 08:53:33"
 }

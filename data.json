@@ -1820,23 +1820,6 @@
       "id": "1781658393233-pujgbn"
     },
     {
-      "text": "吕志垚衣服",
-      "date": "2026-06-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781658645842-y4nekg"
-    },
-    {
       "text": "中基线缆错误的问题如何杜绝，每次下单问清楚是哪个项目？",
       "date": "2026-06-17",
       "time": "",
@@ -1920,6 +1903,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781706293184-di8d93"
+    },
+    {
+      "text": "报销整理",
+      "date": "2026-06-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781706452547-3enyws"
     }
   ],
   "workList": [
@@ -1954,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:27:11"
+  "updateTime": "2026/6/17 22:27:33"
 }

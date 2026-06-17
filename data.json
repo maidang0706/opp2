@@ -1651,9 +1651,9 @@
     },
     {
       "text": "艾贝特费用申请",
-      "date": "2026-06-15",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-19",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -2090,5 +2090,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:25:06"
+  "updateTime": "2026/6/17 22:25:26"
 }

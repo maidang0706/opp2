@@ -1937,6 +1937,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781706677019-838hzh"
+    },
+    {
+      "text": "中欣订单排产加急",
+      "date": "2026-06-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781706799967-5zuv6o"
     }
   ],
   "workList": [
@@ -1971,5 +1988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:31:17"
+  "updateTime": "2026/6/17 22:33:20"
 }

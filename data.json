@@ -2022,6 +2022,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781700705056-o9eett"
+    },
+    {
+      "text": "中欣4080模组线长确认",
+      "date": "2026-06-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781703653222-fwygsz"
     }
   ],
   "workList": [
@@ -2056,5 +2073,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 21:40:40"
+  "updateTime": "2026/6/17 21:40:54"
 }

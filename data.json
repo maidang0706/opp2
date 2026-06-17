@@ -1937,6 +1937,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781658393233-pujgbn"
+    },
+    {
+      "text": "吕志垚衣服",
+      "date": "2026-06-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781658645842-y4nekg"
     }
   ],
   "workList": [
@@ -1971,5 +1988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 09:06:34"
+  "updateTime": "2026/6/17 09:10:46"
 }

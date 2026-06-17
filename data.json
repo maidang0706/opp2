@@ -1920,6 +1920,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781706472332-6ssivj"
+    },
+    {
+      "text": "提醒中欣工程师驱动器换了",
+      "date": "2026-06-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781706677019-838hzh"
     }
   ],
   "workList": [
@@ -1954,5 +1971,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:31:04"
+  "updateTime": "2026/6/17 22:31:17"
 }

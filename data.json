@@ -1803,23 +1803,6 @@
       "id": "1781506617771-dnu3q1"
     },
     {
-      "text": "汇艺PDF",
-      "date": "2026-06-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781508997501-f1yopq"
-    },
-    {
       "text": "79/89/29",
       "date": "2026-06-18",
       "time": "",
@@ -2005,5 +1988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:26:55"
+  "updateTime": "2026/6/17 22:27:05"
 }

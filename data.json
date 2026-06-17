@@ -1378,23 +1378,6 @@
       "id": "1780237496970-4cxbem"
     },
     {
-      "text": "报销整理",
-      "date": "2026-06-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780237586081-iml9kb"
-    },
-    {
       "text": "约兰新华",
       "date": "2026-06-12",
       "time": "",
@@ -1954,5 +1937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:27:33"
+  "updateTime": "2026/6/17 22:27:40"
 }

@@ -1701,23 +1701,6 @@
       "id": "1780970161013-0g9pwi"
     },
     {
-      "text": "中基武汉",
-      "date": "2026-06-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780990011843-7hbyds"
-    },
-    {
       "text": "博杰动定子价格",
       "date": "2026-06-18",
       "time": "09:00",
@@ -1852,23 +1835,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1781530193719-nea231"
-    },
-    {
-      "text": "中欣报价",
-      "date": "2026-06-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781531181962-bgq9ko"
     },
     {
       "text": "瑞浦印尼报价",
@@ -2073,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:26:21"
+  "updateTime": "2026/6/17 22:26:27"
 }

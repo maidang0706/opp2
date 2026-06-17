@@ -1903,6 +1903,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781706452547-3enyws"
+    },
+    {
+      "text": "华冠报价",
+      "date": "2026-06-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781706472332-6ssivj"
     }
   ],
   "workList": [
@@ -1937,5 +1954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:27:40"
+  "updateTime": "2026/6/17 22:27:53"
 }

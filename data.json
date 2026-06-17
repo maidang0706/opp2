@@ -1787,11 +1787,11 @@
     },
     {
       "text": "誉辰注油管",
-      "date": "2026-06-15",
+      "date": "2026-06-18",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2090,5 +2090,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:25:26"
+  "updateTime": "2026/6/17 22:25:48"
 }

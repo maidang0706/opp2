@@ -1988,6 +1988,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781673629838-t1ro61"
+    },
+    {
+      "text": "中基改线缆",
+      "date": "2026-06-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781680171070-ehcdh3"
     }
   ],
   "workList": [
@@ -2022,5 +2039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 15:09:22"
+  "updateTime": "2026/6/17 15:09:31"
 }

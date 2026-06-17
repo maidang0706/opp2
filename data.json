@@ -1907,8 +1907,8 @@
     {
       "text": "华冠报价",
       "date": "2026-06-18",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2005,5 +2005,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:38:54"
+  "updateTime": "2026/6/17 22:40:24"
 }

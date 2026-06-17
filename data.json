@@ -2005,6 +2005,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781680171070-ehcdh3"
+    },
+    {
+      "text": "订单备注文本不用复制的公式是什么？",
+      "date": "2026-06-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781700705056-o9eett"
     }
   ],
   "workList": [
@@ -2039,5 +2056,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 20:36:14"
+  "updateTime": "2026/6/17 20:51:46"
 }

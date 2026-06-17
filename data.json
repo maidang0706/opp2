@@ -1971,6 +1971,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781673237552-fc8hbf"
+    },
+    {
+      "text": "问精朗武汉楚能情况",
+      "date": "2026-06-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781673629838-t1ro61"
     }
   ],
   "workList": [
@@ -2005,5 +2022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 13:20:22"
+  "updateTime": "2026/6/17 13:20:30"
 }

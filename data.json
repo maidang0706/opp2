@@ -1854,23 +1854,6 @@
       "id": "1781534584476-c8qa6m"
     },
     {
-      "text": "问襄阳款",
-      "date": "2026-06-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1781658346851-c6cm4p"
-    },
-    {
       "text": "中基替换德康",
       "date": "2026-06-17",
       "time": "",
@@ -2039,5 +2022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/17 22:26:27"
+  "updateTime": "2026/6/17 22:26:35"
 }

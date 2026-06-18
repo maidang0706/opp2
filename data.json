@@ -1361,23 +1361,6 @@
       "id": "1780237408840-6gusfn"
     },
     {
-      "text": "中基付款",
-      "date": "2026-06-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780237496970-4cxbem"
-    },
-    {
       "text": "约兰新华",
       "date": "2026-06-12",
       "time": "",
@@ -2005,5 +1988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/18 08:55:37"
+  "updateTime": "2026/6/18 09:27:55"
 }

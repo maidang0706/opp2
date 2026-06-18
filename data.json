@@ -1971,6 +1971,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781746621961-aqjcj5"
+    },
+    {
+      "text": "格润付款方式",
+      "date": "2026-06-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781755014324-l8d0jh"
     }
   ],
   "workList": [
@@ -2005,5 +2022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/18 11:56:45"
+  "updateTime": "2026/6/18 11:56:55"
 }

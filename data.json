@@ -2005,6 +2005,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1781964872197-k7f3p0"
+    },
+    {
+      "text": "中欣更新报价",
+      "date": "2026-06-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1781965311554-lvntr5"
     }
   ],
   "workList": [
@@ -2039,5 +2056,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/20 22:21:48"
+  "updateTime": "2026/6/20 22:21:52"
 }

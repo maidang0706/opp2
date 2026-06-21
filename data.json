@@ -2154,6 +2154,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782055355021-8wlow9"
+    },
+    {
+      "text": "博滔情况",
+      "date": "2026-06-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782058517303-twqc3w"
     }
   ],
   "workList": [
@@ -2188,5 +2205,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 00:14:56"
+  "updateTime": "2026/6/22 00:15:18"
 }

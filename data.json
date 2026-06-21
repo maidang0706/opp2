@@ -1675,24 +1675,6 @@
       "_renderDate": "2026-06-08"
     },
     {
-      "text": "博杰动定子价格",
-      "date": "2026-06-18",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781079547468-k1vnp6",
-      "_renderDate": "2026-06-18"
-    },
-    {
       "text": "孙超要的协议",
       "date": "2026-06-08",
       "time": "",
@@ -1871,24 +1853,6 @@
       "onlyDone": [],
       "id": "1781680171070-ehcdh3",
       "_renderDate": "2026-06-22"
-    },
-    {
-      "text": "中欣4080模组线长确认",
-      "date": "2026-06-18",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781703653222-fwygsz",
-      "_renderDate": "2026-06-18"
     },
     {
       "text": "中欣报价",
@@ -2205,5 +2169,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 00:15:18"
+  "updateTime": "2026/6/22 00:15:27"
 }

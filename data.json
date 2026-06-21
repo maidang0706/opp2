@@ -1711,24 +1711,6 @@
       "_renderDate": "2026-06-15"
     },
     {
-      "text": "79/89/29",
-      "date": "2026-06-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781530193719-nea231",
-      "_renderDate": "2026-06-18"
-    },
-    {
       "text": "瑞浦印尼报价",
       "date": "2026-06-16",
       "time": "09:00",
@@ -1781,24 +1763,6 @@
       "onlyDone": [],
       "id": "1781673237552-fc8hbf",
       "_renderDate": "2026-06-17"
-    },
-    {
-      "text": "问精朗武汉楚能情况",
-      "date": "2026-06-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781673629838-t1ro61",
-      "_renderDate": "2026-06-18"
     },
     {
       "text": "中基改线缆",
@@ -2115,5 +2079,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 00:15:36"
+  "updateTime": "2026/6/22 00:15:42"
 }

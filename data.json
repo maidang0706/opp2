@@ -1723,14 +1723,14 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1781443965943-s030u5",
       "_renderDate": "2026-06-15"
     },
     {
-      "text": "捷牛报价给谁",
-      "date": "2026-06-15",
+      "text": "捷牛报价",
+      "date": "2026-06-22",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1741,7 +1741,7 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1781444278066-fktoxh",
       "_renderDate": "2026-06-15"
@@ -2103,5 +2103,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/21 22:37:12"
+  "updateTime": "2026/6/21 22:37:31"
 }

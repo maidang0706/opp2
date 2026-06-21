@@ -1211,11 +1211,8 @@
         "start": "",
         "end": ""
       },
-      "done": false,
-      "onlyDone": [
-        0,
-        -1
-      ],
+      "done": true,
+      "onlyDone": [],
       "id": "1779641786391-44i0x1",
       "_renderDate": "2026-06-28"
     },
@@ -1387,24 +1384,6 @@
       "_renderDate": "2026-06-12"
     },
     {
-      "text": "吴馨汇艺",
-      "date": "2026-06-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780239061090-155t2j",
-      "_renderDate": "2026-06-12"
-    },
-    {
       "text": "小蔡不跑珠海客户",
       "date": "2026-06-01",
       "time": "",
@@ -1549,8 +1528,8 @@
       "_renderDate": "2026-06-08"
     },
     {
-      "text": "艾贝特大理石",
-      "date": "2026-06-19",
+      "text": "艾贝特大理石情况",
+      "date": "2026-06-22",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1561,7 +1540,7 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1780843584876-uowiib",
       "_renderDate": "2026-06-19"
@@ -1654,24 +1633,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1780970161013-0g9pwi",
-      "_renderDate": "2026-06-08"
-    },
-    {
-      "text": "孙超要的协议",
-      "date": "2026-06-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781102830914-o72tgd",
       "_renderDate": "2026-06-08"
     },
     {
@@ -1819,42 +1780,6 @@
       "_renderDate": "2026-06-18"
     },
     {
-      "text": "提醒中欣工程师驱动器换了",
-      "date": "2026-06-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781706677019-838hzh",
-      "_renderDate": "2026-06-18"
-    },
-    {
-      "text": "中欣订单排产加急",
-      "date": "2026-06-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781706799967-5zuv6o",
-      "_renderDate": "2026-06-18"
-    },
-    {
       "text": "中基付款",
       "date": "2026-06-23",
       "time": "",
@@ -1871,24 +1796,6 @@
       "onlyDone": [],
       "id": "1781707100243-8tcpvq",
       "_renderDate": "2026-06-22"
-    },
-    {
-      "text": "誉辰注油管",
-      "date": "2026-06-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781746621961-aqjcj5",
-      "_renderDate": "2026-06-18"
     },
     {
       "text": "格润付款方式",
@@ -1945,7 +1852,7 @@
       "_renderDate": "2026-06-21"
     },
     {
-      "text": "汇艺用的谁家模组",
+      "text": "汇艺用的谁家模组，吴馨",
       "date": "2026-06-26",
       "time": "",
       "isAllDay": true,
@@ -2079,5 +1986,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 00:15:42"
+  "updateTime": "2026/6/22 00:17:39"
 }

@@ -2086,6 +2086,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782053485547-1fn4b8"
+    },
+    {
+      "text": "艾文",
+      "date": "2026-06-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782053560645-rpm8vr"
     }
   ],
   "workList": [
@@ -2120,5 +2137,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/21 22:51:26"
+  "updateTime": "2026/6/21 22:52:41"
 }

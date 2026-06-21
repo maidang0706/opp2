@@ -2120,6 +2120,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782053586356-rpgptv"
+    },
+    {
+      "text": "中欣有个型号报错了",
+      "date": "2026-06-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782053730335-mh60up"
     }
   ],
   "workList": [
@@ -2154,5 +2171,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/21 22:55:13"
+  "updateTime": "2026/6/21 22:55:31"
 }

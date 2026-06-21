@@ -2103,6 +2103,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782053560645-rpm8vr"
+    },
+    {
+      "text": "武汉楚能我们不在名录",
+      "date": "2026-06-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782053586356-rpgptv"
     }
   ],
   "workList": [
@@ -2137,5 +2154,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/21 22:52:41"
+  "updateTime": "2026/6/21 22:53:07"
 }

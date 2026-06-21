@@ -1078,9 +1078,9 @@
     },
     {
       "text": "叁迪出货",
-      "date": "2026-06-16",
-      "time": "15:00",
-      "isAllDay": false,
+      "date": "2026-06-23",
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -2103,5 +2103,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/21 22:37:31"
+  "updateTime": "2026/6/21 22:37:42"
 }

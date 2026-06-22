@@ -1525,24 +1525,6 @@
       "_renderDate": "2026-06-08"
     },
     {
-      "text": "艾贝特大理石情况",
-      "date": "2026-06-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780843584876-uowiib",
-      "_renderDate": "2026-06-19"
-    },
-    {
       "text": "东莞启点-镜头组装设备",
       "date": "2026-06-05",
       "time": "",
@@ -1983,5 +1965,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 08:26:44"
+  "updateTime": "2026/6/22 08:27:14"
 }

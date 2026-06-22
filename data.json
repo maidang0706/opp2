@@ -1999,6 +1999,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782098437591-bc11bl"
+    },
+    {
+      "text": "花冠报价",
+      "date": "2026-06-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782100756625-m7twha"
     }
   ],
   "workList": [
@@ -2033,5 +2050,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 11:42:58"
+  "updateTime": "2026/6/22 11:59:17"
 }

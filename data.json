@@ -1945,26 +1945,9 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1782092551165-ok3bg6"
-    },
-    {
-      "text": "誉昊大理石交期",
-      "date": "2026-06-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782093115760-z8563c"
     },
     {
       "text": "誉昊大理石",
@@ -2033,5 +2016,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 11:04:39"
+  "updateTime": "2026/6/22 11:05:11"
 }

@@ -1965,6 +1965,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782093115760-z8563c"
+    },
+    {
+      "text": "誉昊大理石",
+      "date": "2026-06-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782093175838-dbvjgf"
     }
   ],
   "workList": [
@@ -1999,5 +2016,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 09:51:56"
+  "updateTime": "2026/6/22 09:52:56"
 }

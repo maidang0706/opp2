@@ -1931,6 +1931,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782058517303-twqc3w"
+    },
+    {
+      "text": "新起航让小蔡拉到CRM",
+      "date": "2026-06-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782092551165-ok3bg6"
     }
   ],
   "workList": [
@@ -1965,5 +1982,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 09:14:57"
+  "updateTime": "2026/6/22 09:42:31"
 }

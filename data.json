@@ -1982,6 +1982,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782094242401-gsms6a"
+    },
+    {
+      "text": "中欣报价",
+      "date": "2026-06-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782098437591-bc11bl"
     }
   ],
   "workList": [
@@ -2016,5 +2033,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 11:05:11"
+  "updateTime": "2026/6/22 11:20:38"
 }

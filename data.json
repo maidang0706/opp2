@@ -2016,6 +2016,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1782100756625-m7twha"
+    },
+    {
+      "text": "查博滔的东西库存",
+      "date": "2026-06-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782128881745-0a7csx"
     }
   ],
   "workList": [
@@ -2050,5 +2067,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/22 19:47:32"
+  "updateTime": "2026/6/22 19:48:02"
 }

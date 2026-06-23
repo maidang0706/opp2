@@ -1861,40 +1861,6 @@
       "id": "1782094242401-gsms6a"
     },
     {
-      "text": "中欣报价",
-      "date": "2026-06-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782098437591-bc11bl"
-    },
-    {
-      "text": "花冠报价",
-      "date": "2026-06-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782100756625-m7twha"
-    },
-    {
       "text": "查博滔的东西库存",
       "date": "2026-06-23",
       "time": "",
@@ -2029,5 +1995,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:46:17"
+  "updateTime": "2026/6/23 21:46:25"
 }

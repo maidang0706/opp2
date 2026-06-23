@@ -1793,23 +1793,6 @@
       "id": "1782053560645-rpm8vr"
     },
     {
-      "text": "诚峰",
-      "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782055355021-8wlow9"
-    },
-    {
       "text": "誉昊大理石",
       "date": "2026-06-23",
       "time": "",
@@ -1961,5 +1944,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:47:13"
+  "updateTime": "2026/6/23 21:47:17"
 }

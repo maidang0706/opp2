@@ -1810,23 +1810,6 @@
       "id": "1782055355021-8wlow9"
     },
     {
-      "text": "博滔情况",
-      "date": "2026-06-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782058517303-twqc3w"
-    },
-    {
       "text": "誉昊大理石",
       "date": "2026-06-23",
       "time": "",
@@ -1859,23 +1842,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1782094242401-gsms6a"
-    },
-    {
-      "text": "查博滔的东西库存",
-      "date": "2026-06-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782128881745-0a7csx"
     },
     {
       "text": "把eh100的参数更新到表里面",
@@ -1995,5 +1961,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:46:25"
+  "updateTime": "2026/6/23 21:46:32"
 }

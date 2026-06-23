@@ -2084,6 +2084,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782221462716-rqovbt"
+    },
+    {
+      "text": "答复中欣价格",
+      "date": "2026-06-24",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782222338985-td1jp4"
     }
   ],
   "workList": [
@@ -2118,5 +2135,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:45:30"
+  "updateTime": "2026/6/23 21:45:39"
 }

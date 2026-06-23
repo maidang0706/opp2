@@ -1927,6 +1927,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782222444390-gdns9y"
+    },
+    {
+      "text": "华冠",
+      "date": "2026-06-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782222456297-5wzhz0"
     }
   ],
   "workList": [
@@ -1961,5 +1978,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:47:25"
+  "updateTime": "2026/6/23 21:47:37"
 }

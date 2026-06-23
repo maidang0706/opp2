@@ -1705,24 +1705,6 @@
       "_renderDate": "2026-06-17"
     },
     {
-      "text": "中基改线缆",
-      "date": "2026-06-22",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781680171070-ehcdh3",
-      "_renderDate": "2026-06-22"
-    },
-    {
       "text": "交报销",
       "date": "2026-06-22",
       "time": "",
@@ -2135,5 +2117,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:45:39"
+  "updateTime": "2026/6/23 21:45:44"
 }

@@ -1780,7 +1780,7 @@
       "date": "2026-06-24",
       "time": "",
       "isAllDay": true,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "low",
       "repeat": {
         "type": 0,
@@ -1961,5 +1961,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:46:46"
+  "updateTime": "2026/6/23 21:47:13"
 }

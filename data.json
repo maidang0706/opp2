@@ -2065,6 +2065,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782222338985-td1jp4"
+    },
+    {
+      "text": "信用卡",
+      "date": "2026-06-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782222352285-eibd3i"
     }
   ],
   "workList": [
@@ -2099,5 +2116,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:45:47"
+  "updateTime": "2026/6/23 21:45:53"
 }

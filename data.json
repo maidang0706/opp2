@@ -1995,6 +1995,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782222610356-0u12ll"
+    },
+    {
+      "text": "给汇艺李工发图纸",
+      "date": "2026-06-24",
+      "time": "08:30",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782222701315-b6563z"
     }
   ],
   "workList": [
@@ -2029,5 +2046,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:50:11"
+  "updateTime": "2026/6/23 21:51:42"
 }

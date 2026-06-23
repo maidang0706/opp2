@@ -1579,24 +1579,6 @@
       "_renderDate": "2026-06-21"
     },
     {
-      "text": "小廖",
-      "date": "2026-06-22",
-      "time": "16:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1780929302880-jqmg8x",
-      "_renderDate": "2026-06-22"
-    },
-    {
       "text": "誉辰光电座",
       "date": "2026-06-08",
       "time": "",
@@ -2117,5 +2099,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:45:44"
+  "updateTime": "2026/6/23 21:45:47"
 }

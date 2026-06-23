@@ -1638,14 +1638,14 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1781444278066-fktoxh",
       "_renderDate": "2026-06-15"
@@ -2084,5 +2084,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:30:18"
+  "updateTime": "2026/6/23 21:30:23"
 }

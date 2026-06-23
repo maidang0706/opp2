@@ -1760,7 +1760,7 @@
     },
     {
       "text": "中基付款",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2067,6 +2067,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782221432338-d3nkmo"
+    },
+    {
+      "text": "惠州开会",
+      "date": "2026-06-26",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782221462716-rqovbt"
     }
   ],
   "workList": [
@@ -2101,5 +2118,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:30:33"
+  "updateTime": "2026/6/23 21:31:03"
 }

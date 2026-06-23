@@ -1961,6 +1961,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782222461844-n4y1qi"
+    },
+    {
+      "text": "中基拼接模组",
+      "date": "2026-06-25",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782222572952-568lyp"
     }
   ],
   "workList": [
@@ -1995,5 +2012,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:47:42"
+  "updateTime": "2026/6/23 21:49:33"
 }

@@ -2016,8 +2016,8 @@
     {
       "text": "确认科瑞思货期答复炜嘉许翠",
       "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2063,5 +2063,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:53:25"
+  "updateTime": "2026/6/23 21:53:31"
 }

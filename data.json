@@ -1687,24 +1687,6 @@
       "_renderDate": "2026-06-17"
     },
     {
-      "text": "交报销",
-      "date": "2026-06-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781706452547-3enyws",
-      "_renderDate": "2026-06-21"
-    },
-    {
       "text": "华冠报价",
       "date": "2026-06-18",
       "time": "09:00",
@@ -2116,5 +2098,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:45:53"
+  "updateTime": "2026/6/23 21:46:02"
 }

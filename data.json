@@ -2050,6 +2050,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782186168446-npy764"
+    },
+    {
+      "text": "确认精朗款",
+      "date": "2026-06-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782221432338-d3nkmo"
     }
   ],
   "workList": [
@@ -2084,5 +2101,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:30:23"
+  "updateTime": "2026/6/23 21:30:33"
 }

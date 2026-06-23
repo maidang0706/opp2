@@ -1793,23 +1793,6 @@
       "id": "1782053560645-rpm8vr"
     },
     {
-      "text": "中欣有个型号报错了",
-      "date": "2026-06-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782053730335-mh60up"
-    },
-    {
       "text": "诚峰",
       "date": "2026-06-24",
       "time": "",
@@ -1842,23 +1825,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1782058517303-twqc3w"
-    },
-    {
-      "text": "新起航让小蔡拉到CRM",
-      "date": "2026-06-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782092551165-ok3bg6"
     },
     {
       "text": "誉昊大理石",
@@ -2063,5 +2029,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:46:08"
+  "updateTime": "2026/6/23 21:46:17"
 }

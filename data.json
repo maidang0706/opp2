@@ -2033,6 +2033,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782128881745-0a7csx"
+    },
+    {
+      "text": "把eh100的参数更新到表里面",
+      "date": "2026-06-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782186168446-npy764"
     }
   ],
   "workList": [
@@ -2067,5 +2084,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 11:42:22"
+  "updateTime": "2026/6/23 11:42:49"
 }

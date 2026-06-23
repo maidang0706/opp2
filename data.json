@@ -1978,6 +1978,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782222572952-568lyp"
+    },
+    {
+      "text": "中基对账单",
+      "date": "2026-06-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782222610356-0u12ll"
     }
   ],
   "workList": [
@@ -2012,5 +2029,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/23 21:49:33"
+  "updateTime": "2026/6/23 21:50:11"
 }

@@ -1844,40 +1844,6 @@
       "id": "1782222352285-eibd3i"
     },
     {
-      "text": "华冠",
-      "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782222456297-5wzhz0"
-    },
-    {
-      "text": "思格",
-      "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782222461844-n4y1qi"
-    },
-    {
       "text": "中基拼接模组",
       "date": "2026-06-25",
       "time": "09:00",
@@ -1995,5 +1961,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 21:44:45"
+  "updateTime": "2026/6/24 21:44:51"
 }

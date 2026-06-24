@@ -1776,40 +1776,6 @@
       "id": "1782053485547-1fn4b8"
     },
     {
-      "text": "艾文",
-      "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782053560645-rpm8vr"
-    },
-    {
-      "text": "誉昊大理石",
-      "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782093175838-dbvjgf"
-    },
-    {
       "text": "确认誉辰回款",
       "date": "2026-06-25",
       "time": "",
@@ -2063,5 +2029,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 21:43:25"
+  "updateTime": "2026/6/24 21:44:39"
 }

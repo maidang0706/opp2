@@ -2029,6 +2029,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1782222804449-qj8twg"
+    },
+    {
+      "text": "一键换新功能",
+      "date": "2026-06-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782263737347-vav25a"
     }
   ],
   "workList": [
@@ -2063,5 +2080,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 09:15:25"
+  "updateTime": "2026/6/24 09:15:38"
 }

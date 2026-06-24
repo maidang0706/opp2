@@ -1948,8 +1948,8 @@
     {
       "text": "誉辰的PDF",
       "date": "2026-06-25",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2012,5 +2012,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 22:30:07"
+  "updateTime": "2026/6/24 22:30:17"
 }

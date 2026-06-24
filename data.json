@@ -2063,6 +2063,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782282447500-iejta6"
+    },
+    {
+      "text": "光通讯展会",
+      "date": "2026-09-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 3,
+        "days": [],
+        "start": "2026-09-09",
+        "end": "2026-09-11"
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782282500344-lm3j5i"
     }
   ],
   "workList": [
@@ -2097,5 +2114,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 14:27:37"
+  "updateTime": "2026/6/24 14:28:21"
 }

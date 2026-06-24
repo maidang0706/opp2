@@ -2046,6 +2046,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782311849768-ieomlg"
+    },
+    {
+      "text": "博滔动子价格",
+      "date": "2026-06-25",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782311924527-05zb39"
     }
   ],
   "workList": [
@@ -2080,5 +2097,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 22:37:30"
+  "updateTime": "2026/6/24 22:38:45"
 }

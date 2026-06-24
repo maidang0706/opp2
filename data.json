@@ -1861,23 +1861,6 @@
       "id": "1782222572952-568lyp"
     },
     {
-      "text": "中基对账单，誉昊对账单",
-      "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782222610356-0u12ll"
-    },
-    {
       "text": "一键换新功能",
       "date": "2026-06-27",
       "time": "",
@@ -2114,5 +2097,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 00:40:47"
+  "updateTime": "2026/6/25 00:41:13"
 }

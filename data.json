@@ -1706,7 +1706,7 @@
     },
     {
       "text": "中基付款",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1992,7 +1992,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1782222610356-0u12ll"
     },
@@ -2097,5 +2097,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 21:42:32"
+  "updateTime": "2026/6/24 21:42:43"
 }

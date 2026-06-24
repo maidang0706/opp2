@@ -2057,23 +2057,6 @@
       "repeat": {
         "type": 3,
         "days": [],
-        "start": "2026-06-24",
-        "end": "2026-06-26"
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782282447500-iejta6"
-    },
-    {
-      "text": "光通讯展会",
-      "date": "2026-09-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 3,
-        "days": [],
         "start": "2026-09-09",
         "end": "2026-09-11"
       },
@@ -2114,5 +2097,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 14:28:21"
+  "updateTime": "2026/6/24 14:28:32"
 }

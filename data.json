@@ -1978,6 +1978,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782311396926-4lkxll"
+    },
+    {
+      "text": "中基",
+      "date": "2026-06-25",
+      "time": "14:00",
+      "isAllDay": false,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782311478225-vrtvjv"
     }
   ],
   "workList": [
@@ -2012,5 +2029,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 22:30:17"
+  "updateTime": "2026/6/24 22:31:19"
 }

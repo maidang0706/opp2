@@ -1832,7 +1832,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2029,6 +2029,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782311541584-8nffds"
+    },
+    {
+      "text": "叁迪的温度问题",
+      "date": "2026-06-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782311849768-ieomlg"
     }
   ],
   "workList": [
@@ -2063,5 +2080,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 22:36:35"
+  "updateTime": "2026/6/24 22:37:30"
 }

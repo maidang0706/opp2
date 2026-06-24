@@ -2012,6 +2012,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782282500344-lm3j5i"
+    },
+    {
+      "text": "中欣给备注",
+      "date": "2026-06-25",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782308604803-qk8esg"
     }
   ],
   "workList": [
@@ -2046,5 +2063,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 21:43:14"
+  "updateTime": "2026/6/24 21:43:25"
 }

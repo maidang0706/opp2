@@ -1961,6 +1961,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782311374849-5ywle5"
+    },
+    {
+      "text": "罗博威视图纸",
+      "date": "2026-06-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782311396926-4lkxll"
     }
   ],
   "workList": [
@@ -1995,5 +2012,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 22:29:35"
+  "updateTime": "2026/6/24 22:29:57"
 }

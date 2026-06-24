@@ -1793,23 +1793,6 @@
       "id": "1782094242401-gsms6a"
     },
     {
-      "text": "把eh100的参数更新到表里面",
-      "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782186168446-npy764"
-    },
-    {
       "text": "确认精朗款",
       "date": "2026-06-25",
       "time": "",
@@ -1859,23 +1842,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1782222352285-eibd3i"
-    },
-    {
-      "text": "誉昊",
-      "date": "2026-06-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782222444390-gdns9y"
     },
     {
       "text": "华冠",
@@ -2029,5 +1995,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 21:44:39"
+  "updateTime": "2026/6/24 21:44:45"
 }

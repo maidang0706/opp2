@@ -2063,6 +2063,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782311924527-05zb39"
+    },
+    {
+      "text": "精朗线缆报价",
+      "date": "2026-06-25",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782311981108-mc0rhe"
     }
   ],
   "workList": [
@@ -2097,5 +2114,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 22:38:45"
+  "updateTime": "2026/6/24 22:39:41"
 }

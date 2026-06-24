@@ -1878,23 +1878,6 @@
       "id": "1782221462716-rqovbt"
     },
     {
-      "text": "答复中欣价格",
-      "date": "2026-06-24",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782222338985-td1jp4"
-    },
-    {
       "text": "信用卡",
       "date": "2026-06-25",
       "time": "",
@@ -1997,23 +1980,6 @@
       "id": "1782222610356-0u12ll"
     },
     {
-      "text": "确认科瑞思货期答复炜嘉许翠",
-      "date": "2026-06-24",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782222804449-qj8twg"
-    },
-    {
       "text": "一键换新功能",
       "date": "2026-06-27",
       "time": "",
@@ -2080,5 +2046,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 21:43:07"
+  "updateTime": "2026/6/24 21:43:14"
 }

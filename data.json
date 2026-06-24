@@ -1896,7 +1896,7 @@
     },
     {
       "text": "信用卡",
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1997,23 +1997,6 @@
       "id": "1782222610356-0u12ll"
     },
     {
-      "text": "给汇艺李工发图纸",
-      "date": "2026-06-24",
-      "time": "08:30",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782222701315-b6563z"
-    },
-    {
       "text": "确认科瑞思货期答复炜嘉许翠",
       "date": "2026-06-24",
       "time": "09:00",
@@ -2097,5 +2080,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/24 21:42:56"
+  "updateTime": "2026/6/24 21:43:07"
 }

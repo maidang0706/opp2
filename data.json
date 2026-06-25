@@ -1894,23 +1894,6 @@
       "id": "1782311849768-ieomlg"
     },
     {
-      "text": "精朗线缆报价",
-      "date": "2026-06-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782311981108-mc0rhe"
-    },
-    {
       "text": "汇艺",
       "date": "2026-06-26",
       "time": "",
@@ -2079,5 +2062,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 20:48:15"
+  "updateTime": "2026/6/25 20:48:18"
 }

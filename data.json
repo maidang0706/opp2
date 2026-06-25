@@ -1994,6 +1994,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782395261447-rppax3"
+    },
+    {
+      "text": "汇艺大理石",
+      "date": "2026-06-26",
+      "time": "15:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782395293355-gluvg5"
     }
   ],
   "workList": [
@@ -2028,5 +2045,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 21:47:42"
+  "updateTime": "2026/6/25 21:48:14"
 }

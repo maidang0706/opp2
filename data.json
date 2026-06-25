@@ -1838,7 +1838,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1782222572952-568lyp"
     },
@@ -1946,7 +1946,7 @@
     },
     {
       "text": "叁迪的温度问题",
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2028,5 +2028,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 16:43:28"
+  "updateTime": "2026/6/25 16:46:57"
 }

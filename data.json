@@ -1617,8 +1617,8 @@
     {
       "text": "捷牛报价",
       "date": "2026-06-26",
-      "time": "09:00",
-      "isAllDay": false,
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -2011,5 +2011,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 21:44:46"
+  "updateTime": "2026/6/25 21:44:59"
 }

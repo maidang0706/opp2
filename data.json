@@ -2028,6 +2028,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782379982411-pbugpb"
+    },
+    {
+      "text": "中基工况申请",
+      "date": "2026-06-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782379992434-sal2k5"
     }
   ],
   "workList": [
@@ -2062,5 +2079,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 17:33:03"
+  "updateTime": "2026/6/25 17:33:13"
 }

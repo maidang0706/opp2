@@ -1929,23 +1929,6 @@
       "id": "1782311374849-5ywle5"
     },
     {
-      "text": "罗博威视图纸",
-      "date": "2026-06-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782311396926-4lkxll"
-    },
-    {
       "text": "中基",
       "date": "2026-06-25",
       "time": "14:00",
@@ -1995,23 +1978,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1782311849768-ieomlg"
-    },
-    {
-      "text": "博滔动子价格",
-      "date": "2026-06-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782311924527-05zb39"
     },
     {
       "text": "精朗线缆报价",
@@ -2080,5 +2046,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 09:27:01"
+  "updateTime": "2026/6/25 09:27:09"
 }

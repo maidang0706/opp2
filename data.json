@@ -2011,6 +2011,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782395293355-gluvg5"
+    },
+    {
+      "text": "中欣查线缆",
+      "date": "2026-06-26",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782395402284-ij0mfp"
     }
   ],
   "workList": [
@@ -2045,5 +2062,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 21:48:14"
+  "updateTime": "2026/6/25 21:50:03"
 }

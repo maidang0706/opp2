@@ -2062,6 +2062,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782384174046-lpj7un"
+    },
+    {
+      "text": "下半年的销售规划，老莫规划",
+      "date": "2026-06-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782385027057-mgcm2u"
     }
   ],
   "workList": [
@@ -2096,5 +2113,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 18:56:50"
+  "updateTime": "2026/6/25 18:57:07"
 }

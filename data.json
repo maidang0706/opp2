@@ -2096,6 +2096,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782385786568-h6wv2f"
+    },
+    {
+      "text": "用work buddy做给商务模组的备注功能。",
+      "date": "2026-06-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782386174365-vbxpnq"
     }
   ],
   "workList": [
@@ -2130,5 +2147,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 19:15:50"
+  "updateTime": "2026/6/25 19:16:15"
 }

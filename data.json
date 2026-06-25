@@ -1758,40 +1758,6 @@
       "id": "1782053485547-1fn4b8"
     },
     {
-      "text": "确认誉辰回款",
-      "date": "2026-06-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782094242401-gsms6a"
-    },
-    {
-      "text": "确认精朗款",
-      "date": "2026-06-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782221432338-d3nkmo"
-    },
-    {
       "text": "惠州开会",
       "date": "2026-06-26",
       "time": "09:00",
@@ -2062,5 +2028,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 20:48:18"
+  "updateTime": "2026/6/25 20:48:24"
 }

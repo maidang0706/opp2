@@ -1826,23 +1826,6 @@
       "id": "1782222352285-eibd3i"
     },
     {
-      "text": "中基拼接模组",
-      "date": "2026-06-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782222572952-568lyp"
-    },
-    {
       "text": "一键换新功能",
       "date": "2026-06-27",
       "time": "",
@@ -1892,23 +1875,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1782311344419-bauhuz"
-    },
-    {
-      "text": "誉辰的PDF",
-      "date": "2026-06-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782311374849-5ywle5"
     },
     {
       "text": "叁迪的温度问题",
@@ -2113,5 +2079,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 20:48:09"
+  "updateTime": "2026/6/25 20:48:15"
 }

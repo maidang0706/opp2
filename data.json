@@ -2025,12 +2025,12 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1782379982411-pbugpb"
     },
     {
-      "text": "中基工况申请",
+      "text": "中基工装申请",
       "date": "2026-06-25",
       "time": "",
       "isAllDay": true,
@@ -2096,5 +2096,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 18:43:01"
+  "updateTime": "2026/6/25 18:43:12"
 }

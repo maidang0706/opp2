@@ -1960,6 +1960,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782386174365-vbxpnq"
+    },
+    {
+      "text": "查找excel表格数据功能",
+      "date": "2026-06-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782394668299-0lt1uf"
     }
   ],
   "workList": [
@@ -1994,5 +2011,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 21:37:17"
+  "updateTime": "2026/6/25 21:37:49"
 }

@@ -1977,6 +1977,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782394668299-0lt1uf"
+    },
+    {
+      "text": "捷牛方案更改",
+      "date": "2026-06-26",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782395261447-rppax3"
     }
   ],
   "workList": [
@@ -2011,5 +2028,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 21:44:59"
+  "updateTime": "2026/6/25 21:47:42"
 }

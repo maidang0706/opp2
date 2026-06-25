@@ -1895,9 +1895,9 @@
     },
     {
       "text": "汇艺报价",
-      "date": "2026-06-25",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-26",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2011,5 +2011,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 21:37:49"
+  "updateTime": "2026/6/25 21:43:39"
 }

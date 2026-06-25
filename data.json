@@ -1776,7 +1776,7 @@
     },
     {
       "text": "信用卡",
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1929,9 +1929,9 @@
     },
     {
       "text": "炜嘉驱动器价格",
-      "date": "2026-06-25",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-26",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2011,5 +2011,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 21:44:07"
+  "updateTime": "2026/6/25 21:44:23"
 }

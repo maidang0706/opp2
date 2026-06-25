@@ -1928,23 +1928,6 @@
       "id": "1782311478225-vrtvjv"
     },
     {
-      "text": "卓誉",
-      "date": "2026-06-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782311490036-3dcjjn"
-    },
-    {
       "text": "叁迪的温度问题",
       "date": "2026-06-26",
       "time": "",
@@ -2147,5 +2130,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 20:48:01"
+  "updateTime": "2026/6/25 20:48:06"
 }

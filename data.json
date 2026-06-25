@@ -1723,24 +1723,6 @@
       "_renderDate": "2026-06-22"
     },
     {
-      "text": "格润付款方式",
-      "date": "2026-06-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1781755014324-l8d0jh",
-      "_renderDate": "2026-06-22"
-    },
-    {
       "text": "中欣更新报价",
       "date": "2026-06-21",
       "time": "",
@@ -2046,5 +2028,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 12:51:42"
+  "updateTime": "2026/6/25 12:51:53"
 }

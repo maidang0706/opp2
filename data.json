@@ -1895,23 +1895,6 @@
       "id": "1782282500344-lm3j5i"
     },
     {
-      "text": "中欣给备注",
-      "date": "2026-06-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782308604803-qk8esg"
-    },
-    {
       "text": "小蔡的两个录音",
       "date": "2026-06-27",
       "time": "",
@@ -2097,5 +2080,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 09:26:40"
+  "updateTime": "2026/6/25 09:27:01"
 }

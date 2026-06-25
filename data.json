@@ -2028,6 +2028,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782395402284-ij0mfp"
+    },
+    {
+      "text": "襄阳中基少光电",
+      "date": "2026-06-26",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782396022489-qx8rff"
     }
   ],
   "workList": [
@@ -2062,5 +2079,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/25 21:50:03"
+  "updateTime": "2026/6/25 22:00:23"
 }

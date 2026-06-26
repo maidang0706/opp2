@@ -1758,23 +1758,6 @@
       "id": "1782053485547-1fn4b8"
     },
     {
-      "text": "惠州开会",
-      "date": "2026-06-26",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782221462716-rqovbt"
-    },
-    {
       "text": "信用卡",
       "date": "2026-06-26",
       "time": "",
@@ -2096,5 +2079,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/26 09:07:56"
+  "updateTime": "2026/6/26 09:08:02"
 }

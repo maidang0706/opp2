@@ -1911,23 +1911,6 @@
       "id": "1782385027057-mgcm2u"
     },
     {
-      "text": "炜嘉驱动器价格",
-      "date": "2026-06-26",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782385786568-h6wv2f"
-    },
-    {
       "text": "用work buddy做给商务模组的备注功能。",
       "date": "2026-06-28",
       "time": "",
@@ -2079,5 +2062,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/26 09:08:02"
+  "updateTime": "2026/6/26 09:08:05"
 }

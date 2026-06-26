@@ -2045,6 +2045,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782396022489-qx8rff"
+    },
+    {
+      "text": "查0387卡",
+      "date": "2026-06-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782434026488-thnq8m"
     }
   ],
   "workList": [
@@ -2079,5 +2096,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/26 08:33:41"
+  "updateTime": "2026/6/26 08:33:47"
 }

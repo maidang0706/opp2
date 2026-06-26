@@ -2028,6 +2028,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782434026488-thnq8m"
+    },
+    {
+      "text": "小罗开业",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782461221642-4tek0g"
     }
   ],
   "workList": [
@@ -2062,5 +2079,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/26 16:06:57"
+  "updateTime": "2026/6/26 16:07:02"
 }

@@ -2062,6 +2062,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782472243365-ug7si8"
+    },
+    {
+      "text": "联系精智达半导体的人",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782473732823-y4ftp1"
     }
   ],
   "workList": [
@@ -2096,5 +2113,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/26 19:35:22"
+  "updateTime": "2026/6/26 19:35:33"
 }

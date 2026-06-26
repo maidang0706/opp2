@@ -2079,6 +2079,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782473732823-y4ftp1"
+    },
+    {
+      "text": "给炜嘉发博杰电源线接头",
+      "date": "2026-06-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782475356112-rc046q"
     }
   ],
   "workList": [
@@ -2113,5 +2130,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/26 19:35:33"
+  "updateTime": "2026/6/26 20:02:36"
 }

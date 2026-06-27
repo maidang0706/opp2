@@ -1740,23 +1740,6 @@
       "id": "1782053485547-1fn4b8"
     },
     {
-      "text": "信用卡",
-      "date": "2026-06-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782222352285-eibd3i"
-    },
-    {
       "text": "一键换新功能",
       "date": "2026-06-27",
       "time": "",
@@ -2095,5 +2078,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:01:29"
+  "updateTime": "2026/6/27 22:01:34"
 }

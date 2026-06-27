@@ -2029,23 +2029,6 @@
       "id": "1782568855842-ywdutg"
     },
     {
-      "text": "欠仓库一个26P的连接器",
-      "date": "2026-06-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782568971698-na3sjv"
-    },
-    {
       "text": "蜀丰给3D",
       "date": "2026-06-29",
       "time": "",
@@ -2095,5 +2078,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:03:50"
+  "updateTime": "2026/6/27 22:03:55"
 }

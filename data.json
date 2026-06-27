@@ -2027,6 +2027,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782526057583-dgcldj"
+    },
+    {
+      "text": "中欣发栅尺",
+      "date": "2026-06-28",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782568829820-0kzcbz"
     }
   ],
   "workList": [
@@ -2061,5 +2078,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:00:17"
+  "updateTime": "2026/6/27 22:00:30"
 }

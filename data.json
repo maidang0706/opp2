@@ -2027,6 +2027,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782475356112-rc046q"
+    },
+    {
+      "text": "精智达要的钣金",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782526057583-dgcldj"
     }
   ],
   "workList": [
@@ -2061,5 +2078,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 10:07:30"
+  "updateTime": "2026/6/27 10:07:38"
 }

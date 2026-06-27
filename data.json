@@ -1928,9 +1928,9 @@
     },
     {
       "text": "补中欣接头申请",
-      "date": "2026-06-27",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-28",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2095,5 +2095,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:03:07"
+  "updateTime": "2026/6/27 22:03:50"
 }

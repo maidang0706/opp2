@@ -1792,9 +1792,9 @@
     },
     {
       "text": "叁迪的温度问题",
-      "date": "2026-06-26",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-29",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2078,5 +2078,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:01:34"
+  "updateTime": "2026/6/27 22:01:44"
 }

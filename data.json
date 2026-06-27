@@ -1825,23 +1825,6 @@
       "id": "1782311849768-ieomlg"
     },
     {
-      "text": "汇艺",
-      "date": "2026-06-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782347699303-37onjv"
-    },
-    {
       "text": "中基工装申请",
       "date": "2026-06-26",
       "time": "09:00",
@@ -2112,5 +2095,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 10:04:30"
+  "updateTime": "2026/6/27 10:04:57"
 }

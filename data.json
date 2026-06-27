@@ -1723,23 +1723,6 @@
       "_renderDate": "2026-06-21"
     },
     {
-      "text": "汇艺用的谁家模组，吴馨",
-      "date": "2026-06-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782053485547-1fn4b8"
-    },
-    {
       "text": "一键换新功能",
       "date": "2026-06-27",
       "time": "",
@@ -2095,5 +2078,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:02:52"
+  "updateTime": "2026/6/27 22:02:58"
 }

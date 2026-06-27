@@ -1962,9 +1962,9 @@
     },
     {
       "text": "给炜嘉发博杰电源线接头",
-      "date": "2026-06-27",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-06-28",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2078,5 +2078,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:03:55"
+  "updateTime": "2026/6/27 22:04:11"
 }

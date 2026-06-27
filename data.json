@@ -1842,23 +1842,6 @@
       "id": "1782379992434-sal2k5"
     },
     {
-      "text": "汇艺报价",
-      "date": "2026-06-26",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782384174046-lpj7un"
-    },
-    {
       "text": "下半年的销售规划，老莫规划",
       "date": "2026-06-27",
       "time": "",
@@ -1942,23 +1925,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1782395293355-gluvg5"
-    },
-    {
-      "text": "中欣线缆报价",
-      "date": "2026-06-26",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782395402284-ij0mfp"
     },
     {
       "text": "襄阳中基少光电",
@@ -2095,5 +2061,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 10:04:57"
+  "updateTime": "2026/6/27 10:05:01"
 }

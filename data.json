@@ -2044,6 +2044,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782568829820-0kzcbz"
+    },
+    {
+      "text": "问中欣交期",
+      "date": "2026-06-28",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782568855842-ywdutg"
     }
   ],
   "workList": [
@@ -2078,5 +2095,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:00:30"
+  "updateTime": "2026/6/27 22:00:56"
 }

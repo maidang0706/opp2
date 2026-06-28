@@ -2051,6 +2051,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782568987086-q22xlk"
+    },
+    {
+      "text": "中欣25米磁栅销单",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782612623060-m2pylp"
     }
   ],
   "workList": [
@@ -2085,5 +2102,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/27 22:38:58"
+  "updateTime": "2026/6/28 10:10:23"
 }

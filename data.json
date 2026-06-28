@@ -2139,6 +2139,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782646766096-wyhs9t"
+    },
+    {
+      "text": "中基线缆错了",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782646841508-n9fbfl"
     }
   ],
   "workList": [
@@ -2173,5 +2190,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 19:39:26"
+  "updateTime": "2026/6/28 19:40:42"
 }

@@ -2190,6 +2190,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782646916918-4hcvf6"
+    },
+    {
+      "text": "卓誉驱动器缺货问题",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782650204017-juupp8"
     }
   ],
   "workList": [
@@ -2224,5 +2241,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 19:41:57"
+  "updateTime": "2026/6/28 20:36:44"
 }

@@ -2105,6 +2105,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782646707262-nornlc"
+    },
+    {
+      "text": "博杰发货",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782646732665-ylhxg1"
     }
   ],
   "workList": [
@@ -2139,5 +2156,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 19:38:28"
+  "updateTime": "2026/6/28 19:38:53"
 }

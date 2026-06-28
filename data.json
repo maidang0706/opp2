@@ -2258,6 +2258,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782651605800-31i0mv"
+    },
+    {
+      "text": "诊断和康复群用AI，我的脚",
+      "date": "2026-07-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782662340944-iy0pjk"
     }
   ],
   "workList": [
@@ -2292,5 +2309,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 23:58:42"
+  "updateTime": "2026/6/28 23:59:01"
 }

@@ -2275,6 +2275,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782651400403-yynm5g"
+    },
+    {
+      "text": "盛鑫",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782651587825-1yuxmk"
     }
   ],
   "workList": [
@@ -2309,5 +2326,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 20:56:41"
+  "updateTime": "2026/6/28 20:59:48"
 }

@@ -2088,6 +2088,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782619180199-hkptuz"
+    },
+    {
+      "text": "小罗花",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782646707262-nornlc"
     }
   ],
   "workList": [
@@ -2122,5 +2139,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 19:38:15"
+  "updateTime": "2026/6/28 19:38:28"
 }

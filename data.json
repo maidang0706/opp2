@@ -2086,6 +2086,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782616096851-fhc1bk"
+    },
+    {
+      "text": "答复中欣交期",
+      "date": "2026-06-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782618195956-s5enoo"
     }
   ],
   "workList": [
@@ -2120,5 +2137,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 11:41:58"
+  "updateTime": "2026/6/28 11:43:16"
 }

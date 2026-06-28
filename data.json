@@ -2068,7 +2068,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1782618195956-s5enoo"
     },
@@ -2224,6 +2224,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782650248679-uiuao0"
+    },
+    {
+      "text": "中基报价",
+      "date": "2026-06-29",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782650384886-61uujo"
     }
   ],
   "workList": [
@@ -2258,5 +2275,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 20:39:05"
+  "updateTime": "2026/6/28 20:39:45"
 }

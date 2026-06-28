@@ -2258,6 +2258,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782650875307-94efz1"
+    },
+    {
+      "text": "商机表加入小黄和小蔡",
+      "date": "2026-07-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782651400403-yynm5g"
     }
   ],
   "workList": [
@@ -2292,5 +2309,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 20:56:19"
+  "updateTime": "2026/6/28 20:56:41"
 }

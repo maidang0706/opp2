@@ -1973,8 +1973,8 @@
     {
       "text": "精智达要的钣金",
       "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2005,10 +2005,10 @@
       "id": "1782568855842-ywdutg"
     },
     {
-      "text": "蜀丰给3D",
+      "text": "汇艺大理石给唐自祥",
       "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2122,5 +2122,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 19:37:07"
+  "updateTime": "2026/6/28 19:38:00"
 }

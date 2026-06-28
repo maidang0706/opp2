@@ -1871,8 +1871,8 @@
     {
       "text": "襄阳中基申请2个光电",
       "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -1939,8 +1939,8 @@
     {
       "text": "联系精智达半导体的人",
       "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2343,5 +2343,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 22:35:20"
+  "updateTime": "2026/6/28 22:35:32"
 }

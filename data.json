@@ -2005,23 +2005,6 @@
       "id": "1782526057583-dgcldj"
     },
     {
-      "text": "中欣发栅尺",
-      "date": "2026-06-28",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782568829820-0kzcbz"
-    },
-    {
       "text": "中欣模组交期加急",
       "date": "2026-06-29",
       "time": "09:00",
@@ -2156,5 +2139,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 14:51:45"
+  "updateTime": "2026/6/28 14:52:16"
 }

@@ -2068,6 +2068,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782612623060-m2pylp"
+    },
+    {
+      "text": "中欣要的15电源线",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782616096851-fhc1bk"
     }
   ],
   "workList": [
@@ -2102,5 +2119,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 10:10:23"
+  "updateTime": "2026/6/28 11:08:17"
 }

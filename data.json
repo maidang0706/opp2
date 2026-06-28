@@ -2103,6 +2103,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782618195956-s5enoo"
+    },
+    {
+      "text": "艾贝特固定梁方案",
+      "date": "2026-06-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782619180199-hkptuz"
     }
   ],
   "workList": [
@@ -2137,5 +2154,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 11:54:36"
+  "updateTime": "2026/6/28 11:59:41"
 }

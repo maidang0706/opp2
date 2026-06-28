@@ -1835,23 +1835,6 @@
       "id": "1782385027057-mgcm2u"
     },
     {
-      "text": "用work buddy做给商务模组的备注功能。",
-      "date": "2026-06-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782386174365-vbxpnq"
-    },
-    {
       "text": "查找excel表格数据功能",
       "date": "2026-06-28",
       "time": "",
@@ -2139,5 +2122,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 14:52:16"
+  "updateTime": "2026/6/28 14:52:45"
 }

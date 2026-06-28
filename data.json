@@ -1869,23 +1869,6 @@
       "id": "1782395261447-rppax3"
     },
     {
-      "text": "襄阳中基申请2个光电",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782396022489-qx8rff"
-    },
-    {
       "text": "查0387卡消费记录",
       "date": "2026-06-28",
       "time": "",
@@ -2243,7 +2226,7 @@
       "id": "1782650384886-61uujo"
     },
     {
-      "text": "精朗报价，找罗洋确认线长",
+      "text": "精朗报价，中基报价",
       "date": "2026-06-29",
       "time": "09:00",
       "isAllDay": false,
@@ -2343,5 +2326,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 22:36:49"
+  "updateTime": "2026/6/28 22:37:24"
 }

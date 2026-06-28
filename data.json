@@ -2075,8 +2075,8 @@
     {
       "text": "艾贝特固定梁方案",
       "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2122,5 +2122,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 19:38:00"
+  "updateTime": "2026/6/28 19:38:15"
 }

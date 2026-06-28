@@ -1801,7 +1801,7 @@
       "id": "1782311849768-ieomlg"
     },
     {
-      "text": "中基工装申请",
+      "text": "中基工装和光电申请",
       "date": "2026-06-29",
       "time": "",
       "isAllDay": true,
@@ -1973,8 +1973,8 @@
     {
       "text": "精智达要的钣金",
       "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2343,5 +2343,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/28 22:35:32"
+  "updateTime": "2026/6/28 22:36:08"
 }

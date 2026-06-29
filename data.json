@@ -1971,23 +1971,6 @@
       "id": "1782646916918-4hcvf6"
     },
     {
-      "text": "卓誉少驱动器",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782650204017-juupp8"
-    },
-    {
       "text": "商机表加入小黄和小蔡",
       "date": "2026-07-04",
       "time": "",
@@ -2139,6 +2122,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745350754-5jpzt8"
+    },
+    {
+      "text": "卓誉线缆发货",
+      "date": "2026-07-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782745437015-b2rxko"
     }
   ],
   "workList": [
@@ -2173,5 +2173,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:03:44"
+  "updateTime": "2026/6/29 23:03:57"
 }

@@ -1697,24 +1697,6 @@
       "_renderDate": "2026-06-18"
     },
     {
-      "text": "款：襄阳中基，誉辰，精朗，誉昊，中欣",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1781707100243-8tcpvq",
-      "_renderDate": "2026-06-22"
-    },
-    {
       "text": "中欣更新报价",
       "date": "2026-06-21",
       "time": "",
@@ -2241,6 +2223,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745712617-igxvk5"
+    },
+    {
+      "text": "捷佳伟创，誉昊，中欣，誉辰，精朗",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782745824444-t0fntm"
     }
   ],
   "workList": [
@@ -2275,5 +2274,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:08:33"
+  "updateTime": "2026/6/29 23:10:29"
 }

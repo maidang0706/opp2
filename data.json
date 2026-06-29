@@ -2324,6 +2324,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782752414361-8xqldl"
+    },
+    {
+      "text": "视频号更新监控",
+      "date": "2026-07-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782752435665-euoen9"
     }
   ],
   "workList": [
@@ -2358,5 +2375,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 01:00:15"
+  "updateTime": "2026/6/30 01:00:36"
 }

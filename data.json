@@ -1784,23 +1784,6 @@
       "id": "1782311344419-bauhuz"
     },
     {
-      "text": "叁迪的温度问题",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782311849768-ieomlg"
-    },
-    {
       "text": "下半年的销售规划，老莫规划",
       "date": "2026-06-27",
       "time": "",
@@ -2003,23 +1986,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1782646732665-ylhxg1"
-    },
-    {
-      "text": "精朗发驱动器",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782646766096-wyhs9t"
     },
     {
       "text": "中基线缆错了",
@@ -2258,5 +2224,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:03:11"
+  "updateTime": "2026/6/29 23:03:18"
 }

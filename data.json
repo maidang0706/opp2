@@ -2309,6 +2309,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782712278792-i5i84t"
+    },
+    {
+      "text": "发中基11米的线缆",
+      "date": "2026-07-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782716354329-pfgiuj"
     }
   ],
   "workList": [
@@ -2343,5 +2360,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 14:59:06"
+  "updateTime": "2026/6/29 14:59:15"
 }

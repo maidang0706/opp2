@@ -2377,6 +2377,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782744820002-7j01tu"
+    },
+    {
+      "text": "给中基线缆型号",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782745350754-5jpzt8"
     }
   ],
   "workList": [
@@ -2411,5 +2428,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 22:53:40"
+  "updateTime": "2026/6/29 23:02:31"
 }

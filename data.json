@@ -2239,6 +2239,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745929292-etw6mw"
+    },
+    {
+      "text": "精朗",
+      "date": "2026-06-30",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782746063485-rotyrx"
     }
   ],
   "workList": [
@@ -2273,5 +2290,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:13:57"
+  "updateTime": "2026/6/29 23:14:24"
 }

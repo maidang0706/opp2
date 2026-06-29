@@ -1625,24 +1625,6 @@
       "_renderDate": "2026-06-15"
     },
     {
-      "text": "捷牛报价",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1781444278066-fktoxh",
-      "_renderDate": "2026-06-15"
-    },
-    {
       "text": "中基替换德康价格",
       "date": "2026-06-21",
       "time": "",
@@ -1971,7 +1953,7 @@
     },
     {
       "text": "盛鑫",
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "time": "14:00",
       "isAllDay": false,
       "isVisit": true,
@@ -2274,5 +2256,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:10:33"
+  "updateTime": "2026/6/29 23:10:47"
 }

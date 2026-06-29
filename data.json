@@ -2222,6 +2222,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745824444-t0fntm"
+    },
+    {
+      "text": "确认中欣技术群光电座个数",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782745929292-etw6mw"
     }
   ],
   "workList": [
@@ -2256,5 +2273,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:10:47"
+  "updateTime": "2026/6/29 23:12:10"
 }

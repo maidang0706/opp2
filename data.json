@@ -2360,6 +2360,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782717897439-r423ff"
+    },
+    {
+      "text": "EL210-75-M6-L900-B-ZJ-260055配套线缆",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782744820002-7j01tu"
     }
   ],
   "workList": [
@@ -2394,5 +2411,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 22:53:33"
+  "updateTime": "2026/6/29 22:53:40"
 }

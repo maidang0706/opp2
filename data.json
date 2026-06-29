@@ -2207,6 +2207,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745614653-ijyurs"
+    },
+    {
+      "text": "中欣电源线发货",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782745679746-zcth69"
     }
   ],
   "workList": [
@@ -2241,5 +2258,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:06:55"
+  "updateTime": "2026/6/29 23:08:00"
 }

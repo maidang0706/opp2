@@ -1904,7 +1904,7 @@
     },
     {
       "text": "精智达要的钣金",
-      "date": "2026-06-29",
+      "date": "2026-07-01",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -1915,7 +1915,7 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1782526057583-dgcldj"
     },
@@ -2224,5 +2224,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:03:18"
+  "updateTime": "2026/6/29 23:03:27"
 }

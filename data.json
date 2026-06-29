@@ -1954,40 +1954,6 @@
       "id": "1782526057583-dgcldj"
     },
     {
-      "text": "中欣模组交期加急",
-      "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782568855842-ywdutg"
-    },
-    {
-      "text": "汇艺大理石给唐自祥",
-      "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782568987086-q22xlk"
-    },
-    {
       "text": "中欣25米磁栅销单",
       "date": "2026-06-29",
       "time": "",
@@ -2037,23 +2003,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1782618195956-s5enoo"
-    },
-    {
-      "text": "艾贝特固定梁方案",
-      "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782619180199-hkptuz"
     },
     {
       "text": "小罗花蓝",
@@ -2394,5 +2343,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:02:41"
+  "updateTime": "2026/6/29 23:02:52"
 }

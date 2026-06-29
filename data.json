@@ -2365,12 +2365,12 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 3,
         "days": [],
         "start": "2026-06-30",
-        "end": "2026-06-30"
+        "end": "2028-01-29"
       },
       "done": false,
       "onlyDone": [],
@@ -2409,5 +2409,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 01:04:11"
+  "updateTime": "2026/6/30 01:04:34"
 }

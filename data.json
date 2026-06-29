@@ -2358,6 +2358,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782752569473-zqqddu"
+    },
+    {
+      "text": "打卡",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 3,
+        "days": [],
+        "start": "2026-06-30",
+        "end": "2026-06-30"
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782752650212-fnvf6w"
     }
   ],
   "workList": [
@@ -2392,5 +2409,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 01:03:41"
+  "updateTime": "2026/6/30 01:04:11"
 }

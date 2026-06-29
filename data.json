@@ -1920,23 +1920,6 @@
       "id": "1782526057583-dgcldj"
     },
     {
-      "text": "中欣25米磁栅销单",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782612623060-m2pylp"
-    },
-    {
       "text": "答复中欣模组交期",
       "date": "2026-06-28",
       "time": "",
@@ -1952,40 +1935,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1782618195956-s5enoo"
-    },
-    {
-      "text": "小罗花蓝",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782646707262-nornlc"
-    },
-    {
-      "text": "博杰发货",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782646732665-ylhxg1"
     },
     {
       "text": "中基线缆错了",
@@ -2224,5 +2173,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:03:27"
+  "updateTime": "2026/6/29 23:03:44"
 }

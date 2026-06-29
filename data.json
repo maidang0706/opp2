@@ -2139,6 +2139,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745437015-b2rxko"
+    },
+    {
+      "text": "捷牛报价情况",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782745454757-3o8867"
     }
   ],
   "workList": [
@@ -2173,5 +2190,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:03:57"
+  "updateTime": "2026/6/29 23:04:15"
 }

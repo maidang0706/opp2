@@ -1801,23 +1801,6 @@
       "id": "1782311849768-ieomlg"
     },
     {
-      "text": "中基工装和光电申请",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782379992434-sal2k5"
-    },
-    {
       "text": "下半年的销售规划，老莫规划",
       "date": "2026-06-27",
       "time": "",
@@ -2141,23 +2124,6 @@
       "id": "1782662340944-iy0pjk"
     },
     {
-      "text": "宏唯报价",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782702381761-5wpwic"
-    },
-    {
       "text": "中基订单处理",
       "date": "2026-06-30",
       "time": "",
@@ -2292,5 +2258,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:03:04"
+  "updateTime": "2026/6/29 23:03:11"
 }

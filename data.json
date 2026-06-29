@@ -2341,6 +2341,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782752435665-euoen9"
+    },
+    {
+      "text": "隔天变色功能，代办增加",
+      "date": "2026-07-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782752569473-zqqddu"
     }
   ],
   "workList": [
@@ -2375,5 +2392,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 01:00:36"
+  "updateTime": "2026/6/30 01:02:50"
 }

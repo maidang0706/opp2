@@ -1852,23 +1852,6 @@
       "id": "1782394668299-0lt1uf"
     },
     {
-      "text": "捷牛方案更改",
-      "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782395261447-rppax3"
-    },
-    {
       "text": "查0387卡消费记录",
       "date": "2026-06-28",
       "time": "",
@@ -2243,23 +2226,6 @@
       "id": "1782651587825-1yuxmk"
     },
     {
-      "text": "中欣",
-      "date": "2026-06-29",
-      "time": "15:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782651605800-31i0mv"
-    },
-    {
       "text": "诊断和康复群用AI，我的脚",
       "date": "2026-07-04",
       "time": "",
@@ -2428,5 +2394,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:02:31"
+  "updateTime": "2026/6/29 23:02:41"
 }

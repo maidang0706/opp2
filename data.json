@@ -1971,23 +1971,6 @@
       "id": "1782612623060-m2pylp"
     },
     {
-      "text": "中欣要的15电源线",
-      "date": "2026-06-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782616096851-fhc1bk"
-    },
-    {
       "text": "答复中欣模组交期",
       "date": "2026-06-28",
       "time": "",
@@ -2105,40 +2088,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1782650204017-juupp8"
-    },
-    {
-      "text": "汇艺订单处理",
-      "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782650248679-uiuao0"
-    },
-    {
-      "text": "精朗报价",
-      "date": "2026-06-29",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782650875307-94efz1"
     },
     {
       "text": "商机表加入小黄和小蔡",
@@ -2343,5 +2292,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:02:52"
+  "updateTime": "2026/6/29 23:03:04"
 }

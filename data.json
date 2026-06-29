@@ -2273,6 +2273,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782746081881-yjehzh"
+    },
+    {
+      "text": "增加一个周代办，点击按钮进入",
+      "date": "2026-07-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782752277132-mvbeya"
     }
   ],
   "workList": [
@@ -2307,5 +2324,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 00:57:35"
+  "updateTime": "2026/6/30 00:57:57"
 }

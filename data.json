@@ -2307,6 +2307,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782752299889-4f3rfa"
+    },
+    {
+      "text": "ai做出来的咨询如何整理",
+      "date": "2026-07-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782752414361-8xqldl"
     }
   ],
   "workList": [
@@ -2341,5 +2358,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 00:59:59"
+  "updateTime": "2026/6/30 01:00:15"
 }

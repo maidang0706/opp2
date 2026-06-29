@@ -2109,8 +2109,8 @@
     {
       "text": "给中基线缆型号",
       "date": "2026-06-30",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2224,5 +2224,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:05:20"
+  "updateTime": "2026/6/29 23:05:34"
 }

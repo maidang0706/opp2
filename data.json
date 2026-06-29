@@ -2224,6 +2224,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745679746-zcth69"
+    },
+    {
+      "text": "精朗25米线缆发货",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782745712617-igxvk5"
     }
   ],
   "workList": [
@@ -2258,5 +2275,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:08:00"
+  "updateTime": "2026/6/29 23:08:33"
 }

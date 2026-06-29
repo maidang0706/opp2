@@ -2190,6 +2190,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745506304-7atv9w"
+    },
+    {
+      "text": "精朗6900模组价格",
+      "date": "2026-06-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782745614653-ijyurs"
     }
   ],
   "workList": [
@@ -2224,5 +2241,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/29 23:05:58"
+  "updateTime": "2026/6/29 23:06:55"
 }

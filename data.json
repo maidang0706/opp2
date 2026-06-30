@@ -2241,23 +2241,6 @@
       "id": "1782745929292-etw6mw"
     },
     {
-      "text": "精朗",
-      "date": "2026-06-30",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782746063485-rotyrx"
-    },
-    {
       "text": "黄宇泽客户",
       "date": "2026-06-30",
       "time": "14:00",
@@ -2324,5 +2307,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 18:14:04"
+  "updateTime": "2026/6/30 18:44:58"
 }

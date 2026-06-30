@@ -1867,12 +1867,12 @@
       "id": "1782618195956-s5enoo"
     },
     {
-      "text": "中基线缆错了",
-      "date": "2026-06-29",
+      "text": "中基换线缆",
+      "date": "2026-07-01",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2205,5 +2205,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/1 00:46:37"
+  "updateTime": "2026/7/1 00:47:11"
 }

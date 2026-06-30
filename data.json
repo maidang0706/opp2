@@ -2137,6 +2137,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782804512643-wniv0j"
+    },
+    {
+      "text": "价格申请&线缆配置表&订单表整合到一起",
+      "date": "2026-07-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782838350568-crbvap"
     }
   ],
   "workList": [
@@ -2171,5 +2188,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/1 00:52:05"
+  "updateTime": "2026/7/1 00:52:31"
 }

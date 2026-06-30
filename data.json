@@ -1799,23 +1799,6 @@
       "id": "1782434026488-thnq8m"
     },
     {
-      "text": "小罗开业",
-      "date": "2026-06-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782461221642-4tek0g"
-    },
-    {
       "text": "联系精智达半导体的人",
       "date": "2026-06-29",
       "time": "",
@@ -2190,23 +2173,6 @@
       "id": "1782745929292-etw6mw"
     },
     {
-      "text": "黄宇泽客户",
-      "date": "2026-06-30",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782746081881-yjehzh"
-    },
-    {
       "text": "电话分配的情况",
       "date": "2026-07-06",
       "time": "",
@@ -2256,5 +2222,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 18:45:07"
+  "updateTime": "2026/6/30 18:45:12"
 }

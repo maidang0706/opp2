@@ -1082,7 +1082,7 @@
     },
     {
       "text": "叁迪出货",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2088,23 +2088,6 @@
       "id": "1782745614653-ijyurs"
     },
     {
-      "text": "精朗25米线缆发货",
-      "date": "2026-06-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782745712617-igxvk5"
-    },
-    {
       "text": "款捷佳伟创，誉昊，誉辰，精朗",
       "date": "2026-07-01",
       "time": "",
@@ -2188,5 +2171,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/1 00:47:57"
+  "updateTime": "2026/7/1 00:48:12"
 }

@@ -2066,7 +2066,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1782744820002-7j01tu"
     },
@@ -2273,108 +2273,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1782746081881-yjehzh"
-    },
-    {
-      "text": "增加一个周代办，点击按钮进入",
-      "date": "2026-07-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782752277132-mvbeya"
-    },
-    {
-      "text": "用ai来学习行业，做个行业模板",
-      "date": "2026-07-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782752299889-4f3rfa"
-    },
-    {
-      "text": "ai做出来的咨询如何整理",
-      "date": "2026-07-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782752414361-8xqldl"
-    },
-    {
-      "text": "视频号更新监控",
-      "date": "2026-07-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782752435665-euoen9"
-    },
-    {
-      "text": "隔天变色功能，代办增加",
-      "date": "2026-07-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782752569473-zqqddu"
-    },
-    {
-      "text": "打卡",
-      "date": "2026-06-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 3,
-        "days": [],
-        "start": "2026-06-30",
-        "end": "2028-01-29"
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782752650212-fnvf6w"
     }
   ],
   "workList": [
@@ -2409,5 +2307,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 01:04:34"
+  "updateTime": "2026/6/30 09:23:18"
 }

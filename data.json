@@ -1816,23 +1816,6 @@
       "id": "1782461221642-4tek0g"
     },
     {
-      "text": "找刘应星要个接头给张崇",
-      "date": "2026-06-30",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782472243365-ug7si8"
-    },
-    {
       "text": "联系精智达半导体的人",
       "date": "2026-06-29",
       "time": "",
@@ -2054,40 +2037,6 @@
       "id": "1782717897439-r423ff"
     },
     {
-      "text": "EL210-75-M6-L900-B-ZJ-260055配套线缆",
-      "date": "2026-06-30",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782744820002-7j01tu"
-    },
-    {
-      "text": "给中基线缆型号",
-      "date": "2026-06-30",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782745350754-5jpzt8"
-    },
-    {
       "text": "卓誉线缆发货",
       "date": "2026-07-05",
       "time": "",
@@ -2307,5 +2256,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/6/30 18:44:58"
+  "updateTime": "2026/6/30 18:45:07"
 }

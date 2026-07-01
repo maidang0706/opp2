@@ -2222,6 +2222,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782884996754-6h8enw"
+    },
+    {
+      "text": "卓誉读头",
+      "date": "2026-07-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782888960163-qbyhe3"
     }
   ],
   "workList": [
@@ -2256,5 +2273,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/1 14:55:57"
+  "updateTime": "2026/7/1 14:56:00"
 }

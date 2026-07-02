@@ -2071,23 +2071,6 @@
       "id": "1782745506304-7atv9w"
     },
     {
-      "text": "精朗6900模组价格",
-      "date": "2026-06-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782745614653-ijyurs"
-    },
-    {
       "text": "款捷佳伟创，誉昊，誉辰，精朗",
       "date": "2026-07-01",
       "time": "",
@@ -2324,5 +2307,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 21:06:49"
+  "updateTime": "2026/7/2 21:07:29"
 }

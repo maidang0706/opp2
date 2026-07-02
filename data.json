@@ -2158,6 +2158,10 @@
   ],
   "workList": [
     {
+      "text": "脚恢复让AI做个计划",
+      "done": false
+    },
+    {
       "text": "任务表加入小黄和小蔡",
       "done": false
     },
@@ -2188,5 +2192,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 22:01:03"
+  "updateTime": "2026/7/2 22:01:17"
 }

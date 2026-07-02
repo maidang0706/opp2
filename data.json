@@ -1850,23 +1850,6 @@
       "id": "1782618195956-s5enoo"
     },
     {
-      "text": "商机表加入小黄和小蔡",
-      "date": "2026-07-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782651400403-yynm5g"
-    },
-    {
       "text": "盛鑫",
       "date": "2026-06-30",
       "time": "14:00",
@@ -2205,5 +2188,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 22:00:54"
+  "updateTime": "2026/7/2 22:01:03"
 }

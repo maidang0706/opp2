@@ -2154,6 +2154,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782997609151-1s44vf"
+    },
+    {
+      "text": "中欣李工方案",
+      "date": "2026-07-03",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782999539449-t0fml5"
     }
   ],
   "workList": [
@@ -2184,5 +2201,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 21:38:43"
+  "updateTime": "2026/7/2 21:39:00"
 }

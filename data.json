@@ -2256,6 +2256,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782992163402-42q6ea"
+    },
+    {
+      "text": "中基欠我2条线缆",
+      "date": "2026-07-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782996030876-z8uy3h"
     }
   ],
   "workList": [
@@ -2290,5 +2307,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 20:40:15"
+  "updateTime": "2026/7/2 20:40:31"
 }

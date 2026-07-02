@@ -2175,6 +2175,10 @@
   ],
   "workList": [
     {
+      "text": "任务表加入小黄和小蔡",
+      "done": false
+    },
+    {
       "text": "客户要驱动器资料的时候，直接用AI调给客户",
       "done": false
     }
@@ -2201,5 +2205,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 22:00:29"
+  "updateTime": "2026/7/2 22:00:54"
 }

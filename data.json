@@ -1969,23 +1969,6 @@
       "id": "1782804512643-wniv0j"
     },
     {
-      "text": "价格申请&线缆配置表&订单表整合到一起",
-      "date": "2026-07-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782838350568-crbvap"
-    },
-    {
       "text": "浠浠买东方树叶",
       "date": "2026-07-01",
       "time": "",
@@ -2162,5 +2145,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 22:01:53"
+  "updateTime": "2026/7/2 22:02:51"
 }

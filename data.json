@@ -2273,6 +2273,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1782996030876-z8uy3h"
+    },
+    {
+      "text": "答复中欣方小姐货期",
+      "date": "2026-07-03",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782997609151-1s44vf"
     }
   ],
   "workList": [
@@ -2307,5 +2324,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 20:46:00"
+  "updateTime": "2026/7/2 21:06:49"
 }

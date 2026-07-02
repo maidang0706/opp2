@@ -1884,23 +1884,6 @@
       "id": "1782717897439-r423ff"
     },
     {
-      "text": "卓誉线缆发货",
-      "date": "2026-07-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782745437015-b2rxko"
-    },
-    {
       "text": "汇艺大理石报价",
       "date": "2026-07-03",
       "time": "",
@@ -2175,5 +2158,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 22:01:23"
+  "updateTime": "2026/7/2 22:01:42"
 }

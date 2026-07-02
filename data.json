@@ -2239,6 +2239,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1782888960163-qbyhe3"
+    },
+    {
+      "text": "把对账应收的表格放到work body上面。",
+      "date": "2026-07-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1782992163402-42q6ea"
     }
   ],
   "workList": [
@@ -2273,5 +2290,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 19:35:18"
+  "updateTime": "2026/7/2 19:36:04"
 }

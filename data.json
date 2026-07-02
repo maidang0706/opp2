@@ -1833,23 +1833,6 @@
       "id": "1782475356112-rc046q"
     },
     {
-      "text": "精智达光电座",
-      "date": "2026-07-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782526057583-dgcldj"
-    },
-    {
       "text": "答复中欣模组交期",
       "date": "2026-06-28",
       "time": "",
@@ -1865,23 +1848,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1782618195956-s5enoo"
-    },
-    {
-      "text": "中基换线缆",
-      "date": "2026-07-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782646841508-n9fbfl"
     },
     {
       "text": "交报销",
@@ -2307,5 +2273,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 21:07:29"
+  "updateTime": "2026/7/2 21:07:37"
 }

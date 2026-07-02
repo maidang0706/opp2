@@ -1918,40 +1918,6 @@
       "id": "1782662340944-iy0pjk"
     },
     {
-      "text": "中基订单处理",
-      "date": "2026-07-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782712278792-i5i84t"
-    },
-    {
-      "text": "发中基11米的线缆",
-      "date": "2026-07-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782716354329-pfgiuj"
-    },
-    {
       "text": "汇艺新订单处理",
       "date": "2026-07-01",
       "time": "",
@@ -2273,5 +2239,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/2 21:07:37"
+  "updateTime": "2026/7/2 21:07:43"
 }

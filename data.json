@@ -2139,6 +2139,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783151386044-wrhm7v"
+    },
+    {
+      "text": "招待费申请",
+      "date": "2026-07-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783180771568-3vnqp4"
     }
   ],
   "workList": [
@@ -2189,5 +2206,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/4 23:59:09"
+  "updateTime": "2026/7/4 23:59:32"
 }

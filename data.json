@@ -1959,8 +1959,10 @@
       "isVisit": false,
       "priority": "low",
       "repeat": {
-        "type": 0,
-        "days": [],
+        "type": 1,
+        "days": [
+          1
+        ],
         "start": "",
         "end": ""
       },
@@ -2187,5 +2189,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/4 23:58:58"
+  "updateTime": "2026/7/4 23:59:09"
 }

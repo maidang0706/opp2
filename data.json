@@ -2160,6 +2160,10 @@
   ],
   "workList": [
     {
+      "text": "微信视频监控和抖音号监控",
+      "done": false
+    },
+    {
       "text": "行业资讯的消息优化",
       "done": false
     },
@@ -2206,5 +2210,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/5 02:00:02"
+  "updateTime": "2026/7/5 02:00:19"
 }

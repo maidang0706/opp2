@@ -2125,23 +2125,6 @@
       "id": "1783257611646-lhax1v"
     },
     {
-      "text": "收款",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783258668474-58sqcc"
-    },
-    {
       "text": "宏唯交货",
       "date": "2026-07-12",
       "time": "",
@@ -2228,5 +2211,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/5 22:24:35"
+  "updateTime": "2026/7/5 22:24:42"
 }

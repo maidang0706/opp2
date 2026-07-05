@@ -1868,23 +1868,6 @@
       "id": "1782651587825-1yuxmk"
     },
     {
-      "text": "精朗订单处理",
-      "date": "2026-07-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782717897439-r423ff"
-    },
-    {
       "text": "中基创明项目取消订单",
       "date": "2026-07-05",
       "time": "",
@@ -2196,5 +2179,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/5 22:27:29"
+  "updateTime": "2026/7/5 22:27:35"
 }

@@ -1989,23 +1989,6 @@
       "id": "1782884996754-6h8enw"
     },
     {
-      "text": "把对账应收的表格放到work body上面。",
-      "date": "2026-07-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782992163402-42q6ea"
-    },
-    {
       "text": "中基欠我2条线缆",
       "date": "2026-07-01",
       "time": "",
@@ -2211,5 +2194,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/5 22:25:11"
+  "updateTime": "2026/7/5 22:25:23"
 }

@@ -2163,6 +2163,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783262456017-vnoc1q"
+    },
+    {
+      "text": "卓誉申请光电和光电座",
+      "date": "2026-07-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783262735025-7tydpl"
     }
   ],
   "workList": [
@@ -2217,5 +2234,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/5 22:40:56"
+  "updateTime": "2026/7/5 22:45:35"
 }

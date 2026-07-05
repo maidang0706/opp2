@@ -1991,15 +1991,17 @@
       "id": "1782996030876-z8uy3h"
     },
     {
-      "text": "我的客户要建商机",
+      "text": "CRM的客户都要有商机",
       "date": "2026-07-04",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
       "priority": "low",
       "repeat": {
-        "type": 0,
-        "days": [],
+        "type": 2,
+        "days": [
+          30
+        ],
         "start": "",
         "end": ""
       },
@@ -2179,5 +2181,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/5 22:28:16"
+  "updateTime": "2026/7/5 22:31:38"
 }

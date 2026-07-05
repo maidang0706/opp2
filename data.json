@@ -1885,23 +1885,6 @@
       "id": "1782717897439-r423ff"
     },
     {
-      "text": "汇艺大理石报价",
-      "date": "2026-07-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782745478246-ctggxr"
-    },
-    {
       "text": "中基创明项目取消订单",
       "date": "2026-07-05",
       "time": "",
@@ -1934,23 +1917,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1782745824444-t0fntm"
-    },
-    {
-      "text": "中欣申请光电座",
-      "date": "2026-07-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782745929292-etw6mw"
     },
     {
       "text": "电话客户情况汇报",
@@ -2055,40 +2021,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1782996030876-z8uy3h"
-    },
-    {
-      "text": "中欣李工方案",
-      "date": "2026-07-03",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782999539449-t0fml5"
-    },
-    {
-      "text": "赛科要的图片",
-      "date": "2026-07-03",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782999568250-q7aap3"
     },
     {
       "text": "我的客户要建商机",
@@ -2296,5 +2228,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/5 22:24:11"
+  "updateTime": "2026/7/5 22:24:22"
 }

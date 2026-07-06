@@ -2166,6 +2166,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783299790977-mfwsbb"
+    },
+    {
+      "text": "中基报价",
+      "date": "2026-07-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783300097300-qfkmt7"
     }
   ],
   "workList": [
@@ -2224,5 +2241,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/6 09:03:11"
+  "updateTime": "2026/7/6 09:08:18"
 }

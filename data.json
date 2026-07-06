@@ -2251,6 +2251,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783319595076-sdltnz"
+    },
+    {
+      "text": "卓誉拼接",
+      "date": "2026-07-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783328289917-e0qjzl"
     }
   ],
   "workList": [
@@ -2309,5 +2326,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/6 16:58:07"
+  "updateTime": "2026/7/6 16:58:10"
 }

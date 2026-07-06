@@ -2149,6 +2149,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783299509000-hpgdo9"
+    },
+    {
+      "text": "中欣坏了4个定子",
+      "date": "2026-07-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783299790977-mfwsbb"
     }
   ],
   "workList": [
@@ -2207,5 +2224,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/6 08:58:29"
+  "updateTime": "2026/7/6 09:03:11"
 }

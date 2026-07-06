@@ -1429,24 +1429,6 @@
       "_renderDate": "2026-06-01"
     },
     {
-      "text": "怎么看抖音更新和收藏",
-      "date": "2026-06-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780314733794-zdf2f1",
-      "_renderDate": "2026-06-13"
-    },
-    {
       "text": "家伟出差明细",
       "date": "2026-06-01",
       "time": "",
@@ -1553,24 +1535,6 @@
       "onlyDone": [],
       "id": "1780884152343-ejcqrj",
       "_renderDate": "2026-06-05"
-    },
-    {
-      "text": "任务管理表加入黄蔡",
-      "date": "2026-06-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780888283870-8mhrm0",
-      "_renderDate": "2026-06-13"
     },
     {
       "text": "誉辰光电座",
@@ -2225,5 +2189,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/6 08:57:59"
+  "updateTime": "2026/7/6 08:58:06"
 }

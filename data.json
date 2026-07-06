@@ -2219,23 +2219,6 @@
       "id": "1783304734794-nfsa1u"
     },
     {
-      "text": "誉辰备注",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783305563512-kba63i"
-    },
-    {
       "text": "中欣DXM交期",
       "date": "2026-07-06",
       "time": "",
@@ -2309,5 +2292,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/6 13:17:30"
+  "updateTime": "2026/7/6 13:17:42"
 }

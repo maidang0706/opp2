@@ -1572,24 +1572,6 @@
       "_renderDate": "2026-06-13"
     },
     {
-      "text": "艾贝特费用申请",
-      "date": "2026-06-28",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1780889727143-2c2n0q",
-      "_renderDate": "2026-06-21"
-    },
-    {
       "text": "誉辰光电座",
       "date": "2026-06-08",
       "time": "",
@@ -2239,5 +2221,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/6 08:54:30"
+  "updateTime": "2026/7/6 08:55:42"
 }

@@ -2234,6 +2234,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783305563512-kba63i"
+    },
+    {
+      "text": "中欣DXM交期",
+      "date": "2026-07-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783314274991-mdid63"
     }
   ],
   "workList": [
@@ -2292,5 +2309,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/6 11:30:00"
+  "updateTime": "2026/7/6 13:04:35"
 }

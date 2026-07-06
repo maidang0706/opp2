@@ -2064,23 +2064,6 @@
       "id": "1783188410877-jhsczh"
     },
     {
-      "text": "出方案，落实配置，申请价格，落实订单，最后交期放在一个项目里面会不会更好",
-      "date": "2026-07-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783191437707-bxf788"
-    },
-    {
       "text": "艾贝特FY",
       "date": "2026-07-07",
       "time": "",
@@ -2256,5 +2239,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/6 08:54:25"
+  "updateTime": "2026/7/6 08:54:30"
 }

@@ -2006,40 +2006,6 @@
       "id": "1783262456017-vnoc1q"
     },
     {
-      "text": "卓誉申请光电和光电座",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783262735025-7tydpl"
-    },
-    {
-      "text": "誉辰订单备注",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783262867670-i9k7n7"
-    },
-    {
       "text": "维信收藏整理",
       "date": "2026-07-12",
       "time": "",
@@ -2249,5 +2215,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 16:34:46"
+  "updateTime": "2026/7/7 16:34:52"
 }

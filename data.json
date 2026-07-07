@@ -2285,6 +2285,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783411353250-uk1dvk"
+    },
+    {
+      "text": "如何通过ai来了解行业机器和工艺和找对应的客户",
+      "date": "2026-07-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783413230942-bkdn5f"
     }
   ],
   "workList": [
@@ -2343,5 +2360,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 16:33:32"
+  "updateTime": "2026/7/7 16:33:51"
 }

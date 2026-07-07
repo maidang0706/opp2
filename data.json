@@ -1989,23 +1989,6 @@
       "id": "1783259504491-rdjrzw"
     },
     {
-      "text": "中基交期",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783262456017-vnoc1q"
-    },
-    {
       "text": "维信收藏整理",
       "date": "2026-07-12",
       "time": "",
@@ -2092,7 +2075,7 @@
     },
     {
       "text": "卓誉拼接",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2198,5 +2181,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 16:35:40"
+  "updateTime": "2026/7/7 16:35:53"
 }

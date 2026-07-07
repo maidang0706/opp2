@@ -2123,6 +2123,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783413230942-bkdn5f"
+    },
+    {
+      "text": "线马到期货款建ai任务",
+      "date": "2026-07-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783414249021-eyu83s"
     }
   ],
   "workList": [
@@ -2181,5 +2198,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 16:50:35"
+  "updateTime": "2026/7/7 16:50:49"
 }

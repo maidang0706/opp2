@@ -2134,23 +2134,6 @@
       "id": "1783299509000-hpgdo9"
     },
     {
-      "text": "中欣坏了4个定子",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783299790977-mfwsbb"
-    },
-    {
       "text": "中基报价",
       "date": "2026-07-06",
       "time": "",
@@ -2360,5 +2343,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 16:34:28"
+  "updateTime": "2026/7/7 16:34:33"
 }

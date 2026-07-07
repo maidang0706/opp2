@@ -2242,6 +2242,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783433636862-2873mv"
+    },
+    {
+      "text": "襄阳中基要的驱动器价格",
+      "date": "2026-07-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783433714013-xoymt1"
     }
   ],
   "workList": [
@@ -2300,5 +2317,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 22:13:57"
+  "updateTime": "2026/7/7 22:15:14"
 }

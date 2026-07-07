@@ -2268,6 +2268,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783328289917-e0qjzl"
+    },
+    {
+      "text": "精朗拼接",
+      "date": "2026-07-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783411353250-uk1dvk"
     }
   ],
   "workList": [
@@ -2326,5 +2343,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 16:02:00"
+  "updateTime": "2026/7/7 16:02:34"
 }

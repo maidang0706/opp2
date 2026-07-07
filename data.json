@@ -2040,23 +2040,6 @@
       "id": "1783303759311-z0ccxq"
     },
     {
-      "text": "精智达沟通下",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783304734794-nfsa1u"
-    },
-    {
       "text": "中欣DXM发货",
       "date": "2026-07-08",
       "time": "",
@@ -2232,5 +2215,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 21:45:37"
+  "updateTime": "2026/7/7 21:45:47"
 }

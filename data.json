@@ -1921,23 +1921,6 @@
       "id": "1783064493030-1gue7p"
     },
     {
-      "text": "招待费申请",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783180771568-3vnqp4"
-    },
-    {
       "text": "加玻璃水",
       "date": "2026-07-05",
       "time": "",
@@ -2004,23 +1987,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1783259504491-rdjrzw"
-    },
-    {
-      "text": "中欣调试",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783261978752-23oaff"
     },
     {
       "text": "中基交期",
@@ -2283,5 +2249,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 16:34:42"
+  "updateTime": "2026/7/7 16:34:46"
 }

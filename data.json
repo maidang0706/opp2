@@ -2174,6 +2174,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783432440636-xngrpq"
+    },
+    {
+      "text": "卓誉坏光电和安装座处理",
+      "date": "2026-07-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783433253043-dbg15w"
     }
   ],
   "workList": [
@@ -2232,5 +2249,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 21:54:01"
+  "updateTime": "2026/7/7 22:07:33"
 }

@@ -2057,23 +2057,6 @@
       "id": "1783314274991-mdid63"
     },
     {
-      "text": "卓誉拼接",
-      "date": "2026-07-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783328289917-e0qjzl"
-    },
-    {
       "text": "精朗拼接",
       "date": "2026-07-09",
       "time": "",
@@ -2215,5 +2198,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 21:45:47"
+  "updateTime": "2026/7/7 21:45:51"
 }

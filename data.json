@@ -1977,7 +1977,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2317,5 +2317,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 22:15:14"
+  "updateTime": "2026/7/7 22:16:10"
 }

@@ -2157,6 +2157,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783414682070-d17hz5"
+    },
+    {
+      "text": "王辉方案改成EL170-25-M4X2M3X1-L3900-B-ZJ-260093",
+      "date": "2026-07-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783431770413-gj5n5r"
     }
   ],
   "workList": [
@@ -2215,5 +2232,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 21:39:40"
+  "updateTime": "2026/7/7 21:42:51"
 }

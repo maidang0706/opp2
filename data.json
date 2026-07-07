@@ -2075,7 +2075,7 @@
     },
     {
       "text": "中欣DXM交期",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2089,23 +2089,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1783314274991-mdid63"
-    },
-    {
-      "text": "誉辰报价",
-      "date": "2026-07-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783319595076-sdltnz"
     },
     {
       "text": "卓誉拼接",
@@ -2215,5 +2198,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 16:34:52"
+  "updateTime": "2026/7/7 16:35:29"
 }

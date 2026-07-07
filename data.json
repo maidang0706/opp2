@@ -2157,6 +2157,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783432058868-1532gc"
+    },
+    {
+      "text": "精朗商承",
+      "date": "2026-07-08",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783432440636-xngrpq"
     }
   ],
   "workList": [
@@ -2215,5 +2232,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 21:47:39"
+  "updateTime": "2026/7/7 21:54:01"
 }

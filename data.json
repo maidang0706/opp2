@@ -2086,13 +2086,13 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1783328289917-e0qjzl"
     },
     {
       "text": "精朗拼接",
-      "date": "2026-07-07",
+      "date": "2026-07-09",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2232,5 +2232,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 21:45:30"
+  "updateTime": "2026/7/7 21:45:37"
 }

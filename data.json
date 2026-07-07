@@ -2225,6 +2225,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783433569375-1udyvu"
+    },
+    {
+      "text": "给誉辰寄油管",
+      "date": "2026-07-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783433636862-2873mv"
     }
   ],
   "workList": [
@@ -2283,5 +2300,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/7 22:13:41"
+  "updateTime": "2026/7/7 22:13:57"
 }

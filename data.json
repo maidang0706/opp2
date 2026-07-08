@@ -2125,7 +2125,7 @@
       "id": "1783432440636-xngrpq"
     },
     {
-      "text": "卓誉坏光电和安装座处理，问江海多少个答复丹宁",
+      "text": "卓誉拼接和坏光电和安装座处理",
       "date": "2026-07-08",
       "time": "",
       "isAllDay": true,
@@ -2157,23 +2157,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1783433270355-74n4n6"
-    },
-    {
-      "text": "精朗先不用去人",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783433569375-1udyvu"
     },
     {
       "text": "给誉辰寄油管",
@@ -2304,5 +2287,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/8 11:18:51"
+  "updateTime": "2026/7/8 11:19:08"
 }

@@ -2091,23 +2091,6 @@
       "id": "1783414682070-d17hz5"
     },
     {
-      "text": "王辉方案改成EL170-25-M4X2M3X1-L3900-B-ZJ-260093",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783431770413-gj5n5r"
-    },
-    {
       "text": "中基RLM项目价格申请",
       "date": "2026-07-08",
       "time": "",
@@ -2188,7 +2171,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1783433549073-15pcmz"
     },
@@ -2338,5 +2321,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/8 11:03:47"
+  "updateTime": "2026/7/8 11:05:51"
 }

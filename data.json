@@ -2159,23 +2159,6 @@
       "id": "1783433270355-74n4n6"
     },
     {
-      "text": "卓誉拼接，精朗先不用去",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783433549073-15pcmz"
-    },
-    {
       "text": "精朗先不用去人",
       "date": "2026-07-08",
       "time": "",
@@ -2321,5 +2304,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/8 11:18:31"
+  "updateTime": "2026/7/8 11:18:51"
 }

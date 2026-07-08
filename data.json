@@ -2263,6 +2263,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783522268783-v4mr8s"
+    },
+    {
+      "text": "确认精朗款",
+      "date": "2026-07-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783522327411-dq33s0"
     }
   ],
   "workList": [
@@ -2321,5 +2338,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/8 22:51:09"
+  "updateTime": "2026/7/8 22:52:08"
 }

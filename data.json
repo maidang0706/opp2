@@ -2159,40 +2159,6 @@
       "id": "1783433270355-74n4n6"
     },
     {
-      "text": "给誉辰寄油管",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783433636862-2873mv"
-    },
-    {
-      "text": "襄阳中基要的驱动器价格",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783433714013-xoymt1"
-    },
-    {
       "text": "答复借用",
       "date": "2026-07-13",
       "time": "",
@@ -2229,6 +2195,57 @@
         "2026-07-06"
       ],
       "id": "1783434056853-y5pvbt"
+    },
+    {
+      "text": "跟誉辰说油管寄了",
+      "date": "2026-07-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783522179654-acyalr"
+    },
+    {
+      "text": "中基ddr价格",
+      "date": "2026-07-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783522202668-a01h8z"
+    },
+    {
+      "text": "汇艺要的图纸",
+      "date": "2026-07-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783522231414-gm63ge"
     }
   ],
   "workList": [
@@ -2287,5 +2304,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/8 22:49:11"
+  "updateTime": "2026/7/8 22:50:32"
 }

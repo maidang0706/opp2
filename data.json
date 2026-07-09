@@ -2297,6 +2297,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783522442408-wgw5dc"
+    },
+    {
+      "text": "信时印度",
+      "date": "2026-07-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783565092224-uikdjz"
     }
   ],
   "workList": [
@@ -2355,5 +2372,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/9 10:44:42"
+  "updateTime": "2026/7/9 10:44:53"
 }

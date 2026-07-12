@@ -2280,23 +2280,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1783830345487-kqq5i4"
-    },
-    {
-      "text": "装etc卡",
-      "date": "2026-07-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783840435885-iommmi"
     }
   ],
   "workList": [
@@ -2331,5 +2314,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 20:10:22"
+  "updateTime": "2026/7/12 20:10:25"
 }

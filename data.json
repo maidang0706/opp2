@@ -1748,11 +1748,11 @@
     },
     {
       "text": "联系精智达半导体的人和何健沟通情况",
-      "date": "2026-07-08",
+      "date": "2026-07-13",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2488,5 +2488,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 22:21:02"
+  "updateTime": "2026/7/12 22:21:24"
 }

@@ -2328,19 +2328,11 @@
     {
       "text": "脚恢复让AI做个计划",
       "done": false
-    },
-    {
-      "text": "客户要驱动器资料的时候，直接用AI调给客户",
-      "done": false
     }
   ],
   "otherList": [
     {
       "text": "做个对账软件",
-      "done": false
-    },
-    {
-      "text": "做个行程记录软件，做个可以自动生成开车里程的软件",
       "done": false
     },
     {
@@ -2356,5 +2348,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 12:26:06"
+  "updateTime": "2026/7/12 12:26:20"
 }

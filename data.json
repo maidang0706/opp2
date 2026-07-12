@@ -2416,6 +2416,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783828613177-kwrwaw"
+    },
+    {
+      "text": "装电瓶车车牌",
+      "date": "2026-07-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783828642514-ps8dx7"
     }
   ],
   "workList": [
@@ -2474,5 +2491,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 11:56:53"
+  "updateTime": "2026/7/12 11:57:23"
 }

@@ -2297,6 +2297,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783830244455-z8v25e"
+    },
+    {
+      "text": "AI-整理一个工作流-选型-价格申请-下单-交期都有的",
+      "date": "2026-07-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783830345487-kqq5i4"
     }
   ],
   "workList": [
@@ -2355,5 +2372,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 12:25:14"
+  "updateTime": "2026/7/12 12:25:46"
 }

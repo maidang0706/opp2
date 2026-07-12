@@ -2297,6 +2297,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783858280599-wflww5"
+    },
+    {
+      "text": "PC-C-15-04-B9FA-7.0找何健要价格",
+      "date": "2026-07-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783859966991-jwmh3x"
     }
   ],
   "workList": [
@@ -2331,5 +2348,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 20:33:19"
+  "updateTime": "2026/7/12 20:39:27"
 }

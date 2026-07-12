@@ -2129,23 +2129,6 @@
       "id": "1783434056853-y5pvbt"
     },
     {
-      "text": "答复精朗驱动器交期",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783522442408-wgw5dc"
-    },
-    {
       "text": "信时印度和正力中试线",
       "date": "2026-07-09",
       "time": "",
@@ -2365,5 +2348,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 18:15:14"
+  "updateTime": "2026/7/12 18:15:18"
 }

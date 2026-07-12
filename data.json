@@ -2076,8 +2076,8 @@
     {
       "text": "答复借用",
       "date": "2026-07-13",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2471,5 +2471,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 22:24:46"
+  "updateTime": "2026/7/12 22:25:29"
 }

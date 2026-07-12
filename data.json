@@ -1850,10 +1850,10 @@
     },
     {
       "text": "吴馨科瑞",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "time": "",
       "isAllDay": true,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "low",
       "repeat": {
         "type": 0,
@@ -2416,7 +2416,9 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [],
+      "onlyDone": [
+        "2026-07-06"
+      ],
       "id": "1783864342773-fs4c95"
     },
     {
@@ -2486,5 +2488,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 22:20:34"
+  "updateTime": "2026/7/12 22:20:48"
 }

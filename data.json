@@ -2399,6 +2399,25 @@
       "done": false,
       "onlyDone": [],
       "id": "1783860451919-uoojbp"
+    },
+    {
+      "text": "对账单回传",
+      "date": "2026-07-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 1,
+        "days": [
+          1
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783864342773-fs4c95"
     }
   ],
   "workList": [
@@ -2433,5 +2452,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 21:52:10"
+  "updateTime": "2026/7/12 21:52:23"
 }

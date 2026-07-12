@@ -2280,6 +2280,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783828642514-ps8dx7"
+    },
+    {
+      "text": "监控抖音和视频号",
+      "date": "2026-07-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783829966397-jn2eqy"
     }
   ],
   "workList": [
@@ -2338,5 +2355,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 12:19:15"
+  "updateTime": "2026/7/12 12:19:27"
 }

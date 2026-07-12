@@ -2091,23 +2091,6 @@
       "id": "1783414682070-d17hz5"
     },
     {
-      "text": "中基RLM项目价格申请",
-      "date": "2026-07-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783432058868-1532gc"
-    },
-    {
       "text": "精朗商承",
       "date": "2026-07-08",
       "time": "09:00",
@@ -2229,23 +2212,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1783522268783-v4mr8s"
-    },
-    {
-      "text": "确认精朗款",
-      "date": "2026-07-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783522327411-dq33s0"
     },
     {
       "text": "答复精朗驱动器交期",
@@ -2457,5 +2423,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 11:57:33"
+  "updateTime": "2026/7/12 11:57:39"
 }

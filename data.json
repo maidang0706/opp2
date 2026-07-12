@@ -2214,23 +2214,6 @@
       "id": "1783743475055-bvt4n3"
     },
     {
-      "text": "加玻璃水",
-      "date": "2026-07-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783828613177-kwrwaw"
-    },
-    {
       "text": "装电瓶车车牌",
       "date": "2026-07-12",
       "time": "",
@@ -2348,5 +2331,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 20:10:15"
+  "updateTime": "2026/7/12 20:10:22"
 }

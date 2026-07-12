@@ -2180,23 +2180,6 @@
       "id": "1783676574914-i7zpgj"
     },
     {
-      "text": "卓誉模组接头坏了",
-      "date": "2026-07-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783742893212-qoghs6"
-    },
-    {
       "text": "改签名",
       "date": "2026-07-10",
       "time": "",
@@ -2399,5 +2382,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 20:44:03"
+  "updateTime": "2026/7/12 20:44:12"
 }

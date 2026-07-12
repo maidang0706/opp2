@@ -1955,23 +1955,6 @@
       "id": "1783259432663-2l31ml"
     },
     {
-      "text": "汇艺分项报价",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783259504491-rdjrzw"
-    },
-    {
       "text": "维信收藏整理",
       "date": "2026-07-12",
       "time": "",
@@ -2021,23 +2004,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1783303759311-z0ccxq"
-    },
-    {
-      "text": "中欣DXM发货",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783314274991-mdid63"
     },
     {
       "text": "如何通过ai来了解行业机器和工艺和找对应的客户，还有像玻璃桥新工艺的咨询\n这个行业的数据流能适合各个行业，锂电，屏幕，光通讯",
@@ -2372,5 +2338,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 11:57:49"
+  "updateTime": "2026/7/12 11:57:56"
 }

@@ -2091,23 +2091,6 @@
       "id": "1783433253043-dbg15w"
     },
     {
-      "text": "张丹的交期和价格",
-      "date": "2026-07-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783433270355-74n4n6"
-    },
-    {
       "text": "答复借用",
       "date": "2026-07-13",
       "time": "",
@@ -2372,5 +2355,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 12:25:11"
+  "updateTime": "2026/7/12 12:25:14"
 }

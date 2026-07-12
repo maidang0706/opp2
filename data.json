@@ -2180,23 +2180,6 @@
       "id": "1783434056853-y5pvbt"
     },
     {
-      "text": "汇艺要的图纸和重新报价",
-      "date": "2026-07-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783522231414-gm63ge"
-    },
-    {
       "text": "中欣报价",
       "date": "2026-07-09",
       "time": "",
@@ -2423,5 +2406,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 11:57:39"
+  "updateTime": "2026/7/12 11:57:43"
 }

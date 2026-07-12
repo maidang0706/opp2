@@ -2348,6 +2348,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783860242257-ywvapc"
+    },
+    {
+      "text": "誉辰交期确认",
+      "date": "2026-07-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783860282351-8ml3a9"
     }
   ],
   "workList": [
@@ -2382,5 +2399,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 20:44:12"
+  "updateTime": "2026/7/12 20:44:43"
 }

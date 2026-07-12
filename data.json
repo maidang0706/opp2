@@ -2214,23 +2214,6 @@
       "id": "1783522179654-acyalr"
     },
     {
-      "text": "中基ddr价格",
-      "date": "2026-07-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783522202668-a01h8z"
-    },
-    {
       "text": "汇艺要的图纸和重新报价",
       "date": "2026-07-09",
       "time": "",
@@ -2491,5 +2474,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/12 11:57:23"
+  "updateTime": "2026/7/12 11:57:29"
 }

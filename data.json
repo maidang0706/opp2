@@ -2074,44 +2074,6 @@
       "id": "1783432440636-xngrpq"
     },
     {
-      "text": "答复借用",
-      "date": "2026-07-13",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783434012867-1so748"
-    },
-    {
-      "text": "电话客户汇报",
-      "date": "2026-07-06",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 1,
-        "days": [
-          1
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [
-        "2026-07-13"
-      ],
-      "id": "1783434056853-y5pvbt"
-    },
-    {
       "text": "信时印度和正力中试线",
       "date": "2026-07-09",
       "time": "",
@@ -2556,6 +2518,25 @@
       "done": false,
       "onlyDone": [],
       "id": "1783953443171-v00glc"
+    },
+    {
+      "text": "公司分配客户汇报",
+      "date": "2026-07-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 1,
+        "days": [
+          1
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783953473415-lyzwi4"
     }
   ],
   "workList": [
@@ -2590,5 +2571,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:37:23"
+  "updateTime": "2026/7/13 22:37:54"
 }

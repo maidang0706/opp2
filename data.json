@@ -2469,6 +2469,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783910906791-0ehbxw"
+    },
+    {
+      "text": "半年会",
+      "date": "2026-07-31",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783910997957-zse5z5"
     }
   ],
   "workList": [
@@ -2503,5 +2520,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 10:49:35"
+  "updateTime": "2026/7/13 10:49:58"
 }

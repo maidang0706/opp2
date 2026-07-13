@@ -2505,6 +2505,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783953404574-x50buv"
+    },
+    {
+      "text": "中欣发驱动器",
+      "date": "2026-07-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783953412618-l6ef6t"
     }
   ],
   "workList": [
@@ -2539,5 +2556,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:36:45"
+  "updateTime": "2026/7/13 22:36:53"
 }

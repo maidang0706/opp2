@@ -2210,23 +2210,6 @@
       "id": "1783860242257-ywvapc"
     },
     {
-      "text": "确认汇艺2个订单下了没有",
-      "date": "2026-07-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783860344384-0220rc"
-    },
-    {
       "text": "誉辰付款",
       "date": "2026-07-14",
       "time": "",
@@ -2277,7 +2260,7 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1783865100216-w68255"
     },
@@ -2451,7 +2434,8 @@
       },
       "done": false,
       "onlyDone": [
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-13"
       ],
       "id": "1783953473415-lyzwi4"
     }
@@ -2488,5 +2472,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:40:26"
+  "updateTime": "2026/7/13 22:40:36"
 }

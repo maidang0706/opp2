@@ -2451,6 +2451,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783954016284-a7wqfd"
+    },
+    {
+      "text": "中欣，中基，卓茂",
+      "date": "2026-07-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783954029351-2ajel9"
     }
   ],
   "workList": [
@@ -2485,5 +2502,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:46:57"
+  "updateTime": "2026/7/13 22:47:10"
 }

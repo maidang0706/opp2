@@ -2468,6 +2468,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783954029351-2ajel9"
+    },
+    {
+      "text": "中欣退回来线缆",
+      "date": "2026-07-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783954496560-qgtock"
     }
   ],
   "workList": [
@@ -2502,5 +2519,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:53:11"
+  "updateTime": "2026/7/13 22:54:57"
 }

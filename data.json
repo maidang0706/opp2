@@ -2092,7 +2092,7 @@
     },
     {
       "text": "艾文要的图纸",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2434,6 +2434,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783953648376-x9s25v"
+    },
+    {
+      "text": "精朗，海得地，科瑞，捷牛",
+      "date": "2026-07-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783954016284-a7wqfd"
     }
   ],
   "workList": [
@@ -2468,5 +2485,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:46:26"
+  "updateTime": "2026/7/13 22:46:57"
 }

@@ -2193,7 +2193,7 @@
       "id": "1783830345487-kqq5i4"
     },
     {
-      "text": "卓誉坏了接头处理",
+      "text": "卓誉坏了接头处理申请物料",
       "date": "2026-07-13",
       "time": "",
       "isAllDay": true,
@@ -2225,27 +2225,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1783860451919-uoojbp"
-    },
-    {
-      "text": "对账单回传",
-      "date": "2026-07-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 1,
-        "days": [
-          1
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [
-        "2026-07-06"
-      ],
-      "id": "1783864342773-fs4c95"
     },
     {
       "text": "文通还我三个读头",
@@ -2489,5 +2468,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:41:12"
+  "updateTime": "2026/7/13 22:41:32"
 }

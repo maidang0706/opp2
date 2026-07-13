@@ -2193,23 +2193,6 @@
       "id": "1783830345487-kqq5i4"
     },
     {
-      "text": "中基程小姐的对位平台评估",
-      "date": "2026-07-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783858280599-wflww5"
-    },
-    {
       "text": "PC-C-15-04-B9FA-7.0找何健要价格",
       "date": "2026-07-13",
       "time": "",
@@ -2535,7 +2518,9 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [],
+      "onlyDone": [
+        "2026-07-06"
+      ],
       "id": "1783953473415-lyzwi4"
     }
   ],
@@ -2571,5 +2556,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:37:54"
+  "updateTime": "2026/7/13 22:38:04"
 }

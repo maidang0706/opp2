@@ -2488,6 +2488,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783910997957-zse5z5"
+    },
+    {
+      "text": "中基报价",
+      "date": "2026-07-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1783953404574-x50buv"
     }
   ],
   "workList": [
@@ -2522,5 +2539,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/13 22:36:26"
+  "updateTime": "2026/7/13 22:36:45"
 }

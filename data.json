@@ -2142,23 +2142,6 @@
       "id": "1783829966397-jn2eqy"
     },
     {
-      "text": "精朗给PDF和订单处理",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783830244455-z8v25e"
-    },
-    {
       "text": "AI-整理一个工作流-选型-价格申请-下单-交期都有的",
       "date": "2026-07-12",
       "time": "",
@@ -2310,23 +2293,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1783910997957-zse5z5"
-    },
-    {
-      "text": "中基确认配置和报价",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783953404574-x50buv"
     },
     {
       "text": "中欣发CDHDE-0102AEB驱动器",
@@ -2587,5 +2553,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/14 20:57:16"
+  "updateTime": "2026/7/14 20:57:23"
 }

@@ -2502,6 +2502,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784020097264-t7wzb3"
+    },
+    {
+      "text": "和客户聊完怎么第一时间记录个人信息",
+      "date": "2026-07-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784020884921-n3ee4b"
     }
   ],
   "workList": [
@@ -2536,5 +2553,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/14 17:21:11"
+  "updateTime": "2026/7/14 17:21:25"
 }

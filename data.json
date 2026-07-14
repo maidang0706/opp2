@@ -1849,23 +1849,6 @@
       "id": "1782745824444-t0fntm"
     },
     {
-      "text": "吴馨科瑞",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1782884996754-6h8enw"
-    },
-    {
       "text": "中基欠我2条线缆",
       "date": "2026-07-10",
       "time": "",
@@ -2604,5 +2587,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/14 20:57:03"
+  "updateTime": "2026/7/14 20:57:16"
 }

@@ -1798,23 +1798,6 @@
       "id": "1782618195956-s5enoo"
     },
     {
-      "text": "盛鑫，精朗，海得地，科瑞，捷牛",
-      "date": "2026-07-14",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782651587825-1yuxmk"
-    },
-    {
       "text": "中基创明项目取消订单",
       "date": "2026-07-05",
       "time": "",
@@ -2536,5 +2519,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/14 20:58:15"
+  "updateTime": "2026/7/14 20:58:19"
 }

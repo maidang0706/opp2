@@ -2485,6 +2485,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1783954496560-qgtock"
+    },
+    {
+      "text": "提成答复",
+      "date": "2026-07-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784020097264-t7wzb3"
     }
   ],
   "workList": [
@@ -2519,5 +2536,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/14 17:08:12"
+  "updateTime": "2026/7/14 17:08:18"
 }

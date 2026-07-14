@@ -2519,6 +2519,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784020884921-n3ee4b"
+    },
+    {
+      "text": "拜访完客户如何记录拜访内容用AI",
+      "date": "2026-07-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784020940021-e47kx0"
     }
   ],
   "workList": [
@@ -2553,5 +2570,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/14 17:21:25"
+  "updateTime": "2026/7/14 17:22:20"
 }

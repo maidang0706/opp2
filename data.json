@@ -2312,23 +2312,6 @@
       "id": "1783953412618-l6ef6t"
     },
     {
-      "text": "精朗确认选型",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783953432338-5jescs"
-    },
-    {
       "text": "卓誉申请物料",
       "date": "2026-07-14",
       "time": "",
@@ -2385,7 +2368,7 @@
       "id": "1783953648376-x9s25v"
     },
     {
-      "text": "中欣，卓茂，中基",
+      "text": "中欣，卓茂，中基，卓誉，盛鑫，科瑞，捷牛",
       "date": "2026-07-15",
       "time": "",
       "isAllDay": true,
@@ -2553,5 +2536,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/14 20:57:23"
+  "updateTime": "2026/7/14 20:58:15"
 }

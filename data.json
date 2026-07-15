@@ -2130,7 +2130,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2143,11 +2143,11 @@
     },
     {
       "text": "誉辰付款",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2519,5 +2519,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 22:42:06"
+  "updateTime": "2026/7/15 22:42:20"
 }

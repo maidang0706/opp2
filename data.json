@@ -2519,6 +2519,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784034332415-k4hlu9"
+    },
+    {
+      "text": "精智达取消订单",
+      "date": "2026-07-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784100530839-mrni9d"
     }
   ],
   "workList": [
@@ -2553,5 +2570,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 15:28:43"
+  "updateTime": "2026/7/15 15:28:51"
 }

@@ -2057,23 +2057,6 @@
       "id": "1783565092224-uikdjz"
     },
     {
-      "text": "艾文要的图纸和报价",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783676574914-i7zpgj"
-    },
-    {
       "text": "改签名",
       "date": "2026-07-10",
       "time": "",
@@ -2587,5 +2570,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 21:15:33"
+  "updateTime": "2026/7/15 21:15:46"
 }

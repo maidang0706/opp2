@@ -2300,23 +2300,6 @@
       "id": "1783954496560-qgtock"
     },
     {
-      "text": "拜访客户的录音功能制作",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784020940021-e47kx0"
-    },
-    {
       "text": "问海得地刘总超电项目情况",
       "date": "2026-07-16",
       "time": "",
@@ -2459,5 +2442,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 22:54:32"
+  "updateTime": "2026/7/15 22:54:37"
 }

@@ -2126,7 +2126,7 @@
     },
     {
       "text": "卓誉坏了接头处理申请物料",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2281,23 +2281,6 @@
         "2026-07-13"
       ],
       "id": "1783953473415-lyzwi4"
-    },
-    {
-      "text": "精智达",
-      "date": "2026-07-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783953648376-x9s25v"
     },
     {
       "text": "中欣，中基，盛鑫，科瑞，捷牛",
@@ -2536,5 +2519,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 22:41:47"
+  "updateTime": "2026/7/15 22:42:06"
 }

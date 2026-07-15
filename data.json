@@ -2261,40 +2261,6 @@
       "id": "1783910997957-zse5z5"
     },
     {
-      "text": "中欣发CDHDE-0102AEB驱动器",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783953412618-l6ef6t"
-    },
-    {
-      "text": "卓誉申请物料",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783953443171-v00glc"
-    },
-    {
       "text": "公司分配客户汇报",
       "date": "2026-07-06",
       "time": "",
@@ -2570,5 +2536,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 21:15:46"
+  "updateTime": "2026/7/15 21:15:53"
 }

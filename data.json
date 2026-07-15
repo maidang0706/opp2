@@ -2317,23 +2317,6 @@
       "id": "1784021056868-fnrhel"
     },
     {
-      "text": "文秀那边还有2条中基的电源线PC-C-07-04",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784021383336-jn1zts"
-    },
-    {
       "text": "行业信息了解AI报告给个格式",
       "date": "2026-07-14",
       "time": "",
@@ -2429,5 +2412,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 22:58:32"
+  "updateTime": "2026/7/15 22:58:37"
 }

@@ -2334,23 +2334,6 @@
       "id": "1784021383336-jn1zts"
     },
     {
-      "text": "用AI做方案表-申请价格表-订单表-交货日期表（含配置，交期，价格备注）",
-      "date": "2026-07-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784034204488-rupp0s"
-    },
-    {
       "text": "行业信息了解AI报告给个格式",
       "date": "2026-07-14",
       "time": "",
@@ -2446,5 +2429,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 22:54:52"
+  "updateTime": "2026/7/15 22:54:58"
 }

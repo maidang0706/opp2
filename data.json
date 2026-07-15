@@ -1798,23 +1798,6 @@
       "id": "1782745506304-7atv9w"
     },
     {
-      "text": "款捷佳伟创，誉昊，誉辰，精朗",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782745824444-t0fntm"
-    },
-    {
       "text": "中基欠我2条线缆",
       "date": "2026-07-10",
       "time": "",
@@ -2317,23 +2300,6 @@
       "id": "1783954496560-qgtock"
     },
     {
-      "text": "提成答复",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784020097264-t7wzb3"
-    },
-    {
       "text": "和客户聊完用AI记录拜访内容，按照表格一样一样填写",
       "date": "2026-07-14",
       "time": "",
@@ -2502,5 +2468,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 22:52:38"
+  "updateTime": "2026/7/15 22:52:48"
 }

@@ -2300,23 +2300,6 @@
       "id": "1783954496560-qgtock"
     },
     {
-      "text": "和客户聊完用AI记录拜访内容，按照表格一样一样填写",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784020884921-n3ee4b"
-    },
-    {
       "text": "拜访客户的录音功能制作",
       "date": "2026-07-14",
       "time": "",
@@ -2472,5 +2455,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/15 22:54:16"
+  "updateTime": "2026/7/15 22:54:22"
 }

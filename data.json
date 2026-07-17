@@ -2315,6 +2315,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784135008318-1qimoi"
+    },
+    {
+      "text": "汇艺报价",
+      "date": "2026-07-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784259301584-3ojycx"
     }
   ],
   "workList": [
@@ -2365,5 +2382,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/17 11:34:57"
+  "updateTime": "2026/7/17 11:35:02"
 }

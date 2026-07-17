@@ -2332,6 +2332,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784259301584-3ojycx"
+    },
+    {
+      "text": "休假规划",
+      "date": "2026-07-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784259883243-55wfzd"
     }
   ],
   "workList": [
@@ -2382,5 +2399,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/17 11:44:38"
+  "updateTime": "2026/7/17 11:44:44"
 }

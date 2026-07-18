@@ -2434,6 +2434,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784353468221-jp2ivb"
+    },
+    {
+      "text": "把借用的东西整理成平时可以看的表格",
+      "date": "2026-07-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784358835316-57g66l"
     }
   ],
   "workList": [
@@ -2484,5 +2501,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/18 15:13:36"
+  "updateTime": "2026/7/18 15:13:56"
 }

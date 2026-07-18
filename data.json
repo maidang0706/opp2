@@ -2383,6 +2383,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784351423237-lf6hik"
+    },
+    {
+      "text": "请假",
+      "date": "2026-07-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784352026752-0o5f4s"
     }
   ],
   "workList": [
@@ -2433,5 +2450,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/18 13:10:24"
+  "updateTime": "2026/7/18 13:20:27"
 }

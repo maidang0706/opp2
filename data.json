@@ -2349,6 +2349,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784259883243-55wfzd"
+    },
+    {
+      "text": "中欣定子发货",
+      "date": "2026-07-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784351417549-pd4vvb"
     }
   ],
   "workList": [
@@ -2399,5 +2416,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/18 13:10:11"
+  "updateTime": "2026/7/18 13:10:18"
 }

@@ -2417,6 +2417,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784353110458-9ywu7a"
+    },
+    {
+      "text": "中基合同备注",
+      "date": "2026-07-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784353468221-jp2ivb"
     }
   ],
   "workList": [
@@ -2467,5 +2484,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/18 13:44:21"
+  "updateTime": "2026/7/18 13:44:29"
 }

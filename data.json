@@ -2320,8 +2320,8 @@
     {
       "text": "中基价格核对",
       "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2468,5 +2468,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:21:12"
+  "updateTime": "2026/7/19 23:21:26"
 }

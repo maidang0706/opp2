@@ -2267,23 +2267,6 @@
       "id": "1784135008318-1qimoi"
     },
     {
-      "text": "汇艺报价",
-      "date": "2026-07-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784259301584-3ojycx"
-    },
-    {
       "text": "休假规划",
       "date": "2026-07-18",
       "time": "",
@@ -2502,5 +2485,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:20:42"
+  "updateTime": "2026/7/19 23:20:50"
 }

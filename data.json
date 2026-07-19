@@ -2485,6 +2485,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784462027419-du9h9r"
+    },
+    {
+      "text": "中欣调试",
+      "date": "2026-07-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784464163705-po68y8"
     }
   ],
   "workList": [
@@ -2535,5 +2552,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 20:29:19"
+  "updateTime": "2026/7/19 20:29:24"
 }

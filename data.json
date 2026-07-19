@@ -2075,23 +2075,6 @@
       "id": "1783830345487-kqq5i4"
     },
     {
-      "text": "卓誉坏了接头处理申请物料",
-      "date": "2026-07-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783860242257-ywvapc"
-    },
-    {
       "text": "誉辰，捷佳伟创，誉昊，精朗款",
       "date": "2026-07-20",
       "time": "",
@@ -2268,7 +2251,7 @@
     },
     {
       "text": "对账单：文通，精朗，誉昊，中欣",
-      "date": "2026-07-15",
+      "date": "2026-07-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2536,5 +2519,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:20:13"
+  "updateTime": "2026/7/19 23:20:28"
 }

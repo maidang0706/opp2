@@ -2351,23 +2351,6 @@
       "id": "1784259883243-55wfzd"
     },
     {
-      "text": "中欣定子发货",
-      "date": "2026-07-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784351417549-pd4vvb"
-    },
-    {
       "text": "中基栅尺",
       "date": "2026-07-18",
       "time": "",
@@ -2400,23 +2383,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1784352026752-0o5f4s"
-    },
-    {
-      "text": "中欣选型",
-      "date": "2026-07-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784353110458-9ywu7a"
     },
     {
       "text": "中基合同备注",
@@ -2552,5 +2518,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:02:05"
+  "updateTime": "2026/7/19 23:02:12"
 }

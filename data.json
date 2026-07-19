@@ -2077,8 +2077,8 @@
     {
       "text": "誉辰，捷佳伟创，誉昊，精朗款",
       "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
+      "time": "15:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -2090,23 +2090,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1783860451919-uoojbp"
-    },
-    {
-      "text": "惠州开会",
-      "date": "2026-07-17",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783866240426-iib6u8"
     },
     {
       "text": "深科技和长城科技",
@@ -2485,5 +2468,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:20:50"
+  "updateTime": "2026/7/19 23:21:12"
 }

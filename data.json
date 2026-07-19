@@ -2337,8 +2337,8 @@
     {
       "text": "汇艺补线缆订单",
       "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2405,8 +2405,8 @@
     {
       "text": "卓誉接头给汉彬",
       "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2468,5 +2468,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:21:26"
+  "updateTime": "2026/7/19 23:21:38"
 }

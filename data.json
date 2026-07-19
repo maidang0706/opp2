@@ -1085,7 +1085,7 @@
     },
     {
       "text": "叁迪出货",
-      "date": "2026-07-17",
+      "date": "2026-07-21",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2182,23 +2182,6 @@
       "id": "1783953473415-lyzwi4"
     },
     {
-      "text": "泰德 ，捷佳伟创，瑞声",
-      "date": "2026-07-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783954029351-2ajel9"
-    },
-    {
       "text": "中欣退回来线缆\n文秀那边还有2条中基的电源线PC-C-07-04\n汇艺读头归还\n艾贝特FY\n文通还我三个读头",
       "date": "2026-07-20",
       "time": "",
@@ -2519,5 +2502,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:20:28"
+  "updateTime": "2026/7/19 23:20:42"
 }

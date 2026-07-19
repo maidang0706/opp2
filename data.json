@@ -2452,6 +2452,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784464163705-po68y8"
+    },
+    {
+      "text": "中欣图纸",
+      "date": "2026-07-20",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784474332249-iw14y1"
     }
   ],
   "workList": [
@@ -2502,5 +2519,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:18:47"
+  "updateTime": "2026/7/19 23:18:53"
 }

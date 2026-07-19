@@ -2199,23 +2199,6 @@
       "id": "1783953473415-lyzwi4"
     },
     {
-      "text": "中欣，盛鑫，科瑞",
-      "date": "2026-07-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783954016284-a7wqfd"
-    },
-    {
       "text": "泰德 ，捷佳伟创，瑞声",
       "date": "2026-07-17",
       "time": "",
@@ -2519,5 +2502,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/19 23:18:53"
+  "updateTime": "2026/7/19 23:19:05"
 }

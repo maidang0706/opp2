@@ -2285,23 +2285,6 @@
       "id": "1784352026752-0o5f4s"
     },
     {
-      "text": "中基合同备注",
-      "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784353468221-jp2ivb"
-    },
-    {
       "text": "把借用的东西整理成平时可以看的表格",
       "date": "2026-07-19",
       "time": "",
@@ -2452,5 +2435,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/20 12:04:19"
+  "updateTime": "2026/7/20 12:04:24"
 }

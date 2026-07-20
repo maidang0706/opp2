@@ -2369,23 +2369,6 @@
       "id": "1784464163705-po68y8"
     },
     {
-      "text": "中欣图纸",
-      "date": "2026-07-20",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784474332249-iw14y1"
-    },
-    {
       "text": "盛鑫",
       "date": "2026-07-21",
       "time": "",
@@ -2401,23 +2384,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1784474355030-m3tsa2"
-    },
-    {
-      "text": "卓誉接头给汉彬",
-      "date": "2026-07-20",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784474412693-luuybn"
     },
     {
       "text": "汇艺价格沟通",
@@ -2485,5 +2451,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/20 12:03:46"
+  "updateTime": "2026/7/20 12:03:53"
 }

@@ -2436,6 +2436,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784640350617-i5qgp5"
+    },
+    {
+      "text": "优化选型表格，如果速度和推力满足不了要求，变红",
+      "date": "2026-07-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784640957090-xwl1io"
     }
   ],
   "workList": [
@@ -2486,5 +2503,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/21 21:32:57"
+  "updateTime": "2026/7/21 21:35:57"
 }

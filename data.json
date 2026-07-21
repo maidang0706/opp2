@@ -2402,6 +2402,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1784529905327-wxc37o"
+    },
+    {
+      "text": "精朗驱动器维修费用",
+      "date": "2026-07-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784614403725-mswuzg"
     }
   ],
   "workList": [
@@ -2452,5 +2469,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/21 14:12:56"
+  "updateTime": "2026/7/21 14:13:24"
 }

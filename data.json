@@ -2419,6 +2419,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784614403725-mswuzg"
+    },
+    {
+      "text": "智能表格学习",
+      "date": "2026-07-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784640350617-i5qgp5"
     }
   ],
   "workList": [
@@ -2469,5 +2486,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/21 21:25:44"
+  "updateTime": "2026/7/21 21:25:51"
 }

@@ -2470,6 +2470,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784641054186-gflz6e"
+    },
+    {
+      "text": "汇艺大理石价格",
+      "date": "2026-07-23",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784713829375-o3fhwe"
     }
   ],
   "workList": [
@@ -2520,5 +2537,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/22 17:50:21"
+  "updateTime": "2026/7/22 17:50:30"
 }

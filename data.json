@@ -2470,6 +2470,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784811962952-w8j4p4"
+    },
+    {
+      "text": "中基方剑勇报价",
+      "date": "2026-07-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784812280348-91l0lr"
     }
   ],
   "workList": [
@@ -2524,5 +2541,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 21:06:03"
+  "updateTime": "2026/7/23 21:11:21"
 }

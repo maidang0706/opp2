@@ -2183,23 +2183,6 @@
       "id": "1783954496560-qgtock"
     },
     {
-      "text": "问海得地刘总超电项目情况，文通打电话",
-      "date": "2026-07-20",
-      "time": "16:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784021056868-fnrhel"
-    },
-    {
       "text": "精智达取消订单",
       "date": "2026-07-15",
       "time": "",
@@ -2300,23 +2283,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1784358835316-57g66l"
-    },
-    {
-      "text": "汇艺补线缆订单",
-      "date": "2026-07-20",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784462027419-du9h9r"
     },
     {
       "text": "中欣调试",
@@ -2592,5 +2558,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 21:02:04"
+  "updateTime": "2026/7/23 21:02:11"
 }

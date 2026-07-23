@@ -2319,23 +2319,6 @@
       "id": "1784474355030-m3tsa2"
     },
     {
-      "text": "代办不能换行显示",
-      "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784529905327-wxc37o"
-    },
-    {
       "text": "精朗驱动器维修费用",
       "date": "2026-07-27",
       "time": "",
@@ -2385,23 +2368,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1784640957090-xwl1io"
-    },
-    {
-      "text": "汇艺图纸",
-      "date": "2026-07-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784641054186-gflz6e"
     },
     {
       "text": "汇艺大理石价格",
@@ -2541,5 +2507,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 21:02:14"
+  "updateTime": "2026/7/23 21:02:22"
 }

@@ -2453,6 +2453,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784811921109-uba2ha"
+    },
+    {
+      "text": "联申达方案对接",
+      "date": "2026-07-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784811962952-w8j4p4"
     }
   ],
   "workList": [
@@ -2507,5 +2524,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 21:05:30"
+  "updateTime": "2026/7/23 21:06:03"
 }

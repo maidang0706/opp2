@@ -2319,23 +2319,6 @@
       "id": "1784474355030-m3tsa2"
     },
     {
-      "text": "汇艺价格沟通",
-      "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784518991304-5ymejr"
-    },
-    {
       "text": "代办不能换行显示",
       "date": "2026-07-20",
       "time": "",
@@ -2558,5 +2541,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 21:02:11"
+  "updateTime": "2026/7/23 21:02:14"
 }

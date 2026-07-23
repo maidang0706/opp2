@@ -2504,6 +2504,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784812295892-1xs04l"
+    },
+    {
+      "text": "处理方剑勇在群里面的报价",
+      "date": "2026-07-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784812723394-8czwgw"
     }
   ],
   "workList": [
@@ -2558,5 +2575,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 21:11:36"
+  "updateTime": "2026/7/23 21:18:44"
 }

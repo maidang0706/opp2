@@ -2285,23 +2285,6 @@
       "id": "1784358835316-57g66l"
     },
     {
-      "text": "中欣调试",
-      "date": "2026-07-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784464163705-po68y8"
-    },
-    {
       "text": "中基，瑞声，汇艺，中欣",
       "date": "2026-07-20",
       "time": "",
@@ -2507,5 +2490,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 21:02:22"
+  "updateTime": "2026/7/23 21:02:25"
 }

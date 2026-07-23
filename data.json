@@ -2487,6 +2487,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784713829375-o3fhwe"
+    },
+    {
+      "text": "商机文件，每个人的客户都显示，改一下",
+      "date": "2026-07-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784776684362-7aqez5"
     }
   ],
   "workList": [
@@ -2541,5 +2558,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 11:17:46"
+  "updateTime": "2026/7/23 11:18:05"
 }

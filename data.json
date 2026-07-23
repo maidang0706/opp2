@@ -2521,6 +2521,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784793774953-dfl8hh"
+    },
+    {
+      "text": "精朗拼接高埗",
+      "date": "2026-07-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784808621093-cnir8k"
     }
   ],
   "workList": [
@@ -2575,5 +2592,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 20:10:12"
+  "updateTime": "2026/7/23 20:10:21"
 }

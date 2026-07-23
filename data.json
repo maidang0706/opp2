@@ -2504,6 +2504,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784776684362-7aqez5"
+    },
+    {
+      "text": "博韬价格",
+      "date": "2026-07-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784793774953-dfl8hh"
     }
   ],
   "workList": [
@@ -2558,5 +2575,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 16:02:49"
+  "updateTime": "2026/7/23 16:02:55"
 }

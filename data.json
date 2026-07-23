@@ -2302,23 +2302,6 @@
       "id": "1784358835316-57g66l"
     },
     {
-      "text": "中基价格核对和备注",
-      "date": "2026-07-20",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784369609108-cam1vd"
-    },
-    {
       "text": "汇艺补线缆订单",
       "date": "2026-07-20",
       "time": "09:00",
@@ -2609,5 +2592,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/23 21:01:47"
+  "updateTime": "2026/7/23 21:02:04"
 }

@@ -2472,40 +2472,6 @@
       "id": "1784811962952-w8j4p4"
     },
     {
-      "text": "中基方剑勇报价",
-      "date": "2026-07-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784812280348-91l0lr"
-    },
-    {
-      "text": "瑞声订单",
-      "date": "2026-07-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784812295892-1xs04l"
-    },
-    {
       "text": "处理方剑勇在群里面的报价",
       "date": "2026-07-23",
       "time": "",
@@ -2592,5 +2558,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/24 11:14:38"
+  "updateTime": "2026/7/24 11:14:45"
 }

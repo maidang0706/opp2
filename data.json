@@ -2467,7 +2467,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1784811962952-w8j4p4"
     },
@@ -2484,7 +2484,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1784812280348-91l0lr"
     },
@@ -2538,23 +2538,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1784816807074-hp95r8"
-    },
-    {
-      "text": "朗仪发的发票",
-      "date": "2026-07-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784849865413-bgxnxl"
     }
   ],
   "workList": [
@@ -2609,5 +2592,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/24 11:14:21"
+  "updateTime": "2026/7/24 11:14:38"
 }

@@ -2438,23 +2438,6 @@
       "id": "1784811921109-uba2ha"
     },
     {
-      "text": "处理方剑勇在群里面的报价",
-      "date": "2026-07-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784812723394-8czwgw"
-    },
-    {
       "text": "记录微信的聊天记录，把有需要的聊天记录记录下来，然后自动整理到记录文件里面",
       "date": "2026-07-26",
       "time": "",
@@ -2575,5 +2558,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/24 11:35:32"
+  "updateTime": "2026/7/24 11:35:36"
 }

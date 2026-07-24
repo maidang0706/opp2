@@ -2504,6 +2504,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784863147213-crkush"
+    },
+    {
+      "text": "请假",
+      "date": "2026-07-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784863611553-k5icam"
     }
   ],
   "workList": [
@@ -2558,5 +2575,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/24 11:26:46"
+  "updateTime": "2026/7/24 11:26:52"
 }

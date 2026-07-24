@@ -2470,6 +2470,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1784816807074-hp95r8"
+    },
+    {
+      "text": "卓誉线缆询问晁总",
+      "date": "2026-07-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1784863137330-xxnltf"
     }
   ],
   "workList": [
@@ -2524,5 +2541,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/24 11:18:32"
+  "updateTime": "2026/7/24 11:18:58"
 }

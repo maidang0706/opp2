@@ -2572,6 +2572,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785077659699-fle441"
+    },
+    {
+      "text": "方剑勇报价",
+      "date": "2026-07-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785077682412-dacj0x"
     }
   ],
   "workList": [
@@ -2626,5 +2643,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/26 22:54:20"
+  "updateTime": "2026/7/26 22:54:43"
 }

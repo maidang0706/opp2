@@ -2555,6 +2555,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785077634052-8q7yg3"
+    },
+    {
+      "text": "找朗仪要价格",
+      "date": "2026-07-27",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785077659699-fle441"
     }
   ],
   "workList": [
@@ -2609,5 +2626,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/26 22:53:54"
+  "updateTime": "2026/7/26 22:54:20"
 }

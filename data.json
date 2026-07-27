@@ -2093,23 +2093,6 @@
       "id": "1783860451919-uoojbp"
     },
     {
-      "text": "深科技和长城科技",
-      "date": "2026-07-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783908408262-ix094x"
-    },
-    {
       "text": "瑞浦9月份有三条线",
       "date": "2026-07-13",
       "time": "",
@@ -2251,23 +2234,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1784358835316-57g66l"
-    },
-    {
-      "text": "中基，瑞声，汇艺，中欣",
-      "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784474355030-m3tsa2"
     },
     {
       "text": "精朗驱动器维修费用",
@@ -2645,5 +2611,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 14:21:36"
+  "updateTime": "2026/7/27 14:21:51"
 }

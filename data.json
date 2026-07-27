@@ -2523,6 +2523,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785165028830-jikr8r"
+    },
+    {
+      "text": "如何实现客户给了合同，添加到ima知识库以后，自动帮我整理到HTML文件里面去",
+      "date": "2026-08-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785165707528-f373kd"
     }
   ],
   "workList": [
@@ -2577,5 +2594,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:21:16"
+  "updateTime": "2026/7/27 23:21:48"
 }

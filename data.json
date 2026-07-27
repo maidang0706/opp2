@@ -2185,23 +2185,6 @@
       "id": "1784100530839-mrni9d"
     },
     {
-      "text": "优化选型表格，速度不匹配显示红色，输入单元放右边",
-      "date": "2026-07-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784135008318-1qimoi"
-    },
-    {
       "text": "休假规划",
       "date": "2026-07-18",
       "time": "",
@@ -2611,5 +2594,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 14:21:51"
+  "updateTime": "2026/7/27 14:21:57"
 }

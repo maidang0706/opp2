@@ -2201,23 +2201,6 @@
       "id": "1784100530839-mrni9d"
     },
     {
-      "text": "对账单：文通，精朗，誉昊，中欣",
-      "date": "2026-07-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784110690878-kj3tqc"
-    },
-    {
       "text": "优化选型表格，速度不匹配显示红色，输入单元放右边",
       "date": "2026-07-14",
       "time": "",
@@ -2349,7 +2332,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1784776684362-7aqez5"
     },
@@ -2695,5 +2678,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 14:20:52"
+  "updateTime": "2026/7/27 14:21:19"
 }

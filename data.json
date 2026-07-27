@@ -2440,23 +2440,6 @@
       "id": "1785077634052-8q7yg3"
     },
     {
-      "text": "找朗仪要价格",
-      "date": "2026-07-27",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785077659699-fle441"
-    },
-    {
       "text": "方剑勇报价",
       "date": "2026-07-27",
       "time": "",
@@ -2645,5 +2628,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:06:30"
+  "updateTime": "2026/7/27 23:06:38"
 }

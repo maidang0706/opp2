@@ -2406,23 +2406,6 @@
       "id": "1785077634052-8q7yg3"
     },
     {
-      "text": "核对中基订单型号有没有下错",
-      "date": "2026-07-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785129204872-fc5r5c"
-    },
-    {
       "text": "方剑勇要端子",
       "date": "2026-07-28",
       "time": "09:00",
@@ -2491,7 +2474,7 @@
       "id": "1785164708775-qj7lfn"
     },
     {
-      "text": "答复博滔",
+      "text": "答复博滔读头是不是ABZ",
       "date": "2026-07-28",
       "time": "09:00",
       "isAllDay": false,
@@ -2560,5 +2543,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:07:12"
+  "updateTime": "2026/7/27 23:07:33"
 }

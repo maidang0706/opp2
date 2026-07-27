@@ -2489,6 +2489,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785164760427-f49wu7"
+    },
+    {
+      "text": "精朗订单修改",
+      "date": "2026-07-28",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785164897915-peyli3"
     }
   ],
   "workList": [
@@ -2543,5 +2560,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:07:33"
+  "updateTime": "2026/7/27 23:08:18"
 }

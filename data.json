@@ -2606,6 +2606,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785122480595-h8zt8b"
+    },
+    {
+      "text": "核对中基订单型号有没有下错",
+      "date": "2026-07-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785129204872-fc5r5c"
     }
   ],
   "workList": [
@@ -2660,5 +2677,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 13:13:18"
+  "updateTime": "2026/7/27 13:13:25"
 }

@@ -2543,9 +2543,9 @@
     },
     {
       "text": "中欣要的端子",
-      "date": "2026-07-27",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-07-28",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2645,5 +2645,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:06:23"
+  "updateTime": "2026/7/27 23:06:30"
 }

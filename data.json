@@ -2540,6 +2540,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785150445849-d9qnou"
+    },
+    {
+      "text": "中欣要的端子",
+      "date": "2026-07-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785163571380-t0wvk0"
     }
   ],
   "workList": [
@@ -2594,5 +2611,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 22:45:06"
+  "updateTime": "2026/7/27 22:46:12"
 }

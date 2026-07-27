@@ -2509,9 +2509,9 @@
     },
     {
       "text": "方剑勇要端子",
-      "date": "2026-07-27",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-07-28",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2578,8 +2578,8 @@
     {
       "text": "答复博滔",
       "date": "2026-07-28",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2645,5 +2645,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:06:06"
+  "updateTime": "2026/7/27 23:06:23"
 }

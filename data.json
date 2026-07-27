@@ -2506,6 +2506,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785164897915-peyli3"
+    },
+    {
+      "text": "答复长园康聪",
+      "date": "2026-07-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785165028830-jikr8r"
     }
   ],
   "workList": [
@@ -2560,5 +2577,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:08:42"
+  "updateTime": "2026/7/27 23:10:29"
 }

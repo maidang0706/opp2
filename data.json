@@ -2202,23 +2202,6 @@
       "id": "1784358835316-57g66l"
     },
     {
-      "text": "精朗驱动器维修费用",
-      "date": "2026-07-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784614403725-mswuzg"
-    },
-    {
       "text": "智能表格学习",
       "date": "2026-07-25",
       "time": "",
@@ -2611,5 +2594,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:06:59"
+  "updateTime": "2026/7/27 23:07:05"
 }

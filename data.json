@@ -2304,23 +2304,6 @@
       "id": "1784816807074-hp95r8"
     },
     {
-      "text": "卓誉线缆询问晁总",
-      "date": "2026-07-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1784863137330-xxnltf"
-    },
-    {
       "text": "精朗线缆问题",
       "date": "2026-07-27",
       "time": "",
@@ -2421,23 +2404,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1785077634052-8q7yg3"
-    },
-    {
-      "text": "卓誉和誉辰问清陶",
-      "date": "2026-07-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785122480595-h8zt8b"
     },
     {
       "text": "核对中基订单型号有没有下错",
@@ -2594,5 +2560,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/27 23:07:05"
+  "updateTime": "2026/7/27 23:07:12"
 }

@@ -2523,6 +2523,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785166089154-tqydra"
+    },
+    {
+      "text": "卓誉调试",
+      "date": "2026-07-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785207979204-xmmyri"
     }
   ],
   "workList": [
@@ -2577,5 +2594,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/28 11:06:08"
+  "updateTime": "2026/7/28 11:06:20"
 }

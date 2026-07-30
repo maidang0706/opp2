@@ -2370,7 +2370,7 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1785077634052-8q7yg3"
     },
@@ -2560,6 +2560,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785294097409-2weql1"
+    },
+    {
+      "text": "精智达建商机",
+      "date": "2026-07-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785391037119-16mp4a"
     }
   ],
   "workList": [
@@ -2614,5 +2631,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/30 23:19:54"
+  "updateTime": "2026/7/30 23:20:03"
 }

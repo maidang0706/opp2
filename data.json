@@ -2594,6 +2594,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785424842506-wav5gv"
+    },
+    {
+      "text": "落实叁迪补差价",
+      "date": "2026-07-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785424849436-31tm94"
     }
   ],
   "workList": [
@@ -2648,5 +2665,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/30 23:20:43"
+  "updateTime": "2026/7/30 23:20:50"
 }

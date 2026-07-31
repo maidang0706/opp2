@@ -2628,6 +2628,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785424868465-1d8myx"
+    },
+    {
+      "text": "开会",
+      "date": "2026-07-31",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785491507785-h7xnvs"
     }
   ],
   "workList": [
@@ -2682,5 +2699,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/7/31 17:51:39"
+  "updateTime": "2026/7/31 17:51:48"
 }

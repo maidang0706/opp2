@@ -2475,23 +2475,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1785424849436-31tm94"
-    },
-    {
-      "text": "刘孝灯图纸",
-      "date": "2026-07-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785424868465-1d8myx"
     }
   ],
   "workList": [
@@ -2546,5 +2529,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/1 11:01:51"
+  "updateTime": "2026/8/1 11:01:54"
 }

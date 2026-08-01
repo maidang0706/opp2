@@ -2392,23 +2392,6 @@
       "id": "1785165707528-f373kd"
     },
     {
-      "text": "精智达报价结果",
-      "date": "2026-07-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785165911942-2xqsdd"
-    },
-    {
       "text": "汇艺大理石价格确认",
       "date": "2026-07-28",
       "time": "",
@@ -2597,5 +2580,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/1 11:01:36"
+  "updateTime": "2026/8/1 11:01:41"
 }

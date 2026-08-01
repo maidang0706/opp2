@@ -2375,23 +2375,6 @@
       "id": "1785077634052-8q7yg3"
     },
     {
-      "text": "中基L8580订单下错",
-      "date": "2026-07-28",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785150445849-d9qnou"
-    },
-    {
       "text": "徐新月要的3D",
       "date": "2026-07-28",
       "time": "09:00",
@@ -2665,5 +2648,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/1 11:01:22"
+  "updateTime": "2026/8/1 11:01:26"
 }

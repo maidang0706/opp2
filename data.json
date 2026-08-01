@@ -2113,23 +2113,6 @@
       "id": "1783910906791-0ehbxw"
     },
     {
-      "text": "半年会",
-      "date": "2026-07-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1783910997957-zse5z5"
-    },
-    {
       "text": "公司分配客户汇报",
       "date": "2026-07-06",
       "time": "",
@@ -2529,5 +2512,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/1 11:01:54"
+  "updateTime": "2026/8/1 11:01:58"
 }

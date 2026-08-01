@@ -2392,23 +2392,6 @@
       "id": "1785150445849-d9qnou"
     },
     {
-      "text": "中欣要的端子",
-      "date": "2026-07-28",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785163571380-t0wvk0"
-    },
-    {
       "text": "徐新月要的3D",
       "date": "2026-07-28",
       "time": "09:00",
@@ -2682,5 +2665,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/1 11:01:17"
+  "updateTime": "2026/8/1 11:01:22"
 }

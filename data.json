@@ -2375,23 +2375,6 @@
       "id": "1785077634052-8q7yg3"
     },
     {
-      "text": "答复长园康聪",
-      "date": "2026-07-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785165028830-jikr8r"
-    },
-    {
       "text": "如何实现客户给了合同，添加到ima知识库以后，自动帮我整理到HTML文件里面去",
       "date": "2026-08-01",
       "time": "",
@@ -2614,5 +2597,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/1 11:01:32"
+  "updateTime": "2026/8/1 11:01:36"
 }

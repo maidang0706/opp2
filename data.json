@@ -2375,23 +2375,6 @@
       "id": "1785077634052-8q7yg3"
     },
     {
-      "text": "精朗订单修改",
-      "date": "2026-07-28",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785164897915-peyli3"
-    },
-    {
       "text": "答复长园康聪",
       "date": "2026-07-28",
       "time": "",
@@ -2631,5 +2614,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/1 11:01:29"
+  "updateTime": "2026/8/1 11:01:32"
 }

@@ -2460,23 +2460,6 @@
       "id": "1785391037119-16mp4a"
     },
     {
-      "text": "中基陈智给图纸",
-      "date": "2026-07-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785424842506-wav5gv"
-    },
-    {
       "text": "落实叁迪补差价",
       "date": "2026-07-30",
       "time": "",
@@ -2563,5 +2546,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/1 11:01:44"
+  "updateTime": "2026/8/1 11:01:51"
 }

@@ -2509,6 +2509,40 @@
       "done": false,
       "onlyDone": [],
       "id": "1785853723347-qz92c3"
+    },
+    {
+      "text": "精智达催变更",
+      "date": "2026-08-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785853730760-nucyxm"
+    },
+    {
+      "text": "订单预测和完成率",
+      "date": "2026-08-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785853781974-sot2nk"
     }
   ],
   "workList": [
@@ -2563,5 +2597,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/4 22:28:44"
+  "updateTime": "2026/8/4 22:29:42"
 }

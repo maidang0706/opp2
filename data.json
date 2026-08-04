@@ -2560,6 +2560,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785854555882-u92e9b"
+    },
+    {
+      "text": "中基哪些型号要下预测",
+      "date": "2026-08-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785854566536-flb7dk"
     }
   ],
   "workList": [
@@ -2614,5 +2631,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/4 22:42:36"
+  "updateTime": "2026/8/4 22:42:47"
 }

@@ -2458,6 +2458,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785424849436-31tm94"
+    },
+    {
+      "text": "方剑勇要的2280价格",
+      "date": "2026-08-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785852061405-zw0ivc"
     }
   ],
   "workList": [
@@ -2512,5 +2529,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/4 22:00:39"
+  "updateTime": "2026/8/4 22:01:02"
 }

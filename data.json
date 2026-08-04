@@ -2475,6 +2475,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785852061405-zw0ivc"
+    },
+    {
+      "text": "让研发给EL170-50-M3X2-L2280-B-ZJ-260103的图纸",
+      "date": "2026-08-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785852135693-kqmunv"
     }
   ],
   "workList": [
@@ -2529,5 +2546,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/4 22:01:02"
+  "updateTime": "2026/8/4 22:02:16"
 }

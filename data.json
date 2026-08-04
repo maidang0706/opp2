@@ -2543,6 +2543,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785853781974-sot2nk"
+    },
+    {
+      "text": "中基的款",
+      "date": "2026-08-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785854555882-u92e9b"
     }
   ],
   "workList": [
@@ -2597,5 +2614,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/4 22:29:42"
+  "updateTime": "2026/8/4 22:42:36"
 }

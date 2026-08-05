@@ -2628,6 +2628,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785952621630-6vgume"
+    },
+    {
+      "text": "威富",
+      "date": "2026-08-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785952702133-g953d0"
     }
   ],
   "workList": [
@@ -2682,5 +2699,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 01:57:02"
+  "updateTime": "2026/8/6 01:58:22"
 }

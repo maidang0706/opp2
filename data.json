@@ -2713,6 +2713,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785953524211-10lhsk"
+    },
+    {
+      "text": "中基模组和线对账跟朗仪说",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785953586191-ocxent"
     }
   ],
   "workList": [
@@ -2767,5 +2784,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:12:05"
+  "updateTime": "2026/8/6 02:13:06"
 }

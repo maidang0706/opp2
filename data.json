@@ -2477,23 +2477,6 @@
       "id": "1785853730760-nucyxm"
     },
     {
-      "text": "订单预测和完成率",
-      "date": "2026-08-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785853781974-sot2nk"
-    },
-    {
       "text": "中基的款",
       "date": "2026-08-06",
       "time": "",
@@ -2852,5 +2835,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:36:03"
+  "updateTime": "2026/8/6 02:36:06"
 }

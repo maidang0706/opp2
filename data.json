@@ -2645,6 +2645,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785952702133-g953d0"
+    },
+    {
+      "text": "中基3840报价给方剑勇",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785952775500-hy46ak"
     }
   ],
   "workList": [
@@ -2699,5 +2716,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 01:58:52"
+  "updateTime": "2026/8/6 01:59:36"
 }

@@ -2577,6 +2577,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785952453311-j7c5yy"
+    },
+    {
+      "text": "中基DDR交期",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785952516490-8zysob"
     }
   ],
   "workList": [
@@ -2631,5 +2648,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 01:54:14"
+  "updateTime": "2026/8/6 01:55:17"
 }

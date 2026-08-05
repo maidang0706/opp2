@@ -2477,23 +2477,6 @@
       "id": "1785852061405-zw0ivc"
     },
     {
-      "text": "让研发给EL170-50-M3X2-L2280-B-ZJ-260103的图纸",
-      "date": "2026-08-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1785852135693-kqmunv"
-    },
-    {
       "text": "精智达订单下预测",
       "date": "2026-08-05",
       "time": "",
@@ -2631,5 +2614,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/4 22:47:16"
+  "updateTime": "2026/8/5 08:36:00"
 }

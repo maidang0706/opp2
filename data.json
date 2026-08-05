@@ -2460,23 +2460,6 @@
       "id": "1785424849436-31tm94"
     },
     {
-      "text": "方剑勇要的2280价格，价格没报怎么合同都出来了",
-      "date": "2026-08-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785852061405-zw0ivc"
-    },
-    {
       "text": "精智达订单下预测",
       "date": "2026-08-05",
       "time": "",
@@ -2529,11 +2512,11 @@
     },
     {
       "text": "中基的款",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2886,5 +2869,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:35:44"
+  "updateTime": "2026/8/6 02:35:59"
 }

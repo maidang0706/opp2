@@ -2798,6 +2798,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785954471935-ha3gbh"
+    },
+    {
+      "text": "中基陈智价格",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785954732705-majv0y"
     }
   ],
   "workList": [
@@ -2852,5 +2869,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:27:52"
+  "updateTime": "2026/8/6 02:32:14"
 }

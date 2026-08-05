@@ -2696,6 +2696,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785953056509-iayofg"
+    },
+    {
+      "text": "丹宁的售后领料",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785953524211-10lhsk"
     }
   ],
   "workList": [
@@ -2750,5 +2767,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:04:17"
+  "updateTime": "2026/8/6 02:12:05"
 }

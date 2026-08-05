@@ -2764,6 +2764,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785954153815-w43vuk"
+    },
+    {
+      "text": "襄阳中基报价",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785954186215-gkgkr3"
     }
   ],
   "workList": [
@@ -2818,5 +2835,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:22:34"
+  "updateTime": "2026/8/6 02:23:07"
 }

@@ -2730,6 +2730,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785953586191-ocxent"
+    },
+    {
+      "text": "发汇艺对账单",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785953593971-vxdo4y"
     }
   ],
   "workList": [
@@ -2784,5 +2801,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:13:06"
+  "updateTime": "2026/8/6 02:13:14"
 }

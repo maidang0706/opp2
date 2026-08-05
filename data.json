@@ -2747,6 +2747,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1785953593971-vxdo4y"
+    },
+    {
+      "text": "中基张华平DDR选型",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1785954153815-w43vuk"
     }
   ],
   "workList": [
@@ -2801,5 +2818,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:13:14"
+  "updateTime": "2026/8/6 02:22:34"
 }

@@ -2461,7 +2461,7 @@
     },
     {
       "text": "精智达催变更",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2492,23 +2492,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1785854555882-u92e9b"
-    },
-    {
-      "text": "中基哪些型号要下预测",
-      "date": "2026-08-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785854566536-flb7dk"
     },
     {
       "text": "方剑勇的L2280价格什么时候下过单",
@@ -2835,5 +2818,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 02:36:06"
+  "updateTime": "2026/8/6 02:36:15"
 }

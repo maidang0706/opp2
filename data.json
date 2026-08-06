@@ -2697,6 +2697,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786031415831-79puyh"
+    },
+    {
+      "text": "给汇艺做线缆合同",
+      "date": "2026-08-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786032158774-dyy85p"
     }
   ],
   "workList": [
@@ -2751,5 +2768,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 23:52:50"
+  "updateTime": "2026/8/7 00:02:39"
 }

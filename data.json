@@ -2663,6 +2663,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786031353798-gza5e8"
+    },
+    {
+      "text": "襄阳中基询价",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786031369473-prh4y5"
     }
   ],
   "workList": [
@@ -2717,5 +2734,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 23:49:14"
+  "updateTime": "2026/8/6 23:49:30"
 }

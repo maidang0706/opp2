@@ -2612,6 +2612,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786031202256-pt3pln"
+    },
+    {
+      "text": "阿连查光电开关有无",
+      "date": "2026-08-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786031284717-rx34cm"
     }
   ],
   "workList": [
@@ -2666,5 +2683,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 23:46:43"
+  "updateTime": "2026/8/6 23:48:05"
 }

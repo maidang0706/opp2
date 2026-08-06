@@ -2646,6 +2646,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786031316467-wq9r15"
+    },
+    {
+      "text": "补栅尺和接头的借用",
+      "date": "2026-08-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786031353798-gza5e8"
     }
   ],
   "workList": [
@@ -2700,5 +2717,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 23:48:59"
+  "updateTime": "2026/8/6 23:49:14"
 }

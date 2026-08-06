@@ -2680,6 +2680,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786031369473-prh4y5"
+    },
+    {
+      "text": "程工选型",
+      "date": "2026-08-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786031415831-79puyh"
     }
   ],
   "workList": [
@@ -2734,5 +2751,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 23:49:30"
+  "updateTime": "2026/8/6 23:50:16"
 }

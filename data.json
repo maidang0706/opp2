@@ -2461,23 +2461,6 @@
       "id": "1785424849436-31tm94"
     },
     {
-      "text": "精智达催变更",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785853730760-nucyxm"
-    },
-    {
       "text": "中基的款",
       "date": "2026-08-06",
       "time": "",
@@ -2493,74 +2476,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1785854555882-u92e9b"
-    },
-    {
-      "text": "方剑勇的L2280价格什么时候下过单",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785952453311-j7c5yy"
-    },
-    {
-      "text": "中基DDR交期",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785952516490-8zysob"
-    },
-    {
-      "text": "答复科瑞思群问题",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785952550005-hc3f0l"
-    },
-    {
-      "text": "中基要的2S的接线图",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785952621630-6vgume"
     },
     {
       "text": "威富",
@@ -2580,23 +2495,6 @@
       "id": "1785952702133-g953d0"
     },
     {
-      "text": "中基3840报价给方剑勇，襄阳报价",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785952775500-hy46ak"
-    },
-    {
       "text": "方剑勇的订单预测",
       "date": "2026-08-06",
       "time": "",
@@ -2614,40 +2512,6 @@
       "id": "1785952988243-z0byus"
     },
     {
-      "text": "确认汇艺大理石模组型号是不是对的",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785953056509-iayofg"
-    },
-    {
-      "text": "丹宁的售后领料",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785953524211-10lhsk"
-    },
-    {
       "text": "中基模组和线对账跟朗仪说",
       "date": "2026-08-10",
       "time": "",
@@ -2663,40 +2527,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1785953586191-ocxent"
-    },
-    {
-      "text": "发汇艺对账单",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785953593971-vxdo4y"
-    },
-    {
-      "text": "中基张华平DDR选型",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785954153815-w43vuk"
     },
     {
       "text": "襄阳中基报价",
@@ -2819,5 +2649,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 12:30:02"
+  "updateTime": "2026/8/6 12:30:57"
 }

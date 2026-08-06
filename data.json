@@ -2595,6 +2595,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1785954800251-muybsf"
+    },
+    {
+      "text": "寄U盘",
+      "date": "2026-08-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786031202256-pt3pln"
     }
   ],
   "workList": [
@@ -2649,5 +2666,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/6 23:46:35"
+  "updateTime": "2026/8/6 23:46:43"
 }

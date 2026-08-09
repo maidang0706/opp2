@@ -2794,6 +2794,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786292071758-j8brk6"
+    },
+    {
+      "text": "整理中基程工选型资料",
+      "date": "2026-08-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786292096597-feednn"
     }
   ],
   "workList": [
@@ -2848,5 +2865,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 00:14:32"
+  "updateTime": "2026/8/10 00:14:57"
 }

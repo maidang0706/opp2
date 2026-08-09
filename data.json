@@ -2748,6 +2748,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786286490802-uurvsq"
+    },
+    {
+      "text": "中基DDR交货",
+      "date": "2026-08-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786290155601-4i0kyq"
     }
   ],
   "workList": [
@@ -2802,5 +2819,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 22:41:31"
+  "updateTime": "2026/8/9 23:42:36"
 }

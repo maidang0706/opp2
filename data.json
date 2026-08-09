@@ -2495,23 +2495,6 @@
       "id": "1785952702133-g953d0"
     },
     {
-      "text": "方剑勇的订单预测",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785952988243-z0byus"
-    },
-    {
       "text": "中基模组和线对账跟朗仪说",
       "date": "2026-08-10",
       "time": "",
@@ -2819,5 +2802,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 22:17:33"
+  "updateTime": "2026/8/9 22:17:48"
 }

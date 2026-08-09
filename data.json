@@ -2782,6 +2782,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786290493010-npy63u"
+    },
+    {
+      "text": "张天玉的价格沟通",
+      "date": "2026-08-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786290516616-jo7s0s"
     }
   ],
   "workList": [
@@ -2836,5 +2853,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 23:48:13"
+  "updateTime": "2026/8/9 23:48:37"
 }

@@ -2119,7 +2119,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 1,
         "days": [
@@ -2129,13 +2129,7 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [
-        "2026-07-06",
-        "2026-07-13",
-        "2026-07-20",
-        "2026-07-27",
-        "2026-08-03"
-      ],
+      "onlyDone": [],
       "id": "1783953473415-lyzwi4"
     },
     {
@@ -2837,5 +2831,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 00:11:22"
+  "updateTime": "2026/8/10 00:12:01"
 }

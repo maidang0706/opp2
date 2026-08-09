@@ -2765,6 +2765,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786290155601-4i0kyq"
+    },
+    {
+      "text": "给方剑勇报价",
+      "date": "2026-08-10",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786290493010-npy63u"
     }
   ],
   "workList": [
@@ -2819,5 +2836,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 23:42:36"
+  "updateTime": "2026/8/9 23:48:13"
 }

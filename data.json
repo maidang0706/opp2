@@ -2845,6 +2845,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786292156283-nakpb6"
+    },
+    {
+      "text": "王大区聚会",
+      "date": "2026-08-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786292209518-gvdg5g"
     }
   ],
   "workList": [
@@ -2899,5 +2916,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 00:15:57"
+  "updateTime": "2026/8/10 00:16:50"
 }

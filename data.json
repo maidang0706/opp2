@@ -2731,6 +2731,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786286222154-b8fpxa"
+    },
+    {
+      "text": "要销售数据",
+      "date": "2026-08-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786286490802-uurvsq"
     }
   ],
   "workList": [
@@ -2785,5 +2802,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 22:37:02"
+  "updateTime": "2026/8/9 22:41:31"
 }

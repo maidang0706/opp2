@@ -2799,6 +2799,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786290516616-jo7s0s"
+    },
+    {
+      "text": "汇艺开票",
+      "date": "2026-08-10",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786290538431-57krzp"
     }
   ],
   "workList": [
@@ -2853,5 +2870,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 23:48:37"
+  "updateTime": "2026/8/9 23:48:59"
 }

@@ -2512,23 +2512,6 @@
       "id": "1785953586191-ocxent"
     },
     {
-      "text": "襄阳中基报价",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785954186215-gkgkr3"
-    },
-    {
       "text": "问誉辰驱动器修的情况",
       "date": "2026-08-07",
       "time": "",
@@ -2544,23 +2527,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1785954471935-ha3gbh"
-    },
-    {
-      "text": "中基陈智价格",
-      "date": "2026-08-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785954732705-majv0y"
     },
     {
       "text": "回袁红阳电话",
@@ -2802,5 +2768,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 22:17:48"
+  "updateTime": "2026/8/9 22:17:59"
 }

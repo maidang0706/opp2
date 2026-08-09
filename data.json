@@ -2513,7 +2513,7 @@
     },
     {
       "text": "问誉辰驱动器修的情况",
-      "date": "2026-08-07",
+      "date": "2026-08-10",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2558,7 +2558,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786031284717-rx34cm"
     },
@@ -2870,5 +2870,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 23:49:13"
+  "updateTime": "2026/8/9 23:49:22"
 }

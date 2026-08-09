@@ -2714,6 +2714,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786285215959-5uikew"
+    },
+    {
+      "text": "王辉选型",
+      "date": "2026-08-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786286222154-b8fpxa"
     }
   ],
   "workList": [
@@ -2768,5 +2785,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/9 22:20:16"
+  "updateTime": "2026/8/9 22:37:02"
 }

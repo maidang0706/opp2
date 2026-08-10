@@ -2541,23 +2541,6 @@
       "id": "1786031202256-pt3pln"
     },
     {
-      "text": "给汇艺做线缆合同",
-      "date": "2026-08-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786032158774-dyy85p"
-    },
-    {
       "text": "答复借用",
       "date": "2026-08-11",
       "time": "",
@@ -2882,5 +2865,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 09:25:21"
+  "updateTime": "2026/8/10 09:25:34"
 }

@@ -2694,23 +2694,6 @@
       "id": "1786290155601-4i0kyq"
     },
     {
-      "text": "给方剑勇报价",
-      "date": "2026-08-10",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786290493010-npy63u"
-    },
-    {
       "text": "张天玉的价格沟通,问何健为什么贵这么多",
       "date": "2026-08-10",
       "time": "",
@@ -2726,23 +2709,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1786290516616-jo7s0s"
-    },
-    {
-      "text": "汇艺开票",
-      "date": "2026-08-10",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786290538431-57krzp"
     },
     {
       "text": "科瑞思寄磁栅",
@@ -2950,5 +2916,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 09:24:15"
+  "updateTime": "2026/8/10 09:24:22"
 }

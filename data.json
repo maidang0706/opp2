@@ -2560,23 +2560,6 @@
       "id": "1786275822937-cjmyjo"
     },
     {
-      "text": "精朗楚能模组问题",
-      "date": "2026-08-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786285053095-uax5cb"
-    },
-    {
       "text": "博滔换大电机",
       "date": "2026-08-10",
       "time": "",
@@ -2867,5 +2850,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 21:44:10"
+  "updateTime": "2026/8/10 21:44:15"
 }

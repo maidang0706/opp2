@@ -2458,23 +2458,6 @@
       "id": "1785424849436-31tm94"
     },
     {
-      "text": "中基的款",
-      "date": "2026-08-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1785854555882-u92e9b"
-    },
-    {
       "text": "威富",
       "date": "2026-08-05",
       "time": "",
@@ -2867,5 +2850,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 11:35:29"
+  "updateTime": "2026/8/10 11:35:33"
 }

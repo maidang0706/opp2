@@ -2577,23 +2577,6 @@
       "id": "1786285053095-uax5cb"
     },
     {
-      "text": "汇艺大理石价格问题",
-      "date": "2026-08-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786285184990-utm156"
-    },
-    {
       "text": "博滔换大电机",
       "date": "2026-08-10",
       "time": "",
@@ -2867,5 +2850,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 11:37:38"
+  "updateTime": "2026/8/10 12:04:08"
 }

@@ -2796,6 +2796,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786327380036-7q86zz"
+    },
+    {
+      "text": "谭佩剑价格",
+      "date": "2026-08-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786333057867-a4h4b2"
     }
   ],
   "workList": [
@@ -2850,5 +2867,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 11:35:33"
+  "updateTime": "2026/8/10 11:37:38"
 }

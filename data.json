@@ -2762,6 +2762,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786378681893-wp8iuo"
+    },
+    {
+      "text": "XM方案表\n新增中基的配套线缆，驱动器功率，电压，刹车电阻的表",
+      "date": "2026-08-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786380800271-t1jzfg"
     }
   ],
   "workList": [
@@ -2816,5 +2833,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/11 00:52:32"
+  "updateTime": "2026/8/11 00:53:21"
 }

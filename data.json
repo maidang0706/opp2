@@ -2628,23 +2628,6 @@
       "id": "1786285215959-5uikew"
     },
     {
-      "text": "王辉选型",
-      "date": "2026-08-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786286222154-b8fpxa"
-    },
-    {
       "text": "中基DDR交货",
       "date": "2026-08-10",
       "time": "",
@@ -2867,5 +2850,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 09:53:52"
+  "updateTime": "2026/8/10 09:53:57"
 }

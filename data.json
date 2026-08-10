@@ -2796,6 +2796,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786325043660-rxjuz7"
+    },
+    {
+      "text": "东莞粤智能-镜头组装",
+      "date": "2026-08-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786327380036-7q86zz"
     }
   ],
   "workList": [
@@ -2850,5 +2867,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 09:53:57"
+  "updateTime": "2026/8/10 10:03:00"
 }

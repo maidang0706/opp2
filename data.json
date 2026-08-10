@@ -2803,7 +2803,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "mid",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -2867,5 +2867,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 09:31:53"
+  "updateTime": "2026/8/10 09:32:07"
 }

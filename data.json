@@ -2745,6 +2745,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786372918244-b648ag"
+    },
+    {
+      "text": "竞争对手的公众号信息第一时间获取如何实现",
+      "date": "2026-08-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786378681893-wp8iuo"
     }
   ],
   "workList": [
@@ -2799,5 +2816,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/11 00:17:45"
+  "updateTime": "2026/8/11 00:18:02"
 }

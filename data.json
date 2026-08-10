@@ -2541,23 +2541,6 @@
       "id": "1786031202256-pt3pln"
     },
     {
-      "text": "艾文合同",
-      "date": "2026-08-10",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786031316467-wq9r15"
-    },
-    {
       "text": "给汇艺做线缆合同",
       "date": "2026-08-10",
       "time": "",
@@ -2723,7 +2706,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786290493010-npy63u"
     },
@@ -2757,7 +2740,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786290538431-57krzp"
     },
@@ -2967,5 +2950,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 09:24:09"
+  "updateTime": "2026/8/10 09:24:15"
 }

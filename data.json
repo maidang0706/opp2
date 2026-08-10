@@ -2800,8 +2800,8 @@
     {
       "text": "大圆直播",
       "date": "2026-08-11",
-      "time": "",
-      "isAllDay": true,
+      "time": "15:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2867,5 +2867,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 12:04:39"
+  "updateTime": "2026/8/10 12:04:49"
 }

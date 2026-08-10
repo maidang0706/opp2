@@ -2728,6 +2728,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786334678219-6042rq"
+    },
+    {
+      "text": "精智达让我选型报价",
+      "date": "2026-08-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786372918244-b648ag"
     }
   ],
   "workList": [
@@ -2782,5 +2799,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 22:41:47"
+  "updateTime": "2026/8/10 22:41:59"
 }

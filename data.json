@@ -2813,23 +2813,6 @@
       "id": "1786292209518-gvdg5g"
     },
     {
-      "text": "给黄婷发盛鑫催款记录",
-      "date": "2026-08-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786292522526-s8o9q0"
-    },
-    {
       "text": "想看的抖音视频号更新如何提醒？",
       "date": "2026-08-16",
       "time": "",
@@ -2916,5 +2899,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 09:24:22"
+  "updateTime": "2026/8/10 09:24:27"
 }

@@ -2796,6 +2796,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786333057867-a4h4b2"
+    },
+    {
+      "text": "大圆直播",
+      "date": "2026-08-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786334678219-6042rq"
     }
   ],
   "workList": [
@@ -2850,5 +2867,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 12:04:08"
+  "updateTime": "2026/8/10 12:04:39"
 }

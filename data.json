@@ -2896,6 +2896,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786319048146-kngkwx"
+    },
+    {
+      "text": "中欣有条栅尺短了",
+      "date": "2026-08-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786325043660-rxjuz7"
     }
   ],
   "workList": [
@@ -2950,5 +2967,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/10 08:27:27"
+  "updateTime": "2026/8/10 09:24:04"
 }

@@ -2796,6 +2796,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786412405557-c1733e"
+    },
+    {
+      "text": "把驱动器资料存到IMA，用WORKBUDDY调用",
+      "date": "2026-08-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786415558707-8fs2ce"
     }
   ],
   "workList": [
@@ -2850,5 +2867,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/11 10:32:14"
+  "updateTime": "2026/8/11 10:32:39"
 }

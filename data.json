@@ -2813,6 +2813,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786415558707-8fs2ce"
+    },
+    {
+      "text": "中基，精朗，卓誉，汇艺，泰德，科瑞，捷佳伟创",
+      "date": "2026-08-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786418511527-87s850"
     }
   ],
   "workList": [
@@ -2867,5 +2884,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/11 11:21:28"
+  "updateTime": "2026/8/11 11:21:52"
 }

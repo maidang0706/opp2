@@ -2779,6 +2779,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786380800271-t1jzfg"
+    },
+    {
+      "text": "玻璃基板，tgv",
+      "date": "2026-08-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786412405557-c1733e"
     }
   ],
   "workList": [
@@ -2833,5 +2850,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/11 09:39:56"
+  "updateTime": "2026/8/11 09:40:06"
 }

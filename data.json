@@ -2779,6 +2779,25 @@
       "done": false,
       "onlyDone": [],
       "id": "1786526604565-grby1b"
+    },
+    {
+      "text": "车dai",
+      "date": "2026-08-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 2,
+        "days": [
+          16
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786540710400-2f5yz7"
     }
   ],
   "workList": [
@@ -2833,5 +2852,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/12 21:18:15"
+  "updateTime": "2026/8/12 21:18:31"
 }

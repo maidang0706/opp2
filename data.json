@@ -2815,6 +2815,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786543164524-r3g6wi"
+    },
+    {
+      "text": "中基线缆下预测",
+      "date": "2026-08-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786545605418-ogiu2o"
     }
   ],
   "workList": [
@@ -2869,5 +2886,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/12 22:40:02"
+  "updateTime": "2026/8/12 22:40:06"
 }

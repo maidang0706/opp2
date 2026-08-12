@@ -2453,7 +2453,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1785424849436-31tm94"
     },
@@ -2883,6 +2883,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786546512034-59p1qu"
+    },
+    {
+      "text": "周一开会的内容回顾，黄宇泽的尚水智能",
+      "date": "2026-08-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786553349518-cym105"
     }
   ],
   "workList": [
@@ -2937,5 +2954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 00:48:34"
+  "updateTime": "2026/8/13 00:49:27"
 }

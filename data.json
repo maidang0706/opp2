@@ -2662,23 +2662,6 @@
       "id": "1786327380036-7q86zz"
     },
     {
-      "text": "大圆直播",
-      "date": "2026-08-11",
-      "time": "15:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786334678219-6042rq"
-    },
-    {
       "text": "精智达让我选型报价",
       "date": "2026-08-11",
       "time": "",
@@ -2833,5 +2816,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/12 11:00:55"
+  "updateTime": "2026/8/12 11:01:01"
 }

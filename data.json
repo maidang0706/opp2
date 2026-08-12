@@ -2832,6 +2832,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786545605418-ogiu2o"
+    },
+    {
+      "text": "月会",
+      "date": "2026-08-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786546433842-rik63j"
     }
   ],
   "workList": [
@@ -2886,5 +2903,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/12 22:53:42"
+  "updateTime": "2026/8/12 22:53:54"
 }

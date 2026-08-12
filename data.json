@@ -2543,23 +2543,6 @@
       "id": "1786275822937-cjmyjo"
     },
     {
-      "text": "中基DDR交货",
-      "date": "2026-08-11",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786290155601-4i0kyq"
-    },
-    {
       "text": "张天玉的价格沟通,问何健为什么贵这么多",
       "date": "2026-08-10",
       "time": "",
@@ -2850,5 +2833,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/12 11:00:43"
+  "updateTime": "2026/8/12 11:00:55"
 }

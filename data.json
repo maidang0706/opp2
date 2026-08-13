@@ -2951,6 +2951,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786627519362-j8gaal"
+    },
+    {
+      "text": "捷佳伟创8条模组订单",
+      "date": "2026-08-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786627551073-ldz4bt"
     }
   ],
   "workList": [
@@ -3005,5 +3022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 21:25:28"
+  "updateTime": "2026/8/13 21:25:51"
 }

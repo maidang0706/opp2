@@ -2802,8 +2802,8 @@
     {
       "text": "月会",
       "date": "2026-08-14",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -2954,5 +2954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 21:07:04"
+  "updateTime": "2026/8/13 21:07:10"
 }

@@ -2866,6 +2866,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786553349518-cym105"
+    },
+    {
+      "text": "何建远低压直线电机",
+      "date": "2026-08-17",
+      "time": "14:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786593748427-dnfzcx"
     }
   ],
   "workList": [
@@ -2920,5 +2937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 12:02:08"
+  "updateTime": "2026/8/13 12:02:29"
 }

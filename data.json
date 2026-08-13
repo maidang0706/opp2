@@ -2766,23 +2766,6 @@
       "id": "1786540710400-2f5yz7"
     },
     {
-      "text": "中基线缆下预测",
-      "date": "2026-08-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786545605418-ogiu2o"
-    },
-    {
       "text": "月会",
       "date": "2026-08-14",
       "time": "09:00",
@@ -2798,23 +2781,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1786546433842-rik63j"
-    },
-    {
-      "text": "汇艺的发票",
-      "date": "2026-08-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786546498311-nw8jws"
     },
     {
       "text": "周一开会的内容回顾，黄宇泽的尚水智能",
@@ -3022,5 +2988,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 22:01:49"
+  "updateTime": "2026/8/13 22:02:03"
 }

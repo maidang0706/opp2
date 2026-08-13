@@ -2766,23 +2766,6 @@
       "id": "1786540710400-2f5yz7"
     },
     {
-      "text": "问75-M8-S3配什么驱动器",
-      "date": "2026-08-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786543164524-r3g6wi"
-    },
-    {
       "text": "中基线缆下预测",
       "date": "2026-08-13",
       "time": "",
@@ -2832,23 +2815,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1786546498311-nw8jws"
-    },
-    {
-      "text": "冠天要读头",
-      "date": "2026-08-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786546512034-59p1qu"
     },
     {
       "text": "周一开会的内容回顾，黄宇泽的尚水智能",
@@ -3056,5 +3022,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 22:01:43"
+  "updateTime": "2026/8/13 22:01:49"
 }

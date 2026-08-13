@@ -2968,6 +2968,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786627551073-ldz4bt"
+    },
+    {
+      "text": "给精智达发读头和驱动器型号",
+      "date": "2026-08-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786628208789-yg4635"
     }
   ],
   "workList": [
@@ -3022,5 +3039,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 21:27:08"
+  "updateTime": "2026/8/13 21:36:49"
 }

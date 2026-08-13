@@ -2919,7 +2919,7 @@
       "id": "1786627477067-l55x42"
     },
     {
-      "text": "中基线缆下借出",
+      "text": "中基线缆下借出，模组下预测",
       "date": "2026-08-14",
       "time": "",
       "isAllDay": true,
@@ -2934,6 +2934,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786627486926-560q98"
+    },
+    {
+      "text": "中基模组下预测",
+      "date": "2026-08-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786627492918-87vpsy"
     }
   ],
   "workList": [
@@ -2988,5 +3005,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 21:24:47"
+  "updateTime": "2026/8/13 21:25:00"
 }

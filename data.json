@@ -2778,7 +2778,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786543164524-r3g6wi"
     },
@@ -2866,23 +2866,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1786553349518-cym105"
-    },
-    {
-      "text": "荣接9月份招标",
-      "date": "2026-08-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786590091243-bc3r6t"
     }
   ],
   "workList": [
@@ -2937,5 +2920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 11:01:32"
+  "updateTime": "2026/8/13 11:26:46"
 }

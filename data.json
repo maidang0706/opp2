@@ -2900,6 +2900,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786626423290-16rfli"
+    },
+    {
+      "text": "中基配套线缆",
+      "date": "2026-08-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786627477067-l55x42"
     }
   ],
   "workList": [
@@ -2954,5 +2971,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 21:07:10"
+  "updateTime": "2026/8/13 21:24:37"
 }

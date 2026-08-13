@@ -2883,6 +2883,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786593748427-dnfzcx"
+    },
+    {
+      "text": "誉辰要110个光电安装座",
+      "date": "2026-08-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786626423290-16rfli"
     }
   ],
   "workList": [
@@ -2937,5 +2954,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/13 21:06:43"
+  "updateTime": "2026/8/13 21:07:04"
 }

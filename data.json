@@ -2732,23 +2732,6 @@
       "id": "1786540710400-2f5yz7"
     },
     {
-      "text": "月会",
-      "date": "2026-08-14",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786546433842-rik63j"
-    },
-    {
       "text": "周一开会的内容回顾，黄宇泽的尚水智能",
       "date": "2026-08-13",
       "time": "",
@@ -2954,5 +2937,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/14 09:59:50"
+  "updateTime": "2026/8/14 09:59:56"
 }

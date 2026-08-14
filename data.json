@@ -2851,23 +2851,6 @@
       "id": "1786627551073-ldz4bt"
     },
     {
-      "text": "给精智达发读头和驱动器型号",
-      "date": "2026-08-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786628208789-yg4635"
-    },
-    {
       "text": "中基余林峰选型",
       "date": "2026-08-14",
       "time": "",
@@ -2937,5 +2920,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/14 10:00:12"
+  "updateTime": "2026/8/14 10:00:17"
 }

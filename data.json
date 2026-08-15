@@ -2646,7 +2646,7 @@
     },
     {
       "text": "玻璃基板，tgv，玻璃桥",
-      "date": "2026-08-12",
+      "date": "2026-08-16",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2766,40 +2766,6 @@
       "id": "1786593748427-dnfzcx"
     },
     {
-      "text": "捷佳伟创8条模组订单",
-      "date": "2026-08-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786627551073-ldz4bt"
-    },
-    {
-      "text": "中基余林峰选型",
-      "date": "2026-08-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786629696492-1999u5"
-    },
-    {
       "text": "写报销",
       "date": "2026-08-15",
       "time": "",
@@ -2869,5 +2835,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/15 12:49:31"
+  "updateTime": "2026/8/15 12:49:54"
 }

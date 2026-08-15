@@ -2766,57 +2766,6 @@
       "id": "1786593748427-dnfzcx"
     },
     {
-      "text": "誉辰要110个光电安装座",
-      "date": "2026-08-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786626423290-16rfli"
-    },
-    {
-      "text": "中基线缆下借出，模组下预测,和晁总沟通要不要放额度",
-      "date": "2026-08-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786627486926-560q98"
-    },
-    {
-      "text": "中基7动子模组价格找晁总汇报",
-      "date": "2026-08-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786627519362-j8gaal"
-    },
-    {
       "text": "捷佳伟创8条模组订单",
       "date": "2026-08-14",
       "time": "",
@@ -2920,5 +2869,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/15 12:49:22"
+  "updateTime": "2026/8/15 12:49:31"
 }

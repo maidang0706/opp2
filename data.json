@@ -2781,6 +2781,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786692033857-vqsveq"
+    },
+    {
+      "text": "捷佳伟创发驱动器",
+      "date": "2026-08-17",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786787308684-th8tsf"
     }
   ],
   "workList": [
@@ -2835,5 +2852,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/15 17:48:19"
+  "updateTime": "2026/8/15 17:48:29"
 }

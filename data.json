@@ -2595,23 +2595,6 @@
       "id": "1786319048146-kngkwx"
     },
     {
-      "text": "东莞粤智能-镜头组装",
-      "date": "2026-08-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786327380036-7q86zz"
-    },
-    {
       "text": "精智达让我选型报价",
       "date": "2026-08-11",
       "time": "",
@@ -2879,5 +2862,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/16 18:18:18"
+  "updateTime": "2026/8/16 18:18:23"
 }

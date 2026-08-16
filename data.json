@@ -2815,6 +2815,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786871057303-hgkei5"
+    },
+    {
+      "text": "捷佳伟创补合同付款",
+      "date": "2026-08-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786874394568-qmmmwr"
     }
   ],
   "workList": [
@@ -2861,5 +2878,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/16 17:04:18"
+  "updateTime": "2026/8/16 17:59:55"
 }

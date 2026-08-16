@@ -2816,6 +2816,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786874394568-qmmmwr"
+    },
+    {
+      "text": "把微信收藏的内容全部转到IMA里面",
+      "date": "2026-08-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786883059748-im4flb"
     }
   ],
   "workList": [
@@ -2862,5 +2879,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/16 18:18:23"
+  "updateTime": "2026/8/16 20:24:20"
 }

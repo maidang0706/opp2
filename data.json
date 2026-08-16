@@ -2798,6 +2798,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786787308684-th8tsf"
+    },
+    {
+      "text": "完善里程计算表格功能",
+      "date": "2026-08-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786871057303-hgkei5"
     }
   ],
   "workList": [
@@ -2844,5 +2861,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/16 16:58:53"
+  "updateTime": "2026/8/16 17:04:18"
 }

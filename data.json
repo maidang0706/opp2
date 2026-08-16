@@ -2494,40 +2494,6 @@
       "id": "1785954471935-ha3gbh"
     },
     {
-      "text": "寄U盘",
-      "date": "2026-08-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786031202256-pt3pln"
-    },
-    {
-      "text": "补借用申请",
-      "date": "2026-08-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786275822937-cjmyjo"
-    },
-    {
       "text": "卓誉CF211线缆可行是否",
       "date": "2026-08-11",
       "time": "",
@@ -2880,5 +2846,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/16 20:53:20"
+  "updateTime": "2026/8/16 20:53:26"
 }

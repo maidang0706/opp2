@@ -2818,6 +2818,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786927464685-gu5dj0"
+    },
+    {
+      "text": "内嵌产品要年底出来",
+      "date": "2026-08-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786929285362-gi1x0b"
     }
   ],
   "workList": [
@@ -2864,5 +2881,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/17 08:44:35"
+  "updateTime": "2026/8/17 09:14:46"
 }

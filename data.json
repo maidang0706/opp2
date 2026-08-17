@@ -2836,23 +2836,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1786929285362-gi1x0b"
-    },
-    {
-      "text": "储备内嵌模组的客户",
-      "date": "2026-08-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786929323891-j3kkch"
     }
   ],
   "workList": [
@@ -2899,5 +2882,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/17 10:29:39"
+  "updateTime": "2026/8/17 10:29:44"
 }

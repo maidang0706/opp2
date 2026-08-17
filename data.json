@@ -2801,6 +2801,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786883059748-im4flb"
+    },
+    {
+      "text": "中基线缆预测",
+      "date": "2026-08-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786927453817-bccaku"
     }
   ],
   "workList": [
@@ -2847,5 +2864,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/17 08:34:05"
+  "updateTime": "2026/8/17 08:44:14"
 }

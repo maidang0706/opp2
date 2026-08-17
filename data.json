@@ -2887,6 +2887,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786992589559-ivysut"
+    },
+    {
+      "text": "中基报价",
+      "date": "2026-08-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786992633838-6qpg07"
     }
   ],
   "workList": [
@@ -2933,5 +2950,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/18 02:50:29"
+  "updateTime": "2026/8/18 02:50:34"
 }

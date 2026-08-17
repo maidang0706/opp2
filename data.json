@@ -2787,23 +2787,6 @@
       "id": "1786927453817-bccaku"
     },
     {
-      "text": "交报销",
-      "date": "2026-08-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786927464685-gu5dj0"
-    },
-    {
       "text": "内嵌产品要年底出来，储备内嵌模组的客户",
       "date": "2026-08-17",
       "time": "",
@@ -2916,5 +2899,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/18 02:49:25"
+  "updateTime": "2026/8/18 02:49:30"
 }

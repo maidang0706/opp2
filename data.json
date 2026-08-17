@@ -2904,6 +2904,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786992633838-6qpg07"
+    },
+    {
+      "text": "答复襄阳中基报价",
+      "date": "2026-08-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1786992950772-pssc2u"
     }
   ],
   "workList": [
@@ -2950,5 +2967,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/18 02:55:45"
+  "updateTime": "2026/8/18 02:55:51"
 }

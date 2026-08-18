@@ -2731,7 +2731,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786787308684-th8tsf"
     },
@@ -2904,40 +2904,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1786992633838-6qpg07"
-    },
-    {
-      "text": "答复襄阳中基报价",
-      "date": "2026-08-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786992950772-pssc2u"
-    },
-    {
-      "text": "中基大理石价格",
-      "date": "2026-08-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786992962000-fx130x"
     }
   ],
   "workList": [
@@ -2984,5 +2950,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/18 09:33:39"
+  "updateTime": "2026/8/18 14:03:47"
 }

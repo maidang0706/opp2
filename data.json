@@ -2819,6 +2819,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1786992950772-pssc2u"
+    },
+    {
+      "text": "中基配置查看",
+      "date": "2026-08-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787049095083-pop77w"
     }
   ],
   "workList": [
@@ -2865,5 +2882,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/18 17:57:44"
+  "updateTime": "2026/8/18 18:31:35"
 }

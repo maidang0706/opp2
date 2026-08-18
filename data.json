@@ -2787,23 +2787,6 @@
       "id": "1786929285362-gi1x0b"
     },
     {
-      "text": "答复晁总",
-      "date": "2026-08-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786992541383-y40loc"
-    },
-    {
       "text": "问邹小军是什么项目",
       "date": "2026-08-18",
       "time": "",
@@ -2821,23 +2804,6 @@
       "id": "1786992552473-ira6sh"
     },
     {
-      "text": "中基报价",
-      "date": "2026-08-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786992633838-6qpg07"
-    },
-    {
       "text": "答复襄阳中基报价",
       "date": "2026-08-18",
       "time": "",
@@ -2853,23 +2819,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1786992950772-pssc2u"
-    },
-    {
-      "text": "中基大理石价格",
-      "date": "2026-08-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786992962000-fx130x"
     }
   ],
   "workList": [
@@ -2916,5 +2865,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/18 14:19:18"
+  "updateTime": "2026/8/18 14:19:28"
 }

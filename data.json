@@ -2719,23 +2719,6 @@
       "id": "1786692033857-vqsveq"
     },
     {
-      "text": "捷佳伟创驱动器给订单",
-      "date": "2026-08-17",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786787308684-th8tsf"
-    },
-    {
       "text": "完善里程计算表格功能",
       "date": "2026-08-16",
       "time": "",
@@ -2850,7 +2833,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786992564194-0bage8"
     },
@@ -2867,7 +2850,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786992576694-4qu4g3"
     },
@@ -2901,7 +2884,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786992633838-6qpg07"
     },
@@ -2984,5 +2967,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/18 14:18:54"
+  "updateTime": "2026/8/18 14:19:07"
 }

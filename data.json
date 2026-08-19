@@ -2904,6 +2904,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787150260744-hbgvvg"
+    },
+    {
+      "text": "中基做预测",
+      "date": "2026-08-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787150572541-gvwnvo"
     }
   ],
   "workList": [
@@ -2950,5 +2967,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/19 22:37:41"
+  "updateTime": "2026/8/19 22:42:53"
 }

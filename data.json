@@ -2853,6 +2853,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787120801879-bcn920"
+    },
+    {
+      "text": "smt展会",
+      "date": "2026-08-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 3,
+        "days": [],
+        "start": "2026-08-26",
+        "end": "2026-08-29"
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787148206095-xp5du6"
     }
   ],
   "workList": [
@@ -2899,5 +2916,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/19 22:02:43"
+  "updateTime": "2026/8/19 22:03:26"
 }

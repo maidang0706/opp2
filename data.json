@@ -2816,7 +2816,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1786992950772-pssc2u"
     },
@@ -2938,6 +2938,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787150596338-f8tybw"
+    },
+    {
+      "text": "精朗还读头",
+      "date": "2026-08-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787151245824-pykgf4"
     }
   ],
   "workList": [
@@ -2984,5 +3001,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/19 22:45:14"
+  "updateTime": "2026/8/19 22:54:06"
 }

@@ -2921,6 +2921,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787150572541-gvwnvo"
+    },
+    {
+      "text": "确认汇艺订单下了没有",
+      "date": "2026-08-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787150596338-f8tybw"
     }
   ],
   "workList": [
@@ -2967,5 +2984,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/19 22:42:53"
+  "updateTime": "2026/8/19 22:43:17"
 }

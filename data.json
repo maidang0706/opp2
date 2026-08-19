@@ -2836,6 +2836,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787049095083-pop77w"
+    },
+    {
+      "text": "中基寄光电PNP出来",
+      "date": "2026-08-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787120801879-bcn920"
     }
   ],
   "workList": [
@@ -2882,5 +2899,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/19 14:26:24"
+  "updateTime": "2026/8/19 14:26:42"
 }

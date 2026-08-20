@@ -2513,23 +2513,6 @@
       "id": "1786292156283-nakpb6"
     },
     {
-      "text": "王大区聚会",
-      "date": "2026-08-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1786292209518-gvdg5g"
-    },
-    {
       "text": "想看的抖音视频号更新如何提醒？",
       "date": "2026-08-16",
       "time": "",
@@ -3052,5 +3035,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/20 17:35:31"
+  "updateTime": "2026/8/20 17:35:36"
 }

@@ -2821,24 +2821,7 @@
       "id": "1787148206095-xp5du6"
     },
     {
-      "text": "给襄阳中基报价",
-      "date": "2026-08-20",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787150260744-hbgvvg"
-    },
-    {
-      "text": "中基做预测",
+      "text": "中基线缆预测",
       "date": "2026-08-20",
       "time": "",
       "isAllDay": true,
@@ -2984,5 +2967,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/20 17:35:46"
+  "updateTime": "2026/8/20 17:35:58"
 }

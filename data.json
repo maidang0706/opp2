@@ -2719,23 +2719,6 @@
       "id": "1786883059748-im4flb"
     },
     {
-      "text": "中基线缆预测",
-      "date": "2026-08-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786927453817-bccaku"
-    },
-    {
       "text": "内嵌产品要年底出来，储备内嵌模组的客户",
       "date": "2026-08-17",
       "time": "",
@@ -2933,5 +2916,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/20 17:46:06"
+  "updateTime": "2026/8/20 17:46:11"
 }

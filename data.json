@@ -2804,6 +2804,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787214938193-86vzmw"
+    },
+    {
+      "text": "问汇艺大理石情况",
+      "date": "2026-07-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787219452740-3cp3pt"
     }
   ],
   "workList": [
@@ -2850,5 +2867,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/20 17:46:52"
+  "updateTime": "2026/8/20 17:50:53"
 }

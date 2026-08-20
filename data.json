@@ -2972,6 +2972,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787198351155-dz81db"
+    },
+    {
+      "text": "micc",
+      "date": "2026-08-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787202131543-iiyfjo"
     }
   ],
   "workList": [
@@ -3018,5 +3035,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/20 13:02:06"
+  "updateTime": "2026/8/20 13:02:12"
 }

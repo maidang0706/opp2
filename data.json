@@ -2901,7 +2901,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1787150260744-hbgvvg"
     },
@@ -2955,6 +2955,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787151245824-pykgf4"
+    },
+    {
+      "text": "回顾迪尔泰舒总的谈话，记录内容，另外整理一份锂电行业的信息汇总表，可以做成HTML文件的形式",
+      "date": "2026-08-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787198351155-dz81db"
     }
   ],
   "workList": [
@@ -3001,5 +3018,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/20 11:46:39"
+  "updateTime": "2026/8/20 11:59:11"
 }

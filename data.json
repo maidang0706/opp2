@@ -2889,6 +2889,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1787392786165-p143n1"
+    },
+    {
+      "text": "做记账的软件",
+      "date": "2026-08-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787403737129-66zr7o"
     }
   ],
   "workList": [
@@ -2935,5 +2952,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/22 21:01:33"
+  "updateTime": "2026/8/22 21:02:17"
 }

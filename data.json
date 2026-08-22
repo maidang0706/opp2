@@ -2855,6 +2855,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787384968142-diel1d"
+    },
+    {
+      "text": "中欣寄回来驱动器",
+      "date": "2026-08-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787390917742-kpvjvl"
     }
   ],
   "workList": [
@@ -2901,5 +2918,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/22 17:28:26"
+  "updateTime": "2026/8/22 17:28:38"
 }

@@ -2821,6 +2821,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787219452740-3cp3pt"
+    },
+    {
+      "text": "中基华钠驱动器维修",
+      "date": "2026-08-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787384959459-1gkprs"
     }
   ],
   "workList": [
@@ -2867,5 +2884,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/22 15:49:11"
+  "updateTime": "2026/8/22 15:49:20"
 }

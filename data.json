@@ -2940,6 +2940,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787468892756-0xa1j9"
+    },
+    {
+      "text": "张彪要耀野联系人",
+      "date": "2026-08-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787469013118-02hj6t"
     }
   ],
   "workList": [
@@ -2986,5 +3003,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/23 15:08:13"
+  "updateTime": "2026/8/23 15:10:13"
 }

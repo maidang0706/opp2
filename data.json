@@ -2923,6 +2923,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787465342760-dv4d5f"
+    },
+    {
+      "text": "科瑞思调价",
+      "date": "2026-08-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787468892756-0xa1j9"
     }
   ],
   "workList": [
@@ -2969,5 +2986,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/23 15:07:42"
+  "updateTime": "2026/8/23 15:08:13"
 }

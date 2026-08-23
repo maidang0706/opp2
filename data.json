@@ -2906,6 +2906,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787403737129-66zr7o"
+    },
+    {
+      "text": "韩尚志确认品牌",
+      "date": "2026-08-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787465342760-dv4d5f"
     }
   ],
   "workList": [
@@ -2952,5 +2969,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/23 14:08:54"
+  "updateTime": "2026/8/23 14:09:03"
 }

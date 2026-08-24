@@ -2826,7 +2826,7 @@
     },
     {
       "text": "中基华钠驱动器维修",
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2891,40 +2891,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1787403737129-66zr7o"
-    },
-    {
-      "text": "韩尚志确认品牌",
-      "date": "2026-08-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787465342760-dv4d5f"
-    },
-    {
-      "text": "科瑞思调价",
-      "date": "2026-08-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787468892756-0xa1j9"
     },
     {
       "text": "张彪要耀野联系人",
@@ -3069,5 +3035,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/24 22:31:17"
+  "updateTime": "2026/8/24 22:31:33"
 }

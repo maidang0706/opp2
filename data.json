@@ -2993,6 +2993,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787561214936-9nyke1"
+    },
+    {
+      "text": "中基调试-张家伟",
+      "date": "2026-08-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787582186634-djjq0r"
     }
   ],
   "workList": [
@@ -3035,5 +3052,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/24 22:31:56"
+  "updateTime": "2026/8/24 22:36:27"
 }

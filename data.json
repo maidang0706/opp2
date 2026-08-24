@@ -3027,6 +3027,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787541661156-3k0zc5"
+    },
+    {
+      "text": "卓誉线缆问题",
+      "date": "2026-08-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787561214936-9nyke1"
     }
   ],
   "workList": [
@@ -3069,5 +3086,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/24 16:46:49"
+  "updateTime": "2026/8/24 16:46:55"
 }

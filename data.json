@@ -2859,23 +2859,6 @@
       "id": "1787384968142-diel1d"
     },
     {
-      "text": "中欣寄回来驱动器",
-      "date": "2026-08-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787390917742-kpvjvl"
-    },
-    {
       "text": "改待办和记账HTML文件",
       "date": "2026-08-22",
       "time": "",
@@ -3086,5 +3069,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/24 22:31:12"
+  "updateTime": "2026/8/24 22:31:17"
 }

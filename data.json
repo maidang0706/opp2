@@ -3009,6 +3009,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787536715946-oja576"
+    },
+    {
+      "text": "精朗，中基，捷牛，镭射沃，立可，精智达，展会，汇艺，联赢，泰德，大成，捷佳伟创",
+      "date": "2026-08-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787541661156-3k0zc5"
     }
   ],
   "workList": [
@@ -3051,5 +3068,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/24 11:20:09"
+  "updateTime": "2026/8/24 11:21:01"
 }

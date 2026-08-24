@@ -3010,6 +3010,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787582186634-djjq0r"
+    },
+    {
+      "text": "捷佳伟创确认EH180方案是否可以",
+      "date": "2026-08-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787582249267-n7qklt"
     }
   ],
   "workList": [
@@ -3052,5 +3069,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/24 22:37:03"
+  "updateTime": "2026/8/24 22:37:30"
 }

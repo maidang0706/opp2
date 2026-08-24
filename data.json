@@ -2991,6 +2991,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787482349658-l66649"
+    },
+    {
+      "text": "捷佳伟创回款",
+      "date": "2026-08-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787536715946-oja576"
     }
   ],
   "workList": [
@@ -3033,5 +3050,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/24 09:58:31"
+  "updateTime": "2026/8/24 09:58:36"
 }

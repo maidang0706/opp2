@@ -2842,23 +2842,6 @@
       "id": "1787384959459-1gkprs"
     },
     {
-      "text": "誉辰调试",
-      "date": "2026-08-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787384968142-diel1d"
-    },
-    {
       "text": "改待办和记账HTML文件",
       "date": "2026-08-22",
       "time": "",
@@ -3120,5 +3103,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 00:54:39"
+  "updateTime": "2026/8/26 00:54:44"
 }

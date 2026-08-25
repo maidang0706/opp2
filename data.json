@@ -2854,7 +2854,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1787384968142-diel1d"
     },
@@ -3007,7 +3007,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1787582186634-djjq0r"
     },
@@ -3044,6 +3044,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1787582430857-15rq0l"
+    },
+    {
+      "text": "中基要栅尺检测片",
+      "date": "2026-08-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787675737211-muv1do"
     }
   ],
   "workList": [
@@ -3086,5 +3103,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 00:33:26"
+  "updateTime": "2026/8/26 00:35:38"
 }

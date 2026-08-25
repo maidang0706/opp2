@@ -2978,57 +2978,6 @@
       "id": "1787561214936-9nyke1"
     },
     {
-      "text": "中基调试-张家伟",
-      "date": "2026-08-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787582186634-djjq0r"
-    },
-    {
-      "text": "捷佳伟创确认EH180方案是否可以",
-      "date": "2026-08-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787582249267-n7qklt"
-    },
-    {
-      "text": "中基价格申请",
-      "date": "2026-08-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787582430857-15rq0l"
-    },
-    {
       "text": "中基要栅尺检测片",
       "date": "2026-08-26",
       "time": "",
@@ -3103,5 +3052,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 00:54:44"
+  "updateTime": "2026/8/26 00:54:55"
 }

@@ -3146,6 +3146,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787744300312-87fz0q"
+    },
+    {
+      "text": "中基对账单",
+      "date": "2026-08-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787744321034-bdf2fi"
     }
   ],
   "workList": [
@@ -3188,5 +3205,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 19:38:21"
+  "updateTime": "2026/8/26 19:38:41"
 }

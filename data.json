@@ -2893,23 +2893,6 @@
       "id": "1787469013118-02hj6t"
     },
     {
-      "text": "艾文说要配线和霍尔",
-      "date": "2026-08-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787469138885-pig4nt"
-    },
-    {
       "text": "他们两个的PPT",
       "date": "2026-08-23",
       "time": "",
@@ -3132,9 +3115,9 @@
     },
     {
       "text": "中基订单给备注",
-      "date": "2026-08-26",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-08-27",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3256,5 +3239,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 21:14:50"
+  "updateTime": "2026/8/26 21:15:11"
 }

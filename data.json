@@ -3010,6 +3010,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787675795207-ioz28d"
+    },
+    {
+      "text": "晁总要誉昊和捷牛的aa设备资料",
+      "date": "2026-08-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787711716569-g3w7kq"
     }
   ],
   "workList": [
@@ -3052,5 +3069,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 10:34:48"
+  "updateTime": "2026/8/26 10:35:17"
 }

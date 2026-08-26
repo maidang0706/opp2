@@ -3061,6 +3061,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787727061474-34s9x7"
+    },
+    {
+      "text": "给艾文寄定子",
+      "date": "2026-08-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787744247366-r76rdx"
     }
   ],
   "workList": [
@@ -3103,5 +3120,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 19:37:20"
+  "updateTime": "2026/8/26 19:37:28"
 }

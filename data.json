@@ -2978,23 +2978,6 @@
       "id": "1787675737211-muv1do"
     },
     {
-      "text": "确认捷佳伟创那边可以改",
-      "date": "2026-08-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787675795207-ioz28d"
-    },
-    {
       "text": "晁总要誉昊和捷牛的aa设备资料",
       "date": "2026-08-26",
       "time": "",
@@ -3148,23 +3131,6 @@
       "id": "1787744321034-bdf2fi"
     },
     {
-      "text": "艾文的线缆型号",
-      "date": "2026-08-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787749144042-43vgzn"
-    },
-    {
       "text": "两个客户的录音",
       "date": "2026-08-26",
       "time": "",
@@ -3239,5 +3205,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 21:15:11"
+  "updateTime": "2026/8/26 21:15:22"
 }

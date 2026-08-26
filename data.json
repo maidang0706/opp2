@@ -2708,7 +2708,7 @@
     {
       "text": "smt展会",
       "date": "2026-08-26",
-      "time": "14:00",
+      "time": "09:30",
       "isAllDay": false,
       "isVisit": false,
       "priority": "low",
@@ -3205,5 +3205,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 20:58:37"
+  "updateTime": "2026/8/26 20:58:50"
 }

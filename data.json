@@ -3180,6 +3180,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787749144042-43vgzn"
+    },
+    {
+      "text": "两个客户的录音",
+      "date": "2026-08-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787749954545-koeshc"
     }
   ],
   "workList": [
@@ -3222,5 +3239,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 21:08:00"
+  "updateTime": "2026/8/26 21:12:35"
 }

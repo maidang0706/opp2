@@ -3197,6 +3197,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787749954545-koeshc"
+    },
+    {
+      "text": "精朗，中欣，中基，捷佳伟创的款",
+      "date": "2026-08-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787750017883-jcg6fb"
     }
   ],
   "workList": [
@@ -3239,5 +3256,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/26 21:12:35"
+  "updateTime": "2026/8/26 21:13:38"
 }

@@ -3182,6 +3182,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1787763681025-6kyk83"
+    },
+    {
+      "text": "方案明细订单导入功能，数据统计页面",
+      "date": "2026-08-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787851339044-gndjqe"
     }
   ],
   "workList": [
@@ -3224,5 +3241,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/28 01:21:27"
+  "updateTime": "2026/8/28 01:22:19"
 }

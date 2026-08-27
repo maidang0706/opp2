@@ -3199,6 +3199,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787851339044-gndjqe"
+    },
+    {
+      "text": "以后拜访完客户的信息整理用ai怎么做",
+      "date": "2026-08-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787851364187-lfxd39"
     }
   ],
   "workList": [
@@ -3241,5 +3258,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/28 01:22:19"
+  "updateTime": "2026/8/28 01:22:44"
 }

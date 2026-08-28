@@ -3046,23 +3046,6 @@
       "id": "1787744292649-pnz66p"
     },
     {
-      "text": "中基对账单",
-      "date": "2026-08-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787744321034-bdf2fi"
-    },
-    {
       "text": "两个客户的录音",
       "date": "2026-08-26",
       "time": "",
@@ -3112,23 +3095,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1787750645931-39i96n"
-    },
-    {
-      "text": "科瑞思交期加急",
-      "date": "2026-08-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787763681025-6kyk83"
     },
     {
       "text": "方案明细订单导入功能，数据统计页面",
@@ -3205,5 +3171,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/28 08:50:23"
+  "updateTime": "2026/8/28 08:50:29"
 }

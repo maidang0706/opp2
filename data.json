@@ -3146,6 +3146,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787878932467-t5ah8e"
+    },
+    {
+      "text": "整理所有线长的价格",
+      "date": "2026-08-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787882191550-xvf3a0"
     }
   ],
   "workList": [
@@ -3188,5 +3205,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/28 09:56:23"
+  "updateTime": "2026/8/28 09:56:32"
 }

@@ -3082,23 +3082,6 @@
       "id": "1787744292649-pnz66p"
     },
     {
-      "text": "中基订单给备注",
-      "date": "2026-08-27",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787744300312-87fz0q"
-    },
-    {
       "text": "中基对账单",
       "date": "2026-08-27",
       "time": "",
@@ -3258,5 +3241,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/28 08:37:07"
+  "updateTime": "2026/8/28 08:50:16"
 }

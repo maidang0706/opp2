@@ -2706,25 +2706,6 @@
       "id": "1787120801879-bcn920"
     },
     {
-      "text": "smt展会",
-      "date": "2026-08-26",
-      "time": "09:30",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 3,
-        "days": [],
-        "start": "2026-08-27",
-        "end": "2026-08-27"
-      },
-      "done": false,
-      "onlyDone": [
-        "2026-08-27"
-      ],
-      "id": "1787148206095-xp5du6"
-    },
-    {
       "text": "中基线缆预测",
       "date": "2026-08-20",
       "time": "",
@@ -3031,23 +3012,6 @@
       "id": "1787744247366-r76rdx"
     },
     {
-      "text": "中基换光电开关，PNP光电已寄回",
-      "date": "2026-08-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787744256947-48icqd"
-    },
-    {
       "text": "中基刘建兵退回光电",
       "date": "2026-08-27",
       "time": "",
@@ -3241,5 +3205,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/28 08:50:16"
+  "updateTime": "2026/8/28 08:50:23"
 }

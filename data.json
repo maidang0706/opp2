@@ -3203,6 +3203,23 @@
         "2026-08-27"
       ],
       "id": "1787974715705-tos088"
+    },
+    {
+      "text": "和精朗沟通动定子补单",
+      "date": "2026-08-31",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787994677629-nsd2ii"
     }
   ],
   "workList": [
@@ -3241,5 +3258,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/29 17:11:01"
+  "updateTime": "2026/8/29 17:11:18"
 }

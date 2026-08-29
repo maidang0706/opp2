@@ -3237,6 +3237,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1787994758344-mmmhjt"
+    },
+    {
+      "text": "精智达半导体选型",
+      "date": "2026-08-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787994774255-k73iiv"
     }
   ],
   "workList": [
@@ -3275,5 +3292,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/29 17:12:39"
+  "updateTime": "2026/8/29 17:12:55"
 }

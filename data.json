@@ -2895,23 +2895,6 @@
       "id": "1787482349658-l66649"
     },
     {
-      "text": "精智达，汇艺，联赢，泰德",
-      "date": "2026-08-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787541661156-3k0zc5"
-    },
-    {
       "text": "卓誉线缆问题",
       "date": "2026-08-31",
       "time": "",
@@ -3309,5 +3292,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/29 22:24:36"
+  "updateTime": "2026/8/29 22:24:49"
 }

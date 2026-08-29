@@ -2912,23 +2912,6 @@
       "id": "1787561214936-9nyke1"
     },
     {
-      "text": "中基要栅尺检测片",
-      "date": "2026-08-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787675737211-muv1do"
-    },
-    {
       "text": "晁总要誉昊和捷牛的aa设备资料",
       "date": "2026-08-31",
       "time": "",
@@ -3012,23 +2995,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1787744265519-9aybj7"
-    },
-    {
-      "text": "深圳中基和襄阳中基的订单",
-      "date": "2026-08-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787744292649-pnz66p"
     },
     {
       "text": "两个客户的录音",
@@ -3292,5 +3258,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/29 22:24:49"
+  "updateTime": "2026/8/29 22:24:57"
 }

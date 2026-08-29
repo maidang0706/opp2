@@ -3181,6 +3181,25 @@
       "done": false,
       "onlyDone": [],
       "id": "1787928534960-f52dwf"
+    },
+    {
+      "text": "山伯",
+      "date": "2026-08-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 2,
+        "days": [
+          27
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1787974715705-tos088"
     }
   ],
   "workList": [
@@ -3223,5 +3242,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/8/29 11:38:11"
+  "updateTime": "2026/8/29 11:38:36"
 }

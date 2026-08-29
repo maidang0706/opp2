@@ -2963,23 +2963,6 @@
       "id": "1787727061474-34s9x7"
     },
     {
-      "text": "给艾文寄定子，沟通霍尔线长",
-      "date": "2026-08-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787744247366-r76rdx"
-    },
-    {
       "text": "中基刘建兵退回光电",
       "date": "2026-08-27",
       "time": "",
@@ -3258,5 +3241,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/29 22:24:57"
+  "updateTime": "2026/8/29 22:25:08"
 }

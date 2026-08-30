@@ -3203,6 +3203,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788013476097-mxpjmb"
+    },
+    {
+      "text": "冠天达科技对接",
+      "date": "2026-08-31",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788092774026-w47ezw"
     }
   ],
   "workList": [
@@ -3241,5 +3258,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/30 20:25:45"
+  "updateTime": "2026/8/30 20:26:14"
 }

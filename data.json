@@ -3254,6 +3254,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788092939722-s979df"
+    },
+    {
+      "text": "捷佳伟创",
+      "date": "2026-08-31",
+      "time": "14:00",
+      "isAllDay": false,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788093088902-kf7whe"
     }
   ],
   "workList": [
@@ -3292,5 +3309,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/30 20:29:00"
+  "updateTime": "2026/8/30 20:31:29"
 }

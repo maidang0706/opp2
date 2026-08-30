@@ -3237,6 +3237,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788092886895-o82y1y"
+    },
+    {
+      "text": "精智达半导体合同没回传如何处理",
+      "date": "2026-08-31",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788092939722-s979df"
     }
   ],
   "workList": [
@@ -3275,5 +3292,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/30 20:28:07"
+  "updateTime": "2026/8/30 20:29:00"
 }

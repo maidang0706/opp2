@@ -3271,6 +3271,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788093088902-kf7whe"
+    },
+    {
+      "text": "华阳精机",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788093896472-7xkks9"
     }
   ],
   "workList": [
@@ -3309,5 +3326,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/30 20:44:49"
+  "updateTime": "2026/8/30 20:44:57"
 }

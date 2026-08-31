@@ -3337,23 +3337,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1788142357369-7x9j28"
-    },
-    {
-      "text": "确认要发的物料",
-      "date": "2026-08-31",
-      "time": "17:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 3,
-        "days": [],
-        "start": "2026-08-31",
-        "end": "2026-08-31"
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788176069639-62o9ng"
     }
   ],
   "workList": [
@@ -3392,5 +3375,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 19:34:44"
+  "updateTime": "2026/8/31 19:35:26"
 }

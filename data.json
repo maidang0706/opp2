@@ -3322,23 +3322,6 @@
       "id": "1788140308712-434937"
     },
     {
-      "text": "恩捷斯不用去",
-      "date": "2026-09-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788142357369-7x9j28"
-    },
-    {
       "text": "精智达派人去现场拼接",
       "date": "2026-09-01",
       "time": "",
@@ -3392,5 +3375,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 21:30:09"
+  "updateTime": "2026/8/31 21:30:22"
 }

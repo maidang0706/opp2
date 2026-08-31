@@ -3318,6 +3318,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788140308712-434937"
+    },
+    {
+      "text": "恩捷斯不用去",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788142357369-7x9j28"
     }
   ],
   "workList": [
@@ -3356,5 +3373,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 09:41:14"
+  "updateTime": "2026/8/31 10:12:38"
 }

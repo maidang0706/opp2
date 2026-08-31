@@ -3080,23 +3080,6 @@
       "id": "1787884204202-wrl5ms"
     },
     {
-      "text": "问财务誉昊商承收不收",
-      "date": "2026-08-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787928534960-f52dwf"
-    },
-    {
       "text": "山伯",
       "date": "2026-08-27",
       "time": "",
@@ -3324,5 +3307,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 21:30:48"
+  "updateTime": "2026/8/31 21:30:54"
 }

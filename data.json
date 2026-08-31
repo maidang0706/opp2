@@ -3405,6 +3405,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788185597966-0u506e"
+    },
+    {
+      "text": "客户的对账时间和发资料截止日时间",
+      "date": "2026-09-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788185746377-7hzsnn"
     }
   ],
   "workList": [
@@ -3443,5 +3460,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:13:18"
+  "updateTime": "2026/8/31 22:15:47"
 }

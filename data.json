@@ -3289,6 +3289,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788093896472-7xkks9"
+    },
+    {
+      "text": "瑞声深圳做AA机",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788139692363-aroi3k"
     }
   ],
   "workList": [
@@ -3327,5 +3344,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 09:27:34"
+  "updateTime": "2026/8/31 09:28:13"
 }

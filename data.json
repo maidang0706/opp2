@@ -3422,6 +3422,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788185746377-7hzsnn"
+    },
+    {
+      "text": "让阿连帮我查电机型号",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788186504782-cxjusk"
     }
   ],
   "workList": [
@@ -3460,5 +3477,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:15:56"
+  "updateTime": "2026/8/31 22:28:25"
 }

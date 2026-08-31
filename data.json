@@ -3254,23 +3254,6 @@
       "id": "1788092939722-s979df"
     },
     {
-      "text": "捷佳伟创",
-      "date": "2026-08-31",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788093088902-kf7whe"
-    },
-    {
       "text": "华阳精机",
       "date": "2026-09-01",
       "time": "",
@@ -3337,6 +3320,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788183008566-23z4jb"
+    },
+    {
+      "text": "捷佳伟创",
+      "date": "2026-09-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788183033098-ggn12z"
     }
   ],
   "workList": [
@@ -3375,5 +3375,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 21:30:22"
+  "updateTime": "2026/8/31 21:30:33"
 }

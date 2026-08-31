@@ -2910,23 +2910,6 @@
       "id": "1787561214936-9nyke1"
     },
     {
-      "text": "晁总要誉昊和捷牛的aa设备资料",
-      "date": "2026-08-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787711716569-g3w7kq"
-    },
-    {
       "text": "卓誉送读头聊天记录查询",
       "date": "2026-08-31",
       "time": "",
@@ -3375,5 +3358,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 21:30:33"
+  "updateTime": "2026/8/31 21:30:41"
 }

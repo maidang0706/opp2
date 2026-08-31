@@ -3426,8 +3426,8 @@
     {
       "text": "让阿连帮我查电机型号",
       "date": "2026-09-01",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3477,5 +3477,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:28:25"
+  "updateTime": "2026/8/31 22:28:33"
 }

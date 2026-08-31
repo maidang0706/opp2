@@ -3337,6 +3337,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788185444073-zqil5r"
+    },
+    {
+      "text": "整理李彦峰费用",
+      "date": "2026-09-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788185482406-a1e82s"
     }
   ],
   "workList": [
@@ -3375,5 +3392,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:10:44"
+  "updateTime": "2026/8/31 22:11:23"
 }

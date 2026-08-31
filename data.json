@@ -3371,6 +3371,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788185539382-c17277"
+    },
+    {
+      "text": "联申达。博杰。誉昊",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788185560835-svtsiq"
     }
   ],
   "workList": [
@@ -3409,5 +3426,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:12:20"
+  "updateTime": "2026/8/31 22:12:41"
 }

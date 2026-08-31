@@ -3439,6 +3439,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788186504782-cxjusk"
+    },
+    {
+      "text": "中基送货单",
+      "date": "2026-09-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788186549560-zzt28c"
     }
   ],
   "workList": [
@@ -3477,5 +3494,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:28:33"
+  "updateTime": "2026/8/31 22:29:10"
 }

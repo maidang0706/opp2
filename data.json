@@ -3286,6 +3286,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788185140569-ppo4w2"
+    },
+    {
+      "text": "精朗要的插针",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788185178046-b3gp41"
     }
   ],
   "workList": [
@@ -3324,5 +3341,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:05:41"
+  "updateTime": "2026/8/31 22:06:18"
 }

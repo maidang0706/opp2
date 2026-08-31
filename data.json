@@ -3203,40 +3203,6 @@
       "id": "1788092774026-w47ezw"
     },
     {
-      "text": "跟何健确认PC-C-15-S4FC-20.0价格",
-      "date": "2026-08-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788092886895-o82y1y"
-    },
-    {
-      "text": "精智达半导体合同没回传如何处理",
-      "date": "2026-08-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788092939722-s979df"
-    },
-    {
       "text": "华阳精机",
       "date": "2026-09-01",
       "time": "",
@@ -3358,5 +3324,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 21:30:41"
+  "updateTime": "2026/8/31 21:30:48"
 }

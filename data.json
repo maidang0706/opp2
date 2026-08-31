@@ -3269,6 +3269,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788183033098-ggn12z"
+    },
+    {
+      "text": "亿纬定子落实合同",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788185140569-ppo4w2"
     }
   ],
   "workList": [
@@ -3307,5 +3324,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:05:27"
+  "updateTime": "2026/8/31 22:05:41"
 }

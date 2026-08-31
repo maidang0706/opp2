@@ -3303,6 +3303,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788185178046-b3gp41"
+    },
+    {
+      "text": "中基驱动器维修",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788185395598-of38gg"
     }
   ],
   "workList": [
@@ -3341,5 +3358,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:06:18"
+  "updateTime": "2026/8/31 22:09:56"
 }

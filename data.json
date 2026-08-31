@@ -3354,6 +3354,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788185482406-a1e82s"
+    },
+    {
+      "text": "襄阳中基付款",
+      "date": "2026-09-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788185539382-c17277"
     }
   ],
   "workList": [
@@ -3392,5 +3409,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/8/31 22:11:32"
+  "updateTime": "2026/8/31 22:12:20"
 }

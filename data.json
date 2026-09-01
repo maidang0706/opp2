@@ -3439,6 +3439,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788274668089-as481o"
+    },
+    {
+      "text": "给文秀汇艺的配件清单",
+      "date": "2026-09-02",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788274752772-f67e8l"
     }
   ],
   "workList": [
@@ -3477,5 +3494,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:57:48"
+  "updateTime": "2026/9/1 22:59:13"
 }

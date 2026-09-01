@@ -2910,23 +2910,6 @@
       "id": "1787561214936-9nyke1"
     },
     {
-      "text": "卓誉送读头聊天记录查询",
-      "date": "2026-08-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787715541797-zwtnai"
-    },
-    {
       "text": "卓誉标签问题",
       "date": "2026-08-27",
       "time": "",
@@ -3113,7 +3096,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1787994758344-mmmhjt"
     },
@@ -3494,5 +3477,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:34:27"
+  "updateTime": "2026/9/1 22:34:39"
 }

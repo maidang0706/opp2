@@ -3356,23 +3356,6 @@
       "id": "1788185746377-7hzsnn"
     },
     {
-      "text": "让阿连帮我查电机型号",
-      "date": "2026-09-01",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788186504782-cxjusk"
-    },
-    {
       "text": "中基送货单",
       "date": "2026-09-04",
       "time": "",
@@ -3405,6 +3388,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1788227723937-esmg5h"
+    },
+    {
+      "text": "精智达拼接",
+      "date": "2026-09-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788273326417-vazlpr"
     }
   ],
   "workList": [
@@ -3443,5 +3443,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:35:14"
+  "updateTime": "2026/9/1 22:35:27"
 }

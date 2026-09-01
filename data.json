@@ -3490,6 +3490,25 @@
       "done": false,
       "onlyDone": [],
       "id": "1788278096633-djbjep"
+    },
+    {
+      "text": "每周2-3家新客户",
+      "date": "2026-09-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 1,
+        "days": [
+          7
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788278123741-787oep"
     }
   ],
   "workList": [
@@ -3528,5 +3547,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 23:54:57"
+  "updateTime": "2026/9/1 23:55:24"
 }

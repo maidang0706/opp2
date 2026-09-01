@@ -3271,23 +3271,6 @@
       "id": "1788185539382-c17277"
     },
     {
-      "text": "联申达。博杰。誉昊",
-      "date": "2026-09-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788185560835-svtsiq"
-    },
-    {
       "text": "客户的对账时间和发资料截止日时间做到HTML文件里面",
       "date": "2026-09-05",
       "time": "",
@@ -3477,5 +3460,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:53:39"
+  "updateTime": "2026/9/1 22:53:53"
 }

@@ -3422,6 +3422,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788274228303-uhm2f4"
+    },
+    {
+      "text": "博杰，联申达，长园视觉，艾文",
+      "date": "2026-09-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788274418985-1muzxh"
     }
   ],
   "workList": [
@@ -3460,5 +3477,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:50:29"
+  "updateTime": "2026/9/1 22:53:39"
 }

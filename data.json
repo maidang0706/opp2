@@ -3136,7 +3136,7 @@
     },
     {
       "text": "华阳精机",
-      "date": "2026-09-01",
+      "date": "2026-08-31",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3339,23 +3339,6 @@
       "id": "1788185560835-svtsiq"
     },
     {
-      "text": "给朗仪中基备注",
-      "date": "2026-09-01",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788185597966-0u506e"
-    },
-    {
       "text": "客户的对账时间和发资料截止日时间做到HTML文件里面",
       "date": "2026-09-05",
       "time": "",
@@ -3460,5 +3443,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:34:53"
+  "updateTime": "2026/9/1 22:35:14"
 }

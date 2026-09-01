@@ -3560,6 +3560,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788278487394-rs1ozo"
+    },
+    {
+      "text": "把微信收藏，抖音收藏，视频号收藏都放到IMA知识库里面",
+      "date": "2026-09-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788280693493-druq2e"
     }
   ],
   "workList": [
@@ -3598,5 +3615,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/2 00:37:13"
+  "updateTime": "2026/9/2 00:38:14"
 }

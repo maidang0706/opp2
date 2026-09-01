@@ -3084,23 +3084,6 @@
       "id": "1787994677629-nsd2ii"
     },
     {
-      "text": "博韬情况确认",
-      "date": "2026-08-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787994758344-mmmhjt"
-    },
-    {
       "text": "精智达半导体选型",
       "date": "2026-08-30",
       "time": "",
@@ -3187,7 +3170,7 @@
     },
     {
       "text": "中航名录9月份初确认",
-      "date": "2026-09-01",
+      "date": "2026-08-31",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3477,5 +3460,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:34:39"
+  "updateTime": "2026/9/1 22:34:53"
 }

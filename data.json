@@ -3577,6 +3577,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788280693493-druq2e"
+    },
+    {
+      "text": "做一个看每天更新的微信公众号的HTML文件",
+      "date": "2026-09-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788282260553-b7u34q"
     }
   ],
   "workList": [
@@ -3615,5 +3632,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/2 01:03:49"
+  "updateTime": "2026/9/2 01:04:21"
 }

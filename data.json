@@ -3220,23 +3220,6 @@
       "id": "1788185140569-ppo4w2"
     },
     {
-      "text": "中基驱动器维修",
-      "date": "2026-09-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788185395598-of38gg"
-    },
-    {
       "text": "中基赵志光选DDR的项目",
       "date": "2026-09-01",
       "time": "",
@@ -3443,5 +3426,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:42:27"
+  "updateTime": "2026/9/1 22:42:34"
 }

@@ -3388,6 +3388,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788274059870-gi198g"
+    },
+    {
+      "text": "答复襄阳中基交期",
+      "date": "2026-09-02",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788274202291-nlb0up"
     }
   ],
   "workList": [
@@ -3426,5 +3443,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:49:37"
+  "updateTime": "2026/9/1 22:50:03"
 }

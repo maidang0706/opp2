@@ -3322,23 +3322,6 @@
       "id": "1788186549560-zzt28c"
     },
     {
-      "text": "给精朗发滑块",
-      "date": "2026-09-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788227723937-esmg5h"
-    },
-    {
       "text": "精智达拼接",
       "date": "2026-09-02",
       "time": "",
@@ -3388,6 +3371,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788273727977-6ixk9h"
+    },
+    {
+      "text": "中基退回CDHD2S-0064DEC2驱动器",
+      "date": "2026-09-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788274059870-gi198g"
     }
   ],
   "workList": [
@@ -3426,5 +3426,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:42:34"
+  "updateTime": "2026/9/1 22:47:40"
 }

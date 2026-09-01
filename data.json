@@ -3456,6 +3456,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788186549560-zzt28c"
+    },
+    {
+      "text": "给精朗发滑块",
+      "date": "2026-09-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788227723937-esmg5h"
     }
   ],
   "workList": [
@@ -3494,5 +3511,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 09:50:21"
+  "updateTime": "2026/9/1 09:55:24"
 }

@@ -3186,23 +3186,6 @@
       "id": "1788140308712-434937"
     },
     {
-      "text": "精智达派人去现场拼接",
-      "date": "2026-09-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788183008566-23z4jb"
-    },
-    {
       "text": "捷佳伟创",
       "date": "2026-09-03",
       "time": "",
@@ -3235,23 +3218,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1788185140569-ppo4w2"
-    },
-    {
-      "text": "精朗要的插针",
-      "date": "2026-09-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788185178046-b3gp41"
     },
     {
       "text": "中基驱动器维修",
@@ -3405,6 +3371,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788273326417-vazlpr"
+    },
+    {
+      "text": "精朗插针",
+      "date": "2026-09-04",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788273344160-an83j7"
     }
   ],
   "workList": [
@@ -3443,5 +3426,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/1 22:35:27"
+  "updateTime": "2026/9/1 22:35:44"
 }

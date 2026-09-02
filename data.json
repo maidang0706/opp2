@@ -3305,23 +3305,6 @@
       "id": "1788274418985-1muzxh"
     },
     {
-      "text": "对账应收做成一个手机来看更直观的HTML文件",
-      "date": "2026-09-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788276769585-fq9762"
-    },
-    {
       "text": "联系冠天达",
       "date": "2026-09-02",
       "time": "",
@@ -3479,5 +3462,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/2 09:24:53"
+  "updateTime": "2026/9/2 09:25:01"
 }

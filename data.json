@@ -3305,23 +3305,6 @@
       "id": "1788274059870-gi198g"
     },
     {
-      "text": "答复襄阳中基交期",
-      "date": "2026-09-02",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788274202291-nlb0up"
-    },
-    {
       "text": "博杰，联申达，长园视觉，艾文",
       "date": "2026-09-02",
       "time": "",
@@ -3513,5 +3496,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/2 08:47:36"
+  "updateTime": "2026/9/2 09:12:35"
 }

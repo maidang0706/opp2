@@ -3392,23 +3392,6 @@
       "id": "1788278487394-rs1ozo"
     },
     {
-      "text": "中基D21模组处理",
-      "date": "2026-09-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788323396693-33la7p"
-    },
-    {
       "text": "精智达加装磁栅保护罩",
       "date": "2026-09-03",
       "time": "",
@@ -3474,5 +3457,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/2 19:53:21"
+  "updateTime": "2026/9/2 19:53:26"
 }

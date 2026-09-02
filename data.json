@@ -3101,23 +3101,6 @@
       "id": "1788013476097-mxpjmb"
     },
     {
-      "text": "冠天达科技对接",
-      "date": "2026-08-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788092774026-w47ezw"
-    },
-    {
       "text": "华阳精机",
       "date": "2026-08-31",
       "time": "",
@@ -3581,5 +3564,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/2 08:46:38"
+  "updateTime": "2026/9/2 08:46:44"
 }

@@ -3407,23 +3407,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1788280693493-druq2e"
-    },
-    {
-      "text": "做一个自动抓取微信公众号内容，然后输出一个md文件给我，每天",
-      "date": "2026-09-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788282260553-b7u34q"
     }
   ],
   "workList": [
@@ -3462,5 +3445,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/2 09:25:01"
+  "updateTime": "2026/9/2 09:25:25"
 }

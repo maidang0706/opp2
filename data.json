@@ -3101,23 +3101,6 @@
       "id": "1788013476097-mxpjmb"
     },
     {
-      "text": "华阳精机",
-      "date": "2026-08-31",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788093896472-7xkks9"
-    },
-    {
       "text": "瑞声深圳做AA机",
       "date": "2026-09-01",
       "time": "",
@@ -3564,5 +3547,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/2 08:46:52"
+  "updateTime": "2026/9/2 08:46:56"
 }

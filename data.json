@@ -2791,23 +2791,6 @@
       "id": "1787214938193-86vzmw"
     },
     {
-      "text": "问汇艺大理石情况",
-      "date": "2026-09-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1787219452740-3cp3pt"
-    },
-    {
       "text": "中基华钠驱动器维修",
       "date": "2026-08-28",
       "time": "",
@@ -3389,5 +3372,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/5 00:06:48"
+  "updateTime": "2026/9/5 00:06:54"
 }

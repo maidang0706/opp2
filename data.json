@@ -3322,6 +3322,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788502526365-fuuojm"
+    },
+    {
+      "text": "发精智达磁栅保护罩",
+      "date": "2026-09-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788502567560-igl9zu"
     }
   ],
   "workList": [
@@ -3372,5 +3389,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/4 14:15:58"
+  "updateTime": "2026/9/4 14:16:08"
 }

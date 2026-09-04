@@ -3169,23 +3169,6 @@
       "id": "1788185482406-a1e82s"
     },
     {
-      "text": "襄阳中基付款",
-      "date": "2026-09-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788185539382-c17277"
-    },
-    {
       "text": "中基-给送货单，沟通回款",
       "date": "2026-09-04",
       "time": "",
@@ -3307,23 +3290,6 @@
       "id": "1788278487394-rs1ozo"
     },
     {
-      "text": "精智达加装磁栅保护罩",
-      "date": "2026-09-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788350000263-1e1co7"
-    },
-    {
       "text": "发抖音链接提取视频和文字并存入到IMA里面",
       "date": "2026-09-05",
       "time": "",
@@ -3406,5 +3372,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/4 14:15:53"
+  "updateTime": "2026/9/4 14:15:58"
 }

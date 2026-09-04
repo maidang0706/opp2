@@ -3152,40 +3152,6 @@
       "id": "1788185482406-a1e82s"
     },
     {
-      "text": "中基-给送货单，沟通回款",
-      "date": "2026-09-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788186549560-zzt28c"
-    },
-    {
-      "text": "精朗插针",
-      "date": "2026-09-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788273344160-an83j7"
-    },
-    {
       "text": "中基退回CDHD2S-0064DEC2驱动器",
       "date": "2026-09-05",
       "time": "",
@@ -3372,5 +3338,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/5 00:07:35"
+  "updateTime": "2026/9/5 00:07:44"
 }

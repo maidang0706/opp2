@@ -3220,23 +3220,6 @@
       "id": "1788186549560-zzt28c"
     },
     {
-      "text": "精智达拼接，精朗调试",
-      "date": "2026-09-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788273326417-vazlpr"
-    },
-    {
       "text": "精朗插针",
       "date": "2026-09-04",
       "time": "",
@@ -3339,23 +3322,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1788278410597-sc1b4x"
-    },
-    {
-      "text": "让朗仪帮我打标签",
-      "date": "2026-09-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788278420903-yf2ezo"
     },
     {
       "text": "吉祥云",
@@ -3474,5 +3440,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/4 14:15:39"
+  "updateTime": "2026/9/4 14:15:46"
 }

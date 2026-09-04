@@ -3186,23 +3186,6 @@
       "id": "1788273344160-an83j7"
     },
     {
-      "text": "精朗-嘉善现场补单，沟通回款，和陈总说二次拼接的事情",
-      "date": "2026-09-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788273727977-6ixk9h"
-    },
-    {
       "text": "中基退回CDHD2S-0064DEC2驱动器",
       "date": "2026-09-05",
       "time": "",
@@ -3389,5 +3372,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/5 00:07:29"
+  "updateTime": "2026/9/5 00:07:35"
 }

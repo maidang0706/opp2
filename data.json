@@ -3118,23 +3118,6 @@
       "id": "1788139692363-aroi3k"
     },
     {
-      "text": "捷佳伟创-沟通回款",
-      "date": "2026-09-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788183033098-ggn12z"
-    },
-    {
       "text": "亿纬定子落实合同",
       "date": "2026-09-02",
       "time": "",
@@ -3307,23 +3290,6 @@
       "id": "1788278123741-787oep"
     },
     {
-      "text": "卓誉-标签",
-      "date": "2026-09-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788278410597-sc1b4x"
-    },
-    {
       "text": "吉祥云",
       "date": "2026-09-04",
       "time": "",
@@ -3440,5 +3406,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/4 14:15:46"
+  "updateTime": "2026/9/4 14:15:53"
 }

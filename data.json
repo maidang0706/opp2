@@ -3288,23 +3288,6 @@
       "id": "1788274059870-gi198g"
     },
     {
-      "text": "博杰，联申达，长园视觉，艾文",
-      "date": "2026-09-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788274418985-1muzxh"
-    },
-    {
       "text": "联系冠天达",
       "date": "2026-09-02",
       "time": "",
@@ -3491,5 +3474,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/4 14:15:35"
+  "updateTime": "2026/9/4 14:15:39"
 }

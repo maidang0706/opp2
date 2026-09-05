@@ -3239,23 +3239,6 @@
       "id": "1788393383223-jkhixj"
     },
     {
-      "text": "卓誉标签",
-      "date": "2026-09-04",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788502526365-fuuojm"
-    },
-    {
       "text": "发精智达磁栅保护罩",
       "date": "2026-09-05",
       "time": "",
@@ -3288,6 +3271,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788538024455-4zdvrh"
+    },
+    {
+      "text": "账单HTML文件完善，商机超过三个的可以折叠，",
+      "date": "2026-09-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788580781998-fl877z"
     }
   ],
   "workList": [
@@ -3338,5 +3338,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/5 11:58:08"
+  "updateTime": "2026/9/5 11:59:42"
 }

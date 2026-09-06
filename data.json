@@ -3407,6 +3407,40 @@
       "done": false,
       "onlyDone": [],
       "id": "1788699970407-nv7byk"
+    },
+    {
+      "text": "汇艺价格和何健沟通",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788700084187-2kz3n9"
+    },
+    {
+      "text": "深圳中基和襄阳中基付款",
+      "date": "2026-09-07",
+      "time": "15:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788700125821-zk28rb"
     }
   ],
   "workList": [
@@ -3457,5 +3491,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 21:07:35"
+  "updateTime": "2026/9/6 21:08:46"
 }

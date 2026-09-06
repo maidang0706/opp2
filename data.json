@@ -3492,6 +3492,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788700265138-9zedzi"
+    },
+    {
+      "text": "捷佳伟创答复结果",
+      "date": "2026-09-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788700643394-0vkorb"
     }
   ],
   "workList": [
@@ -3542,5 +3559,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 21:12:45"
+  "updateTime": "2026/9/6 21:17:24"
 }

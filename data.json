@@ -3329,7 +3329,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "mid",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3457,5 +3457,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 21:06:11"
+  "updateTime": "2026/9/6 21:07:35"
 }

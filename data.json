@@ -3305,6 +3305,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788599515584-7xrjch"
+    },
+    {
+      "text": "捷佳伟创要求他们付款才发货",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788683478174-53vfgx"
     }
   ],
   "workList": [
@@ -3355,5 +3372,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 16:31:07"
+  "updateTime": "2026/9/6 16:31:18"
 }

@@ -3390,6 +3390,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788699897156-1zadu2"
+    },
+    {
+      "text": "誉辰模组磁栅坏了和客户沟通",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788699970407-nv7byk"
     }
   ],
   "workList": [
@@ -3440,5 +3457,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 21:05:15"
+  "updateTime": "2026/9/6 21:06:11"
 }

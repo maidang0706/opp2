@@ -3373,6 +3373,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788684802438-aspg5k"
+    },
+    {
+      "text": "精智达替换方案",
+      "date": "2026-09-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788684838910-h163qf"
     }
   ],
   "workList": [
@@ -3423,5 +3440,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 16:53:41"
+  "updateTime": "2026/9/6 16:53:59"
 }

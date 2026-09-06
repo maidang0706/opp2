@@ -3239,23 +3239,6 @@
       "id": "1788393383223-jkhixj"
     },
     {
-      "text": "发精智达磁栅保护罩",
-      "date": "2026-09-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788502567560-igl9zu"
-    },
-    {
       "text": "汇艺大理石安装问题",
       "date": "2026-09-05",
       "time": "",
@@ -3372,5 +3355,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 16:31:36"
+  "updateTime": "2026/9/6 16:31:48"
 }

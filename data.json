@@ -3356,6 +3356,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788684776065-214tl4"
+    },
+    {
+      "text": "卓誉标签",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788684802438-aspg5k"
     }
   ],
   "workList": [
@@ -3406,5 +3423,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 16:52:56"
+  "updateTime": "2026/9/6 16:53:23"
 }

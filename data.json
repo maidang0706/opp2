@@ -3441,6 +3441,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788700125821-zk28rb"
+    },
+    {
+      "text": "给中基申请栅尺检测片",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788700174585-w6d20p"
     }
   ],
   "workList": [
@@ -3491,5 +3508,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 21:08:46"
+  "updateTime": "2026/9/6 21:09:35"
 }

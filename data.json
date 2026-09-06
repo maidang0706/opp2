@@ -3322,6 +3322,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788684745698-z9e6wc"
+    },
+    {
+      "text": "精朗补单",
+      "date": "2026-09-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788684758404-lglfd7"
     }
   ],
   "workList": [
@@ -3372,5 +3389,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 16:52:26"
+  "updateTime": "2026/9/6 16:52:39"
 }

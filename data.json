@@ -3543,6 +3543,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788701851903-n8tqtq"
+    },
+    {
+      "text": "CW规划",
+      "date": "2026-09-07",
+      "time": "20:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788709334777-ye9if1"
     }
   ],
   "workList": [
@@ -3593,5 +3610,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 21:37:39"
+  "updateTime": "2026/9/6 23:42:15"
 }

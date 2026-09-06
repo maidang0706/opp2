@@ -2876,23 +2876,6 @@
       "id": "1787482349658-l66649"
     },
     {
-      "text": "卓誉易格斯线缆报价，标签重做",
-      "date": "2026-09-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787561214936-9nyke1"
-    },
-    {
       "text": "卓誉标签问题",
       "date": "2026-08-27",
       "time": "",
@@ -3610,5 +3593,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/6 21:37:32"
+  "updateTime": "2026/9/6 21:37:39"
 }

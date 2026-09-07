@@ -3561,6 +3561,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788761658527-4qgolt"
+    },
+    {
+      "text": "精朗，中基，卓誉，精智达，瑞声，迪尔泰，科瑞，联赢，中欣",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788761826898-rjdfi8"
     }
   ],
   "workList": [
@@ -3611,5 +3628,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 14:14:31"
+  "updateTime": "2026/9/7 14:17:07"
 }

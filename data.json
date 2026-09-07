@@ -3544,6 +3544,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788741319583-dbpwnj"
+    },
+    {
+      "text": "汇艺7条模组交货",
+      "date": "2026-09-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788761114127-bu279k"
     }
   ],
   "workList": [
@@ -3594,5 +3611,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 14:05:01"
+  "updateTime": "2026/9/7 14:05:14"
 }

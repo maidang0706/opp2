@@ -3136,23 +3136,6 @@
       "id": "1788185482406-a1e82s"
     },
     {
-      "text": "中基退回CDHD2S-0064DEC2驱动器",
-      "date": "2026-09-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788274059870-gi198g"
-    },
-    {
       "text": "联系冠天达",
       "date": "2026-09-02",
       "time": "",
@@ -3628,5 +3611,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 14:14:19"
+  "updateTime": "2026/9/7 14:14:31"
 }

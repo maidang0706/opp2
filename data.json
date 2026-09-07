@@ -3342,23 +3342,6 @@
       "id": "1788699897156-1zadu2"
     },
     {
-      "text": "誉辰模组磁栅坏了和客户沟通",
-      "date": "2026-09-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788699970407-nv7byk"
-    },
-    {
       "text": "深圳中基和襄阳中基付款",
       "date": "2026-09-07",
       "time": "15:00",
@@ -3645,5 +3628,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 22:18:34"
+  "updateTime": "2026/9/7 22:18:39"
 }

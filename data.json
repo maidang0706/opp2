@@ -3561,6 +3561,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788761826898-rjdfi8"
+    },
+    {
+      "text": "精智达选型",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788762241199-m3ms25"
     }
   ],
   "workList": [
@@ -3611,5 +3628,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 14:23:49"
+  "updateTime": "2026/9/7 14:24:02"
 }

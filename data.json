@@ -1673,16 +1673,16 @@
     },
     {
       "text": "光通讯展会",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
       "priority": "low",
       "repeat": {
-        "type": 3,
+        "type": 0,
         "days": [],
-        "start": "2026-09-09",
-        "end": "2026-09-11"
+        "start": "",
+        "end": ""
       },
       "done": false,
       "onlyDone": [],
@@ -3628,5 +3628,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 22:19:55"
+  "updateTime": "2026/9/7 22:21:09"
 }

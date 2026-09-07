@@ -3578,6 +3578,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788762241199-m3ms25"
+    },
+    {
+      "text": "誉辰短信",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788765560646-6e60zj"
     }
   ],
   "workList": [
@@ -3628,5 +3645,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 15:19:12"
+  "updateTime": "2026/9/7 15:19:21"
 }

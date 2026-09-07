@@ -3376,23 +3376,6 @@
       "id": "1788699970407-nv7byk"
     },
     {
-      "text": "汇艺价格和何健沟通",
-      "date": "2026-09-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788700084187-2kz3n9"
-    },
-    {
       "text": "深圳中基和襄阳中基付款",
       "date": "2026-09-07",
       "time": "15:00",
@@ -3611,5 +3594,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 14:04:57"
+  "updateTime": "2026/9/7 14:05:01"
 }

@@ -3560,6 +3560,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788709334777-ye9if1"
+    },
+    {
+      "text": "精朗8-5号借了接头",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788741319583-dbpwnj"
     }
   ],
   "workList": [
@@ -3610,5 +3627,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/7 08:32:34"
+  "updateTime": "2026/9/7 08:35:20"
 }

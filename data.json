@@ -3461,7 +3461,7 @@
       "id": "1788761114127-bu279k"
     },
     {
-      "text": "卓誉，精智达，迪尔泰，科瑞，联赢，中欣，吉祥云，海天，奥德维",
+      "text": "精智达，迪尔泰，科瑞，联赢，中欣，吉祥云，海天，奥德维",
       "date": "2026-09-07",
       "time": "",
       "isAllDay": true,
@@ -3618,7 +3618,7 @@
       "date": "2026-09-08",
       "time": "14:00",
       "isAllDay": false,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "low",
       "repeat": {
         "type": 0,
@@ -3679,5 +3679,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/8 21:52:05"
+  "updateTime": "2026/9/8 21:52:18"
 }

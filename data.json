@@ -3531,8 +3531,8 @@
     {
       "text": "誉辰短信",
       "date": "2026-09-07",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3679,5 +3679,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/8 21:50:29"
+  "updateTime": "2026/9/8 21:50:47"
 }

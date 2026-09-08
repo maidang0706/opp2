@@ -3629,6 +3629,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788875525090-7bb18q"
+    },
+    {
+      "text": "中基发不了货处理",
+      "date": "2026-09-08",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788875557485-8xsepo"
     }
   ],
   "workList": [
@@ -3679,5 +3696,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/8 21:52:18"
+  "updateTime": "2026/9/8 21:52:38"
 }

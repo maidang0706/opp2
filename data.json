@@ -3259,8 +3259,8 @@
     {
       "text": "精朗找现场主管补单和精朗的报告",
       "date": "2026-09-08",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3679,5 +3679,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/8 21:49:06"
+  "updateTime": "2026/9/8 21:49:43"
 }

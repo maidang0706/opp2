@@ -3697,6 +3697,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788875780639-b9twqk"
+    },
+    {
+      "text": "襄阳中基有个端子坏了",
+      "date": "2026-09-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788882967968-lnhgz3"
     }
   ],
   "workList": [
@@ -3747,5 +3764,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/8 23:56:04"
+  "updateTime": "2026/9/8 23:56:08"
 }

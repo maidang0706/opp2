@@ -3595,6 +3595,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1788875428844-a7dolz"
+    },
+    {
+      "text": "问珠海智新",
+      "date": "2026-09-08",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1788875510913-oys053"
     }
   ],
   "workList": [
@@ -3645,5 +3662,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/8 21:51:19"
+  "updateTime": "2026/9/8 21:51:51"
 }

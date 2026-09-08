@@ -3512,23 +3512,6 @@
       "id": "1788761114127-bu279k"
     },
     {
-      "text": "达哥给回传件",
-      "date": "2026-09-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788761658527-4qgolt"
-    },
-    {
       "text": "卓誉，精智达，迪尔泰，科瑞，联赢，中欣，吉祥云，海天，奥德维",
       "date": "2026-09-07",
       "time": "",
@@ -3662,5 +3645,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/8 21:48:37"
+  "updateTime": "2026/9/8 21:48:44"
 }

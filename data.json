@@ -3495,23 +3495,6 @@
       "id": "1788762241199-m3ms25"
     },
     {
-      "text": "誉辰短信",
-      "date": "2026-09-09",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788765560646-6e60zj"
-    },
-    {
       "text": "惠州开会",
       "date": "2026-09-11",
       "time": "",
@@ -3764,5 +3747,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/9 08:29:58"
+  "updateTime": "2026/9/9 08:37:05"
 }

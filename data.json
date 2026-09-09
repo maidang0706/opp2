@@ -3546,23 +3546,6 @@
       "id": "1788875330588-fgfnl6"
     },
     {
-      "text": "艾文合同",
-      "date": "2026-09-09",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788875345672-5azdc3"
-    },
-    {
       "text": "襄阳中基付款",
       "date": "2026-09-09",
       "time": "16:00",
@@ -3713,5 +3696,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/9 09:24:19"
+  "updateTime": "2026/9/9 09:24:24"
 }

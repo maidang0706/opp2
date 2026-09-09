@@ -3563,23 +3563,6 @@
       "id": "1788875428844-a7dolz"
     },
     {
-      "text": "卓誉",
-      "date": "2026-09-09",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788875525090-7bb18q"
-    },
-    {
       "text": "中基发不了货处理",
       "date": "2026-09-09",
       "time": "09:00",
@@ -3609,7 +3592,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1788875636478-7bsf8k"
     },
@@ -3713,5 +3696,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/9 16:48:58"
+  "updateTime": "2026/9/9 16:49:14"
 }

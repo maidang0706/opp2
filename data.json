@@ -3614,23 +3614,6 @@
       "id": "1788875636478-7bsf8k"
     },
     {
-      "text": "让文秀把汇艺的东西寄回去",
-      "date": "2026-09-09",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788875729678-z5rezk"
-    },
-    {
       "text": "襄阳中基有个端子坏了",
       "date": "2026-09-09",
       "time": "",
@@ -3696,5 +3679,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/9 09:24:29"
+  "updateTime": "2026/9/9 09:24:33"
 }

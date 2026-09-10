@@ -1672,23 +1672,6 @@
       "id": "1782263737347-vav25a"
     },
     {
-      "text": "光通讯展会",
-      "date": "2026-09-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1782282500344-lm3j5i"
-    },
-    {
       "text": "小蔡的两个录音",
       "date": "2026-06-27",
       "time": "",
@@ -3495,23 +3478,6 @@
       "id": "1788790878078-cxrd3t"
     },
     {
-      "text": "誉昊报价",
-      "date": "2026-09-09",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788875330588-fgfnl6"
-    },
-    {
       "text": "襄阳中基有个端子坏了",
       "date": "2026-09-09",
       "time": "",
@@ -3679,5 +3645,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 21:51:19"
+  "updateTime": "2026/9/10 21:51:34"
 }

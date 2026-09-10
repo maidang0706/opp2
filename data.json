@@ -3731,6 +3731,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789052421634-15ofdu"
+    },
+    {
+      "text": "workbuddy自动签到",
+      "date": "2026-09-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789054448289-8mfbxu"
     }
   ],
   "workList": [
@@ -3781,5 +3798,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 23:34:01"
+  "updateTime": "2026/9/10 23:34:09"
 }

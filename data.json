@@ -3512,57 +3512,6 @@
       "id": "1788875330588-fgfnl6"
     },
     {
-      "text": "襄阳中基付款",
-      "date": "2026-09-09",
-      "time": "16:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788875428844-a7dolz"
-    },
-    {
-      "text": "中基发不了货处理",
-      "date": "2026-09-09",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788875557485-8xsepo"
-    },
-    {
-      "text": "中欣选型",
-      "date": "2026-09-09",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788875636478-7bsf8k"
-    },
-    {
       "text": "襄阳中基有个端子坏了",
       "date": "2026-09-09",
       "time": "",
@@ -3595,23 +3544,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1788923912435-0u17sh"
-    },
-    {
-      "text": "艾文改型号",
-      "date": "2026-09-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788926150913-hdp841"
     },
     {
       "text": "答复达哥价格",
@@ -3747,5 +3679,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 21:51:06"
+  "updateTime": "2026/9/10 21:51:19"
 }

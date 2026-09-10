@@ -3714,6 +3714,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789049963951-3jvyxi"
+    },
+    {
+      "text": "做个对账应收表",
+      "date": "2026-09-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789052421634-15ofdu"
     }
   ],
   "workList": [
@@ -3764,5 +3781,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 23:00:12"
+  "updateTime": "2026/9/10 23:00:22"
 }

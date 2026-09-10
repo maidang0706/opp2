@@ -3612,6 +3612,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789048351322-ytb6e5"
+    },
+    {
+      "text": "XM方案筛选可以选择多个型号，怎么实现",
+      "date": "2026-09-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789048709373-np63g1"
     }
   ],
   "workList": [
@@ -3662,5 +3679,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 21:52:32"
+  "updateTime": "2026/9/10 21:58:30"
 }

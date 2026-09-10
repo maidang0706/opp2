@@ -3663,6 +3663,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789049074585-k2jqcf"
+    },
+    {
+      "text": "誉昊核价",
+      "date": "2026-09-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789049875781-8w6obe"
     }
   ],
   "workList": [
@@ -3713,5 +3730,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 22:04:35"
+  "updateTime": "2026/9/10 22:17:56"
 }

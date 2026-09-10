@@ -3680,6 +3680,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789049875781-8w6obe"
+    },
+    {
+      "text": "汇艺模组要求15号交货",
+      "date": "2026-09-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789049953675-tfc1xo"
     }
   ],
   "workList": [
@@ -3730,5 +3747,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 22:17:56"
+  "updateTime": "2026/9/10 22:19:14"
 }

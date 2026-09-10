@@ -3697,6 +3697,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789046908282-msioge"
+    },
+    {
+      "text": "艾文发货",
+      "date": "2026-09-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789046929710-ul0mym"
     }
   ],
   "workList": [
@@ -3747,5 +3764,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 21:28:41"
+  "updateTime": "2026/9/10 21:28:50"
 }

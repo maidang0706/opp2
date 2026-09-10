@@ -3697,6 +3697,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789049953675-tfc1xo"
+    },
+    {
+      "text": "要卓誉序列码",
+      "date": "2026-09-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789049963951-3jvyxi"
     }
   ],
   "workList": [
@@ -3747,5 +3764,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 22:19:14"
+  "updateTime": "2026/9/10 22:19:24"
 }

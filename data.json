@@ -3529,23 +3529,6 @@
       "id": "1789041364459-3tkuv9"
     },
     {
-      "text": "明天的ppt",
-      "date": "2026-09-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789046850687-dtxhsq"
-    },
-    {
       "text": "卓誉的标签",
       "date": "2026-09-10",
       "time": "",
@@ -3798,5 +3781,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/11 00:29:53"
+  "updateTime": "2026/9/11 00:30:08"
 }

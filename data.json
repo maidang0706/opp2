@@ -3595,6 +3595,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789046929710-ul0mym"
+    },
+    {
+      "text": "汇艺-观澜-卓誉",
+      "date": "2026-09-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789048351322-ytb6e5"
     }
   ],
   "workList": [
@@ -3645,5 +3662,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 21:51:43"
+  "updateTime": "2026/9/10 21:52:32"
 }

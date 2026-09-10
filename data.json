@@ -3274,23 +3274,6 @@
       "id": "1788684758404-lglfd7"
     },
     {
-      "text": "卓誉标签和线缆报价",
-      "date": "2026-09-09",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788684802438-aspg5k"
-    },
-    {
       "text": "精智达替换方案",
       "date": "2026-09-06",
       "time": "",
@@ -3764,5 +3747,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/10 21:51:01"
+  "updateTime": "2026/9/10 21:51:06"
 }

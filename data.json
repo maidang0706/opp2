@@ -3274,23 +3274,6 @@
       "id": "1788684838910-h163qf"
     },
     {
-      "text": "中欣现场模组达不到要求处理",
-      "date": "2026-09-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788699897156-1zadu2"
-    },
-    {
       "text": "给中基申请栅尺检测片",
       "date": "2026-09-07",
       "time": "",
@@ -3679,5 +3662,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/11 23:40:25"
+  "updateTime": "2026/9/11 23:40:40"
 }

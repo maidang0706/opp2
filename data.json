@@ -3461,23 +3461,6 @@
       "id": "1788762241199-m3ms25"
     },
     {
-      "text": "惠州开会",
-      "date": "2026-09-11",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788790878078-cxrd3t"
-    },
-    {
       "text": "襄阳中基有个端子坏了",
       "date": "2026-09-09",
       "time": "",
@@ -3578,23 +3561,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789048709373-np63g1"
-    },
-    {
-      "text": "问欧盛什么情况",
-      "date": "2026-09-11",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789049043206-rzi4ey"
     },
     {
       "text": "问工厂汇艺马工模组",
@@ -3713,5 +3679,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/11 23:40:19"
+  "updateTime": "2026/9/11 23:40:25"
 }

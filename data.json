@@ -3563,23 +3563,6 @@
       "id": "1789046929710-ul0mym"
     },
     {
-      "text": "汇艺-观澜-卓誉",
-      "date": "2026-09-11",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789048351322-ytb6e5"
-    },
-    {
       "text": "XM方案筛选可以选择多个型号，怎么实现",
       "date": "2026-09-12",
       "time": "",
@@ -3646,23 +3629,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789049953675-tfc1xo"
-    },
-    {
-      "text": "要卓誉序列码",
-      "date": "2026-09-11",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789049963951-3jvyxi"
     },
     {
       "text": "做个对账应收表，把周一要汇报的格式写，预测表也搞个",
@@ -3747,5 +3713,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/11 23:40:12"
+  "updateTime": "2026/9/11 23:40:19"
 }

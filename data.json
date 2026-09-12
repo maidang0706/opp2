@@ -3308,23 +3308,6 @@
       "id": "1788700199751-lab7nf"
     },
     {
-      "text": "中基模组要换注油嘴方向",
-      "date": "2026-09-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788700265138-9zedzi"
-    },
-    {
       "text": "捷佳伟创答复结果",
       "date": "2026-09-18",
       "time": "",
@@ -3612,6 +3595,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789054448289-8mfbxu"
+    },
+    {
+      "text": "中基端子",
+      "date": "2026-09-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789185788790-9mw6xf"
     }
   ],
   "workList": [
@@ -3662,5 +3662,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/11 23:40:56"
+  "updateTime": "2026/9/12 12:03:09"
 }

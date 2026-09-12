@@ -3612,6 +3612,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789185788790-9mw6xf"
+    },
+    {
+      "text": "汇艺有三台驱动器换总线",
+      "date": "2026-09-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789195765308-a28qer"
     }
   ],
   "workList": [
@@ -3662,5 +3679,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/12 14:49:05"
+  "updateTime": "2026/9/12 14:49:26"
 }

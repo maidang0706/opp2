@@ -3629,6 +3629,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789195765308-a28qer"
+    },
+    {
+      "text": "完善中欣的选型资料",
+      "date": "2026-09-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789196261713-bl242m"
     }
   ],
   "workList": [
@@ -3679,5 +3696,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/12 14:57:24"
+  "updateTime": "2026/9/12 14:57:42"
 }

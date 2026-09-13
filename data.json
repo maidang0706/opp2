@@ -3646,6 +3646,23 @@
       "done": true,
       "onlyDone": [],
       "id": "1789196261713-bl242m"
+    },
+    {
+      "text": "记账本加密，另外加入弟的账本",
+      "date": "2026-09-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789293012424-iz9yxa"
     }
   ],
   "workList": [
@@ -3696,5 +3713,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/13 17:49:58"
+  "updateTime": "2026/9/13 17:50:13"
 }

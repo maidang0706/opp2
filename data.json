@@ -3427,23 +3427,6 @@
       "id": "1788762241199-m3ms25"
     },
     {
-      "text": "襄阳中基有个端子坏了",
-      "date": "2026-09-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788882967968-lnhgz3"
-    },
-    {
       "text": "给小蔡整理中山珠海客户名单",
       "date": "2026-09-13",
       "time": "",
@@ -3730,5 +3713,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/13 18:00:26"
+  "updateTime": "2026/9/13 18:01:16"
 }

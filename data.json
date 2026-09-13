@@ -3646,6 +3646,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789295330984-v64yvk"
+    },
+    {
+      "text": "找廖远旭要联系方式",
+      "date": "2026-09-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789297311931-aeksc2"
     }
   ],
   "workList": [
@@ -3696,5 +3713,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/13 19:00:59"
+  "updateTime": "2026/9/13 19:01:52"
 }

@@ -2890,7 +2890,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1787744265519-9aybj7"
     },
@@ -3362,23 +3362,6 @@
       "id": "1788700827220-0zvqst"
     },
     {
-      "text": "填报销",
-      "date": "2026-09-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788701851903-n8tqtq"
-    },
-    {
       "text": "汇艺7条模组交货",
       "date": "2026-09-17",
       "time": "",
@@ -3716,5 +3699,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/13 22:13:16"
+  "updateTime": "2026/9/13 22:13:29"
 }

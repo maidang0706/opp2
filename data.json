@@ -3680,6 +3680,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789297354007-ewvmph"
+    },
+    {
+      "text": "汇艺换3个驱动器",
+      "date": "2026-09-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789297413295-acevne"
     }
   ],
   "workList": [
@@ -3730,5 +3747,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/13 19:02:34"
+  "updateTime": "2026/9/13 19:03:34"
 }

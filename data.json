@@ -3631,23 +3631,6 @@
       "id": "1789293012424-iz9yxa"
     },
     {
-      "text": "报销",
-      "date": "2026-09-13",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789293626105-kc6myz"
-    },
-    {
       "text": "交报销",
       "date": "2026-09-14",
       "time": "",
@@ -3713,5 +3696,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/13 18:29:11"
+  "updateTime": "2026/9/13 18:29:15"
 }

@@ -3614,23 +3614,6 @@
       "id": "1789195765308-a28qer"
     },
     {
-      "text": "完善中欣的选型资料",
-      "date": "2026-09-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789196261713-bl242m"
-    },
-    {
       "text": "记账本加密，另外加入弟的账本",
       "date": "2026-09-13",
       "time": "",
@@ -3730,5 +3713,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/13 18:28:51"
+  "updateTime": "2026/9/13 18:29:04"
 }

@@ -3664,6 +3664,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789297354007-ewvmph"
+    },
+    {
+      "text": "新客户：华亚，汉邦，奥德维",
+      "date": "2026-09-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789303461804-m25eo9"
     }
   ],
   "workList": [
@@ -3714,5 +3731,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/13 20:43:55"
+  "updateTime": "2026/9/13 20:44:22"
 }

@@ -2933,23 +2933,6 @@
       "id": "1787750645931-39i96n"
     },
     {
-      "text": "以后拜访完客户的信息整理用ai怎么做",
-      "date": "2026-09-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787851364187-lfxd39"
-    },
-    {
       "text": "线马商机HTML文件修改",
       "date": "2026-08-29",
       "time": "",
@@ -3614,5 +3597,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 20:48:58"
+  "updateTime": "2026/9/14 20:49:04"
 }

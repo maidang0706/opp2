@@ -3122,23 +3122,6 @@
       "id": "1788185482406-a1e82s"
     },
     {
-      "text": "联系冠天达",
-      "date": "2026-09-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788278096633-djbjep"
-    },
-    {
       "text": "每周2-3家新客户",
       "date": "2026-09-06",
       "time": "",
@@ -3612,5 +3595,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 20:46:46"
+  "updateTime": "2026/9/14 20:46:54"
 }

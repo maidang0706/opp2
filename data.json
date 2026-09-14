@@ -3399,7 +3399,7 @@
     },
     {
       "text": "艾文发货",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3498,23 +3498,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789195765308-a28qer"
-    },
-    {
-      "text": "交报销",
-      "date": "2026-09-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789295330984-v64yvk"
     },
     {
       "text": "找廖远旭要联系方式",
@@ -3663,5 +3646,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 20:44:49"
+  "updateTime": "2026/9/14 20:45:07"
 }

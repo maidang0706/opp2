@@ -3111,23 +3111,6 @@
       "id": "1788278123741-787oep"
     },
     {
-      "text": "发抖音链接提取视频和文字并存入到IMA里面",
-      "date": "2026-09-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788393383223-jkhixj"
-    },
-    {
       "text": "账单HTML文件完善，商机超过三个的可以折叠，",
       "date": "2026-09-06",
       "time": "",
@@ -3580,5 +3563,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 20:49:26"
+  "updateTime": "2026/9/14 20:49:35"
 }

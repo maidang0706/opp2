@@ -3398,23 +3398,6 @@
       "id": "1788762241199-m3ms25"
     },
     {
-      "text": "给小蔡整理中山珠海客户名单",
-      "date": "2026-09-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788923912435-0u17sh"
-    },
-    {
       "text": "艾文发货",
       "date": "2026-09-14",
       "time": "",
@@ -3663,5 +3646,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 20:43:56"
+  "updateTime": "2026/9/14 20:44:26"
 }

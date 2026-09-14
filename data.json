@@ -3483,23 +3483,6 @@
       "id": "1789049074585-k2jqcf"
     },
     {
-      "text": "汇艺模组要求15号交货",
-      "date": "2026-09-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789049953675-tfc1xo"
-    },
-    {
       "text": "做个对账应收表，把周一要汇报的格式写，预测表也搞个",
       "date": "2026-09-12",
       "time": "",
@@ -3693,5 +3676,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 13:09:48"
+  "updateTime": "2026/9/14 13:10:56"
 }

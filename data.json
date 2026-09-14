@@ -3432,23 +3432,6 @@
       "id": "1789041364459-3tkuv9"
     },
     {
-      "text": "问中基可以发货没？",
-      "date": "2026-09-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789046908282-msioge"
-    },
-    {
       "text": "艾文发货",
       "date": "2026-09-14",
       "time": "",
@@ -3714,5 +3697,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 20:42:48"
+  "updateTime": "2026/9/14 20:43:02"
 }

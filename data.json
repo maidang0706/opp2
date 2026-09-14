@@ -3279,23 +3279,6 @@
       "id": "1788684838910-h163qf"
     },
     {
-      "text": "给中基申请栅尺检测片，中基模组要换注油嘴方向",
-      "date": "2026-09-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788700174585-w6d20p"
-    },
-    {
       "text": "约葛超",
       "date": "2026-09-16",
       "time": "",
@@ -3646,5 +3629,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 20:45:29"
+  "updateTime": "2026/9/14 20:45:34"
 }

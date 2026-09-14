@@ -3380,23 +3380,6 @@
       "id": "1788761114127-bu279k"
     },
     {
-      "text": "精智达，迪尔泰，科瑞，联赢，中欣，吉祥云，海天，奥德维",
-      "date": "2026-09-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788761826898-rjdfi8"
-    },
-    {
       "text": "精智达选型",
       "date": "2026-09-15",
       "time": "",
@@ -3726,5 +3709,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 09:59:42"
+  "updateTime": "2026/9/14 09:59:46"
 }

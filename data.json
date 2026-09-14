@@ -3634,6 +3634,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789351137948-hy5gnn"
+    },
+    {
+      "text": "待完成skill：里程自动计算",
+      "date": "2026-09-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789388393232-xsy234"
     }
   ],
   "workList": [
@@ -3676,5 +3693,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 20:19:31"
+  "updateTime": "2026/9/14 20:19:54"
 }

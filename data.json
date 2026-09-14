@@ -3368,8 +3368,8 @@
     {
       "text": "中基发CDHDE-4D52AEB电源端子",
       "date": "2026-09-15",
-      "time": "",
-      "isAllDay": true,
+      "time": "16:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3580,5 +3580,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 21:56:03"
+  "updateTime": "2026/9/14 21:56:10"
 }

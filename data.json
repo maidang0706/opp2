@@ -3369,14 +3369,14 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1788761114127-bu279k"
     },
@@ -3676,5 +3676,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/14 13:11:03"
+  "updateTime": "2026/9/14 13:11:10"
 }

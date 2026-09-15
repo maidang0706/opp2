@@ -3451,23 +3451,6 @@
       "id": "1789390085464-wu69c7"
     },
     {
-      "text": "我要的结果是行业动态，应该是agent帮我从微信公众号或者视频号里面提取内容给我看，而不是我一个个去看",
-      "date": "2026-09-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789393622706-fgjmsl"
-    },
-    {
       "text": "约汉邦",
       "date": "2026-09-16",
       "time": "",
@@ -3682,5 +3665,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 00:17:34"
+  "updateTime": "2026/9/16 00:17:44"
 }

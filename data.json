@@ -3619,6 +3619,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789483043401-phiqay"
+    },
+    {
+      "text": "安排明天生产的人",
+      "date": "2026-09-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789483053619-je6id6"
     }
   ],
   "workList": [
@@ -3665,5 +3682,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/15 22:37:24"
+  "updateTime": "2026/9/15 22:37:34"
 }

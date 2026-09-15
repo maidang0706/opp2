@@ -3551,6 +3551,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789453698926-44208b"
+    },
+    {
+      "text": "精智达调试",
+      "date": "2026-09-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789457369188-2ektos"
     }
   ],
   "workList": [
@@ -3597,5 +3614,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/15 15:29:14"
+  "updateTime": "2026/9/15 15:29:29"
 }

@@ -2992,23 +2992,6 @@
       "id": "1788185140569-ppo4w2"
     },
     {
-      "text": "中基赵志光选DDR的项目",
-      "date": "2026-09-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788185444073-zqil5r"
-    },
-    {
       "text": "整理艾贝特费用",
       "date": "2026-09-19",
       "time": "",
@@ -3529,5 +3512,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 00:22:42"
+  "updateTime": "2026/9/16 00:22:47"
 }

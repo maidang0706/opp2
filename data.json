@@ -3485,23 +3485,6 @@
       "id": "1789394264161-aj0ky8"
     },
     {
-      "text": "xml文件放哪里，找不到，以后拜访客户都可以录音，让AI提取内容直接写拜访记录，把这个skill做出来",
-      "date": "2026-09-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789436372334-65nrrb"
-    },
-    {
       "text": "精智达调试",
       "date": "2026-09-16",
       "time": "",
@@ -3699,5 +3682,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 00:17:12"
+  "updateTime": "2026/9/16 00:17:34"
 }

@@ -3568,6 +3568,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789457369188-2ektos"
+    },
+    {
+      "text": "讯强电子",
+      "date": "2026-09-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789465912427-k0i075"
     }
   ],
   "workList": [
@@ -3614,5 +3631,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/15 17:51:46"
+  "updateTime": "2026/9/15 17:51:53"
 }

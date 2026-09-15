@@ -3568,6 +3568,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789436372334-65nrrb"
+    },
+    {
+      "text": "销售数据放到HTML文件里面",
+      "date": "2026-09-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789453698926-44208b"
     }
   ],
   "workList": [
@@ -3614,5 +3631,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/15 14:28:06"
+  "updateTime": "2026/9/15 14:28:19"
 }

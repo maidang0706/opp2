@@ -2916,23 +2916,6 @@
       "id": "1787749954545-koeshc"
     },
     {
-      "text": "建立个人知识库\n以后拜访完客户的信息整理用ai怎么做\n在其他待办后面新增页面客户对账时间日历\n发抖音链接提取视频和文字并存入到IMA里面",
-      "date": "2026-09-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787750645931-39i96n"
-    },
-    {
       "text": "线马商机HTML文件修改",
       "date": "2026-08-29",
       "time": "",
@@ -3648,5 +3631,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 00:17:54"
+  "updateTime": "2026/9/16 00:18:10"
 }

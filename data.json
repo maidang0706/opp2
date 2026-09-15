@@ -3417,23 +3417,6 @@
       "id": "1789457369188-2ektos"
     },
     {
-      "text": "订单明细如何导入到HTML文件里面",
-      "date": "2026-09-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789475137168-ihu2xk"
-    },
-    {
       "text": "王益强要的电源线和编码器线型号",
       "date": "2026-09-16",
       "time": "",
@@ -3597,5 +3580,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 00:18:29"
+  "updateTime": "2026/9/16 00:18:45"
 }

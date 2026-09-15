@@ -3468,23 +3468,6 @@
       "id": "1789478894301-62h1ee"
     },
     {
-      "text": "李辉注油嘴问题",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789483043401-phiqay"
-    },
-    {
       "text": "安排明天生产的人",
       "date": "2026-09-16",
       "time": "",
@@ -3580,5 +3563,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 00:19:57"
+  "updateTime": "2026/9/16 00:20:44"
 }

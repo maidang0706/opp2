@@ -3587,23 +3587,6 @@
       "id": "1789478894301-62h1ee"
     },
     {
-      "text": "从腾讯文档里面读价格-workbuddy来实现",
-      "date": "2026-09-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789479026843-6p393v"
-    },
-    {
       "text": "李辉注油嘴问题",
       "date": "2026-09-16",
       "time": "",
@@ -3716,5 +3699,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 00:11:38"
+  "updateTime": "2026/9/16 00:17:12"
 }

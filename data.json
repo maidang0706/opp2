@@ -3332,23 +3332,6 @@
       "id": "1789054448289-8mfbxu"
     },
     {
-      "text": "中基发CDHDE-4D52AEB电源端子",
-      "date": "2026-09-15",
-      "time": "16:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789185788790-9mw6xf"
-    },
-    {
       "text": "汇艺驱动器补差价",
       "date": "2026-09-14",
       "time": "",
@@ -3364,23 +3347,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789195765308-a28qer"
-    },
-    {
-      "text": "找廖远旭要联系方式",
-      "date": "2026-09-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789297311931-aeksc2"
     },
     {
       "text": "精智达装保护罩，中基注油嘴换方向，中基拼接，中基换动子，给栅尺检测片",
@@ -3682,5 +3648,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/15 21:19:40"
+  "updateTime": "2026/9/15 21:19:47"
 }

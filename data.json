@@ -3043,27 +3043,6 @@
       "id": "1788185482406-a1e82s"
     },
     {
-      "text": "每周2-3家新客户",
-      "date": "2026-09-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 1,
-        "days": [
-          7
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [
-        "2026-09-06"
-      ],
-      "id": "1788278123741-787oep"
-    },
-    {
       "text": "账单HTML文件完善，商机超过三个的可以折叠，",
       "date": "2026-09-06",
       "time": "",
@@ -3618,5 +3597,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 00:18:23"
+  "updateTime": "2026/9/16 00:18:29"
 }

@@ -3585,6 +3585,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789465912427-k0i075"
+    },
+    {
+      "text": "订单明细如何导入到HTML文件里面",
+      "date": "2026-09-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789475137168-ihu2xk"
     }
   ],
   "workList": [
@@ -3631,5 +3648,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/15 20:25:25"
+  "updateTime": "2026/9/15 20:25:37"
 }

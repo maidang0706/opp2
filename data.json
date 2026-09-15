@@ -3636,6 +3636,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789483053619-je6id6"
+    },
+    {
+      "text": "博测达，联申达，奥德维，誉昊，华冠",
+      "date": "2026-09-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789486584951-oal89t"
     }
   ],
   "workList": [
@@ -3682,5 +3699,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/15 23:17:22"
+  "updateTime": "2026/9/15 23:36:25"
 }

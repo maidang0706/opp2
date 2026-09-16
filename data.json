@@ -3112,23 +3112,6 @@
       "id": "1788700643394-0vkorb"
     },
     {
-      "text": "问华冠情况",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788700790762-r38kif"
-    },
-    {
       "text": "汇艺7条模组交货",
       "date": "2026-09-17",
       "time": "",
@@ -3333,40 +3316,6 @@
       "id": "1789390085464-wu69c7"
     },
     {
-      "text": "精智达调试",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789457369188-2ektos"
-    },
-    {
-      "text": "王益强要的电源线和编码器线型号",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789478356729-82o0bl"
-    },
-    {
       "text": "中基李辉注油嘴问题",
       "date": "2026-09-17",
       "time": "",
@@ -3399,23 +3348,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1789478894301-62h1ee"
-    },
-    {
-      "text": "安排明天生产的人",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789483053619-je6id6"
     },
     {
       "text": "汉邦，叁迪，誉辰，宏唯，蜀丰",
@@ -3530,5 +3462,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 23:00:39"
+  "updateTime": "2026/9/16 23:00:52"
 }

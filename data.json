@@ -3452,23 +3452,6 @@
       "id": "1789486584951-oal89t"
     },
     {
-      "text": "博测达，联申达，奥德维，誉昊，华冠",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789486597857-zzbzgy"
-    },
-    {
       "text": "车载小桌板",
       "date": "2026-09-19",
       "time": "",
@@ -3487,9 +3470,9 @@
     },
     {
       "text": "精朗清研项目报价",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-09-17",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3564,5 +3547,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 23:00:10"
+  "updateTime": "2026/9/16 23:00:28"
 }

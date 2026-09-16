@@ -3333,23 +3333,6 @@
       "id": "1789390085464-wu69c7"
     },
     {
-      "text": "约汉邦",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789394264161-aj0ky8"
-    },
-    {
       "text": "精智达调试",
       "date": "2026-09-16",
       "time": "",
@@ -3430,7 +3413,7 @@
         "start": "",
         "end": ""
       },
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1789483053619-je6id6"
     },
@@ -3547,5 +3530,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 23:00:28"
+  "updateTime": "2026/9/16 23:00:39"
 }

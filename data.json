@@ -3466,6 +3466,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789486597857-zzbzgy"
+    },
+    {
+      "text": "车载小桌板",
+      "date": "2026-09-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789525920465-ilvxic"
     }
   ],
   "workList": [
@@ -3512,5 +3529,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/16 10:31:50"
+  "updateTime": "2026/9/16 10:32:01"
 }

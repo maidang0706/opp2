@@ -3416,6 +3416,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789650940722-yzni0a"
+    },
+    {
+      "text": "找小蔡要录音",
+      "date": "2026-09-18",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789651104134-i5djkk"
     }
   ],
   "workList": [
@@ -3462,5 +3479,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 21:16:46"
+  "updateTime": "2026/9/17 21:18:24"
 }

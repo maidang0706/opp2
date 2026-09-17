@@ -3348,6 +3348,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789570878437-d9w2s7"
+    },
+    {
+      "text": "中基多发模组",
+      "date": "2026-09-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789649846934-zyiw1q"
     }
   ],
   "workList": [
@@ -3394,5 +3411,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 20:56:42"
+  "updateTime": "2026/9/17 20:57:27"
 }

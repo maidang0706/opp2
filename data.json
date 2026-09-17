@@ -3403,8 +3403,8 @@
     {
       "text": "坚果",
       "date": "2026-09-18",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3462,5 +3462,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 21:15:41"
+  "updateTime": "2026/9/17 21:16:46"
 }

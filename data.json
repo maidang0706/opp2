@@ -3197,10 +3197,10 @@
       "id": "1789054448289-8mfbxu"
     },
     {
-      "text": "汇艺驱动器补差价",
+      "text": "汇艺驱动器补差价和线缆订单",
       "date": "2026-09-18",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "mid",
       "repeat": {
@@ -3428,5 +3428,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 20:57:53"
+  "updateTime": "2026/9/17 20:58:54"
 }

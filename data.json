@@ -3365,6 +3365,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789649846934-zyiw1q"
+    },
+    {
+      "text": "中基端子申请",
+      "date": "2026-09-18",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789649872936-mrkivo"
     }
   ],
   "workList": [
@@ -3411,5 +3428,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 20:57:27"
+  "updateTime": "2026/9/17 20:57:53"
 }

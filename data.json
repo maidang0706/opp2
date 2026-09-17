@@ -3450,6 +3450,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789651682008-ky4v4j"
+    },
+    {
+      "text": "中欣报价",
+      "date": "2026-09-18",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789652497360-gzh1w6"
     }
   ],
   "workList": [
@@ -3496,5 +3513,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 21:28:02"
+  "updateTime": "2026/9/17 21:41:38"
 }

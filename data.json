@@ -3389,7 +3389,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3399,6 +3399,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789649970631-wt6fpe"
+    },
+    {
+      "text": "坚果",
+      "date": "2026-09-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789650940722-yzni0a"
     }
   ],
   "workList": [
@@ -3445,5 +3462,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 20:59:31"
+  "updateTime": "2026/9/17 21:15:41"
 }

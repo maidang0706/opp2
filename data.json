@@ -3333,23 +3333,6 @@
       "id": "1789478366708-71tvbw"
     },
     {
-      "text": "博测达，奥德维，叁迪，一特，誉辰",
-      "date": "2026-09-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789486584951-oal89t"
-    },
-    {
       "text": "车载小桌板",
       "date": "2026-09-19",
       "time": "",
@@ -3365,23 +3348,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789525920465-ilvxic"
-    },
-    {
-      "text": "精朗清研项目报价",
-      "date": "2026-09-17",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789545445183-6jqvuu"
     },
     {
       "text": "方远刚图纸确认",
@@ -3462,5 +3428,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 20:56:04"
+  "updateTime": "2026/9/17 20:56:11"
 }

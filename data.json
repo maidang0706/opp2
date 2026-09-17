@@ -3112,23 +3112,6 @@
       "id": "1788700643394-0vkorb"
     },
     {
-      "text": "汇艺7条模组交货",
-      "date": "2026-09-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788761114127-bu279k"
-    },
-    {
       "text": "精智达选型",
       "date": "2026-09-15",
       "time": "",
@@ -3350,23 +3333,6 @@
       "id": "1789525920465-ilvxic"
     },
     {
-      "text": "方远刚图纸确认",
-      "date": "2026-09-17",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789570786701-qlc8lr"
-    },
-    {
       "text": "问卓誉款",
       "date": "2026-09-18",
       "time": "",
@@ -3428,5 +3394,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/17 20:56:11"
+  "updateTime": "2026/9/17 20:56:17"
 }

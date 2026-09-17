@@ -3467,6 +3467,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789652497360-gzh1w6"
+    },
+    {
+      "text": "能直接把Excel表格的内容复制到HTML文件里面。",
+      "date": "2026-09-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789689268725-x6zk1r"
     }
   ],
   "workList": [
@@ -3513,5 +3530,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 07:53:32"
+  "updateTime": "2026/9/18 07:54:29"
 }

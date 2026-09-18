@@ -3335,8 +3335,8 @@
     {
       "text": "问卓誉款",
       "date": "2026-09-18",
-      "time": "",
-      "isAllDay": true,
+      "time": "15:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3547,5 +3547,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 11:38:50"
+  "updateTime": "2026/9/18 11:39:03"
 }

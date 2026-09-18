@@ -3484,6 +3484,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789689268725-x6zk1r"
+    },
+    {
+      "text": "拿中秋礼品",
+      "date": "2026-09-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789693757488-sbx2jk"
     }
   ],
   "workList": [
@@ -3530,5 +3547,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 08:58:05"
+  "updateTime": "2026/9/18 09:09:18"
 }

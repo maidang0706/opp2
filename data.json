@@ -3350,23 +3350,6 @@
       "id": "1789649846934-zyiw1q"
     },
     {
-      "text": "中基端子申请",
-      "date": "2026-09-18",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789649872936-mrkivo"
-    },
-    {
       "text": "誉昊最终方案和价格",
       "date": "2026-09-18",
       "time": "09:00",
@@ -3382,23 +3365,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789649970631-wt6fpe"
-    },
-    {
-      "text": "找小蔡要录音",
-      "date": "2026-09-18",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789651104134-i5djkk"
     },
     {
       "text": "奥德维王工",
@@ -3530,5 +3496,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 11:42:10"
+  "updateTime": "2026/9/18 11:42:17"
 }

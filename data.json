@@ -3384,23 +3384,6 @@
       "id": "1789651682008-ky4v4j"
     },
     {
-      "text": "中欣报价",
-      "date": "2026-09-18",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789652497360-gzh1w6"
-    },
-    {
       "text": "能直接把Excel表格的内容复制到HTML文件里面。",
       "date": "2026-09-18",
       "time": "",
@@ -3496,5 +3479,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 11:42:17"
+  "updateTime": "2026/9/18 11:43:25"
 }

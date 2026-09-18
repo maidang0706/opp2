@@ -3484,6 +3484,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789693757488-sbx2jk"
+    },
+    {
+      "text": "XM方案表里面价格明细新增数量列",
+      "date": "2026-09-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789694030468-y4q5wq"
     }
   ],
   "workList": [
@@ -3530,5 +3547,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 09:09:27"
+  "updateTime": "2026/9/18 09:13:51"
 }

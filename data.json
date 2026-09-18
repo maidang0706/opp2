@@ -3416,6 +3416,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789703051381-gvo4ql"
+    },
+    {
+      "text": "带：精朗范经理，中基侯总，誉辰何总，采购王经理，誉昊刘总\n寄：中基谭经理，誉辰张国平，誉昊达哥，精智达朱工，中欣孙克海",
+      "date": "2026-09-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789703317740-5jsakf"
     }
   ],
   "workList": [
@@ -3462,5 +3479,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 11:45:17"
+  "updateTime": "2026/9/18 11:48:38"
 }

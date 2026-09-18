@@ -3197,23 +3197,6 @@
       "id": "1789054448289-8mfbxu"
     },
     {
-      "text": "汇艺驱动器补差价和线缆订单",
-      "date": "2026-09-18",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789195765308-a28qer"
-    },
-    {
       "text": "精智达装保护罩，中基注油嘴换方向，中基拼接，中基换动子，给栅尺检测片",
       "date": "2026-09-17",
       "time": "",
@@ -3547,5 +3530,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 11:39:03"
+  "updateTime": "2026/9/18 11:42:10"
 }

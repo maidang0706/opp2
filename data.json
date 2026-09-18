@@ -3333,23 +3333,6 @@
       "id": "1789570878437-d9w2s7"
     },
     {
-      "text": "中基多发模组",
-      "date": "2026-09-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789649846934-zyiw1q"
-    },
-    {
       "text": "誉昊最终方案和价格",
       "date": "2026-09-18",
       "time": "09:00",
@@ -3496,5 +3479,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 11:43:32"
+  "updateTime": "2026/9/18 11:43:36"
 }

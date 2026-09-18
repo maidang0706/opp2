@@ -3399,6 +3399,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789703012131-4c641k"
+    },
+    {
+      "text": "中基，吉祥云",
+      "date": "2026-09-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789703051381-gvo4ql"
     }
   ],
   "workList": [
@@ -3445,5 +3462,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/18 11:43:44"
+  "updateTime": "2026/9/18 11:44:12"
 }

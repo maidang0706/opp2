@@ -3382,6 +3382,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789826887206-ml6g9d"
+    },
+    {
+      "text": "何建远培训",
+      "date": "2026-09-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789826973283-kl735s"
     }
   ],
   "workList": [
@@ -3428,5 +3445,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 22:08:08"
+  "updateTime": "2026/9/19 22:09:34"
 }

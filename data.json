@@ -3348,6 +3348,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789826772146-65vnkw"
+    },
+    {
+      "text": "中基拼接模组和换电机",
+      "date": "2026-09-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789826799884-lxbgf6"
     }
   ],
   "workList": [
@@ -3394,5 +3411,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 22:06:23"
+  "updateTime": "2026/9/19 22:06:40"
 }

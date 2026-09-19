@@ -3265,23 +3265,6 @@
       "id": "1789478366708-71tvbw"
     },
     {
-      "text": "问卓誉款",
-      "date": "2026-09-18",
-      "time": "15:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789570878437-d9w2s7"
-    },
-    {
       "text": "誉昊最终方案和价格",
       "date": "2026-09-18",
       "time": "09:00",
@@ -3513,5 +3496,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 22:04:50"
+  "updateTime": "2026/9/19 22:04:54"
 }

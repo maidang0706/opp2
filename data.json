@@ -3248,23 +3248,6 @@
       "id": "1789478366708-71tvbw"
     },
     {
-      "text": "拿中秋礼品",
-      "date": "2026-09-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789693757488-sbx2jk"
-    },
-    {
       "text": "XM方案表里面价格明细新增数量列",
       "date": "2026-09-19",
       "time": "",
@@ -3280,23 +3263,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1789694030468-y4q5wq"
-    },
-    {
-      "text": "中欣订单",
-      "date": "2026-09-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789703012131-4c641k"
     },
     {
       "text": "带：精朗范经理，中基侯总，誉辰何总，采购王经理，誉昊刘总\n寄：中基谭经理，誉辰张国平，誉昊达哥，精智达朱工，中欣孙克海",
@@ -3382,6 +3348,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789826689309-y7mrwu"
+    },
+    {
+      "text": "补XM方案表里面的价格资料",
+      "date": "2026-09-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789826772146-65vnkw"
     }
   ],
   "workList": [
@@ -3428,5 +3411,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 22:05:52"
+  "updateTime": "2026/9/19 22:06:12"
 }

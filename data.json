@@ -3450,6 +3450,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789810015935-c1lawg"
+    },
+    {
+      "text": "寄中秋礼盒",
+      "date": "2026-09-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789813616351-szezpy"
     }
   ],
   "workList": [
@@ -3496,5 +3513,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 18:26:40"
+  "updateTime": "2026/9/19 18:26:57"
 }

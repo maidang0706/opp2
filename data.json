@@ -3282,23 +3282,6 @@
       "id": "1789478366708-71tvbw"
     },
     {
-      "text": "车载小桌板",
-      "date": "2026-09-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789525920465-ilvxic"
-    },
-    {
       "text": "问卓誉款",
       "date": "2026-09-18",
       "time": "15:00",
@@ -3513,5 +3496,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 18:25:53"
+  "updateTime": "2026/9/19 18:26:40"
 }

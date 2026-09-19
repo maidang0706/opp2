@@ -3129,23 +3129,6 @@
       "id": "1788762241199-m3ms25"
     },
     {
-      "text": "艾文发货",
-      "date": "2026-09-18",
-      "time": "16:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789046929710-ul0mym"
-    },
-    {
       "text": "做个对账应收表，把周一要汇报的格式写，预测表也搞个",
       "date": "2026-09-12",
       "time": "",
@@ -3263,23 +3246,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789478366708-71tvbw"
-    },
-    {
-      "text": "誉昊最终方案和价格",
-      "date": "2026-09-18",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789649970631-wt6fpe"
     },
     {
       "text": "奥德维王工",
@@ -3479,5 +3445,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 22:05:13"
+  "updateTime": "2026/9/19 22:05:19"
 }

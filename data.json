@@ -3401,23 +3401,6 @@
       "id": "1789703317740-5jsakf"
     },
     {
-      "text": "中欣下预测",
-      "date": "2026-09-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789704594104-g96xdj"
-    },
-    {
       "text": "借用整理",
       "date": "2026-09-20",
       "time": "",
@@ -3496,5 +3479,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 22:04:24"
+  "updateTime": "2026/9/19 22:04:33"
 }

@@ -3248,23 +3248,6 @@
       "id": "1789478366708-71tvbw"
     },
     {
-      "text": "奥德维王工",
-      "date": "2026-09-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789651682008-ky4v4j"
-    },
-    {
       "text": "拿中秋礼品",
       "date": "2026-09-18",
       "time": "",
@@ -3445,5 +3428,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 22:05:47"
+  "updateTime": "2026/9/19 22:05:52"
 }

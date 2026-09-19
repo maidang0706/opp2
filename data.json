@@ -3399,6 +3399,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789826973283-kl735s"
+    },
+    {
+      "text": "精朗要的PDF",
+      "date": "2026-09-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789827000535-7bdezg"
     }
   ],
   "workList": [
@@ -3445,5 +3462,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 22:09:34"
+  "updateTime": "2026/9/19 22:10:01"
 }

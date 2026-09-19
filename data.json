@@ -3146,23 +3146,6 @@
       "id": "1789046929710-ul0mym"
     },
     {
-      "text": "问工厂汇艺马工模组",
-      "date": "2026-09-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789049074585-k2jqcf"
-    },
-    {
       "text": "做个对账应收表，把周一要汇报的格式写，预测表也搞个",
       "date": "2026-09-12",
       "time": "",
@@ -3513,5 +3496,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/19 18:26:57"
+  "updateTime": "2026/9/19 18:27:09"
 }

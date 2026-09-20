@@ -3299,23 +3299,6 @@
       "id": "1789826689309-y7mrwu"
     },
     {
-      "text": "补XM方案表里面的价格资料",
-      "date": "2026-09-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789826772146-65vnkw"
-    },
-    {
       "text": "中基拼接模组和换电机",
       "date": "2026-09-21",
       "time": "",
@@ -3445,5 +3428,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/20 15:07:41"
+  "updateTime": "2026/9/20 15:08:03"
 }

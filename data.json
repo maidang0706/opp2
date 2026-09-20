@@ -3131,23 +3131,6 @@
       "id": "1788762241199-m3ms25"
     },
     {
-      "text": "做个对账应收表，把周一要汇报的格式写，预测表也搞个",
-      "date": "2026-09-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789052421634-15ofdu"
-    },
-    {
       "text": "workbuddy自动签到",
       "date": "2026-09-12",
       "time": "",
@@ -3234,7 +3217,7 @@
     },
     {
       "text": "中基李辉注油嘴问题",
-      "date": "2026-09-20",
+      "date": "2026-09-22",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3447,5 +3430,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/20 23:15:23"
+  "updateTime": "2026/9/20 23:15:59"
 }

@@ -3399,6 +3399,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789827000535-7bdezg"
+    },
+    {
+      "text": "中信",
+      "date": "2026-09-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789881901313-tui6oc"
     }
   ],
   "workList": [
@@ -3445,5 +3462,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/20 13:14:33"
+  "updateTime": "2026/9/20 13:25:02"
 }

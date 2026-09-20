@@ -3250,23 +3250,6 @@
       "id": "1789478366708-71tvbw"
     },
     {
-      "text": "寄中秋礼盒",
-      "date": "2026-09-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789813616351-szezpy"
-    },
-    {
       "text": "卓誉情况反馈",
       "date": "2026-09-21",
       "time": "",
@@ -3430,5 +3413,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/20 15:46:12"
+  "updateTime": "2026/9/20 15:46:23"
 }

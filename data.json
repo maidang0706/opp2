@@ -3367,6 +3367,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789881901313-tui6oc"
+    },
+    {
+      "text": "拜访聊天记录自动生成，然后统计信息归纳到相关的文件里面，客户的人员情况，项目情况，竞争对手情况等",
+      "date": "2026-09-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789917164705-794c8g"
     }
   ],
   "workList": [
@@ -3413,5 +3430,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/20 23:11:54"
+  "updateTime": "2026/9/20 23:12:45"
 }

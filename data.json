@@ -3271,23 +3271,6 @@
       "id": "1789826689309-y7mrwu"
     },
     {
-      "text": "中基拼接模组和换电机",
-      "date": "2026-09-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789826799884-lxbgf6"
-    },
-    {
       "text": "对账单情况",
       "date": "2026-09-20",
       "time": "",
@@ -3468,5 +3451,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/21 10:05:58"
+  "updateTime": "2026/9/21 10:44:02"
 }

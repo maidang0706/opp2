@@ -3405,6 +3405,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789956219686-6tlwmf"
+    },
+    {
+      "text": "中电鹏程",
+      "date": "2026-09-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789956351023-379wah"
     }
   ],
   "workList": [
@@ -3451,5 +3468,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/21 10:05:40"
+  "updateTime": "2026/9/21 10:05:51"
 }

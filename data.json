@@ -3290,8 +3290,8 @@
     {
       "text": "何建远培训",
       "date": "2026-09-22",
-      "time": "",
-      "isAllDay": true,
+      "time": "14:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3468,5 +3468,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/21 11:54:39"
+  "updateTime": "2026/9/21 11:56:26"
 }

@@ -3411,7 +3411,7 @@
       "date": "2026-09-21",
       "time": "",
       "isAllDay": true,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "low",
       "repeat": {
         "type": 0,
@@ -3468,5 +3468,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/21 10:05:51"
+  "updateTime": "2026/9/21 10:05:58"
 }

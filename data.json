@@ -3405,6 +3405,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789956351023-379wah"
+    },
+    {
+      "text": "HTML文件针对设备厂商搜寻信息，订单情况，营业额，相关新闻",
+      "date": "2026-09-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789962855537-drszxa"
     }
   ],
   "workList": [
@@ -3451,5 +3468,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/21 11:53:26"
+  "updateTime": "2026/9/21 11:54:16"
 }

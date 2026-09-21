@@ -3387,6 +3387,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789917201524-rzpoky"
+    },
+    {
+      "text": "回款和业绩",
+      "date": "2026-09-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1789956219686-6tlwmf"
     }
   ],
   "workList": [
@@ -3433,5 +3450,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/21 10:03:29"
+  "updateTime": "2026/9/21 10:03:40"
 }

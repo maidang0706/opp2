@@ -3439,6 +3439,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1790220439857-hn1ohw"
+    },
+    {
+      "text": "后面保护钢带下单都备注打孔和贴铁氟龙",
+      "date": "2026-09-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1790220457612-bt95kh"
     }
   ],
   "workList": [
@@ -3485,5 +3502,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/24 11:27:20"
+  "updateTime": "2026/9/24 11:27:38"
 }

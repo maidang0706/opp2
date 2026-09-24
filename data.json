@@ -3422,6 +3422,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1789962855537-drszxa"
+    },
+    {
+      "text": "中欣铁氟龙",
+      "date": "2026-09-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1790220439857-hn1ohw"
     }
   ],
   "workList": [
@@ -3468,5 +3485,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/24 11:27:09"
+  "updateTime": "2026/9/24 11:27:20"
 }

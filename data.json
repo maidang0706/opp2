@@ -3456,6 +3456,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1790220457612-bt95kh"
+    },
+    {
+      "text": "给民生卡电话",
+      "date": "2026-09-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1790441449229-tpvu1b"
     }
   ],
   "workList": [
@@ -3502,5 +3519,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/27 00:50:34"
+  "updateTime": "2026/9/27 00:50:50"
 }

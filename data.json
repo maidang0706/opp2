@@ -3385,7 +3385,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1790441449229-tpvu1b",
-      "isWeekTodo": false
+      "isWeekTodo": true
     },
     {
       "text": "汇艺发票",
@@ -3608,5 +3608,5 @@
       }
     ]
   },
-  "updateTime": "2026/9/27 21:00:21"
+  "updateTime": "2026/9/27 21:00:31"
 }

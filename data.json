@@ -3066,7 +3066,7 @@
     },
     {
       "text": "约葛超",
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3079,7 +3079,8 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1788700199751-lab7nf"
+      "id": "1788700199751-lab7nf",
+      "isWeekTodo": true
     },
     {
       "text": "捷佳伟创答复结果",
@@ -3168,7 +3169,7 @@
     },
     {
       "text": "四托",
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3181,7 +3182,8 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1789389767343-kdus5s"
+      "id": "1789389767343-kdus5s",
+      "isWeekTodo": true
     },
     {
       "text": "处理借用",
@@ -3575,5 +3577,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/9/27 17:43:01"
+  "updateTime": "2026/9/27 17:43:07"
 }

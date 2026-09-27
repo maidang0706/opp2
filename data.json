@@ -2633,23 +2633,6 @@
       "id": "1786929285362-gi1x0b"
     },
     {
-      "text": "问邹小军是什么项目",
-      "date": "2026-08-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786992552473-ira6sh"
-    },
-    {
       "text": "中基寄光电PNP出来",
       "date": "2026-08-19",
       "time": "",
@@ -2682,23 +2665,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1787150572541-gvwnvo"
-    },
-    {
-      "text": "精朗还读头",
-      "date": "2026-08-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787151245824-pykgf4"
     },
     {
       "text": "回顾迪尔泰舒总的谈话，记录内容，另外整理一份锂电行业的信息汇总表，可以做成HTML文件的形式",
@@ -3566,7 +3532,8 @@
     ],
     "2026-09-07": [],
     "2026-08-31": [],
-    "2026-08-24": []
+    "2026-08-24": [],
+    "2026-08-17": []
   },
-  "updateTime": "2026/9/27 22:37:12"
+  "updateTime": "2026/9/27 22:37:21"
 }

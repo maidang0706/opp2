@@ -3587,6 +3587,10 @@
   ],
   "otherList": [
     {
+      "text": "学会skill制作",
+      "done": false
+    },
+    {
       "text": "做一个自己的知识库",
       "done": false
     },
@@ -3646,5 +3650,5 @@
       }
     ]
   },
-  "updateTime": "2026/9/27 22:33:43"
+  "updateTime": "2026/9/27 22:34:02"
 }

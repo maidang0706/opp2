@@ -3272,7 +3272,7 @@
     },
     {
       "text": "何建远培训",
-      "date": "2026-09-22",
+      "date": "2026-09-29",
       "time": "14:00",
       "isAllDay": false,
       "isVisit": false,
@@ -3320,23 +3320,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789917164705-794c8g"
-    },
-    {
-      "text": "中基换电机和拼接模组，给工装",
-      "date": "2026-09-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789917201524-rzpoky"
     },
     {
       "text": "回款和业绩",
@@ -3485,5 +3468,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/27 14:15:10"
+  "updateTime": "2026/9/27 14:15:23"
 }

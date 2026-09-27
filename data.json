@@ -3522,6 +3522,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1790500220801-jb58fw"
+    },
+    {
+      "text": "石之杰给包装规范",
+      "date": "2026-09-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1790500263221-knbhyh"
     }
   ],
   "workList": [
@@ -3556,5 +3573,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/9/27 17:10:21"
+  "updateTime": "2026/9/27 17:11:04"
 }

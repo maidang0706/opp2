@@ -2927,27 +2927,6 @@
       "id": "1787882191550-xvf3a0"
     },
     {
-      "text": "山伯",
-      "date": "2026-08-27",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 2,
-        "days": [
-          27
-        ],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [
-        "2026-08-27"
-      ],
-      "id": "1787974715705-tos088"
-    },
-    {
       "text": "精智达半导体选型",
       "date": "2026-08-30",
       "time": "",
@@ -3468,5 +3447,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/27 14:15:54"
+  "updateTime": "2026/9/27 14:22:17"
 }

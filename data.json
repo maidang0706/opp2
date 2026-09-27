@@ -3488,6 +3488,23 @@
       "done": false,
       "onlyDone": [],
       "id": "1790499854186-2pji92"
+    },
+    {
+      "text": "问联赢报价情况",
+      "date": "2026-09-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1790499871947-83iuql"
     }
   ],
   "workList": [
@@ -3522,5 +3539,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/9/27 17:04:15"
+  "updateTime": "2026/9/27 17:04:32"
 }

@@ -2922,23 +2922,6 @@
       "id": "1787994774255-k73iiv"
     },
     {
-      "text": "做一个微信公众号，不是视频号的，结合关注的微信号推送当天的新闻动态。",
-      "date": "2026-08-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788013476097-mxpjmb"
-    },
-    {
       "text": "亿纬定子落实合同",
       "date": "2026-09-28",
       "time": "",
@@ -2990,23 +2973,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1788684758404-lglfd7"
-    },
-    {
-      "text": "精智达替换方案",
-      "date": "2026-09-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788684838910-h163qf"
     },
     {
       "text": "约葛超",
@@ -3599,7 +3565,8 @@
       }
     ],
     "2026-09-07": [],
-    "2026-08-31": []
+    "2026-08-31": [],
+    "2026-08-24": []
   },
-  "updateTime": "2026/9/27 22:36:59"
+  "updateTime": "2026/9/27 22:37:12"
 }

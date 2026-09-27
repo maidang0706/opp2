@@ -2928,7 +2928,7 @@
     },
     {
       "text": "捷佳伟创答复结果",
-      "date": "2026-09-21",
+      "date": "2026-09-28",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2941,7 +2941,8 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1788700643394-0vkorb"
+      "id": "1788700643394-0vkorb",
+      "isWeekTodo": false
     },
     {
       "text": "精智达选型",
@@ -3148,23 +3149,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789956351023-379wah"
-    },
-    {
-      "text": "HTML文件针对设备厂商搜寻信息，订单情况，营业额，相关新闻",
-      "date": "2026-09-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789962855537-drszxa"
     },
     {
       "text": "中欣铁氟龙",
@@ -3501,5 +3485,5 @@
     "2026-08-17": [],
     "2026-08-10": []
   },
-  "updateTime": "2026/9/27 22:41:23"
+  "updateTime": "2026/9/27 22:41:38"
 }

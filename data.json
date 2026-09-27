@@ -3439,12 +3439,12 @@
       "id": "1790499504742-ttw7rw"
     },
     {
-      "text": "精朗，汇艺，中欣，中基回款",
+      "text": "精朗，汇艺，中欣，中基，捷佳伟创回款",
       "date": "2026-09-28",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3505,5 +3505,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/9/27 17:00:31"
+  "updateTime": "2026/9/27 17:00:57"
 }

@@ -3569,15 +3569,15 @@
       "done": false
     },
     {
-      "text": "做一个交期表",
-      "done": true
-    },
-    {
       "text": "脚恢复让AI做个计划",
       "done": false
     }
   ],
   "otherList": [
+    {
+      "text": "做一个XM产品交期的HTML文件",
+      "done": false
+    },
     {
       "text": "拜访完客户了解的信息，如何整理到我的汇报表格里面，比如客户的组织架构，客户的年销售额，项目情况等",
       "done": false
@@ -3646,5 +3646,5 @@
       }
     ]
   },
-  "updateTime": "2026/9/27 22:35:29"
+  "updateTime": "2026/9/27 22:35:47"
 }

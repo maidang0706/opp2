@@ -2980,7 +2980,7 @@
     },
     {
       "text": "整理艾贝特费用",
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2993,7 +2993,8 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1788185482406-a1e82s"
+      "id": "1788185482406-a1e82s",
+      "isWeekTodo": true
     },
     {
       "text": "账单HTML文件完善，商机超过三个的可以折叠，",
@@ -3574,5 +3575,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/9/27 17:42:56"
+  "updateTime": "2026/9/27 17:43:01"
 }

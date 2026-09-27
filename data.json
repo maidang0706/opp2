@@ -3389,7 +3389,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1790220457612-bt95kh",
-      "isWeekTodo": false
+      "isWeekTodo": true
     },
     {
       "text": "给民生卡电话",
@@ -3606,5 +3606,5 @@
       }
     ]
   },
-  "updateTime": "2026/9/27 18:23:16"
+  "updateTime": "2026/9/27 18:23:22"
 }

@@ -2667,7 +2667,7 @@
       "id": "1787150572541-gvwnvo"
     },
     {
-      "text": "micc",
+      "text": "MLCC",
       "date": "2026-08-21",
       "time": "",
       "isAllDay": true,
@@ -2681,24 +2681,8 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1787202131543-iiyfjo"
-    },
-    {
-      "text": "卓誉线缆解决-跟晁总反馈25号瑞浦人去卓誉",
-      "date": "2026-08-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787214938193-86vzmw"
+      "id": "1787202131543-iiyfjo",
+      "isWeekTodo": false
     },
     {
       "text": "中基华钠驱动器维修",
@@ -3518,5 +3502,5 @@
     "2026-08-24": [],
     "2026-08-17": []
   },
-  "updateTime": "2026/9/27 22:37:27"
+  "updateTime": "2026/9/27 22:37:39"
 }

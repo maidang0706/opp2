@@ -3401,6 +3401,25 @@
       "done": false,
       "onlyDone": [],
       "id": "1790441449229-tpvu1b"
+    },
+    {
+      "text": "汇艺发票",
+      "date": "2026-09-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 2,
+        "days": [
+          19
+        ],
+        "start": "",
+        "end": ""
+      },
+      "done": false,
+      "onlyDone": [],
+      "id": "1790490987749-dg7e7m"
     }
   ],
   "workList": [
@@ -3435,5 +3454,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/9/27 14:35:55"
+  "updateTime": "2026/9/27 14:36:28"
 }

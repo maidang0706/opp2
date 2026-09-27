@@ -3204,7 +3204,7 @@
     },
     {
       "text": "中基李辉注油嘴问题",
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3217,7 +3217,8 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1789478366708-71tvbw"
+      "id": "1789478366708-71tvbw",
+      "isWeekTodo": true
     },
     {
       "text": "卓誉情况反馈",
@@ -3457,7 +3458,8 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1790499553946-ept4zy"
+      "id": "1790499553946-ept4zy",
+      "isWeekTodo": true
     },
     {
       "text": "中基下预测",
@@ -3577,5 +3579,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/9/27 17:43:07"
+  "updateTime": "2026/9/27 17:43:25"
 }

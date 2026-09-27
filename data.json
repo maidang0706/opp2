@@ -3288,23 +3288,6 @@
       "id": "1789826973283-kl735s"
     },
     {
-      "text": "精朗要的PDF",
-      "date": "2026-09-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789827000535-7bdezg"
-    },
-    {
       "text": "中信",
       "date": "2026-09-22",
       "time": "",
@@ -3502,5 +3485,5 @@
       "done": true
     }
   ],
-  "updateTime": "2026/9/27 14:15:04"
+  "updateTime": "2026/9/27 14:15:10"
 }

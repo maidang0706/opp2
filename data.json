@@ -2975,23 +2975,6 @@
       "isWeekTodo": true
     },
     {
-      "text": "账单HTML文件完善，商机超过三个的可以折叠，",
-      "date": "2026-09-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788580781998-fl877z"
-    },
-    {
       "text": "精朗补单",
       "date": "2026-09-22",
       "time": "",
@@ -3618,5 +3601,5 @@
     "2026-09-07": [],
     "2026-08-31": []
   },
-  "updateTime": "2026/9/27 22:36:50"
+  "updateTime": "2026/9/27 22:36:59"
 }

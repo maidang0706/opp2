@@ -2962,7 +2962,7 @@
     },
     {
       "text": "亿纬定子落实合同",
-      "date": "2026-09-29",
+      "date": "2026-09-28",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2975,7 +2975,8 @@
       },
       "done": false,
       "onlyDone": [],
-      "id": "1788185140569-ppo4w2"
+      "id": "1788185140569-ppo4w2",
+      "isWeekTodo": true
     },
     {
       "text": "整理艾贝特费用",
@@ -3573,5 +3574,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/9/27 17:42:41"
+  "updateTime": "2026/9/27 17:42:56"
 }

@@ -3581,20 +3581,20 @@
   ],
   "noteList": [
     {
-      "id": "1790502737145-5yml",
-      "text": "中基",
-      "done": false
-    },
-    {
       "id": "1790502748189-ie17",
       "text": "精智达",
-      "done": true
+      "done": false
     },
     {
       "id": "1790502745200-mpfd",
       "text": "精朗",
-      "done": true
+      "done": false
+    },
+    {
+      "id": "1790502737145-5yml",
+      "text": "中基",
+      "done": false
     }
   ],
-  "updateTime": "2026/9/27 17:53:33"
+  "updateTime": "2026/9/27 17:53:36"
 }

@@ -3095,23 +3095,6 @@
       "id": "1788762241199-m3ms25"
     },
     {
-      "text": "workbuddy自动签到",
-      "date": "2026-09-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789054448289-8mfbxu"
-    },
-    {
       "text": "中基要磁栅工装",
       "date": "2026-09-20",
       "time": "",
@@ -3651,5 +3634,5 @@
     ],
     "2026-09-07": []
   },
-  "updateTime": "2026/9/27 22:36:35"
+  "updateTime": "2026/9/27 22:36:40"
 }

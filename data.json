@@ -3332,24 +3332,6 @@
       "id": "1790512752429-xdkhhi"
     },
     {
-      "text": "cai",
-      "date": "2026-09-28",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1790516499579-or9qxe"
-    },
-    {
       "text": "华晟动定子价格给公司",
       "date": "2026-09-28",
       "time": "",
@@ -3568,5 +3550,5 @@
     "2026-08-17": [],
     "2026-08-10": []
   },
-  "updateTime": "2026/9/28 15:19:49"
+  "updateTime": "2026/9/28 15:19:58"
 }

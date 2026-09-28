@@ -3327,7 +3327,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1790512752429-xdkhhi"
     },
@@ -3435,7 +3435,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1790580017891-ywk2xu"
     }
@@ -3568,5 +3568,5 @@
     "2026-08-17": [],
     "2026-08-10": []
   },
-  "updateTime": "2026/9/28 15:22:40"
+  "updateTime": "2026/9/28 15:22:50"
 }

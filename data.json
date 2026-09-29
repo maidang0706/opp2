@@ -3280,24 +3280,6 @@
       "id": "1790499854186-2pji92"
     },
     {
-      "text": "问联赢报价情况",
-      "date": "2026-09-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1790499871947-83iuql",
-      "isWeekTodo": false
-    },
-    {
       "text": "石之杰给包装规范",
       "date": "2026-09-28",
       "time": "",
@@ -3313,24 +3295,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1790500263221-knbhyh"
-    },
-    {
-      "text": "中基报价",
-      "date": "2026-09-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1790561314660-h6uq3j"
     },
     {
       "text": "跟卓誉余总说瑞浦那边情况",
@@ -3533,5 +3497,5 @@
     "2026-08-17": [],
     "2026-08-10": []
   },
-  "updateTime": "2026/9/29 15:33:48"
+  "updateTime": "2026/9/29 15:33:55"
 }

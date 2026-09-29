@@ -3403,6 +3403,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1790695852555-b8t50m"
+    },
+    {
+      "text": "精朗付款",
+      "date": "2026-09-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1790695898825-a7po5d"
     }
   ],
   "workList": [
@@ -3528,5 +3546,5 @@
     "2026-08-17": [],
     "2026-08-10": []
   },
-  "updateTime": "2026/9/29 23:30:53"
+  "updateTime": "2026/9/29 23:31:39"
 }

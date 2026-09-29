@@ -3424,6 +3424,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1790696075043-9n22kf"
+    },
+    {
+      "text": "下单销借用客户：中基，誉昊，中欣",
+      "date": "2026-09-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1790696382713-52nyy4"
     }
   ],
   "workList": [
@@ -3549,5 +3567,5 @@
     "2026-08-17": [],
     "2026-08-10": []
   },
-  "updateTime": "2026/9/29 23:34:35"
+  "updateTime": "2026/9/29 23:39:43"
 }

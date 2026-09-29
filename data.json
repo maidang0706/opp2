@@ -2930,24 +2930,6 @@
       "isWeekTodo": true
     },
     {
-      "text": "捷佳伟创答复结果",
-      "date": "2026-09-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788700643394-0vkorb",
-      "isWeekTodo": false
-    },
-    {
       "text": "精智达选型",
       "date": "2026-09-21",
       "time": "",
@@ -3567,5 +3549,5 @@
     "2026-08-17": [],
     "2026-08-10": []
   },
-  "updateTime": "2026/9/29 23:33:18"
+  "updateTime": "2026/9/29 23:33:25"
 }

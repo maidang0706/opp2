@@ -3283,7 +3283,7 @@
     },
     {
       "text": "叁迪价格",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3388,6 +3388,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1790695910354-rz635q"
+    },
+    {
+      "text": "给APP电话",
+      "date": "2026-09-30",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1790696045488-tt6z6v"
     }
   ],
   "workList": [
@@ -3513,5 +3531,5 @@
     "2026-08-17": [],
     "2026-08-10": []
   },
-  "updateTime": "2026/9/29 23:33:42"
+  "updateTime": "2026/9/29 23:34:06"
 }

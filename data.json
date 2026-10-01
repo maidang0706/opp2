@@ -3474,10 +3474,6 @@
   ],
   "otherList": [
     {
-      "text": "学会skill制作",
-      "done": false
-    },
-    {
       "text": "优化对账应收HTML文件",
       "done": false
     },
@@ -3498,5 +3494,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/10/1 13:41:56"
+  "updateTime": "2026/10/1 13:42:09"
 }

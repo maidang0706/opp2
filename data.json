@@ -3442,6 +3442,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1790783503026-n6bntu"
+    },
+    {
+      "text": "客户合同，回传合同，订单交期，是否交货",
+      "date": "2026-10-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1790832135824-eu2zss"
     }
   ],
   "workList": [
@@ -3515,5 +3533,5 @@
   "noteList": {
     "2026-09-28": []
   },
-  "updateTime": "2026/10/1 13:21:39"
+  "updateTime": "2026/10/1 13:22:16"
 }

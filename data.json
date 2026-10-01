@@ -3474,10 +3474,6 @@
   ],
   "otherList": [
     {
-      "text": "优化对账应收HTML文件",
-      "done": false
-    },
-    {
       "text": "实现拜访客户录音，然后生成纪要的功能",
       "done": false
     },
@@ -3494,5 +3490,5 @@
       "done": false
     }
   ],
-  "updateTime": "2026/10/1 13:42:09"
+  "updateTime": "2026/10/1 13:42:23"
 }

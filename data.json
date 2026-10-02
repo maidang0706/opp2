@@ -2214,23 +2214,6 @@
       "id": "1784640957090-xwl1io"
     },
     {
-      "text": "博韬价格-查下现在给的什么折扣",
-      "date": "2026-08-08",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1784793774953-dfl8hh"
-    },
-    {
       "text": "盛鑫回款",
       "date": "2026-07-24",
       "time": "",
@@ -2484,23 +2467,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1786553349518-cym105"
-    },
-    {
-      "text": "把微信收藏的内容全部转到IMA里面",
-      "date": "2026-08-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786883059748-im4flb"
     },
     {
       "text": "内嵌产品要年底出来，储备内嵌模组的客户",
@@ -2938,6 +2904,11 @@
   ],
   "otherList": [
     {
+      "text": "把微信收藏的内容全部转到IMA里面",
+      "done": false,
+      "createdAt": 1790958091354
+    },
+    {
       "text": "想看的抖音视频号更新如何提醒？",
       "done": false,
       "createdAt": 1790958081774
@@ -2973,5 +2944,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:21:29"
+  "updateTime": "2026/10/3 00:21:40"
 }

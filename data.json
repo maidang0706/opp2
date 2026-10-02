@@ -2876,23 +2876,6 @@
       "id": "1788684758404-lglfd7"
     },
     {
-      "text": "精智达选型",
-      "date": "2026-09-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1788762241199-m3ms25"
-    },
-    {
       "text": "中基要磁栅工装",
       "date": "2026-09-20",
       "time": "",
@@ -2993,23 +2976,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789956219686-6tlwmf"
-    },
-    {
-      "text": "中电鹏程",
-      "date": "2026-09-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789956351023-379wah"
     },
     {
       "text": "中欣铁氟龙",
@@ -3177,6 +3143,16 @@
   ],
   "workList": [
     {
+      "text": "精智达选型",
+      "done": false,
+      "createdAt": 1790957982242
+    },
+    {
+      "text": "中电鹏程",
+      "done": false,
+      "createdAt": 1790957977083
+    },
+    {
       "text": "新客户：华亚，汉邦，奥德维，吉祥云，海天激光-王宏旭，精智达半导体，科瑞，中基赵志光选DDR的项目，中电鹏程",
       "done": false,
       "createdAt": 1790957974084
@@ -3249,5 +3225,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:19:34"
+  "updateTime": "2026/10/3 00:19:43"
 }

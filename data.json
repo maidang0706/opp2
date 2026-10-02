@@ -3444,7 +3444,13 @@
       "id": "1790832135824-eu2zss"
     }
   ],
-  "workList": [],
+  "workList": [
+    {
+      "text": "亿纬定子落实合同",
+      "done": false,
+      "createdAt": 1790957354313
+    }
+  ],
   "otherList": [
     {
       "text": "脚恢复让AI做个计划",
@@ -3452,5 +3458,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:08:57"
+  "updateTime": "2026/10/3 00:09:15"
 }

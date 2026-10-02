@@ -2893,40 +2893,6 @@
       "id": "1789297354007-ewvmph"
     },
     {
-      "text": "处理借用",
-      "date": "2026-09-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789390085464-wu69c7"
-    },
-    {
-      "text": "卓誉情况反馈",
-      "date": "2026-09-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789826682422-ly1nkm"
-    },
-    {
       "text": "对账单情况",
       "date": "2026-09-20",
       "time": "",
@@ -2959,23 +2925,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789881901313-tui6oc"
-    },
-    {
-      "text": "回款和业绩",
-      "date": "2026-09-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789956219686-6tlwmf"
     },
     {
       "text": "中欣铁氟龙",
@@ -3143,6 +3092,11 @@
   ],
   "workList": [
     {
+      "text": "处理借用",
+      "done": false,
+      "createdAt": 1790957994541
+    },
+    {
       "text": "精智达选型",
       "done": false,
       "createdAt": 1790957982242
@@ -3225,5 +3179,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:19:43"
+  "updateTime": "2026/10/3 00:19:55"
 }

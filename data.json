@@ -3046,24 +3046,6 @@
       "id": "1790220439857-hn1ohw"
     },
     {
-      "text": "给民生卡电话",
-      "date": "2026-09-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1790441449229-tpvu1b",
-      "isWeekTodo": true
-    },
-    {
       "text": "汇艺发票",
       "date": "2026-09-19",
       "time": "",
@@ -3210,24 +3192,6 @@
       "id": "1790695852555-b8t50m"
     },
     {
-      "text": "精朗付款",
-      "date": "2026-09-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1790695898825-a7po5d"
-    },
-    {
       "text": "精朗清研项目",
       "date": "2026-09-30",
       "time": "",
@@ -3347,6 +3311,11 @@
   ],
   "otherList": [
     {
+      "text": "给民生卡电话",
+      "done": false,
+      "createdAt": 1790957924737
+    },
+    {
       "text": "四托",
       "done": false,
       "createdAt": 1790957914682
@@ -3357,5 +3326,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:18:42"
+  "updateTime": "2026/10/3 00:18:56"
 }

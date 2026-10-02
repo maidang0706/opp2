@@ -3451,6 +3451,12 @@
       "createdAt": 1790957296940
     }
   ],
-  "otherList": [],
-  "updateTime": "2026/10/3 00:08:43"
+  "otherList": [
+    {
+      "text": "脚恢复让AI做个计划",
+      "done": false,
+      "createdAt": 1790957327950
+    }
+  ],
+  "updateTime": "2026/10/3 00:08:48"
 }

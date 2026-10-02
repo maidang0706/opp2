@@ -2843,23 +2843,6 @@
       "id": "1787994774255-k73iiv"
     },
     {
-      "text": "对账单情况",
-      "date": "2026-09-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789826887206-ml6g9d"
-    },
-    {
       "text": "汇艺发票",
       "date": "2026-09-19",
       "time": "",
@@ -3101,5 +3084,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:20:36"
+  "updateTime": "2026/10/3 00:20:42"
 }

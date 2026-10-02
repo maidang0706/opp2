@@ -2843,23 +2843,6 @@
       "id": "1787994774255-k73iiv"
     },
     {
-      "text": "中基要磁栅工装",
-      "date": "2026-09-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1789297354007-ewvmph"
-    },
-    {
       "text": "对账单情况",
       "date": "2026-09-20",
       "time": "",
@@ -2872,7 +2855,7 @@
         "start": "",
         "end": ""
       },
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1789826887206-ml6g9d"
     },
@@ -3118,5 +3101,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:20:26"
+  "updateTime": "2026/10/3 00:20:36"
 }

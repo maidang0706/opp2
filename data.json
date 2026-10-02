@@ -2927,24 +2927,6 @@
       "id": "1789303461804-m25eo9"
     },
     {
-      "text": "四托",
-      "date": "2026-09-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789389767343-kdus5s",
-      "isWeekTodo": true
-    },
-    {
       "text": "处理借用",
       "date": "2026-09-22",
       "time": "",
@@ -2960,24 +2942,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1789390085464-wu69c7"
-    },
-    {
-      "text": "中基李辉注油嘴问题",
-      "date": "2026-09-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789478366708-71tvbw",
-      "isWeekTodo": true
     },
     {
       "text": "卓誉情况反馈",
@@ -3080,24 +3044,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1790220439857-hn1ohw"
-    },
-    {
-      "text": "后面保护钢带下单都备注打孔和贴铁氟龙",
-      "date": "2026-09-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1790220457612-bt95kh",
-      "isWeekTodo": true
     },
     {
       "text": "给民生卡电话",
@@ -3374,6 +3320,16 @@
   ],
   "workList": [
     {
+      "text": "后面保护钢带下单都备注打孔和贴铁氟龙",
+      "done": false,
+      "createdAt": 1790957921801
+    },
+    {
+      "text": "中基李辉注油嘴问题",
+      "done": false,
+      "createdAt": 1790957918154
+    },
+    {
       "text": "约葛超",
       "done": false,
       "createdAt": 1790957912071
@@ -3391,10 +3347,15 @@
   ],
   "otherList": [
     {
+      "text": "四托",
+      "done": false,
+      "createdAt": 1790957914682
+    },
+    {
       "text": "脚恢复让AI做个计划",
       "done": false,
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:18:32"
+  "updateTime": "2026/10/3 00:18:42"
 }

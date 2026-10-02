@@ -3084,24 +3084,6 @@
       "id": "1790499854186-2pji92"
     },
     {
-      "text": "石之杰给包装规范",
-      "date": "2026-09-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1790500263221-knbhyh",
-      "isWeekTodo": false
-    },
-    {
       "text": "叁迪价格",
       "date": "2026-09-30",
       "time": "",
@@ -3154,24 +3136,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1790695674414-9m1oes"
-    },
-    {
-      "text": "中基孙超注油嘴干涉问题",
-      "date": "2026-09-30",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1790695852555-b8t50m"
     },
     {
       "text": "精朗清研项目",
@@ -3248,6 +3212,16 @@
   ],
   "workList": [
     {
+      "text": "中基孙超注油嘴干涉问题",
+      "done": false,
+      "createdAt": 1790957953699
+    },
+    {
+      "text": "石之杰给包装规范",
+      "done": false,
+      "createdAt": 1790957947784
+    },
+    {
       "text": "精智达维修动子",
       "done": false,
       "createdAt": 1790957944996
@@ -3300,5 +3274,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:19:05"
+  "updateTime": "2026/10/3 00:19:14"
 }

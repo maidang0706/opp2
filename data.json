@@ -2910,23 +2910,6 @@
       "id": "1789297354007-ewvmph"
     },
     {
-      "text": "新客户：华亚，汉邦，奥德维，吉祥云，海天激光-王宏旭，精智达半导体，科瑞，中基赵志光选DDR的项目，中电鹏程",
-      "date": "2026-09-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789303461804-m25eo9"
-    },
-    {
       "text": "处理借用",
       "date": "2026-09-22",
       "time": "",
@@ -3190,27 +3173,19 @@
       "done": false,
       "onlyDone": [],
       "id": "1790696382713-52nyy4"
-    },
-    {
-      "text": "客户合同转到workbuddy-回传合同，订单交期，是否交货",
-      "date": "2026-10-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1790832135824-eu2zss"
     }
   ],
   "workList": [
+    {
+      "text": "新客户：华亚，汉邦，奥德维，吉祥云，海天激光-王宏旭，精智达半导体，科瑞，中基赵志光选DDR的项目，中电鹏程",
+      "done": false,
+      "createdAt": 1790957974084
+    },
+    {
+      "text": "客户合同转到workbuddy-回传合同，订单交期，是否交货",
+      "done": false,
+      "createdAt": 1790957959577
+    },
     {
       "text": "中基孙超注油嘴干涉问题",
       "done": false,
@@ -3274,5 +3249,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:19:14"
+  "updateTime": "2026/10/3 00:19:34"
 }

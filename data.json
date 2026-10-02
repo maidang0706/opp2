@@ -2655,24 +2655,6 @@
       "id": "1787150572541-gvwnvo"
     },
     {
-      "text": "MLCC",
-      "date": "2026-08-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1787202131543-iiyfjo",
-      "isWeekTodo": false
-    },
-    {
       "text": "中基华钠驱动器维修",
       "date": "2026-08-28",
       "time": "",
@@ -2975,6 +2957,11 @@
   ],
   "workList": [
     {
+      "text": "MLCC",
+      "done": false,
+      "createdAt": 1790958057378
+    },
+    {
       "text": "玻璃基板，tgv，玻璃桥，东莞粤智能-镜头组装，华阳精机，中航名录9月份初确认,瑞声深圳做AA机，讯强电子",
       "done": false,
       "createdAt": 1790958015674
@@ -3067,5 +3054,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:20:50"
+  "updateTime": "2026/10/3 00:20:58"
 }

@@ -2384,23 +2384,6 @@
       "id": "1785221757588-e6rfh3"
     },
     {
-      "text": "申请售后物料的时候有时候会申请错怎么避免？",
-      "date": "2026-07-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1785294097409-2weql1"
-    },
-    {
       "text": "精智达建商机",
       "date": "2026-07-30",
       "time": "",
@@ -2822,6 +2805,11 @@
   ],
   "workList": [
     {
+      "text": "申请售后物料的时候有时候会申请错怎么避免？",
+      "done": false,
+      "createdAt": 1790958108291
+    },
+    {
       "text": "把驱动器资料存到IMA，用WORKBUDDY调用",
       "done": false,
       "createdAt": 1790958073426
@@ -2944,5 +2932,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:21:40"
+  "updateTime": "2026/10/3 00:21:49"
 }

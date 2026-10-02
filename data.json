@@ -2859,23 +2859,6 @@
       "id": "1787994774255-k73iiv"
     },
     {
-      "text": "精朗补单",
-      "date": "2026-09-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": true,
-      "onlyDone": [],
-      "id": "1788684758404-lglfd7"
-    },
-    {
       "text": "中基要磁栅工装",
       "date": "2026-09-20",
       "time": "",
@@ -2908,23 +2891,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1789826887206-ml6g9d"
-    },
-    {
-      "text": "中信",
-      "date": "2026-09-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1789881901313-tui6oc"
     },
     {
       "text": "中欣铁氟龙",
@@ -3179,5 +3145,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:19:55"
+  "updateTime": "2026/10/3 00:20:05"
 }

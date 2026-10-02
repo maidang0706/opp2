@@ -3390,24 +3390,6 @@
       "id": "1790696382713-52nyy4"
     },
     {
-      "text": "中基，联赢",
-      "date": "2026-09-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1790783503026-n6bntu"
-    },
-    {
       "text": "客户合同转到workbuddy-回传合同，订单交期，是否交货",
       "date": "2026-10-01",
       "time": "",
@@ -3431,11 +3413,6 @@
       "text": "亿纬定子落实合同",
       "done": false,
       "createdAt": 1790957889322
-    },
-    {
-      "text": "亿纬定子落实合同",
-      "done": false,
-      "createdAt": 1790957354313
     }
   ],
   "otherList": [
@@ -3445,5 +3422,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:18:10"
+  "updateTime": "2026/10/3 00:18:25"
 }

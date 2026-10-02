@@ -2452,23 +2452,6 @@
       "id": "1785952702133-g953d0"
     },
     {
-      "text": "想看的抖音视频号更新如何提醒？",
-      "date": "2026-08-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786319048146-kngkwx"
-    },
-    {
       "text": "安排叁迪发货",
       "date": "2026-08-18",
       "time": "",
@@ -2501,23 +2484,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1786553349518-cym105"
-    },
-    {
-      "text": "完善里程计算表格功能",
-      "date": "2026-08-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1786871057303-hgkei5"
     },
     {
       "text": "把微信收藏的内容全部转到IMA里面",
@@ -2972,6 +2938,11 @@
   ],
   "otherList": [
     {
+      "text": "想看的抖音视频号更新如何提醒？",
+      "done": false,
+      "createdAt": 1790958081774
+    },
+    {
       "text": "竞争对手的公众号信息第一时间获取如何实现",
       "done": false,
       "createdAt": 1790958070357
@@ -3002,5 +2973,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/3 00:21:16"
+  "updateTime": "2026/10/3 00:21:29"
 }

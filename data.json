@@ -2841,6 +2841,11 @@
       "createdAt": 1790957974084
     },
     {
+      "text": "客户合同转到workbuddy-回传合同，订单交期，是否交货",
+      "done": false,
+      "createdAt": 1790957959577
+    },
+    {
       "text": "中基孙超注油嘴干涉问题",
       "done": false,
       "createdAt": 1790957953699
@@ -2879,14 +2884,14 @@
       "text": "亿纬定子落实合同",
       "done": false,
       "createdAt": 1790957889322
-    },
-    {
-      "text": "客户合同转到workbuddy-回传合同，订单交期，是否交货",
-      "done": true,
-      "createdAt": 1790957959577
     }
   ],
   "otherList": [
+    {
+      "text": "客户合同转到workbuddy-回传合同，订单交期，是否交货",
+      "done": false,
+      "createdAt": 1791127841341
+    },
     {
       "text": "如何实现客户给了合同，添加到ima知识库以后，自动帮我整理到HTML文件里面去",
       "done": false,
@@ -2933,5 +2938,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/4 23:30:29"
+  "updateTime": "2026/10/4 23:30:42"
 }

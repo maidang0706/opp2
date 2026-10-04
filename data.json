@@ -2806,11 +2806,6 @@
   ],
   "workList": [
     {
-      "text": "申请售后物料的时候有时候会申请错怎么避免？",
-      "done": false,
-      "createdAt": 1790958108291
-    },
-    {
       "text": "把驱动器资料存到IMA，用WORKBUDDY调用",
       "done": false,
       "createdAt": 1790958073426
@@ -2884,6 +2879,11 @@
       "text": "亿纬定子落实合同",
       "done": false,
       "createdAt": 1790957889322
+    },
+    {
+      "text": "申请售后物料的时候有时候会申请错怎么避免？",
+      "done": true,
+      "createdAt": 1790958108291
     }
   ],
   "otherList": [
@@ -2933,5 +2933,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/4 23:03:08"
+  "updateTime": "2026/10/4 23:03:13"
 }

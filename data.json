@@ -2813,11 +2813,6 @@
       "createdAt": 1790957994541
     },
     {
-      "text": "精智达选型",
-      "done": false,
-      "createdAt": 1790957982242
-    },
-    {
       "text": "中电鹏程",
       "done": false,
       "createdAt": 1790957977083
@@ -2871,6 +2866,11 @@
       "text": "亿纬定子落实合同",
       "done": false,
       "createdAt": 1790957889322
+    },
+    {
+      "text": "精智达选型",
+      "done": true,
+      "createdAt": 1790957982242
     }
   ],
   "otherList": [
@@ -2920,5 +2920,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/4 23:02:07"
+  "updateTime": "2026/10/4 23:02:45"
 }

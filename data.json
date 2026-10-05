@@ -2883,11 +2883,6 @@
   ],
   "otherList": [
     {
-      "text": "客户合同转到workbuddy-回传合同，订单交期，是否交货",
-      "done": false,
-      "createdAt": 1791127841341
-    },
-    {
       "text": "把微信收藏的内容全部转到IMA里面",
       "done": false,
       "createdAt": 1790958091354
@@ -2928,5 +2923,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/5 23:16:56"
+  "updateTime": "2026/10/5 23:17:04"
 }

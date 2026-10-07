@@ -2928,6 +2928,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791375855602-paav1m"
+    },
+    {
+      "text": "汇艺陈工模组跑不了速度报警",
+      "date": "2026-10-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791375884721-dp0z9g"
     }
   ],
   "workList": [
@@ -3047,5 +3065,5 @@
   "noteList": {
     "2026-10-05": []
   },
-  "updateTime": "2026/10/7 20:24:16"
+  "updateTime": "2026/10/7 20:24:45"
 }

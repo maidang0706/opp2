@@ -2910,6 +2910,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791375831931-5ctdhr"
+    },
+    {
+      "text": "报销",
+      "date": "2026-10-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791375855602-paav1m"
     }
   ],
   "workList": [
@@ -3029,5 +3047,5 @@
   "noteList": {
     "2026-10-05": []
   },
-  "updateTime": "2026/10/7 20:23:52"
+  "updateTime": "2026/10/7 20:24:16"
 }

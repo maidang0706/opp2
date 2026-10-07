@@ -2874,6 +2874,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791360233125-xh5lx4"
+    },
+    {
+      "text": "中基申请驱动器LDHD2",
+      "date": "2026-10-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791375524382-hpnw2w"
     }
   ],
   "workList": [
@@ -2990,5 +3008,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/7 20:18:32"
+  "updateTime": "2026/10/7 20:18:45"
 }

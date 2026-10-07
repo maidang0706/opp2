@@ -2856,6 +2856,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791355539248-tdq0y6"
+    },
+    {
+      "text": "精智达现场安排拼接",
+      "date": "2026-10-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791360233125-xh5lx4"
     }
   ],
   "workList": [
@@ -2972,5 +2990,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/7 16:03:41"
+  "updateTime": "2026/10/7 16:03:53"
 }

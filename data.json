@@ -2964,6 +2964,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791375963461-ouridm"
+    },
+    {
+      "text": "襄阳中基注油嘴问题",
+      "date": "2026-10-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791376020253-s53ub1"
     }
   ],
   "workList": [
@@ -3083,5 +3101,5 @@
   "noteList": {
     "2026-10-05": []
   },
-  "updateTime": "2026/10/7 20:26:04"
+  "updateTime": "2026/10/7 20:27:01"
 }

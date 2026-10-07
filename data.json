@@ -2892,6 +2892,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791375524382-hpnw2w"
+    },
+    {
+      "text": "精朗报价",
+      "date": "2026-10-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791375831931-5ctdhr"
     }
   ],
   "workList": [
@@ -3011,5 +3029,5 @@
   "noteList": {
     "2026-10-05": []
   },
-  "updateTime": "2026/10/7 20:23:39"
+  "updateTime": "2026/10/7 20:23:52"
 }

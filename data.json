@@ -2802,6 +2802,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791126180663-fbk0v1"
+    },
+    {
+      "text": "中欣模组速度达不到",
+      "date": "2026-10-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791353723583-6fwtjb"
     }
   ],
   "workList": [
@@ -2918,5 +2936,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/7 14:15:09"
+  "updateTime": "2026/10/7 14:15:24"
 }

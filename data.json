@@ -2771,7 +2771,7 @@
     },
     {
       "text": "下单销借用客户：中基，誉昊，中欣",
-      "date": "2026-09-28",
+      "date": "2026-10-05",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2782,7 +2782,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1790696382713-52nyy4"
@@ -3100,5 +3100,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/8 09:46:25"
+  "updateTime": "2026/10/8 09:46:39"
 }

@@ -2992,6 +2992,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791436194995-6yxya3"
+    },
+    {
+      "text": "精朗要端子",
+      "date": "2026-10-08",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791440163244-3x6055"
     }
   ],
   "workList": [
@@ -3111,5 +3129,5 @@
   "noteList": {
     "2026-10-05": []
   },
-  "updateTime": "2026/10/8 14:15:33"
+  "updateTime": "2026/10/8 14:16:04"
 }

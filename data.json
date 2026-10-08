@@ -2689,7 +2689,7 @@
     },
     {
       "text": "艾文退霍尔",
-      "date": "2026-10-08",
+      "date": "2026-10-05",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2700,7 +2700,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1790695674414-9m1oes"
@@ -3090,5 +3090,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/8 13:09:28"
+  "updateTime": "2026/10/8 13:09:37"
 }

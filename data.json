@@ -2974,6 +2974,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791436138503-epc90u"
+    },
+    {
+      "text": "中基，誉昊",
+      "date": "2026-10-05",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791436194995-6yxya3"
     }
   ],
   "workList": [
@@ -3090,5 +3108,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/8 13:09:37"
+  "updateTime": "2026/10/8 13:09:55"
 }

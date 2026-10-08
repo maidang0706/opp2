@@ -2071,23 +2071,6 @@
       "id": "1783830345487-kqq5i4"
     },
     {
-      "text": "誉辰，捷佳伟创，誉昊，精朗款",
-      "date": "2026-07-20",
-      "time": "15:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "done": false,
-      "onlyDone": [],
-      "id": "1783860451919-uoojbp"
-    },
-    {
       "text": "瑞浦9月份有三条线",
       "date": "2026-07-13",
       "time": "",
@@ -3105,5 +3088,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/8 09:47:11"
+  "updateTime": "2026/10/8 09:47:17"
 }

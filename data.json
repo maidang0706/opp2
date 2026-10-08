@@ -2941,7 +2941,7 @@
     },
     {
       "text": "襄阳中基注油嘴问题",
-      "date": "2026-10-08",
+      "date": "2026-10-05",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -2952,7 +2952,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1791376020253-s53ub1"
@@ -3090,5 +3090,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/8 13:09:18"
+  "updateTime": "2026/10/8 13:09:28"
 }

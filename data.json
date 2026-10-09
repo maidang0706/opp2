@@ -3046,6 +3046,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791536835492-ej94ph"
+    },
+    {
+      "text": "精朗申请端子",
+      "date": "2026-10-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791536903494-szggpj"
     }
   ],
   "workList": [
@@ -3162,5 +3180,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/9 17:07:16"
+  "updateTime": "2026/10/9 17:08:24"
 }

@@ -3031,7 +3031,7 @@
     },
     {
       "text": "交报销",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3082,6 +3082,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791560581145-76h2g0"
+    },
+    {
+      "text": "亿纬发报价",
+      "date": "2026-10-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791560629906-kmhcm5"
     }
   ],
   "workList": [
@@ -3198,5 +3216,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/9 23:43:19"
+  "updateTime": "2026/10/9 23:43:50"
 }

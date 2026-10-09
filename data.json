@@ -3118,6 +3118,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791560648135-fx4bwq"
+    },
+    {
+      "text": "精智达要绝对值磁栅3D",
+      "date": "2026-10-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791560662697-h5whxc"
     }
   ],
   "workList": [
@@ -3234,5 +3252,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/9 23:44:08"
+  "updateTime": "2026/10/9 23:44:23"
 }

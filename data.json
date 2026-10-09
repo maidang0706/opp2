@@ -3010,6 +3010,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791440163244-3x6055"
+    },
+    {
+      "text": "精朗换12A驱动器，要伺易的报告",
+      "date": "2026-10-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791536804667-w21t8b"
     }
   ],
   "workList": [
@@ -3126,5 +3144,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/9 17:06:04"
+  "updateTime": "2026/10/9 17:06:45"
 }

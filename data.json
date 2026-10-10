@@ -3118,6 +3118,24 @@
       "done": true,
       "onlyDone": [],
       "id": "1791560662697-h5whxc"
+    },
+    {
+      "text": "整理中基的选型资料",
+      "date": "2026-10-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791600020504-8hgur6"
     }
   ],
   "workList": [
@@ -3234,5 +3252,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/10 10:27:15"
+  "updateTime": "2026/10/10 10:40:21"
 }

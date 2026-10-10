@@ -3043,7 +3043,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791536903494-szggpj"
     },
@@ -3133,7 +3133,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791600020504-8hgur6"
     }
@@ -3252,5 +3252,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/10 11:46:29"
+  "updateTime": "2026/10/10 12:05:16"
 }

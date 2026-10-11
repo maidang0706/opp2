@@ -3136,6 +3136,24 @@
       "done": true,
       "onlyDone": [],
       "id": "1791600020504-8hgur6"
+    },
+    {
+      "text": "中欣李工EL210-50-M6X2-L6120-B-ZXKJ-260152的3D",
+      "date": "2026-10-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791721390862-swwz9l"
     }
   ],
   "workList": [
@@ -3252,5 +3270,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/11 20:21:26"
+  "updateTime": "2026/10/11 20:23:11"
 }

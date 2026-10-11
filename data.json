@@ -3173,6 +3173,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791721893530-1zkvas"
+    },
+    {
+      "text": "精智达拼接",
+      "date": "2026-10-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791724070756-7kob63"
     }
   ],
   "workList": [
@@ -3289,5 +3307,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/11 21:07:39"
+  "updateTime": "2026/10/11 21:07:51"
 }

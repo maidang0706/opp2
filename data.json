@@ -3140,42 +3140,6 @@
       "id": "1791600020504-8hgur6"
     },
     {
-      "text": "中欣李工EL210-50-M6X2-L6120-B-ZXKJ-260152的3D",
-      "date": "2026-10-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1791721390862-swwz9l"
-    },
-    {
-      "text": "深圳誉辰对账应收不对",
-      "date": "2026-10-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1791721893530-1zkvas"
-    },
-    {
       "text": "精智达拼接",
       "date": "2026-10-17",
       "time": "",
@@ -3192,24 +3156,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1791724070756-7kob63"
-    },
-    {
-      "text": "中基线缆不匹配",
-      "date": "2026-10-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1791724087071-c44gzb"
     },
     {
       "text": "问艾贝特费用",
@@ -3632,5 +3578,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 22:00:34"
+  "updateTime": "2026/10/13 22:00:48"
 }

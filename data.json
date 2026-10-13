@@ -3264,6 +3264,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791896803579-zzh3no"
+    },
+    {
+      "text": "刘世京更新3D给他，要做非标孔",
+      "date": "2026-10-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791896843522-4s3fop"
     }
   ],
   "workList": [
@@ -3380,5 +3398,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 21:06:44"
+  "updateTime": "2026/10/13 21:07:24"
 }

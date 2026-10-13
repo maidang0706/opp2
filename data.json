@@ -3516,6 +3516,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791899551257-73oxw8"
+    },
+    {
+      "text": "精朗退回伺易10A的驱动器",
+      "date": "2026-10-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791899795911-om4227"
     }
   ],
   "workList": [
@@ -3632,5 +3650,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 21:54:54"
+  "updateTime": "2026/10/13 21:56:36"
 }

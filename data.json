@@ -3282,6 +3282,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791896843522-4s3fop"
+    },
+    {
+      "text": "汇艺对账单问题",
+      "date": "2026-10-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791896952059-to5nkd"
     }
   ],
   "workList": [
@@ -3398,5 +3416,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 21:07:24"
+  "updateTime": "2026/10/13 21:09:12"
 }

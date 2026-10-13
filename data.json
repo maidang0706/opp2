@@ -3356,24 +3356,6 @@
       "id": "1791898035653-6fmhpq"
     },
     {
-      "text": "襄阳中基栅尺",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1791898044461-0qv4cy"
-    },
-    {
       "text": "光栅尺工装3D",
       "date": "2026-10-14",
       "time": "",
@@ -3429,7 +3411,7 @@
     },
     {
       "text": "借用明细",
-      "date": "2026-10-14",
+      "date": "2026-10-12",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3440,7 +3422,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1791899551257-73oxw8"
@@ -3578,5 +3560,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 22:00:48"
+  "updateTime": "2026/10/13 22:01:01"
 }

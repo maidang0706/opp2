@@ -3325,7 +3325,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3506,5 +3506,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 22:03:07"
+  "updateTime": "2026/10/13 22:03:19"
 }

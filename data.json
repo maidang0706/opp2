@@ -3266,25 +3266,7 @@
       "id": "1791897331273-tddntv"
     },
     {
-      "text": "中基杨瑛用老模组型号，3动子的行程不对",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1791897361024-yw0yyr"
-    },
-    {
-      "text": "深圳中基：杨瑛3动子图纸不对，问刘成，赵志光模组价格答复",
+      "text": "深圳中基：杨瑛3动子图纸不对，问刘成，赵志光模组价格答复，刘世京更新3D给他，要做非标孔",
       "date": "2026-10-14",
       "time": "",
       "isAllDay": true,
@@ -3300,24 +3282,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1791897481296-bku879"
-    },
-    {
-      "text": "中基赵志光模组价格申请",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1791897588438-agwxis"
     },
     {
       "text": "精朗孙岩松订单",
@@ -3560,5 +3524,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 22:02:20"
+  "updateTime": "2026/10/13 22:02:49"
 }

@@ -3444,6 +3444,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791898044461-0qv4cy"
+    },
+    {
+      "text": "光栅尺工装3D",
+      "date": "2026-10-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791898068557-4k0cqt"
     }
   ],
   "workList": [
@@ -3560,5 +3578,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 21:27:25"
+  "updateTime": "2026/10/13 21:27:49"
 }

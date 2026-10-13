@@ -3390,6 +3390,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791899795911-om4227"
+    },
+    {
+      "text": "EL170-50-M3X3-L4200-B-ZJ-260153给刘成3D",
+      "date": "2026-10-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791901370828-8h3xpo"
     }
   ],
   "workList": [
@@ -3506,5 +3524,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 22:22:44"
+  "updateTime": "2026/10/13 22:23:29"
 }

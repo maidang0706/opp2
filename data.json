@@ -3390,6 +3390,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791897888107-rtweh8"
+    },
+    {
+      "text": "誉昊黄总大理石报价，让易胜德询价",
+      "date": "2026-10-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791898003640-d7bvd8"
     }
   ],
   "workList": [
@@ -3506,5 +3524,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 21:24:48"
+  "updateTime": "2026/10/13 21:26:44"
 }

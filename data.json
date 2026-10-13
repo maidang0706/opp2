@@ -3462,6 +3462,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791898068557-4k0cqt"
+    },
+    {
+      "text": "中基何元中申请光电开关和光电开关座",
+      "date": "2026-10-13",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1791898605561-46l25p"
     }
   ],
   "workList": [
@@ -3578,5 +3596,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/13 21:27:49"
+  "updateTime": "2026/10/13 21:36:46"
 }

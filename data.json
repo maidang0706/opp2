@@ -3261,7 +3261,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791897481296-bku879"
     },
@@ -3542,5 +3542,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/14 16:41:18"
+  "updateTime": "2026/10/14 16:57:34"
 }

@@ -3243,7 +3243,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791897331273-tddntv"
     },
@@ -3545,5 +3545,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/14 10:08:28"
+  "updateTime": "2026/10/14 10:08:43"
 }

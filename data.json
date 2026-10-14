@@ -3189,7 +3189,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791896768250-hfmlwz"
     },
@@ -3545,5 +3545,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/14 10:02:36"
+  "updateTime": "2026/10/14 10:08:28"
 }

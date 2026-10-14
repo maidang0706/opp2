@@ -3266,7 +3266,7 @@
       "id": "1791897481296-bku879"
     },
     {
-      "text": "精朗孙岩松订单",
+      "text": "精朗孙岩松订单，选择晚上再确认一下",
       "date": "2026-10-14",
       "time": "",
       "isAllDay": true,
@@ -3279,7 +3279,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1791897888107-rtweh8"
     },
@@ -3542,5 +3542,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/14 16:39:16"
+  "updateTime": "2026/10/14 16:39:36"
 }

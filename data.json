@@ -3315,7 +3315,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791898068557-4k0cqt"
     },
@@ -3405,7 +3405,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791901370828-8h3xpo"
     },
@@ -3545,5 +3545,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/14 09:58:44"
+  "updateTime": "2026/10/14 10:02:36"
 }

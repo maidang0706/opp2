@@ -3498,6 +3498,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792076797548-3l0gpi"
+    },
+    {
+      "text": "给汉彬发精朗报告",
+      "date": "2026-10-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792076916241-amx43g"
     }
   ],
   "workList": [
@@ -3614,5 +3632,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 23:06:38"
+  "updateTime": "2026/10/15 23:08:37"
 }

@@ -3176,24 +3176,6 @@
       "id": "1791724099601-7jwrbq"
     },
     {
-      "text": "中欣：李工说模组矮了2mm",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1791896768250-hfmlwz"
-    },
-    {
       "text": "誉昊：黄总问孔位全了没，大理石报价，让易胜德询价",
       "date": "2026-10-14",
       "time": "",
@@ -3650,5 +3632,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 21:09:39"
+  "updateTime": "2026/10/15 21:09:57"
 }

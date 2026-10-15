@@ -3230,24 +3230,6 @@
       "id": "1791898035653-6fmhpq"
     },
     {
-      "text": "博杰：光栅尺工装3D",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1791898068557-4k0cqt"
-    },
-    {
       "text": "中基何元中申请光电开关和光电开关座",
       "date": "2026-10-13",
       "time": "",
@@ -3318,24 +3300,6 @@
       "done": true,
       "onlyDone": [],
       "id": "1791899795911-om4227"
-    },
-    {
-      "text": "EL170-50-M3X3-L4200-B-ZJ-260153给刘成3D",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1791901370828-8h3xpo"
     },
     {
       "text": "誉昊价格发邮件",
@@ -3462,6 +3426,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792069778819-8zgwvi"
+    },
+    {
+      "text": "对账单",
+      "date": "2026-10-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792069817432-qt7z34"
     }
   ],
   "workList": [
@@ -3578,5 +3560,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 21:10:06"
+  "updateTime": "2026/10/15 21:10:18"
 }

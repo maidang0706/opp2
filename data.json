@@ -3444,6 +3444,24 @@
       "done": true,
       "onlyDone": [],
       "id": "1792053914071-ka1qmc"
+    },
+    {
+      "text": "问中基金龙羽项目情况",
+      "date": "2026-10-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792068858088-axpx4u"
     }
   ],
   "workList": [
@@ -3560,5 +3578,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 20:54:00"
+  "updateTime": "2026/10/15 20:54:18"
 }

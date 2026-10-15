@@ -3225,7 +3225,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791898035653-6fmhpq"
     },
@@ -3596,5 +3596,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 22:49:36"
+  "updateTime": "2026/10/15 22:49:45"
 }

@@ -3516,6 +3516,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792069166588-gzls3d"
+    },
+    {
+      "text": "消耗中基库存模组",
+      "date": "2026-10-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792069778819-8zgwvi"
     }
   ],
   "workList": [
@@ -3632,5 +3650,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 20:59:27"
+  "updateTime": "2026/10/15 21:09:39"
 }

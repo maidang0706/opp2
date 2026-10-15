@@ -3462,6 +3462,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792068858088-axpx4u"
+    },
+    {
+      "text": "鼎泰威",
+      "date": "2026-10-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792068962342-16mu38"
     }
   ],
   "workList": [
@@ -3578,5 +3596,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 20:54:18"
+  "updateTime": "2026/10/15 20:56:03"
 }

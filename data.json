@@ -3498,6 +3498,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792068977043-131gin"
+    },
+    {
+      "text": "中基发栅尺，工装，和栅尺检测片",
+      "date": "2026-10-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792069166588-gzls3d"
     }
   ],
   "workList": [
@@ -3614,5 +3632,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 20:56:17"
+  "updateTime": "2026/10/15 20:59:27"
 }

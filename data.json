@@ -3189,7 +3189,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791896803579-zzh3no"
     },
@@ -3428,7 +3428,7 @@
       "id": "1792069778819-8zgwvi"
     },
     {
-      "text": "对账单",
+      "text": "对账单未回传的客户",
       "date": "2026-10-16",
       "time": "",
       "isAllDay": true,
@@ -3596,5 +3596,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 22:49:45"
+  "updateTime": "2026/10/15 23:06:22"
 }

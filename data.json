@@ -3302,24 +3302,6 @@
       "id": "1792068977043-131gin"
     },
     {
-      "text": "中基发栅尺，工装，和栅尺检测片",
-      "date": "2026-10-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792069166588-gzls3d"
-    },
-    {
       "text": "消耗中基库存模组",
       "date": "2026-10-12",
       "time": "",
@@ -3653,5 +3635,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 22:16:17"
+  "updateTime": "2026/10/16 22:16:28"
 }

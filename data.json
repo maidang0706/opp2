@@ -3498,6 +3498,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792119961195-1urov0"
+    },
+    {
+      "text": "明年的销售预测",
+      "date": "2026-10-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792121840268-de9702"
     }
   ],
   "workList": [
@@ -3617,5 +3635,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 11:37:13"
+  "updateTime": "2026/10/16 11:37:21"
 }

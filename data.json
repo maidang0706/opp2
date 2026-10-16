@@ -3513,7 +3513,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792076916241-amx43g"
     },
@@ -3650,5 +3650,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/15 23:09:04"
+  "updateTime": "2026/10/16 08:50:52"
 }

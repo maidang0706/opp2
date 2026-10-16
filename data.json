@@ -3176,6 +3176,24 @@
       "id": "1791724099601-7jwrbq"
     },
     {
+      "text": "誉昊：黄总问孔位全了没，大理石报价，让易胜德询价",
+      "date": "2026-10-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": true,
+      "onlyDone": [],
+      "id": "1791896803579-zzh3no"
+    },
+    {
       "text": "精朗孙岩松订单，选择晚上再确认一下",
       "date": "2026-10-14",
       "time": "",
@@ -3192,6 +3210,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1791897888107-rtweh8"
+    },
+    {
+      "text": "襄阳中基：回款，栅尺问题处理",
+      "date": "2026-10-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": true,
+      "onlyDone": [],
+      "id": "1791898035653-6fmhpq"
     },
     {
       "text": "中基何元中申请光电开关和光电开关座",
@@ -3464,6 +3500,24 @@
       "id": "1792076797548-3l0gpi"
     },
     {
+      "text": "给汉彬发精朗报告",
+      "date": "2026-10-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": true,
+      "onlyDone": [],
+      "id": "1792076916241-amx43g"
+    },
+    {
       "text": "誉昊订单更改，把借用加进去",
       "date": "2026-10-16",
       "time": "",
@@ -3480,6 +3534,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792076943531-pguk5y"
+    },
+    {
+      "text": "博滔动子选型",
+      "date": "2026-10-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792118567674-wsj316"
     }
   ],
   "workList": [
@@ -3596,8 +3668,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "noteList": {
-    "2026-10-12": []
-  },
-  "updateTime": "2026/10/16 10:03:51"
+  "updateTime": "2026/10/16 10:42:48"
 }

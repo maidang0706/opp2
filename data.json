@@ -3194,24 +3194,6 @@
       "id": "1791897888107-rtweh8"
     },
     {
-      "text": "襄阳中基：回款，栅尺问题处理",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1791898035653-6fmhpq"
-    },
-    {
       "text": "中基何元中申请光电开关和光电开关座",
       "date": "2026-10-13",
       "time": "",
@@ -3617,5 +3599,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 09:02:11"
+  "updateTime": "2026/10/16 09:02:16"
 }

@@ -3495,7 +3495,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792076797548-3l0gpi"
     },
@@ -3689,5 +3689,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 11:21:09"
+  "updateTime": "2026/10/16 11:21:13"
 }

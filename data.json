@@ -3500,24 +3500,6 @@
       "id": "1792076797548-3l0gpi"
     },
     {
-      "text": "给汉彬发精朗报告",
-      "date": "2026-10-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792076916241-amx43g"
-    },
-    {
       "text": "誉昊订单更改，把借用加进去",
       "date": "2026-10-16",
       "time": "",
@@ -3653,5 +3635,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 09:01:40"
+  "updateTime": "2026/10/16 09:01:51"
 }

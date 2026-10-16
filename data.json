@@ -3555,7 +3555,7 @@
     },
     {
       "text": "尽快处理借出，年底要发函",
-      "date": "2026-10-16",
+      "date": "2026-10-12",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3566,7 +3566,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792119961195-1urov0"
@@ -3689,5 +3689,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 11:21:13"
+  "updateTime": "2026/10/16 11:23:37"
 }

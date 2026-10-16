@@ -3516,6 +3516,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792160146707-j9l44o"
+    },
+    {
+      "text": "中基寄回来光电44个",
+      "date": "2026-10-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792160176739-q0ux3m"
     }
   ],
   "workList": [
@@ -3635,5 +3653,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 22:15:47"
+  "updateTime": "2026/10/16 22:16:17"
 }

@@ -3176,24 +3176,6 @@
       "id": "1791724099601-7jwrbq"
     },
     {
-      "text": "誉昊：黄总问孔位全了没，大理石报价，让易胜德询价",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1791896803579-zzh3no"
-    },
-    {
       "text": "精朗孙岩松订单，选择晚上再确认一下",
       "date": "2026-10-14",
       "time": "",
@@ -3635,5 +3617,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 09:01:51"
+  "updateTime": "2026/10/16 09:02:11"
 }

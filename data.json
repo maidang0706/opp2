@@ -3248,24 +3248,6 @@
       "id": "1791899551257-73oxw8"
     },
     {
-      "text": "做个简单的图片合并软件把截图可以直接复制生产新的图片",
-      "date": "2026-10-15",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792053914071-ka1qmc"
-    },
-    {
       "text": "问中基金龙羽项目情况",
       "date": "2026-10-16",
       "time": "",
@@ -3617,5 +3599,5 @@
   "noteList": {
     "2026-10-12": []
   },
-  "updateTime": "2026/10/16 11:37:33"
+  "updateTime": "2026/10/16 11:37:40"
 }

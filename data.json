@@ -3315,7 +3315,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791941534985-tria3q"
     },
@@ -3668,5 +3668,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/16 10:42:48"
+  "updateTime": "2026/10/16 10:50:49"
 }

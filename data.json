@@ -3606,6 +3606,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792236766201-o4owyu"
+    },
+    {
+      "text": "整理销售技巧到workbuddy里面",
+      "date": "2026-10-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792260159682-xwxniw"
     }
   ],
   "workList": [
@@ -3729,5 +3747,5 @@
     "2026-09-28": [],
     "2026-09-21": []
   },
-  "updateTime": "2026/10/18 02:02:12"
+  "updateTime": "2026/10/18 02:02:40"
 }

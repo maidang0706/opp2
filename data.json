@@ -3374,24 +3374,6 @@
       "id": "1792075775883-jdxusx"
     },
     {
-      "text": "江海出发去精智达现场",
-      "date": "2026-10-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792076797548-3l0gpi"
-    },
-    {
       "text": "誉昊订单更改，把借用加进去",
       "date": "2026-10-16",
       "time": "",
@@ -3704,5 +3686,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/17 12:49:51"
+  "updateTime": "2026/10/17 12:50:11"
 }

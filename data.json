@@ -3534,6 +3534,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792207917705-mxkja3"
+    },
+    {
+      "text": "EL170-50-M3x7-L7740-B-ZJ加长500",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792210310744-dv7qty"
     }
   ],
   "workList": [
@@ -3650,5 +3668,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/17 12:11:41"
+  "updateTime": "2026/10/17 12:11:51"
 }

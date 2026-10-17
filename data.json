@@ -3624,6 +3624,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792260159682-xwxniw"
+    },
+    {
+      "text": "中基还要换2个光电",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792261278107-2zyxaz"
     }
   ],
   "workList": [
@@ -3740,5 +3758,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 02:21:05"
+  "updateTime": "2026/10/18 02:21:18"
 }

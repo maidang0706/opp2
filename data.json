@@ -3570,6 +3570,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792210336845-9sgcgh"
+    },
+    {
+      "text": "中基清陶多的模组是WON导轨，雄韬要求用上银有无问题",
+      "date": "2026-10-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792212590730-6tmtci"
     }
   ],
   "workList": [
@@ -3686,5 +3704,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/17 12:49:28"
+  "updateTime": "2026/10/17 12:49:51"
 }

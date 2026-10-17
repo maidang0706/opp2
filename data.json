@@ -3552,6 +3552,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792210310744-dv7qty"
+    },
+    {
+      "text": "印洪江负载改成700kg有无问题",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792210336845-9sgcgh"
     }
   ],
   "workList": [
@@ -3668,5 +3686,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/17 12:11:51"
+  "updateTime": "2026/10/17 12:12:17"
 }

@@ -3588,6 +3588,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792225772302-fmz0o4"
+    },
+    {
+      "text": "安排人去博杰",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792236766201-o4owyu"
     }
   ],
   "workList": [
@@ -3704,5 +3722,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/17 19:32:31"
+  "updateTime": "2026/10/17 19:32:47"
 }

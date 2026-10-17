@@ -3642,6 +3642,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792261278107-2zyxaz"
+    },
+    {
+      "text": "给博杰找安装说明书",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792261969243-4vnv95"
     }
   ],
   "workList": [
@@ -3758,5 +3776,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 02:21:18"
+  "updateTime": "2026/10/18 02:32:50"
 }

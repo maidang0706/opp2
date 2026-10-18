@@ -3733,7 +3733,7 @@
     },
     {
       "text": "明年的销售预测",
-      "date": "2026-10-12",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3744,12 +3744,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792121840268-de9702",
       "createdAt": 1792334778175,
-      "updatedAt": 1792334778175
+      "updatedAt": 1792337824429
     },
     {
       "text": "公众号文章监控修复",
@@ -3833,7 +3833,7 @@
     },
     {
       "text": "中基清陶多的模组是WON导轨，雄韬要求用上银有无问题",
-      "date": "2026-10-12",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3844,12 +3844,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792212590730-6tmtci",
       "createdAt": 1792334771175,
-      "updatedAt": 1792334771175
+      "updatedAt": 1792337832292
     },
     {
       "text": "桃子自动化",
@@ -4491,5 +4491,5 @@
     "1792337071544-tuhysd",
     "1792337566040-h021ez"
   ],
-  "updateTime": "2026/10/18 23:37:03"
+  "updateTime": "2026/10/18 23:37:12"
 }

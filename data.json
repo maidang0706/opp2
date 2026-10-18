@@ -4134,46 +4134,6 @@
       "id": "1792160176739-q0ux3m",
       "createdAt": 1792334775175,
       "updatedAt": 1792334775175
-    },
-    {
-      "text": "333",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792335063122-mnemcy",
-      "updatedAt": 1792335481850,
-      "createdAt": 1792334878787
-    },
-    {
-      "text": "44",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792335101870-h1om54",
-      "updatedAt": 1792335482450,
-      "createdAt": 1792334890867
     }
   ],
   "workList": [
@@ -4497,7 +4457,9 @@
   "deletedIds": [
     "1792334496847-f6l4fj",
     "1792334484447-yfxrg8",
-    "1792335034216-79ga2i"
+    "1792335034216-79ga2i",
+    "1792335063122-mnemcy",
+    "1792335101870-h1om54"
   ],
-  "updateTime": "2026/10/18 22:58:09"
+  "updateTime": "2026/10/18 22:58:14"
 }

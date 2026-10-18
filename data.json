@@ -4076,26 +4076,6 @@
       "dev": "未知"
     },
     {
-      "text": "借用明细",
-      "date": "2026-10-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1791899551257-73oxw8",
-      "createdAt": 1792334787175,
-      "updatedAt": 1792334787175
-    },
-    {
       "text": "中基寄回来光电44个",
       "date": "2026-10-12",
       "time": "",
@@ -4489,7 +4469,8 @@
     "1792337004730-c42zzg",
     "1792336937624-tdmrp1",
     "1792337071544-tuhysd",
-    "1792337566040-h021ez"
+    "1792337566040-h021ez",
+    "1791899551257-73oxw8"
   ],
-  "updateTime": "2026/10/18 23:37:12"
+  "updateTime": "2026/10/18 23:37:20"
 }

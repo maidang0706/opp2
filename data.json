@@ -3353,7 +3353,7 @@
     },
     {
       "text": "明年的销售预测",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3364,7 +3364,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792121840268-de9702"
@@ -3620,6 +3620,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792329676523-c5262s"
+    },
+    {
+      "text": "精智达选型",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792330335781-8i80oc"
     }
   ],
   "workList": [
@@ -3726,5 +3744,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:23:35"
+  "updateTime": "2026/10/18 21:32:17"
 }

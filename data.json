@@ -3137,7 +3137,7 @@
     },
     {
       "text": "问艾贝特费用",
-      "date": "2026-10-12",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3638,6 +3638,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792328384705-siz0ng"
+    },
+    {
+      "text": "给黄宇泽钱",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792329676523-c5262s"
     }
   ],
   "workList": [
@@ -3744,5 +3762,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:21:03"
+  "updateTime": "2026/10/18 21:21:17"
 }

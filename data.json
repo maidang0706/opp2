@@ -3137,7 +3137,7 @@
     },
     {
       "text": "问艾贝特费用",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3148,7 +3148,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1791724099601-7jwrbq"
@@ -3191,7 +3191,7 @@
     },
     {
       "text": "艾文退货申请",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3202,7 +3202,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1791899043287-lqcxxe"
@@ -3726,5 +3726,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:23:04"
+  "updateTime": "2026/10/18 21:23:12"
 }

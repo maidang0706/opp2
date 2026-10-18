@@ -4096,27 +4096,6 @@
       "dev": "未知"
     },
     {
-      "text": "啊啊",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792334484447-yfxrg8",
-      "createdAt": 1792334292968,
-      "updatedAt": 1792335480220,
-      "dev": "未知"
-    },
-    {
       "text": "借用明细",
       "date": "2026-10-12",
       "time": "",
@@ -4155,26 +4134,6 @@
       "id": "1792160176739-q0ux3m",
       "createdAt": 1792334775175,
       "updatedAt": 1792334775175
-    },
-    {
-      "text": "22222555111",
-      "date": "2026-10-14",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792335034216-79ga2i",
-      "updatedAt": 1792335481282,
-      "createdAt": 1792334827756
     },
     {
       "text": "333",
@@ -4536,7 +4495,9 @@
     }
   ],
   "deletedIds": [
-    "1792334496847-f6l4fj"
+    "1792334496847-f6l4fj",
+    "1792334484447-yfxrg8",
+    "1792335034216-79ga2i"
   ],
-  "updateTime": "2026/10/18 22:58:03"
+  "updateTime": "2026/10/18 22:58:09"
 }

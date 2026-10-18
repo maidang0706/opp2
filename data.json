@@ -3227,7 +3227,7 @@
     },
     {
       "text": "鼎泰威",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3238,14 +3238,14 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792068962342-16mu38"
     },
     {
       "text": "问卓誉的款",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3256,14 +3256,14 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792068977043-131gin"
     },
     {
       "text": "消耗中基库存模组",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3274,7 +3274,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792069778819-8zgwvi"
@@ -3726,5 +3726,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:23:12"
+  "updateTime": "2026/10/18 21:23:22"
 }

@@ -3085,11 +3085,11 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791353723583-6fwtjb",
       "createdAt": 1792334812175,
-      "updatedAt": 1792334812175
+      "updatedAt": 1792335463313
     },
     {
       "text": "汇艺寄DB9接头",
@@ -3225,11 +3225,11 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791375884721-dp0z9g",
       "createdAt": 1792334805175,
-      "updatedAt": 1792334805175
+      "updatedAt": 1792335462691
     },
     {
       "text": "精朗线缆报价",
@@ -4538,5 +4538,5 @@
   "deletedIds": [
     "1792334496847-f6l4fj"
   ],
-  "updateTime": "2026/10/18 22:57:32"
+  "updateTime": "2026/10/18 22:57:46"
 }

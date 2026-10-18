@@ -3660,6 +3660,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792261969243-4vnv95"
+    },
+    {
+      "text": "中基深圳给了栅尺片跟张宏鹏说",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792323885307-hfk36n"
     }
   ],
   "workList": [
@@ -3776,5 +3794,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 16:30:03"
+  "updateTime": "2026/10/18 19:44:46"
 }

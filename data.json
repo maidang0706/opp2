@@ -4035,6 +4035,26 @@
       "id": "1792338029978-n7zzw9",
       "updatedAt": 1792338029978,
       "createdAt": 1792337830540
+    },
+    {
+      "text": "搭ai知识库，抖音监控，行业机型了解",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792343538885-ayqupu",
+      "updatedAt": 1792343538885,
+      "createdAt": 1792343336449
     }
   ],
   "workList": [
@@ -4379,5 +4399,5 @@
     "1791724070756-7kob63",
     "1792121840268-de9702"
   ],
-  "updateTime": "2026/10/19 01:11:48"
+  "updateTime": "2026/10/19 01:12:21"
 }

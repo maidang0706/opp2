@@ -3473,8 +3473,8 @@
       "updatedAt": 1792334793175
     },
     {
-      "text": "问艾贝特费用",
-      "date": "2026-10-20",
+      "text": "艾贝特费用",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3485,16 +3485,16 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1791724099601-7jwrbq",
       "createdAt": 1792334791175,
-      "updatedAt": 1792337866472
+      "updatedAt": 1792338080109
     },
     {
       "text": "精朗孙岩松订单，选择晚上再确认一下",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3505,12 +3505,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1791897888107-rtweh8",
       "createdAt": 1792334790175,
-      "updatedAt": 1792337870609
+      "updatedAt": 1792338087416
     },
     {
       "text": "中基何元中申请光电开关和光电开关座",
@@ -4398,5 +4398,5 @@
     "1792076943531-pguk5y",
     "1791724070756-7kob63"
   ],
-  "updateTime": "2026/10/18 23:41:02"
+  "updateTime": "2026/10/18 23:41:28"
 }

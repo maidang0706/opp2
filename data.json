@@ -3281,7 +3281,7 @@
     },
     {
       "text": "消耗中基库存模组",
-      "date": "2026-10-12",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3292,7 +3292,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792069778819-8zgwvi"
@@ -3762,5 +3762,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:21:17"
+  "updateTime": "2026/10/18 21:21:28"
 }

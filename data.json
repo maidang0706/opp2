@@ -3353,7 +3353,7 @@
     },
     {
       "text": "明年的销售预测",
-      "date": "2026-10-12",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3364,7 +3364,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792121840268-de9702"
@@ -3404,24 +3404,6 @@
       "done": false,
       "onlyDone": [],
       "id": "1792160146707-j9l44o"
-    },
-    {
-      "text": "中基寄回来光电44个",
-      "date": "2026-10-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792160176739-q0ux3m"
     },
     {
       "text": "问精朗维修的驱动器",
@@ -3744,5 +3726,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:22:04"
+  "updateTime": "2026/10/18 21:22:14"
 }

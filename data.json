@@ -3305,11 +3305,11 @@
         "end": ""
       },
       "isWeekTodo": true,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1791436194995-6yxya3",
       "createdAt": 1792334801175,
-      "updatedAt": 1792334801175
+      "updatedAt": 1792335473053
     },
     {
       "text": "精朗换12A驱动器，要伺易的报告",
@@ -4538,5 +4538,5 @@
   "deletedIds": [
     "1792334496847-f6l4fj"
   ],
-  "updateTime": "2026/10/18 22:57:46"
+  "updateTime": "2026/10/18 22:57:54"
 }

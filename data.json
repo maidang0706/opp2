@@ -3739,11 +3739,6 @@
       "createdAt": 1790957939083
     },
     {
-      "text": "给民生卡电话",
-      "done": false,
-      "createdAt": 1790957924737
-    },
-    {
       "text": "四托",
       "done": false,
       "createdAt": 1790957914682
@@ -3752,7 +3747,12 @@
       "text": "脚恢复让AI做个计划",
       "done": false,
       "createdAt": 1790957327950
+    },
+    {
+      "text": "给民生卡电话",
+      "done": true,
+      "createdAt": 1790957924737
     }
   ],
-  "updateTime": "2026/10/18 21:19:39"
+  "updateTime": "2026/10/18 21:19:56"
 }

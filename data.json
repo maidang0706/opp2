@@ -62,7 +62,8 @@
         "2026-10-04",
         "2026-08-09",
         "2026-08-02",
-        "2026-10-11"
+        "2026-10-11",
+        "2026-10-18"
       ],
       "_renderDate": "2026-06-21"
     },
@@ -3527,7 +3528,7 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": true,
+      "done": false,
       "onlyDone": [],
       "id": "1792260159682-xwxniw"
     },
@@ -3638,6 +3639,24 @@
       "done": false,
       "onlyDone": [],
       "id": "1792330335781-8i80oc"
+    },
+    {
+      "text": "找朗仪要销售数据",
+      "date": "2026-10-19",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792332115900-aln3hd"
     }
   ],
   "workList": [
@@ -3744,5 +3763,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:39:14"
+  "updateTime": "2026/10/18 22:01:56"
 }

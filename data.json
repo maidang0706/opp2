@@ -3713,7 +3713,7 @@
     },
     {
       "text": "尽快处理借出，年底要发函",
-      "date": "2026-10-12",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3724,12 +3724,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792119961195-1urov0",
       "createdAt": 1792334779175,
-      "updatedAt": 1792337801663
+      "updatedAt": 1792337818938
     },
     {
       "text": "明年的销售预测",
@@ -4491,5 +4491,5 @@
     "1792337071544-tuhysd",
     "1792337566040-h021ez"
   ],
-  "updateTime": "2026/10/18 23:36:46"
+  "updateTime": "2026/10/18 23:37:03"
 }

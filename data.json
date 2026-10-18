@@ -3614,23 +3614,23 @@
     },
     {
       "text": "消耗中基库存模组",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792069778819-8zgwvi",
       "createdAt": 1792334783175,
-      "updatedAt": 1792337682293
+      "updatedAt": 1792338173883
     },
     {
       "text": "对账单未回传的客户",
@@ -4398,5 +4398,5 @@
     "1792076943531-pguk5y",
     "1791724070756-7kob63"
   ],
-  "updateTime": "2026/10/18 23:42:49"
+  "updateTime": "2026/10/18 23:42:57"
 }

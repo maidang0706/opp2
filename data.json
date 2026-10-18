@@ -3316,24 +3316,6 @@
       "id": "1792069817432-qt7z34"
     },
     {
-      "text": "誉昊报价",
-      "date": "2026-10-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792069831743-71f0rm"
-    },
-    {
       "text": "誉昊动定子价格核算",
       "date": "2026-10-15",
       "time": "",
@@ -3772,5 +3754,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 20:53:24"
+  "updateTime": "2026/10/18 20:53:41"
 }

@@ -3674,7 +3674,7 @@
     },
     {
       "text": "尽快处理借出，年底要发函",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3685,32 +3685,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792119961195-1urov0",
       "createdAt": 1792334779175,
-      "updatedAt": 1792337818938
-    },
-    {
-      "text": "明年的销售预测",
-      "date": "2026-10-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792121840268-de9702",
-      "createdAt": 1792334778175,
-      "updatedAt": 1792337824429
+      "updatedAt": 1792338203278
     },
     {
       "text": "公众号文章监控修复",
@@ -4396,7 +4376,8 @@
     "1792337580979-xcobq1",
     "1792337607912-8lxss0",
     "1792076943531-pguk5y",
-    "1791724070756-7kob63"
+    "1791724070756-7kob63",
+    "1792121840268-de9702"
   ],
-  "updateTime": "2026/10/18 23:43:18"
+  "updateTime": "2026/10/18 23:43:29"
 }

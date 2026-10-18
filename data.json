@@ -3299,7 +3299,7 @@
     },
     {
       "text": "誉昊订单更改，把借用加进去",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3310,14 +3310,14 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792076943531-pguk5y"
     },
     {
       "text": "博滔动子选型",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3328,14 +3328,14 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792118567674-wsj316"
     },
     {
       "text": "尽快处理借出，年底要发函",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3346,7 +3346,7 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792119961195-1urov0"
@@ -3726,5 +3726,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:23:22"
+  "updateTime": "2026/10/18 21:23:35"
 }

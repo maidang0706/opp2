@@ -3593,11 +3593,11 @@
       "updatedAt": 1792338129638
     },
     {
-      "text": "问卓誉的款",
-      "date": "2026-10-20",
+      "text": "催款：卓誉，精朗，中基，捷佳伟创，誉辰",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "low",
       "repeat": {
         "type": 0,
@@ -3605,12 +3605,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792068977043-131gin",
       "createdAt": 1792334784175,
-      "updatedAt": 1792337980880
+      "updatedAt": 1792338164470
     },
     {
       "text": "消耗中基库存模组",
@@ -4398,5 +4398,5 @@
     "1792076943531-pguk5y",
     "1791724070756-7kob63"
   ],
-  "updateTime": "2026/10/18 23:42:15"
+  "updateTime": "2026/10/18 23:42:49"
 }

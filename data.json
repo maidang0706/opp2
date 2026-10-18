@@ -3752,26 +3752,6 @@
       "updatedAt": 1792334778175
     },
     {
-      "text": "汇艺发票",
-      "date": "2026-10-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792141447101-us4o3a",
-      "createdAt": 1792334777175,
-      "updatedAt": 1792334777175
-    },
-    {
       "text": "公众号文章监控修复",
       "date": "2026-10-17",
       "time": "",
@@ -4459,7 +4439,8 @@
     "1792334484447-yfxrg8",
     "1792335034216-79ga2i",
     "1792335063122-mnemcy",
-    "1792335101870-h1om54"
+    "1792335101870-h1om54",
+    "1792141447101-us4o3a"
   ],
-  "updateTime": "2026/10/18 23:02:54"
+  "updateTime": "2026/10/18 23:03:07"
 }

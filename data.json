@@ -3774,7 +3774,7 @@
     },
     {
       "text": "中基清陶多的模组是WON导轨，雄韬要求用上银有无问题",
-      "date": "2026-10-20",
+      "date": "2026-10-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3785,12 +3785,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792212590730-6tmtci",
       "createdAt": 1792334771175,
-      "updatedAt": 1792337832292
+      "updatedAt": 1792338214161
     },
     {
       "text": "桃子自动化",
@@ -4379,5 +4379,5 @@
     "1791724070756-7kob63",
     "1792121840268-de9702"
   ],
-  "updateTime": "2026/10/18 23:43:29"
+  "updateTime": "2026/10/18 23:43:34"
 }

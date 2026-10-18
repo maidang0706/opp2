@@ -2985,11 +2985,11 @@
         "end": ""
       },
       "isWeekTodo": true,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1790695674414-9m1oes",
       "createdAt": 1792334817175,
-      "updatedAt": 1792334817175
+      "updatedAt": 1792335475547
     },
     {
       "text": "精朗清研项目",
@@ -4109,11 +4109,11 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792334484447-yfxrg8",
       "createdAt": 1792334292968,
-      "updatedAt": 1792334292968,
+      "updatedAt": 1792335480220,
       "dev": "未知"
     },
     {
@@ -4170,10 +4170,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792335034216-79ga2i",
-      "updatedAt": 1792335185325,
+      "updatedAt": 1792335481282,
       "createdAt": 1792334827756
     },
     {
@@ -4190,10 +4190,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792335063122-mnemcy",
-      "updatedAt": 1792335063122,
+      "updatedAt": 1792335481850,
       "createdAt": 1792334878787
     },
     {
@@ -4210,10 +4210,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792335101870-h1om54",
-      "updatedAt": 1792335110406,
+      "updatedAt": 1792335482450,
       "createdAt": 1792334890867
     }
   ],
@@ -4538,5 +4538,5 @@
   "deletedIds": [
     "1792334496847-f6l4fj"
   ],
-  "updateTime": "2026/10/18 22:57:54"
+  "updateTime": "2026/10/18 22:58:03"
 }

@@ -3208,24 +3208,6 @@
       "id": "1791899043287-lqcxxe"
     },
     {
-      "text": "借用明细",
-      "date": "2026-10-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1791899551257-73oxw8"
-    },
-    {
       "text": "问中基金龙羽项目情况",
       "date": "2026-10-19",
       "time": "",
@@ -3762,5 +3744,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:21:28"
+  "updateTime": "2026/10/18 21:21:34"
 }

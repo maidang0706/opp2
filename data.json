@@ -3155,10 +3155,10 @@
     },
     {
       "text": "精朗孙岩松订单，选择晚上再确认一下",
-      "date": "2026-10-14",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "high",
       "repeat": {
         "type": 0,
@@ -3245,7 +3245,7 @@
     },
     {
       "text": "问卓誉的款",
-      "date": "2026-10-16",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3726,5 +3726,5 @@
       "createdAt": 1790957327950
     }
   ],
-  "updateTime": "2026/10/18 21:22:14"
+  "updateTime": "2026/10/18 21:22:27"
 }

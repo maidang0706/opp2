@@ -3799,7 +3799,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3811,7 +3811,7 @@
       "onlyDone": [],
       "id": "1792330335781-8i80oc",
       "createdAt": 1792334223036,
-      "updatedAt": 1792334223036,
+      "updatedAt": 1792374425935,
       "dev": "未知"
     },
     {
@@ -4287,5 +4287,5 @@
     "1792210310744-dv7qty",
     "1792236766201-o4owyu"
   ],
-  "updateTime": "2026/10/19 09:44:04"
+  "updateTime": "2026/10/19 09:47:07"
 }

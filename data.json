@@ -4013,6 +4013,26 @@
       "id": "1792343710078-5rvrjh",
       "updatedAt": 1792343966634,
       "createdAt": 1792343507634
+    },
+    {
+      "text": "中基杨俊的选型确认，加到HTML文件里面",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792371648715-i86rn3",
+      "updatedAt": 1792371666340,
+      "createdAt": 1792371447924
     }
   ],
   "workList": [
@@ -4361,5 +4381,5 @@
     "1792323885307-hfk36n",
     "1792332115900-aln3hd"
   ],
-  "updateTime": "2026/10/19 08:57:43"
+  "updateTime": "2026/10/19 09:01:11"
 }

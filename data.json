@@ -3787,11 +3787,11 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792328384705-siz0ng",
       "createdAt": 1792334764175,
-      "updatedAt": 1792334764175
+      "updatedAt": 1792398505798
     },
     {
       "text": "精智达选型",
@@ -4308,5 +4308,5 @@
     "1792236766201-o4owyu",
     "1792371648715-i86rn3"
   ],
-  "updateTime": "2026/10/19 16:07:46"
+  "updateTime": "2026/10/19 16:28:29"
 }

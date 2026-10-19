@@ -3714,26 +3714,6 @@
       "updatedAt": 1792334776175
     },
     {
-      "text": "EL170-50-M3x7-L7740-B-ZJ加长500",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792210310744-dv7qty",
-      "createdAt": 1792334773175,
-      "updatedAt": 1792334773175
-    },
-    {
       "text": "中基清陶多的模组是WON导轨，雄韬要求用上银有无问题",
       "date": "2026-10-19",
       "time": "",
@@ -4323,7 +4303,8 @@
     "1792261969243-4vnv95",
     "1792333442774-l8wst4",
     "1792207917705-mxkja3",
-    "1792225772302-fmz0o4"
+    "1792225772302-fmz0o4",
+    "1792210310744-dv7qty"
   ],
-  "updateTime": "2026/10/19 09:43:23"
+  "updateTime": "2026/10/19 09:43:59"
 }

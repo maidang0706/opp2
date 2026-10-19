@@ -3714,26 +3714,6 @@
       "updatedAt": 1792334776175
     },
     {
-      "text": "问精朗维修的驱动器",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792207917705-mxkja3",
-      "createdAt": 1792334774175,
-      "updatedAt": 1792374194983
-    },
-    {
       "text": "EL170-50-M3x7-L7740-B-ZJ加长500",
       "date": "2026-10-19",
       "time": "",
@@ -4361,7 +4341,8 @@
     "1792323885307-hfk36n",
     "1792332115900-aln3hd",
     "1792261969243-4vnv95",
-    "1792333442774-l8wst4"
+    "1792333442774-l8wst4",
+    "1792207917705-mxkja3"
   ],
-  "updateTime": "2026/10/19 09:43:17"
+  "updateTime": "2026/10/19 09:43:20"
 }

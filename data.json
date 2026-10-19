@@ -3873,26 +3873,6 @@
       "updatedAt": 1792334766175
     },
     {
-      "text": "中基深圳给了栅尺片跟张宏鹏说",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792323885307-hfk36n",
-      "createdAt": 1792334765175,
-      "updatedAt": 1792334765175
-    },
-    {
       "text": "答复借用",
       "date": "2026-10-19",
       "time": "",
@@ -4398,7 +4378,8 @@
     "1791724070756-7kob63",
     "1792121840268-de9702",
     "1792329676523-c5262s",
-    "1792210336845-9sgcgh"
+    "1792210336845-9sgcgh",
+    "1792323885307-hfk36n"
   ],
-  "updateTime": "2026/10/19 08:52:30"
+  "updateTime": "2026/10/19 08:57:32"
 }

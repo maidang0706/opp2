@@ -3953,6 +3953,26 @@
       "id": "1792378097273-7yjxhk",
       "updatedAt": 1792378097273,
       "createdAt": 1792377903842
+    },
+    {
+      "text": "XM方案工况里面下面很多空格，修改一下",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792381302301-nq6n88",
+      "updatedAt": 1792381302301,
+      "createdAt": 1792381105323
     }
   ],
   "workList": [
@@ -4307,5 +4327,5 @@
     "1792210310744-dv7qty",
     "1792236766201-o4owyu"
   ],
-  "updateTime": "2026/10/19 10:48:23"
+  "updateTime": "2026/10/19 11:41:46"
 }

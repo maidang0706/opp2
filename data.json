@@ -4033,6 +4033,26 @@
       "id": "1792371648715-i86rn3",
       "updatedAt": 1792371666340,
       "createdAt": 1792371447924
+    },
+    {
+      "text": "中基下线缆订单",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792373738859-ne8db0",
+      "updatedAt": 1792373738859,
+      "createdAt": 1792373535886
     }
   ],
   "workList": [
@@ -4381,5 +4401,5 @@
     "1792323885307-hfk36n",
     "1792332115900-aln3hd"
   ],
-  "updateTime": "2026/10/19 09:01:11"
+  "updateTime": "2026/10/19 09:35:40"
 }

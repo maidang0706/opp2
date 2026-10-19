@@ -3933,6 +3933,26 @@
       "id": "1792373738859-ne8db0",
       "updatedAt": 1792373738859,
       "createdAt": 1792373535886
+    },
+    {
+      "text": "中基重新发磁栅尺",
+      "date": "2026-10-19",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792378097273-7yjxhk",
+      "updatedAt": 1792378097273,
+      "createdAt": 1792377903842
     }
   ],
   "workList": [
@@ -4287,5 +4307,5 @@
     "1792210310744-dv7qty",
     "1792236766201-o4owyu"
   ],
-  "updateTime": "2026/10/19 09:47:07"
+  "updateTime": "2026/10/19 10:48:23"
 }

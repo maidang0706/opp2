@@ -3734,26 +3734,6 @@
       "updatedAt": 1792338214161
     },
     {
-      "text": "安排人去博杰",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792236766201-o4owyu",
-      "createdAt": 1792334769175,
-      "updatedAt": 1792334769175
-    },
-    {
       "text": "整理销售技巧到workbuddy里面",
       "date": "2026-10-18",
       "time": "",
@@ -4304,7 +4284,8 @@
     "1792333442774-l8wst4",
     "1792207917705-mxkja3",
     "1792225772302-fmz0o4",
-    "1792210310744-dv7qty"
+    "1792210310744-dv7qty",
+    "1792236766201-o4owyu"
   ],
-  "updateTime": "2026/10/19 09:43:59"
+  "updateTime": "2026/10/19 09:44:04"
 }

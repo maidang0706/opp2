@@ -3853,26 +3853,6 @@
       "updatedAt": 1792337857688
     },
     {
-      "text": "给博杰找安装说明书",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792261969243-4vnv95",
-      "createdAt": 1792334766175,
-      "updatedAt": 1792334766175
-    },
-    {
       "text": "答复借用",
       "date": "2026-10-19",
       "time": "",
@@ -4399,7 +4379,8 @@
     "1792329676523-c5262s",
     "1792210336845-9sgcgh",
     "1792323885307-hfk36n",
-    "1792332115900-aln3hd"
+    "1792332115900-aln3hd",
+    "1792261969243-4vnv95"
   ],
-  "updateTime": "2026/10/19 09:35:40"
+  "updateTime": "2026/10/19 09:35:45"
 }

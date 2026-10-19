@@ -3819,26 +3819,6 @@
       "createdAt": 1792343416850
     },
     {
-      "text": "中基下线缆订单",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792373738859-ne8db0",
-      "updatedAt": 1792398516153,
-      "createdAt": 1792373535886
-    },
-    {
       "text": "中基重新发磁栅尺",
       "date": "2026-10-19",
       "time": "",
@@ -4233,7 +4213,8 @@
     "1792371648715-i86rn3",
     "1792328384705-siz0ng",
     "1783953473415-lyzwi4",
-    "1792343710078-5rvrjh"
+    "1792343710078-5rvrjh",
+    "1792373738859-ne8db0"
   ],
-  "updateTime": "2026/10/19 22:01:08"
+  "updateTime": "2026/10/19 22:01:18"
 }

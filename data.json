@@ -3727,11 +3727,11 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792207917705-mxkja3",
       "createdAt": 1792334774175,
-      "updatedAt": 1792334774175
+      "updatedAt": 1792374194983
     },
     {
       "text": "EL170-50-M3x7-L7740-B-ZJ加长500",
@@ -4363,5 +4363,5 @@
     "1792261969243-4vnv95",
     "1792333442774-l8wst4"
   ],
-  "updateTime": "2026/10/19 09:38:58"
+  "updateTime": "2026/10/19 09:43:17"
 }

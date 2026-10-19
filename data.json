@@ -3894,27 +3894,6 @@
       "dev": "未知"
     },
     {
-      "text": "誉辰对账单签署",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792333442774-l8wst4",
-      "createdAt": 1792334221036,
-      "updatedAt": 1792334221036,
-      "dev": "未知"
-    },
-    {
       "text": "誉昊，中基，中欣下单的时候销借用",
       "date": "2026-10-19",
       "time": "",
@@ -4380,7 +4359,8 @@
     "1792210336845-9sgcgh",
     "1792323885307-hfk36n",
     "1792332115900-aln3hd",
-    "1792261969243-4vnv95"
+    "1792261969243-4vnv95",
+    "1792333442774-l8wst4"
   ],
-  "updateTime": "2026/10/19 09:35:45"
+  "updateTime": "2026/10/19 09:35:49"
 }

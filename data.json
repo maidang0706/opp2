@@ -3881,6 +3881,26 @@
       "id": "1792418552121-tenl4f",
       "updatedAt": 1792418552121,
       "createdAt": 1792418362983
+    },
+    {
+      "text": "中基模组返工",
+      "date": "2026-10-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792418581683-9r5nzc",
+      "updatedAt": 1792418581683,
+      "createdAt": 1792418389264
     }
   ],
   "workList": [
@@ -4241,5 +4261,5 @@
     "1792373738859-ne8db0",
     "1792378097273-7yjxhk"
   ],
-  "updateTime": "2026/10/19 22:02:39"
+  "updateTime": "2026/10/19 22:03:07"
 }

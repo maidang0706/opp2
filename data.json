@@ -2998,46 +2998,6 @@
       "updatedAt": 1792334815175
     },
     {
-      "text": "下单销借用客户：中基，誉昊，中欣",
-      "date": "2026-10-05",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1790696382713-52nyy4",
-      "createdAt": 1792334814175,
-      "updatedAt": 1792334814175
-    },
-    {
-      "text": "精智达选型",
-      "date": "2026-10-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1791126180663-fbk0v1",
-      "createdAt": 1792334813175,
-      "updatedAt": 1792334813175
-    },
-    {
       "text": "中欣模组速度达不到",
       "date": "2026-10-08",
       "time": "",
@@ -4323,7 +4283,9 @@
     "1792378097273-7yjxhk",
     "1792261278107-2zyxaz",
     "1792381302301-nq6n88",
-    "1792420499041-xo7l6s"
+    "1792420499041-xo7l6s",
+    "1791126180663-fbk0v1",
+    "1790696382713-52nyy4"
   ],
-  "updateTime": "2026/10/20 22:03:42"
+  "updateTime": "2026/10/20 22:03:55"
 }

@@ -3848,7 +3848,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3859,7 +3859,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1792418552121-tenl4f",
-      "updatedAt": 1792418552121,
+      "updatedAt": 1792467192295,
       "createdAt": 1792418362983
     },
     {
@@ -4282,5 +4282,5 @@
     "1792378097273-7yjxhk",
     "1792261278107-2zyxaz"
   ],
-  "updateTime": "2026/10/20 11:01:31"
+  "updateTime": "2026/10/20 11:33:15"
 }

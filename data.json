@@ -3881,26 +3881,6 @@
       "id": "1792418594262-s59zt4",
       "updatedAt": 1792418594262,
       "createdAt": 1792418400141
-    },
-    {
-      "text": "中基确认收到光电，然后寄光电开关",
-      "date": "2026-10-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792420499041-xo7l6s",
-      "updatedAt": 1792420513487,
-      "createdAt": 1792420304594
     }
   ],
   "workList": [
@@ -4261,7 +4241,8 @@
     "1792373738859-ne8db0",
     "1792378097273-7yjxhk",
     "1792261278107-2zyxaz",
-    "1792381302301-nq6n88"
+    "1792381302301-nq6n88",
+    "1792420499041-xo7l6s"
   ],
-  "updateTime": "2026/10/20 17:07:17"
+  "updateTime": "2026/10/20 17:07:25"
 }

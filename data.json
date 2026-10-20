@@ -3499,7 +3499,7 @@
     },
     {
       "text": "艾文退货申请",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3510,12 +3510,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1791899043287-lqcxxe",
       "createdAt": 1792334788175,
-      "updatedAt": 1792338090409
+      "updatedAt": 1792495321843
     },
     {
       "text": "问中基金龙羽项目情况",
@@ -4264,5 +4264,5 @@
     "1792381302301-nq6n88",
     "1792420499041-xo7l6s"
   ],
-  "updateTime": "2026/10/20 18:43:22"
+  "updateTime": "2026/10/20 19:22:05"
 }

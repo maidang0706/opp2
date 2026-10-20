@@ -3881,6 +3881,26 @@
       "id": "1792418594262-s59zt4",
       "updatedAt": 1792418594262,
       "createdAt": 1792418400141
+    },
+    {
+      "text": "中欣报价",
+      "date": "2026-10-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792492998125-calt1n",
+      "updatedAt": 1792492998125,
+      "createdAt": 1792492804340
     }
   ],
   "workList": [
@@ -4244,5 +4264,5 @@
     "1792381302301-nq6n88",
     "1792420499041-xo7l6s"
   ],
-  "updateTime": "2026/10/20 18:43:15"
+  "updateTime": "2026/10/20 18:43:22"
 }

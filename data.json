@@ -3603,7 +3603,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3615,7 +3615,7 @@
       "onlyDone": [],
       "id": "1792069817432-qt7z34",
       "createdAt": 1792334782175,
-      "updatedAt": 1792485904192
+      "updatedAt": 1792487224313
     },
     {
       "text": "博滔动子选型",
@@ -4263,5 +4263,5 @@
     "1792261278107-2zyxaz",
     "1792381302301-nq6n88"
   ],
-  "updateTime": "2026/10/20 17:06:57"
+  "updateTime": "2026/10/20 17:07:08"
 }

@@ -3785,7 +3785,7 @@
     },
     {
       "text": "中基模组返工",
-      "date": "2026-10-20",
+      "date": "2026-10-22",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3800,7 +3800,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1792418581683-9r5nzc",
-      "updatedAt": 1792418581683,
+      "updatedAt": 1792586720190,
       "createdAt": 1792418389264
     },
     {
@@ -3862,26 +3862,6 @@
       "id": "1792495548917-rmk8cl",
       "updatedAt": 1792495548917,
       "createdAt": 1792495353253
-    },
-    {
-      "text": "精朗出图",
-      "date": "2026-10-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792504824837-6dx8u1",
-      "updatedAt": 1792504824838,
-      "createdAt": 1792504627653
     },
     {
       "text": "中欣龙门线怎么操作",
@@ -4287,7 +4267,8 @@
     "1791126180663-fbk0v1",
     "1790696382713-52nyy4",
     "1791376020253-s53ub1",
-    "1792504833989-398ws6"
+    "1792504833989-398ws6",
+    "1792504824837-6dx8u1"
   ],
-  "updateTime": "2026/10/21 20:45:16"
+  "updateTime": "2026/10/21 20:45:26"
 }

@@ -3842,26 +3842,6 @@
       "id": "1792586661946-coocj2",
       "updatedAt": 1792586661946,
       "createdAt": 1792586468111
-    },
-    {
-      "text": "博滔发电机",
-      "date": "2026-10-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792586779668-j3nt9n",
-      "updatedAt": 1792586779668,
-      "createdAt": 1792586585523
     }
   ],
   "workList": [
@@ -4231,7 +4211,8 @@
     "1792504824837-6dx8u1",
     "1792495548917-rmk8cl",
     "1792492998125-calt1n",
-    "1792418594262-s59zt4"
+    "1792418594262-s59zt4",
+    "1792586779668-j3nt9n"
   ],
-  "updateTime": "2026/10/21 21:12:16"
+  "updateTime": "2026/10/21 21:12:53"
 }

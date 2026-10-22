@@ -3797,10 +3797,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792586648944-nxemhd",
-      "updatedAt": 1792586648944,
+      "updatedAt": 1792638119264,
       "createdAt": 1792586455399
     },
     {
@@ -4255,5 +4255,5 @@
     "1792586779668-j3nt9n",
     "1791899043287-lqcxxe"
   ],
-  "updateTime": "2026/10/22 11:01:58"
+  "updateTime": "2026/10/22 11:02:04"
 }

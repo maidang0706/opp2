@@ -3438,26 +3438,6 @@
       "updatedAt": 1792334789175
     },
     {
-      "text": "问中基金龙羽项目情况",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792068858088-axpx4u",
-      "createdAt": 1792334786175,
-      "updatedAt": 1792334786175
-    },
-    {
       "text": "鼎泰威，精朗，中欣，捷牛",
       "date": "2026-10-19",
       "time": "",
@@ -4418,7 +4398,8 @@
     "1792586648944-nxemhd",
     "1792586661946-coocj2",
     "1792590164105-zkuqli",
-    "1792418581683-9r5nzc"
+    "1792418581683-9r5nzc",
+    "1792068858088-axpx4u"
   ],
-  "updateTime": "2026/10/22 21:19:28"
+  "updateTime": "2026/10/22 21:30:52"
 }

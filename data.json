@@ -3764,26 +3764,6 @@
       "createdAt": 1792418362983
     },
     {
-      "text": "发中基模组返工",
-      "date": "2026-10-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792418581683-9r5nzc",
-      "updatedAt": 1792588330579,
-      "createdAt": 1792418389264
-    },
-    {
       "text": "确认艾文的退货",
       "date": "2026-10-23",
       "time": "",
@@ -3802,26 +3782,6 @@
       "id": "1792589832820-tzu9ma",
       "updatedAt": 1792673362896,
       "createdAt": 1792589651614
-    },
-    {
-      "text": "和童工确认模组配置",
-      "date": "2026-10-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792590164105-zkuqli",
-      "updatedAt": 1792638616113,
-      "createdAt": 1792589970339
     },
     {
       "text": "汇艺送货单",
@@ -4256,7 +4216,9 @@
     "1791899043287-lqcxxe",
     "1792589873058-j1jl61",
     "1792586648944-nxemhd",
-    "1792586661946-coocj2"
+    "1792586661946-coocj2",
+    "1792590164105-zkuqli",
+    "1792418581683-9r5nzc"
   ],
-  "updateTime": "2026/10/22 20:49:31"
+  "updateTime": "2026/10/22 20:49:38"
 }

@@ -3817,10 +3817,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792586661946-coocj2",
-      "updatedAt": 1792586661946,
+      "updatedAt": 1792638610742,
       "createdAt": 1792586468111
     },
     {
@@ -4255,5 +4255,5 @@
     "1792586779668-j3nt9n",
     "1791899043287-lqcxxe"
   ],
-  "updateTime": "2026/10/22 11:02:04"
+  "updateTime": "2026/10/22 11:10:13"
 }

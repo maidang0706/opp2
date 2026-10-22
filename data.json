@@ -3862,6 +3862,26 @@
       "id": "1792673420214-6s8s10",
       "updatedAt": 1792673420214,
       "createdAt": 1792673229857
+    },
+    {
+      "text": "李桥文模组3D",
+      "date": "2026-10-23",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792673468538-71ygc2",
+      "updatedAt": 1792673468538,
+      "createdAt": 1792673277698
     }
   ],
   "workList": [
@@ -4240,5 +4260,5 @@
     "1792590164105-zkuqli",
     "1792418581683-9r5nzc"
   ],
-  "updateTime": "2026/10/22 20:50:25"
+  "updateTime": "2026/10/22 20:51:14"
 }

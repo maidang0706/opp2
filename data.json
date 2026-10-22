@@ -3902,6 +3902,26 @@
       "id": "1792659123481-b0pn0n",
       "updatedAt": 1792659123482,
       "createdAt": 1792658929020
+    },
+    {
+      "text": "卓誉要的端子",
+      "date": "2026-10-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792673339954-nf9r3l",
+      "updatedAt": 1792673339954,
+      "createdAt": 1792673146799
     }
   ],
   "workList": [
@@ -4275,5 +4295,5 @@
     "1792586779668-j3nt9n",
     "1791899043287-lqcxxe"
   ],
-  "updateTime": "2026/10/22 20:48:16"
+  "updateTime": "2026/10/22 20:49:05"
 }

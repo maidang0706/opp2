@@ -3902,6 +3902,26 @@
       "id": "1792673506026-na78yb",
       "updatedAt": 1792673511707,
       "createdAt": 1792673318377
+    },
+    {
+      "text": "吉祥云拉群",
+      "date": "2026-10-23",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792673526151-h4huja",
+      "updatedAt": 1792673526151,
+      "createdAt": 1792673335582
     }
   ],
   "workList": [
@@ -4280,5 +4300,5 @@
     "1792590164105-zkuqli",
     "1792418581683-9r5nzc"
   ],
-  "updateTime": "2026/10/22 20:52:05"
+  "updateTime": "2026/10/22 20:52:14"
 }

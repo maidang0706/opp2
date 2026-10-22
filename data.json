@@ -3844,26 +3844,6 @@
       "createdAt": 1792589651614
     },
     {
-      "text": "誉昊订单",
-      "date": "2026-10-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792589873058-j1jl61",
-      "updatedAt": 1792589873058,
-      "createdAt": 1792589687412
-    },
-    {
       "text": "和童工确认模组配置",
       "date": "2026-10-22",
       "time": "",
@@ -3922,6 +3902,26 @@
       "id": "1792673339954-nf9r3l",
       "updatedAt": 1792673339954,
       "createdAt": 1792673146799
+    },
+    {
+      "text": "誉昊订单加借出领料",
+      "date": "2026-10-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792673353453-lrveqd",
+      "updatedAt": 1792673353453,
+      "createdAt": 1792673159555
     }
   ],
   "workList": [
@@ -4293,7 +4293,8 @@
     "1792492998125-calt1n",
     "1792418594262-s59zt4",
     "1792586779668-j3nt9n",
-    "1791899043287-lqcxxe"
+    "1791899043287-lqcxxe",
+    "1792589873058-j1jl61"
   ],
-  "updateTime": "2026/10/22 20:49:05"
+  "updateTime": "2026/10/22 20:49:18"
 }

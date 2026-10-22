@@ -3962,6 +3962,26 @@
       "id": "1792673701171-lozuvb",
       "updatedAt": 1792673701171,
       "createdAt": 1792673505419
+    },
+    {
+      "text": "中基申请光电座",
+      "date": "2026-10-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792673760050-scbytr",
+      "updatedAt": 1792673760050,
+      "createdAt": 1792673563564
     }
   ],
   "workList": [
@@ -4340,5 +4360,5 @@
     "1792590164105-zkuqli",
     "1792418581683-9r5nzc"
   ],
-  "updateTime": "2026/10/22 20:55:06"
+  "updateTime": "2026/10/22 20:56:05"
 }

@@ -3966,8 +3966,8 @@
     {
       "text": "中基申请光电座",
       "date": "2026-10-23",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3980,7 +3980,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1792673760050-scbytr",
-      "updatedAt": 1792673760050,
+      "updatedAt": 1792673771235,
       "createdAt": 1792673563564
     }
   ],
@@ -4360,5 +4360,5 @@
     "1792590164105-zkuqli",
     "1792418581683-9r5nzc"
   ],
-  "updateTime": "2026/10/22 20:56:05"
+  "updateTime": "2026/10/22 20:56:16"
 }

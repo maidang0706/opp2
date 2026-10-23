@@ -3864,26 +3864,6 @@
       "createdAt": 1792673318377
     },
     {
-      "text": "吉祥云拉群",
-      "date": "2026-10-23",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792673526151-h4huja",
-      "updatedAt": 1792716384346,
-      "createdAt": 1792673335582
-    },
-    {
       "text": "精朗发栅尺",
       "date": "2026-10-24",
       "time": "",
@@ -4380,7 +4360,8 @@
     "1792590164105-zkuqli",
     "1792418581683-9r5nzc",
     "1792068858088-axpx4u",
-    "1792673468538-71ygc2"
+    "1792673468538-71ygc2",
+    "1792673526151-h4huja"
   ],
-  "updateTime": "2026/10/23 09:11:42"
+  "updateTime": "2026/10/23 09:11:46"
 }

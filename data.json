@@ -3942,6 +3942,26 @@
       "id": "1792674964923-dvsnh9",
       "updatedAt": 1792675128955,
       "createdAt": 1792674763820
+    },
+    {
+      "text": "海得地交期",
+      "date": "2026-10-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792719350794-itk4xn",
+      "updatedAt": 1792719350794,
+      "createdAt": 1792719152206
     }
   ],
   "workList": [
@@ -4325,5 +4345,5 @@
     "1792673974977-s30egw",
     "1792659123481-b0pn0n"
   ],
-  "updateTime": "2026/10/23 09:25:35"
+  "updateTime": "2026/10/23 09:35:53"
 }

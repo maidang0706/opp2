@@ -3829,7 +3829,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3840,7 +3840,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1792673506026-na78yb",
-      "updatedAt": 1792673511707,
+      "updatedAt": 1792723987834,
       "createdAt": 1792673318377
     },
     {
@@ -4345,5 +4345,5 @@
     "1792673974977-s30egw",
     "1792659123481-b0pn0n"
   ],
-  "updateTime": "2026/10/23 10:06:57"
+  "updateTime": "2026/10/23 10:53:10"
 }

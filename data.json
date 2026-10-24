@@ -3982,6 +3982,26 @@
       "id": "1792814032252-tuynch",
       "updatedAt": 1792814032252,
       "createdAt": 1792813833126
+    },
+    {
+      "text": "中基还有两条线缆要换",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792829127194-hn9trq",
+      "updatedAt": 1792829127195,
+      "createdAt": 1792828928300
     }
   ],
   "workList": [
@@ -4365,5 +4385,5 @@
     "1792673974977-s30egw",
     "1792659123481-b0pn0n"
   ],
-  "updateTime": "2026/10/24 16:05:14"
+  "updateTime": "2026/10/24 16:05:31"
 }

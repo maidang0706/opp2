@@ -3962,6 +3962,26 @@
       "id": "1792719350794-itk4xn",
       "updatedAt": 1792719350794,
       "createdAt": 1792719152206
+    },
+    {
+      "text": "中基合同回传",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792814032252-tuynch",
+      "updatedAt": 1792814032252,
+      "createdAt": 1792813833126
     }
   ],
   "workList": [
@@ -4345,5 +4365,5 @@
     "1792673974977-s30egw",
     "1792659123481-b0pn0n"
   ],
-  "updateTime": "2026/10/23 15:18:42"
+  "updateTime": "2026/10/24 11:53:55"
 }

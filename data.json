@@ -3777,10 +3777,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792673339954-nf9r3l",
-      "updatedAt": 1792673339954,
+      "updatedAt": 1792930760841,
       "createdAt": 1792673146799
     },
     {
@@ -3797,10 +3797,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792673353453-lrveqd",
-      "updatedAt": 1792673353453,
+      "updatedAt": 1792930763607,
       "createdAt": 1792673159555
     },
     {
@@ -4445,5 +4445,5 @@
     "1792673974977-s30egw",
     "1792659123481-b0pn0n"
   ],
-  "updateTime": "2026/10/25 20:19:19"
+  "updateTime": "2026/10/25 20:19:24"
 }

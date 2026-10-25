@@ -3657,11 +3657,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792589832820-tzu9ma",
-      "updatedAt": 1792940267308,
+      "updatedAt": 1792941450756,
       "createdAt": 1792589651614
     },
     {
@@ -4240,5 +4240,5 @@
     "1792068962342-16mu38",
     "1792673506026-na78yb"
   ],
-  "updateTime": "2026/10/25 23:17:26"
+  "updateTime": "2026/10/25 23:17:39"
 }

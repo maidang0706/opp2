@@ -3498,26 +3498,6 @@
       "updatedAt": 1792586804684
     },
     {
-      "text": "尽快处理借出，年底要发函",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792119961195-1urov0",
-      "createdAt": 1792334779175,
-      "updatedAt": 1792338203278
-    },
-    {
       "text": "公众号文章监控修复",
       "date": "2026-10-17",
       "time": "",
@@ -4293,7 +4273,8 @@
     "1792673539609-ot6xw1",
     "1792924789714-xyaz9d",
     "1791897888107-rtweh8",
-    "1792069778819-8zgwvi"
+    "1792069778819-8zgwvi",
+    "1792119961195-1urov0"
   ],
-  "updateTime": "2026/10/25 22:58:57"
+  "updateTime": "2026/10/25 22:59:06"
 }

@@ -3764,26 +3764,6 @@
       "createdAt": 1792589651614
     },
     {
-      "text": "卓誉要的端子",
-      "date": "2026-10-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792673339954-nf9r3l",
-      "updatedAt": 1792930760841,
-      "createdAt": 1792673146799
-    },
-    {
       "text": "誉昊订单加借出领料",
       "date": "2026-10-23",
       "time": "",
@@ -3802,26 +3782,6 @@
       "id": "1792673353453-lrveqd",
       "updatedAt": 1792930763607,
       "createdAt": 1792673159555
-    },
-    {
-      "text": "刘付星去中基贴栅尺和培训",
-      "date": "2026-10-23",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792673420214-6s8s10",
-      "updatedAt": 1792930756012,
-      "createdAt": 1792673229857
     },
     {
       "text": "承诺函",
@@ -3882,26 +3842,6 @@
       "id": "1792673701171-lozuvb",
       "updatedAt": 1792673701171,
       "createdAt": 1792673505419
-    },
-    {
-      "text": "中基申请光电座和检测片",
-      "date": "2026-10-23",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792673760050-scbytr",
-      "updatedAt": 1792930751613,
-      "createdAt": 1792673563564
     },
     {
       "text": "桃子自动化",
@@ -4444,7 +4384,10 @@
     "1792673526151-h4huja",
     "1792673974977-s30egw",
     "1792659123481-b0pn0n",
-    "1792836336506-bnl4lj"
+    "1792836336506-bnl4lj",
+    "1792673760050-scbytr",
+    "1792673420214-6s8s10",
+    "1792673339954-nf9r3l"
   ],
-  "updateTime": "2026/10/25 20:23:45"
+  "updateTime": "2026/10/25 20:26:09"
 }

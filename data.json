@@ -3379,7 +3379,7 @@
     },
     {
       "text": "艾贝特费用",
-      "date": "2026-10-27",
+      "date": "2026-10-26",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3390,12 +3390,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1791724099601-7jwrbq",
       "createdAt": 1792334791175,
-      "updatedAt": 1792940306546
+      "updatedAt": 1792940736434
     },
     {
       "text": "中基何元中申请光电开关和光电开关座",
@@ -3539,7 +3539,7 @@
     },
     {
       "text": "精智达选型",
-      "date": "2026-10-27",
+      "date": "2026-10-26",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3550,12 +3550,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792330335781-8i80oc",
       "createdAt": 1792334223036,
-      "updatedAt": 1792940330351,
+      "updatedAt": 1792940739730,
       "dev": "未知"
     },
     {
@@ -3580,7 +3580,7 @@
     },
     {
       "text": "搭ai知识库，抖音监控，行业机型了解",
-      "date": "2026-10-27",
+      "date": "2026-10-26",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3591,11 +3591,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792343538885-ayqupu",
-      "updatedAt": 1792940336692,
+      "updatedAt": 1792940742443,
       "createdAt": 1792343336449
     },
     {
@@ -4219,5 +4219,5 @@
     "1792068962342-16mu38",
     "1792673506026-na78yb"
   ],
-  "updateTime": "2026/10/25 22:59:47"
+  "updateTime": "2026/10/25 23:05:42"
 }

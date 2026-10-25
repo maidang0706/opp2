@@ -3519,7 +3519,7 @@
     },
     {
       "text": "中基清陶多的模组是WON导轨，雄韬要求用上银有无问题，多动子问清楚配的光电个数",
-      "date": "2026-10-19",
+      "date": "2026-10-27",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3530,12 +3530,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792212590730-6tmtci",
       "createdAt": 1792334771175,
-      "updatedAt": 1792724540522
+      "updatedAt": 1792940354575
     },
     {
       "text": "整理销售技巧到workbuddy里面",
@@ -4276,5 +4276,5 @@
     "1792069778819-8zgwvi",
     "1792119961195-1urov0"
   ],
-  "updateTime": "2026/10/25 22:59:06"
+  "updateTime": "2026/10/25 22:59:15"
 }

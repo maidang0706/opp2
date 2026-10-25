@@ -3458,26 +3458,6 @@
       "updatedAt": 1792940249252
     },
     {
-      "text": "雄韬项目消耗中基库存模组",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792069778819-8zgwvi",
-      "createdAt": 1792334783175,
-      "updatedAt": 1792338181950
-    },
-    {
       "text": "捷佳伟创对账单",
       "date": "2026-10-26",
       "time": "",
@@ -4312,7 +4292,8 @@
     "1792719350794-itk4xn",
     "1792673539609-ot6xw1",
     "1792924789714-xyaz9d",
-    "1791897888107-rtweh8"
+    "1791897888107-rtweh8",
+    "1792069778819-8zgwvi"
   ],
-  "updateTime": "2026/10/25 22:58:33"
+  "updateTime": "2026/10/25 22:58:40"
 }

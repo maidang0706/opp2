@@ -3784,26 +3784,6 @@
       "createdAt": 1792673318377
     },
     {
-      "text": "精朗发栅尺",
-      "date": "2026-10-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792673539609-ot6xw1",
-      "updatedAt": 1792930770278,
-      "createdAt": 1792673351120
-    },
-    {
       "text": "安排人去精朗拼接",
       "date": "2026-10-26",
       "time": "",
@@ -4349,7 +4329,8 @@
     "1792673420214-6s8s10",
     "1792673339954-nf9r3l",
     "1792673353453-lrveqd",
-    "1792719350794-itk4xn"
+    "1792719350794-itk4xn",
+    "1792673539609-ot6xw1"
   ],
-  "updateTime": "2026/10/25 20:26:14"
+  "updateTime": "2026/10/25 20:26:20"
 }

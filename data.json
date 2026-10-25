@@ -3843,6 +3843,26 @@
       "id": "1792941430293-cbkjld",
       "updatedAt": 1792941430293,
       "createdAt": 1792941241081
+    },
+    {
+      "text": "XM方案里面的数量搞混了",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792947965114-3sh6la",
+      "updatedAt": 1792947965114,
+      "createdAt": 1792947771475
     }
   ],
   "workList": [
@@ -4240,5 +4260,5 @@
     "1792068962342-16mu38",
     "1792673506026-na78yb"
   ],
-  "updateTime": "2026/10/26 01:05:53"
+  "updateTime": "2026/10/26 01:06:07"
 }

@@ -3897,10 +3897,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792673760050-scbytr",
-      "updatedAt": 1792721214206,
+      "updatedAt": 1792930751613,
       "createdAt": 1792673563564
     },
     {
@@ -4445,5 +4445,5 @@
     "1792673974977-s30egw",
     "1792659123481-b0pn0n"
   ],
-  "updateTime": "2026/10/25 20:19:05"
+  "updateTime": "2026/10/25 20:19:15"
 }

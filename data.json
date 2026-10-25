@@ -4062,6 +4062,26 @@
       "id": "1792924789714-xyaz9d",
       "updatedAt": 1792924789715,
       "createdAt": 1792924586805
+    },
+    {
+      "text": "宏唯给图纸和报价",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792930791052-t2ahab",
+      "updatedAt": 1792930791053,
+      "createdAt": 1792930588949
     }
   ],
   "workList": [
@@ -4445,5 +4465,5 @@
     "1792673974977-s30egw",
     "1792659123481-b0pn0n"
   ],
-  "updateTime": "2026/10/25 20:19:40"
+  "updateTime": "2026/10/25 20:19:55"
 }

@@ -4042,6 +4042,26 @@
       "id": "1792836336506-bnl4lj",
       "updatedAt": 1792836336506,
       "createdAt": 1792836140169
+    },
+    {
+      "text": "XM方案表：机型列要合并，价格明细页面要多显示的内容增加进去",
+      "date": "2026-10-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792924789714-xyaz9d",
+      "updatedAt": 1792924789715,
+      "createdAt": 1792924586805
     }
   ],
   "workList": [
@@ -4425,5 +4445,5 @@
     "1792673974977-s30egw",
     "1792659123481-b0pn0n"
   ],
-  "updateTime": "2026/10/25 18:39:00"
+  "updateTime": "2026/10/25 18:39:52"
 }

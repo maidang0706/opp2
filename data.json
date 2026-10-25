@@ -3418,26 +3418,6 @@
       "updatedAt": 1792334789175
     },
     {
-      "text": "鼎泰威，精朗，中欣，捷牛",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792068962342-16mu38",
-      "createdAt": 1792334785175,
-      "updatedAt": 1792675162227
-    },
-    {
       "text": "催款：卓誉，精朗，深圳中基，襄阳中基，捷佳伟创，誉辰，誉昊",
       "date": "2026-10-26",
       "time": "",
@@ -3682,26 +3662,6 @@
       "id": "1792589832820-tzu9ma",
       "updatedAt": 1792940267308,
       "createdAt": 1792589651614
-    },
-    {
-      "text": "承诺函",
-      "date": "2026-10-23",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792673506026-na78yb",
-      "updatedAt": 1792940255905,
-      "createdAt": 1792673318377
     },
     {
       "text": "安排人去精朗拼接",
@@ -4255,7 +4215,9 @@
     "1791897888107-rtweh8",
     "1792069778819-8zgwvi",
     "1792119961195-1urov0",
-    "1792343619829-q5jgvf"
+    "1792343619829-q5jgvf",
+    "1792068962342-16mu38",
+    "1792673506026-na78yb"
   ],
-  "updateTime": "2026/10/25 22:59:32"
+  "updateTime": "2026/10/25 22:59:40"
 }

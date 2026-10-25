@@ -3823,6 +3823,26 @@
       "id": "1792931275378-dsj1ps",
       "updatedAt": 1792940881336,
       "createdAt": 1792931077114
+    },
+    {
+      "text": "吉祥云问题沟通",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792941430293-cbkjld",
+      "updatedAt": 1792941430293,
+      "createdAt": 1792941241081
     }
   ],
   "workList": [
@@ -4220,5 +4240,5 @@
     "1792068962342-16mu38",
     "1792673506026-na78yb"
   ],
-  "updateTime": "2026/10/25 23:17:00"
+  "updateTime": "2026/10/25 23:17:16"
 }

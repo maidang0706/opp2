@@ -3580,7 +3580,7 @@
     },
     {
       "text": "誉昊，中基下单的时候销借用",
-      "date": "2026-10-19",
+      "date": "2026-10-27",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3591,11 +3591,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792338029978-n7zzw9",
-      "updatedAt": 1792589851966,
+      "updatedAt": 1792940364441,
       "createdAt": 1792337830540
     },
     {
@@ -3617,26 +3617,6 @@
       "id": "1792343538885-ayqupu",
       "updatedAt": 1792940336692,
       "createdAt": 1792343336449
-    },
-    {
-      "text": "订单明细区分我和朗仪填写的内容",
-      "date": "2026-10-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792343619829-q5jgvf",
-      "updatedAt": 1792343619829,
-      "createdAt": 1792343416850
     },
     {
       "text": "公司客户汇报",
@@ -4274,7 +4254,8 @@
     "1792924789714-xyaz9d",
     "1791897888107-rtweh8",
     "1792069778819-8zgwvi",
-    "1792119961195-1urov0"
+    "1792119961195-1urov0",
+    "1792343619829-q5jgvf"
   ],
-  "updateTime": "2026/10/25 22:59:24"
+  "updateTime": "2026/10/25 22:59:32"
 }

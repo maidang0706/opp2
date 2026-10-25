@@ -3942,6 +3942,26 @@
       "id": "1792930791052-t2ahab",
       "updatedAt": 1792930791053,
       "createdAt": 1792930588949
+    },
+    {
+      "text": "中基，精朗，誉辰，誉昊，宏唯，卓誉，捷佳伟创，联申达，博杰，捷牛，精智达",
+      "date": "2026-10-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792931275378-dsj1ps",
+      "updatedAt": 1792931275378,
+      "createdAt": 1792931077114
     }
   ],
   "workList": [
@@ -4332,5 +4352,5 @@
     "1792719350794-itk4xn",
     "1792673539609-ot6xw1"
   ],
-  "updateTime": "2026/10/25 20:26:27"
+  "updateTime": "2026/10/25 20:27:58"
 }

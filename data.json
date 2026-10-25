@@ -3459,7 +3459,7 @@
     },
     {
       "text": "催款：卓誉，精朗，深圳中基，襄阳中基，捷佳伟创，誉辰，誉昊",
-      "date": "2026-10-19",
+      "date": "2026-10-26",
       "time": "",
       "isAllDay": true,
       "isVisit": true,
@@ -3470,12 +3470,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792068977043-131gin",
       "createdAt": 1792334784175,
-      "updatedAt": 1792467718844
+      "updatedAt": 1792940249252
     },
     {
       "text": "雄韬项目消耗中基库存模组",
@@ -4333,5 +4333,5 @@
     "1792673539609-ot6xw1",
     "1792924789714-xyaz9d"
   ],
-  "updateTime": "2026/10/25 22:57:19"
+  "updateTime": "2026/10/25 22:57:35"
 }

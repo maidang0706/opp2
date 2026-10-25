@@ -3579,7 +3579,7 @@
     },
     {
       "text": "精智达选型",
-      "date": "2026-10-19",
+      "date": "2026-10-27",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3590,12 +3590,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792330335781-8i80oc",
       "createdAt": 1792334223036,
-      "updatedAt": 1792374425935,
+      "updatedAt": 1792940330351,
       "dev": "未知"
     },
     {
@@ -3620,7 +3620,7 @@
     },
     {
       "text": "搭ai知识库，抖音监控，行业机型了解",
-      "date": "2026-10-19",
+      "date": "2026-10-27",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3631,11 +3631,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792343538885-ayqupu",
-      "updatedAt": 1792343538885,
+      "updatedAt": 1792940336692,
       "createdAt": 1792343336449
     },
     {
@@ -4295,5 +4295,5 @@
     "1791897888107-rtweh8",
     "1792069778819-8zgwvi"
   ],
-  "updateTime": "2026/10/25 22:58:49"
+  "updateTime": "2026/10/25 22:58:57"
 }

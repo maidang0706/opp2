@@ -3726,26 +3726,6 @@
       "createdAt": 1792931077114
     },
     {
-      "text": "吉祥云问题沟通",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792941430293-cbkjld",
-      "updatedAt": 1792941430293,
-      "createdAt": 1792941241081
-    },
-    {
       "text": "XM方案里面的数量搞混了",
       "date": "2026-10-26",
       "time": "",
@@ -4225,7 +4205,8 @@
     "1792673935547-7g7vxz",
     "1792976933104-7d420m",
     "1792829127194-hn9trq",
-    "1792069817432-qt7z34"
+    "1792069817432-qt7z34",
+    "1792941430293-cbkjld"
   ],
-  "updateTime": "2026/10/26 19:13:41"
+  "updateTime": "2026/10/26 19:13:46"
 }

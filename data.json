@@ -3883,6 +3883,26 @@
       "id": "1792976933104-7d420m",
       "updatedAt": 1792976933104,
       "createdAt": 1792976738762
+    },
+    {
+      "text": "立创达",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792980048852-jn84oq",
+      "updatedAt": 1792980048852,
+      "createdAt": 1792979853343
     }
   ],
   "workList": [
@@ -4280,5 +4300,5 @@
     "1792068962342-16mu38",
     "1792673506026-na78yb"
   ],
-  "updateTime": "2026/10/26 09:08:55"
+  "updateTime": "2026/10/26 10:00:51"
 }

@@ -3804,6 +3804,28 @@
       "id": "1793013219789-jnaq8j",
       "updatedAt": 1793013219789,
       "createdAt": 1793013027974
+    },
+    {
+      "text": "WSB",
+      "date": "2026-10-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 2,
+        "days": [
+          27
+        ],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793037046191-uiwcce",
+      "updatedAt": 1793037046192,
+      "createdAt": 1793036855548
     }
   ],
   "workList": [
@@ -4208,5 +4230,5 @@
     "1792069817432-qt7z34",
     "1792941430293-cbkjld"
   ],
-  "updateTime": "2026/10/27 01:50:28"
+  "updateTime": "2026/10/27 01:50:49"
 }

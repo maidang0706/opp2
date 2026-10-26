@@ -3898,11 +3898,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792980048852-jn84oq",
-      "updatedAt": 1792980048852,
+      "updatedAt": 1792981258537,
       "createdAt": 1792979853343
     }
   ],
@@ -4301,5 +4301,5 @@
     "1792068962342-16mu38",
     "1792673506026-na78yb"
   ],
-  "updateTime": "2026/10/26 10:20:54"
+  "updateTime": "2026/10/26 10:21:01"
 }

@@ -3839,10 +3839,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1792976933104-7d420m",
-      "updatedAt": 1792976933104,
+      "updatedAt": 1793003865011,
       "createdAt": 1792976738762
     },
     {
@@ -4283,5 +4283,5 @@
     "1792814032252-tuynch",
     "1792673701171-lozuvb"
   ],
-  "updateTime": "2026/10/26 16:37:33"
+  "updateTime": "2026/10/26 16:37:47"
 }

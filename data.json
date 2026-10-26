@@ -3884,6 +3884,26 @@
       "id": "1792980048852-jn84oq",
       "updatedAt": 1792981258537,
       "createdAt": 1792979853343
+    },
+    {
+      "text": "物料分拣系统是否用直线电机？",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792983449908-exyq4i",
+      "updatedAt": 1792983449909,
+      "createdAt": 1792983254576
     }
   ],
   "workList": [
@@ -4282,5 +4302,5 @@
     "1792673506026-na78yb",
     "1792814032252-tuynch"
   ],
-  "updateTime": "2026/10/26 10:21:29"
+  "updateTime": "2026/10/26 10:57:32"
 }

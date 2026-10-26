@@ -3863,6 +3863,26 @@
       "id": "1792947965114-3sh6la",
       "updatedAt": 1792947965114,
       "createdAt": 1792947771475
+    },
+    {
+      "text": "叁迪要5个光电",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1792976933104-7d420m",
+      "updatedAt": 1792976933104,
+      "createdAt": 1792976738762
     }
   ],
   "workList": [
@@ -4260,5 +4280,5 @@
     "1792068962342-16mu38",
     "1792673506026-na78yb"
   ],
-  "updateTime": "2026/10/26 09:07:37"
+  "updateTime": "2026/10/26 09:08:55"
 }

@@ -3666,26 +3666,6 @@
       "createdAt": 1792589651614
     },
     {
-      "text": "安排人去精朗拼接",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792673701171-lozuvb",
-      "updatedAt": 1792987290690,
-      "createdAt": 1792673505419
-    },
-    {
       "text": "桃子自动化",
       "date": "2026-10-26",
       "time": "14:00",
@@ -4300,7 +4280,8 @@
     "1792343619829-q5jgvf",
     "1792068962342-16mu38",
     "1792673506026-na78yb",
-    "1792814032252-tuynch"
+    "1792814032252-tuynch",
+    "1792673701171-lozuvb"
   ],
-  "updateTime": "2026/10/26 12:01:32"
+  "updateTime": "2026/10/26 12:01:38"
 }

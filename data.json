@@ -3439,26 +3439,6 @@
       "updatedAt": 1792940761890
     },
     {
-      "text": "捷佳伟创对账单",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792069817432-qt7z34",
-      "createdAt": 1792334782175,
-      "updatedAt": 1792940232780
-    },
-    {
       "text": "博滔动子选型",
       "date": "2026-10-19",
       "time": "",
@@ -4224,7 +4204,8 @@
     "1792673701171-lozuvb",
     "1792673935547-7g7vxz",
     "1792976933104-7d420m",
-    "1792829127194-hn9trq"
+    "1792829127194-hn9trq",
+    "1792069817432-qt7z34"
   ],
-  "updateTime": "2026/10/26 19:10:47"
+  "updateTime": "2026/10/26 19:10:51"
 }

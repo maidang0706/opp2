@@ -3726,26 +3726,6 @@
       "createdAt": 1792674763820
     },
     {
-      "text": "中基合同回传",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792814032252-tuynch",
-      "updatedAt": 1792814032252,
-      "createdAt": 1792813833126
-    },
-    {
       "text": "中基还有两条线缆要换",
       "date": "2026-10-26",
       "time": "",
@@ -4299,7 +4279,8 @@
     "1792119961195-1urov0",
     "1792343619829-q5jgvf",
     "1792068962342-16mu38",
-    "1792673506026-na78yb"
+    "1792673506026-na78yb",
+    "1792814032252-tuynch"
   ],
-  "updateTime": "2026/10/26 10:21:01"
+  "updateTime": "2026/10/26 10:21:29"
 }

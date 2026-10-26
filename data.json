@@ -3666,26 +3666,6 @@
       "createdAt": 1792589651614
     },
     {
-      "text": "桃子自动化",
-      "date": "2026-10-26",
-      "time": "14:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792673935547-7g7vxz",
-      "updatedAt": 1793003868993,
-      "createdAt": 1792673738580
-    },
-    {
       "text": "整理费用futian",
       "date": "2026-10-25",
       "time": "",
@@ -3824,26 +3804,6 @@
       "id": "1792947965114-3sh6la",
       "updatedAt": 1792947965114,
       "createdAt": 1792947771475
-    },
-    {
-      "text": "叁迪要5个光电",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792976933104-7d420m",
-      "updatedAt": 1793003865011,
-      "createdAt": 1792976738762
     },
     {
       "text": "立创达",
@@ -4281,7 +4241,9 @@
     "1792068962342-16mu38",
     "1792673506026-na78yb",
     "1792814032252-tuynch",
-    "1792673701171-lozuvb"
+    "1792673701171-lozuvb",
+    "1792673935547-7g7vxz",
+    "1792976933104-7d420m"
   ],
-  "updateTime": "2026/10/26 19:10:31"
+  "updateTime": "2026/10/26 19:10:40"
 }

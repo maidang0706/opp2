@@ -3688,8 +3688,8 @@
     {
       "text": "宏唯",
       "date": "2026-10-27",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3702,7 +3702,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1792930791052-t2ahab",
-      "updatedAt": 1793015378479,
+      "updatedAt": 1793015382597,
       "createdAt": 1792930588949
     },
     {
@@ -4208,5 +4208,5 @@
     "1792069817432-qt7z34",
     "1792941430293-cbkjld"
   ],
-  "updateTime": "2026/10/26 19:49:41"
+  "updateTime": "2026/10/26 19:49:47"
 }

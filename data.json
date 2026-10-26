@@ -3686,26 +3686,6 @@
       "createdAt": 1792674763820
     },
     {
-      "text": "中基还有两条线缆要换",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1792829127194-hn9trq",
-      "updatedAt": 1793004648983,
-      "createdAt": 1792828928300
-    },
-    {
       "text": "精朗驱动器维修报价",
       "date": "2026-10-26",
       "time": "",
@@ -4243,7 +4223,8 @@
     "1792814032252-tuynch",
     "1792673701171-lozuvb",
     "1792673935547-7g7vxz",
-    "1792976933104-7d420m"
+    "1792976933104-7d420m",
+    "1792829127194-hn9trq"
   ],
-  "updateTime": "2026/10/26 19:10:40"
+  "updateTime": "2026/10/26 19:10:43"
 }

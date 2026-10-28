@@ -3769,26 +3769,6 @@
       "id": "1793159366379-4do104",
       "updatedAt": 1793159366379,
       "createdAt": 1793159178374
-    },
-    {
-      "text": "XM方案表，如果修改工况以后，我的excel表格怎么保存",
-      "date": "2026-10-28",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793190714309-ssehpv",
-      "updatedAt": 1793190714309,
-      "createdAt": 1793190529790
     }
   ],
   "workList": [
@@ -4195,7 +4175,8 @@
     "1792930791052-t2ahab",
     "1792947965114-3sh6la",
     "1793013219789-jnaq8j",
-    "1792836329447-m39a6p"
+    "1792836329447-m39a6p",
+    "1793190714309-ssehpv"
   ],
-  "updateTime": "2026/10/28 20:32:01"
+  "updateTime": "2026/10/28 22:50:50"
 }

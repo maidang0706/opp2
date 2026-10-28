@@ -3749,6 +3749,26 @@
       "id": "1793037046191-uiwcce",
       "updatedAt": 1793103402881,
       "createdAt": 1793036855548
+    },
+    {
+      "text": "中基维修驱动器",
+      "date": "2026-10-28",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793159366379-4do104",
+      "updatedAt": 1793159366379,
+      "createdAt": 1793159178374
     }
   ],
   "workList": [
@@ -4157,5 +4177,5 @@
     "1793013219789-jnaq8j",
     "1792836329447-m39a6p"
   ],
-  "updateTime": "2026/10/28 11:49:17"
+  "updateTime": "2026/10/28 11:49:29"
 }

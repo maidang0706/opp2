@@ -3852,6 +3852,26 @@
       "id": "1793283675086-402j50",
       "updatedAt": 1793283675086,
       "createdAt": 1793283482772
+    },
+    {
+      "text": "把微信收藏整理到IMA里面",
+      "date": "2026-10-31",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793283739756-bhqhwl",
+      "updatedAt": 1793283739756,
+      "createdAt": 1793283547033
     }
   ],
   "workList": [
@@ -4118,5 +4138,5 @@
     "1792589832820-tzu9ma",
     "1792980048852-jn84oq"
   ],
-  "updateTime": "2026/10/29 22:21:17"
+  "updateTime": "2026/10/29 22:22:23"
 }

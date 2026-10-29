@@ -3832,26 +3832,6 @@
       "createdAt": 1793244850525
     },
     {
-      "text": "吉祥云",
-      "date": "2026-10-29",
-      "time": "16:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793245056682-w0hkza",
-      "updatedAt": 1793245061606,
-      "createdAt": 1793244861355
-    },
-    {
       "text": "天和双力",
       "date": "2026-10-30",
       "time": "09:00",
@@ -3910,6 +3890,26 @@
       "id": "1793277413890-deagtk",
       "updatedAt": 1793277413891,
       "createdAt": 1793277226089
+    },
+    {
+      "text": "宏唯报价",
+      "date": "2026-10-30",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793278529716-z4ysjo",
+      "updatedAt": 1793278529716,
+      "createdAt": 1793278337309
     }
   ],
   "workList": [
@@ -4305,7 +4305,8 @@
     "1793234288335-99eewl",
     "mvdxn3ph-8emq5v",
     "mvdxn3ph-7zg6p3",
-    "mvdxn3ph-rk6luq"
+    "mvdxn3ph-rk6luq",
+    "1793245056682-w0hkza"
   ],
-  "updateTime": "2026/10/29 20:37:04"
+  "updateTime": "2026/10/29 20:55:35"
 }

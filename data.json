@@ -3856,7 +3856,7 @@
       "date": "2026-10-30",
       "time": "09:00",
       "isAllDay": false,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "low",
       "repeat": {
         "type": 0,
@@ -3868,7 +3868,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1793245739305-62x0la",
-      "updatedAt": 1793245739305,
+      "updatedAt": 1793245744295,
       "createdAt": 1793245547585
     }
   ],
@@ -4288,5 +4288,5 @@
     "1792931275378-dsj1ps",
     "1793234288335-99eewl"
   ],
-  "updateTime": "2026/10/29 11:49:03"
+  "updateTime": "2026/10/29 11:49:09"
 }

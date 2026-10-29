@@ -3830,6 +3830,26 @@
       "id": "1793242453551-mklrax",
       "updatedAt": 1793242453551,
       "createdAt": 1793242261974
+    },
+    {
+      "text": "中基",
+      "date": "2026-10-29",
+      "time": "14:00",
+      "isAllDay": false,
+      "isVisit": true,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793245036316-32syyh",
+      "updatedAt": 1793245036316,
+      "createdAt": 1793244843460
     }
   ],
   "workList": [
@@ -4246,5 +4266,5 @@
     "1793190714309-ssehpv",
     "mvdxn3ph-cdkwbj"
   ],
-  "updateTime": "2026/10/29 10:54:15"
+  "updateTime": "2026/10/29 11:37:18"
 }

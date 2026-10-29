@@ -3772,26 +3772,6 @@
       "createdAt": 1793208499896
     },
     {
-      "text": "宏唯换成75-M6电机报价",
-      "date": "2026-10-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793242453551-mklrax",
-      "updatedAt": 1793242453551,
-      "createdAt": 1793242261974
-    },
-    {
       "text": "中基",
       "date": "2026-10-29",
       "time": "14:00",
@@ -3810,26 +3790,6 @@
       "id": "1793245036316-32syyh",
       "updatedAt": 1793245036316,
       "createdAt": 1793244843460
-    },
-    {
-      "text": "中欣",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793245044567-6r9evw",
-      "updatedAt": 1793245044567,
-      "createdAt": 1793244850525
     },
     {
       "text": "天和双力",
@@ -4306,7 +4266,9 @@
     "mvdxn3ph-8emq5v",
     "mvdxn3ph-7zg6p3",
     "mvdxn3ph-rk6luq",
-    "1793245056682-w0hkza"
+    "1793245056682-w0hkza",
+    "1793245044567-6r9evw",
+    "1793242453551-mklrax"
   ],
-  "updateTime": "2026/10/29 20:55:35"
+  "updateTime": "2026/10/29 20:55:45"
 }

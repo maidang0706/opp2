@@ -3668,26 +3668,6 @@
       "createdAt": 1792674763820
     },
     {
-      "text": "中基，精朗，誉辰，誉昊，宏唯，卓誉，捷佳伟创，联申达，博杰，捷牛，精智达",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792931275378-dsj1ps",
-      "updatedAt": 1792940881336,
-      "createdAt": 1792931077114
-    },
-    {
       "text": "立创达",
       "date": "2026-10-26",
       "time": "",
@@ -4304,7 +4284,8 @@
     "1793013219789-jnaq8j",
     "1792836329447-m39a6p",
     "1793190714309-ssehpv",
-    "mvdxn3ph-cdkwbj"
+    "mvdxn3ph-cdkwbj",
+    "1792931275378-dsj1ps"
   ],
-  "updateTime": "2026/10/29 11:37:43"
+  "updateTime": "2026/10/29 11:37:48"
 }

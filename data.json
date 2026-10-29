@@ -3948,24 +3948,8 @@
       "text": "中基李辉注油嘴问题",
       "done": false,
       "createdAt": 1790957918154,
-      "id": "mvdxn3ph-sl0nme",
-      "updatedAt": 1790957918154,
-      "dev": "未知"
-    },
-    {
-      "text": "中基李辉注油嘴问题",
-      "done": false,
-      "createdAt": 1790957918154,
       "id": "mvdxyp93-8rkngh",
       "updatedAt": 1790957918154
-    },
-    {
-      "text": "约葛超",
-      "done": false,
-      "createdAt": 1790957912071,
-      "id": "mvdxn3ph-wdz73x",
-      "updatedAt": 1790957912071,
-      "dev": "未知"
     },
     {
       "text": "约葛超",
@@ -3978,24 +3962,8 @@
       "text": "整理艾贝特费用",
       "done": false,
       "createdAt": 1790957909022,
-      "id": "mvdxn3ph-cgwiv7",
-      "updatedAt": 1790957909022,
-      "dev": "未知"
-    },
-    {
-      "text": "整理艾贝特费用",
-      "done": false,
-      "createdAt": 1790957909022,
       "id": "mvdxyp93-ymjmu0",
       "updatedAt": 1790957909022
-    },
-    {
-      "text": "亿纬定子落实合同",
-      "done": false,
-      "createdAt": 1790957889322,
-      "id": "mvdxn3ph-m430vw",
-      "updatedAt": 1790957889322,
-      "dev": "未知"
     },
     {
       "text": "亿纬定子落实合同",
@@ -4179,7 +4147,11 @@
     "mvdxyp93-lqsqsa",
     "mvdxn3ph-xntb2p",
     "mvdxn3ph-bazg85",
-    "mvdxyp93-v09rea"
+    "mvdxyp93-v09rea",
+    "mvdxn3ph-sl0nme",
+    "mvdxn3ph-wdz73x",
+    "mvdxn3ph-cgwiv7",
+    "mvdxn3ph-m430vw"
   ],
-  "updateTime": "2026/10/29 21:31:42"
+  "updateTime": "2026/10/29 21:32:35"
 }

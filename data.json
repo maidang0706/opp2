@@ -3857,7 +3857,7 @@
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3868,7 +3868,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1793278529716-z4ysjo",
-      "updatedAt": 1793278529716,
+      "updatedAt": 1793278551209,
       "createdAt": 1793278337309
     }
   ],
@@ -4270,5 +4270,5 @@
     "1793245044567-6r9evw",
     "1793242453551-mklrax"
   ],
-  "updateTime": "2026/10/29 20:55:45"
+  "updateTime": "2026/10/29 20:55:54"
 }

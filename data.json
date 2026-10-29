@@ -3870,6 +3870,26 @@
       "id": "1793245739305-62x0la",
       "updatedAt": 1793245744295,
       "createdAt": 1793245547585
+    },
+    {
+      "text": "给江华补定子借用",
+      "date": "2026-10-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793257197905-wuq7uq",
+      "updatedAt": 1793257197905,
+      "createdAt": 1793257010774
     }
   ],
   "workList": [
@@ -4288,5 +4308,5 @@
     "1792931275378-dsj1ps",
     "1793234288335-99eewl"
   ],
-  "updateTime": "2026/10/29 12:15:14"
+  "updateTime": "2026/10/29 15:00:07"
 }

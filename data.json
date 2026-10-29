@@ -3874,20 +3874,6 @@
   ],
   "workList": [
     {
-      "text": "还是要走行业路线，我在线马做的并不好，还是要学习为人处世的本领",
-      "done": false,
-      "createdAt": 1793208775756,
-      "id": "mvse7eq4-losovw",
-      "updatedAt": 1793245661027
-    },
-    {
-      "text": "精智达和捷牛作为重点跟进",
-      "done": false,
-      "createdAt": 1793208715905,
-      "id": "mvse64jl-1bgioi",
-      "updatedAt": 1793208739967
-    },
-    {
       "text": "申请售后物料的时候有时候会申请错怎么避免？",
       "done": false,
       "createdAt": 1790958108291,
@@ -4017,6 +4003,20 @@
       "createdAt": 1790957889322,
       "id": "mvdxyp93-cqtcgh",
       "updatedAt": 1790957889322
+    },
+    {
+      "text": "还是要走行业路线，我在线马做的并不好，还是要学习为人处世的本领",
+      "done": true,
+      "createdAt": 1793208775756,
+      "id": "mvse7eq4-losovw",
+      "updatedAt": 1793278805741
+    },
+    {
+      "text": "精智达和捷牛作为重点跟进",
+      "done": true,
+      "createdAt": 1793208715905,
+      "id": "mvse64jl-1bgioi",
+      "updatedAt": 1793278805892
     }
   ],
   "otherList": [
@@ -4181,5 +4181,5 @@
     "mvdxn3ph-bazg85",
     "mvdxyp93-v09rea"
   ],
-  "updateTime": "2026/10/29 20:59:55"
+  "updateTime": "2026/10/29 21:00:08"
 }

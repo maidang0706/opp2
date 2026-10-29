@@ -3891,14 +3891,6 @@
       "text": "申请售后物料的时候有时候会申请错怎么避免？",
       "done": false,
       "createdAt": 1790958108291,
-      "id": "mvdxn3pg-p4vrq8",
-      "updatedAt": 1790958108291,
-      "dev": "未知"
-    },
-    {
-      "text": "申请售后物料的时候有时候会申请错怎么避免？",
-      "done": false,
-      "createdAt": 1790958108291,
       "id": "mvdxyp93-b3c7mi",
       "updatedAt": 1790958108291
     },
@@ -4145,24 +4137,8 @@
       "text": "四托",
       "done": false,
       "createdAt": 1790957914682,
-      "id": "mvdxn3ph-t5h4ot",
-      "updatedAt": 1790957914682,
-      "dev": "未知"
-    },
-    {
-      "text": "四托",
-      "done": false,
-      "createdAt": 1790957914682,
       "id": "mvdxyp93-njqeq6",
       "updatedAt": 1790957914682
-    },
-    {
-      "text": "脚恢复让AI做个计划",
-      "done": false,
-      "createdAt": 1790957327950,
-      "id": "mvdxn3ph-zunjz3",
-      "updatedAt": 1790957327950,
-      "dev": "未知"
     },
     {
       "text": "脚恢复让AI做个计划",
@@ -4268,7 +4244,10 @@
     "mvdxn3ph-rk6luq",
     "1793245056682-w0hkza",
     "1793245044567-6r9evw",
-    "1793242453551-mklrax"
+    "1793242453551-mklrax",
+    "mvdxn3ph-t5h4ot",
+    "mvdxn3ph-zunjz3",
+    "mvdxn3pg-p4vrq8"
   ],
-  "updateTime": "2026/10/29 20:57:45"
+  "updateTime": "2026/10/29 20:58:06"
 }

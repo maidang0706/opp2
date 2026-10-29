@@ -3789,6 +3789,26 @@
       "id": "1793208689434-b1ejib",
       "updatedAt": 1793208689434,
       "createdAt": 1793208499896
+    },
+    {
+      "text": "精智达半导体订单",
+      "date": "2026-10-29",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793234288335-99eewl",
+      "updatedAt": 1793234288335,
+      "createdAt": 1793234097440
     }
   ],
   "workList": [
@@ -4205,5 +4225,5 @@
     "1793190714309-ssehpv",
     "mvdxn3ph-cdkwbj"
   ],
-  "updateTime": "2026/10/29 01:32:59"
+  "updateTime": "2026/10/29 08:38:10"
 }

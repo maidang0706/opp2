@@ -3874,6 +3874,20 @@
   ],
   "workList": [
     {
+      "text": "还是要走行业路线，我在线马做的并不好，还是要学习为人处世的本领",
+      "done": false,
+      "createdAt": 1793208775756,
+      "id": "mvse7eq4-losovw",
+      "updatedAt": 1793280757724
+    },
+    {
+      "text": "精智达和捷牛作为重点跟进",
+      "done": false,
+      "createdAt": 1793208715905,
+      "id": "mvse64jl-1bgioi",
+      "updatedAt": 1793280758932
+    },
+    {
       "text": "申请售后物料的时候有时候会申请错怎么避免？",
       "done": false,
       "createdAt": 1790958108291,
@@ -3930,21 +3944,6 @@
       "updatedAt": 1790957947784
     },
     {
-      "text": "后面保护钢带下单都备注打孔和贴铁氟龙",
-      "done": false,
-      "createdAt": 1790957921801,
-      "id": "mvdxn3ph-z5anrv",
-      "updatedAt": 1790957921801,
-      "dev": "未知"
-    },
-    {
-      "text": "后面保护钢带下单都备注打孔和贴铁氟龙",
-      "done": false,
-      "createdAt": 1790957921801,
-      "id": "mvdxyp93-0c30vr",
-      "updatedAt": 1790957921801
-    },
-    {
       "text": "中基李辉注油嘴问题",
       "done": false,
       "createdAt": 1790957918154,
@@ -3971,20 +3970,6 @@
       "createdAt": 1790957889322,
       "id": "mvdxyp93-cqtcgh",
       "updatedAt": 1790957889322
-    },
-    {
-      "text": "还是要走行业路线，我在线马做的并不好，还是要学习为人处世的本领",
-      "done": true,
-      "createdAt": 1793208775756,
-      "id": "mvse7eq4-losovw",
-      "updatedAt": 1793278805741
-    },
-    {
-      "text": "精智达和捷牛作为重点跟进",
-      "done": true,
-      "createdAt": 1793208715905,
-      "id": "mvse64jl-1bgioi",
-      "updatedAt": 1793278805892
     }
   ],
   "otherList": [
@@ -4151,7 +4136,9 @@
     "mvdxn3ph-sl0nme",
     "mvdxn3ph-wdz73x",
     "mvdxn3ph-cgwiv7",
-    "mvdxn3ph-m430vw"
+    "mvdxn3ph-m430vw",
+    "mvdxn3ph-z5anrv",
+    "mvdxyp93-0c30vr"
   ],
-  "updateTime": "2026/10/29 21:32:35"
+  "updateTime": "2026/10/29 21:32:45"
 }

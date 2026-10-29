@@ -3876,7 +3876,7 @@
       "date": "2026-10-29",
       "time": "16:00",
       "isAllDay": false,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "low",
       "repeat": {
         "type": 0,
@@ -3888,7 +3888,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1793245056682-w0hkza",
-      "updatedAt": 1793245056682,
+      "updatedAt": 1793245061606,
       "createdAt": 1793244861355
     }
   ],
@@ -4306,5 +4306,5 @@
     "1793190714309-ssehpv",
     "mvdxn3ph-cdkwbj"
   ],
-  "updateTime": "2026/10/29 11:37:38"
+  "updateTime": "2026/10/29 11:37:43"
 }

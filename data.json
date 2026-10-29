@@ -3937,49 +3937,11 @@
       "updatedAt": 1790957974084
     },
     {
-      "text": "中基孙超注油嘴干涉问题",
-      "done": false,
-      "createdAt": 1790957953699,
-      "id": "mvdxn3ph-4gnybg",
-      "updatedAt": 1790957953699,
-      "dev": "未知"
-    },
-    {
-      "text": "中基孙超注油嘴干涉问题",
-      "done": false,
-      "createdAt": 1790957953699,
-      "id": "mvdxyp93-lqsqsa",
-      "updatedAt": 1790957953699
-    },
-    {
-      "text": "石之杰给包装规范",
-      "done": false,
-      "createdAt": 1790957947784,
-      "id": "mvdxn3ph-xntb2p",
-      "updatedAt": 1790957947784,
-      "dev": "未知"
-    },
-    {
       "text": "石之杰给包装规范",
       "done": false,
       "createdAt": 1790957947784,
       "id": "mvdxyp93-sembip",
       "updatedAt": 1790957947784
-    },
-    {
-      "text": "精智达维修动子",
-      "done": false,
-      "createdAt": 1790957944996,
-      "id": "mvdxn3ph-bazg85",
-      "updatedAt": 1790957944996,
-      "dev": "未知"
-    },
-    {
-      "text": "精智达维修动子",
-      "done": false,
-      "createdAt": 1790957944996,
-      "id": "mvdxyp93-v09rea",
-      "updatedAt": 1790957944996
     },
     {
       "text": "后面保护钢带下单都备注打孔和贴铁氟龙",
@@ -4212,7 +4174,12 @@
     "mvdxn3pg-078uj9",
     "mvdxn3ph-pz7ydx",
     "mvdxn3ph-9n49zo",
-    "mvdxn3ph-4hkkcn"
+    "mvdxn3ph-4hkkcn",
+    "mvdxn3ph-4gnybg",
+    "mvdxyp93-lqsqsa",
+    "mvdxn3ph-xntb2p",
+    "mvdxn3ph-bazg85",
+    "mvdxyp93-v09rea"
   ],
-  "updateTime": "2026/10/29 20:58:19"
+  "updateTime": "2026/10/29 20:58:38"
 }

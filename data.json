@@ -3772,26 +3772,6 @@
       "createdAt": 1793208499896
     },
     {
-      "text": "精智达半导体订单",
-      "date": "2026-10-29",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793234288335-99eewl",
-      "updatedAt": 1793234288335,
-      "createdAt": 1793234097440
-    },
-    {
       "text": "宏唯换成75-M6电机报价",
       "date": "2026-10-29",
       "time": "",
@@ -4285,7 +4265,8 @@
     "1792836329447-m39a6p",
     "1793190714309-ssehpv",
     "mvdxn3ph-cdkwbj",
-    "1792931275378-dsj1ps"
+    "1792931275378-dsj1ps",
+    "1793234288335-99eewl"
   ],
-  "updateTime": "2026/10/29 11:37:48"
+  "updateTime": "2026/10/29 11:38:20"
 }

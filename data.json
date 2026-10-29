@@ -3628,26 +3628,6 @@
       "createdAt": 1792418362983
     },
     {
-      "text": "确认艾文的退货",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792589832820-tzu9ma",
-      "updatedAt": 1792941450756,
-      "createdAt": 1792589651614
-    },
-    {
       "text": "整理费用futian",
       "date": "2026-10-25",
       "time": "",
@@ -3666,26 +3646,6 @@
       "id": "1792674964923-dvsnh9",
       "updatedAt": 1792675128955,
       "createdAt": 1792674763820
-    },
-    {
-      "text": "立创达",
-      "date": "2026-10-26",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1792980048852-jn84oq",
-      "updatedAt": 1792981258537,
-      "createdAt": 1792979853343
     },
     {
       "text": "物料分拣系统是否用直线电机？应杰科技，威派腾达，广东启源创新",
@@ -4132,7 +4092,9 @@
     "mvdxn3ph-m430vw",
     "mvdxn3ph-z5anrv",
     "mvdxyp93-0c30vr",
-    "mvdxyp93-8rkngh"
+    "mvdxyp93-8rkngh",
+    "1792589832820-tzu9ma",
+    "1792980048852-jn84oq"
   ],
-  "updateTime": "2026/10/29 21:33:00"
+  "updateTime": "2026/10/29 21:41:18"
 }

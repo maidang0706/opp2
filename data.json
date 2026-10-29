@@ -3898,24 +3898,8 @@
       "text": "把驱动器资料存到IMA，用WORKBUDDY调用",
       "done": false,
       "createdAt": 1790958073426,
-      "id": "mvdxn3pg-0mf7if",
-      "updatedAt": 1790958073426,
-      "dev": "未知"
-    },
-    {
-      "text": "把驱动器资料存到IMA，用WORKBUDDY调用",
-      "done": false,
-      "createdAt": 1790958073426,
       "id": "mvdxyp93-e8enh8",
       "updatedAt": 1790958073426
-    },
-    {
-      "text": "MLCC",
-      "done": false,
-      "createdAt": 1790958057378,
-      "id": "mvdxn3pg-078uj9",
-      "updatedAt": 1790958057378,
-      "dev": "未知"
     },
     {
       "text": "MLCC",
@@ -3928,14 +3912,6 @@
       "text": "玻璃基板，tgv，玻璃桥，东莞粤智能-镜头组装，华阳精机，中航名录9月份初确认,瑞声深圳做AA机，讯强电子",
       "done": false,
       "createdAt": 1790958015674,
-      "id": "mvdxn3ph-pz7ydx",
-      "updatedAt": 1790958015674,
-      "dev": "未知"
-    },
-    {
-      "text": "玻璃基板，tgv，玻璃桥，东莞粤智能-镜头组装，华阳精机，中航名录9月份初确认,瑞声深圳做AA机，讯强电子",
-      "done": false,
-      "createdAt": 1790958015674,
       "id": "mvdxyp93-1cxzjz",
       "updatedAt": 1790958015674
     },
@@ -3943,24 +3919,8 @@
       "text": "处理借用",
       "done": false,
       "createdAt": 1790957994541,
-      "id": "mvdxn3ph-9n49zo",
-      "updatedAt": 1790957994541,
-      "dev": "未知"
-    },
-    {
-      "text": "处理借用",
-      "done": false,
-      "createdAt": 1790957994541,
       "id": "mvdxyp93-qhxajo",
       "updatedAt": 1790957994541
-    },
-    {
-      "text": "中电鹏程",
-      "done": false,
-      "createdAt": 1790957977083,
-      "id": "mvdxn3ph-4hkkcn",
-      "updatedAt": 1790957977083,
-      "dev": "未知"
     },
     {
       "text": "中电鹏程",
@@ -4247,7 +4207,12 @@
     "1793242453551-mklrax",
     "mvdxn3ph-t5h4ot",
     "mvdxn3ph-zunjz3",
-    "mvdxn3pg-p4vrq8"
+    "mvdxn3pg-p4vrq8",
+    "mvdxn3pg-0mf7if",
+    "mvdxn3pg-078uj9",
+    "mvdxn3ph-pz7ydx",
+    "mvdxn3ph-9n49zo",
+    "mvdxn3ph-4hkkcn"
   ],
-  "updateTime": "2026/10/29 20:58:06"
+  "updateTime": "2026/10/29 20:58:19"
 }

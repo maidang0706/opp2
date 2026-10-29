@@ -3870,6 +3870,26 @@
       "id": "1793245044567-6r9evw",
       "updatedAt": 1793245044567,
       "createdAt": 1793244850525
+    },
+    {
+      "text": "吉祥云",
+      "date": "2026-10-29",
+      "time": "16:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793245056682-w0hkza",
+      "updatedAt": 1793245056682,
+      "createdAt": 1793244861355
     }
   ],
   "workList": [
@@ -4286,5 +4306,5 @@
     "1793190714309-ssehpv",
     "mvdxn3ph-cdkwbj"
   ],
-  "updateTime": "2026/10/29 11:37:26"
+  "updateTime": "2026/10/29 11:37:38"
 }

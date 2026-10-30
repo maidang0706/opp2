@@ -3879,6 +3879,26 @@
       "id": "1793348638668-twn002",
       "updatedAt": 1793348638668,
       "createdAt": 1793348444504
+    },
+    {
+      "text": "科瑞思",
+      "date": "2026-11-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793348747156-fu53hh",
+      "updatedAt": 1793348747156,
+      "createdAt": 1793348553693
     }
   ],
   "workList": [
@@ -4145,5 +4165,5 @@
     "1792589832820-tzu9ma",
     "1792980048852-jn84oq"
   ],
-  "updateTime": "2026/10/30 16:24:01"
+  "updateTime": "2026/10/30 16:25:51"
 }

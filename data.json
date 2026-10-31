@@ -3919,6 +3919,26 @@
       "id": "1793436890899-c65n3t",
       "updatedAt": 1793436890899,
       "createdAt": 1793436699605
+    },
+    {
+      "text": "中基雄韬项目报价",
+      "date": "2026-11-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793436963732-jsn578",
+      "updatedAt": 1793436963732,
+      "createdAt": 1793436767368
     }
   ],
   "workList": [
@@ -4185,5 +4205,5 @@
     "1792589832820-tzu9ma",
     "1792980048852-jn84oq"
   ],
-  "updateTime": "2026/10/31 16:54:58"
+  "updateTime": "2026/10/31 16:56:07"
 }

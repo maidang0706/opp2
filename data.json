@@ -3739,26 +3739,6 @@
       "createdAt": 1793244843460
     },
     {
-      "text": "天和双力",
-      "date": "2026-10-30",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793245739305-62x0la",
-      "updatedAt": 1793335310973,
-      "createdAt": 1793245547585
-    },
-    {
       "text": "给江华补定子借用",
       "date": "2026-10-29",
       "time": "",
@@ -3797,26 +3777,6 @@
       "id": "1793277413890-deagtk",
       "updatedAt": 1793277413891,
       "createdAt": 1793277226089
-    },
-    {
-      "text": "宏唯报价",
-      "date": "2026-10-30",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793278529716-z4ysjo",
-      "updatedAt": 1793335311923,
-      "createdAt": 1793278337309
     },
     {
       "text": "把本周记录的抖音看一遍",
@@ -4223,7 +4183,9 @@
     "mvdxyp93-0c30vr",
     "mvdxyp93-8rkngh",
     "1792589832820-tzu9ma",
-    "1792980048852-jn84oq"
+    "1792980048852-jn84oq",
+    "1793245739305-62x0la",
+    "1793278529716-z4ysjo"
   ],
-  "updateTime": "2026/10/31 20:46:24"
+  "updateTime": "2026/10/31 20:46:43"
 }

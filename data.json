@@ -3873,11 +3873,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1793452273821-9xygrm",
-      "updatedAt": 1793453929063,
+      "updatedAt": 1793460086182,
       "createdAt": 1793452079924
     }
   ],
@@ -4139,5 +4139,5 @@
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0"
   ],
-  "updateTime": "2026/10/31 23:21:23"
+  "updateTime": "2026/10/31 23:21:33"
 }

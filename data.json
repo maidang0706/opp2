@@ -3899,6 +3899,26 @@
       "id": "1793348747156-fu53hh",
       "updatedAt": 1793348783630,
       "createdAt": 1793348553693
+    },
+    {
+      "text": "赵志光三动子图纸",
+      "date": "2026-11-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793436890899-c65n3t",
+      "updatedAt": 1793436890899,
+      "createdAt": 1793436699605
     }
   ],
   "workList": [
@@ -4165,5 +4185,5 @@
     "1792589832820-tzu9ma",
     "1792980048852-jn84oq"
   ],
-  "updateTime": "2026/10/31 16:54:38"
+  "updateTime": "2026/10/31 16:54:58"
 }

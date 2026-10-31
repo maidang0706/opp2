@@ -3863,8 +3863,8 @@
     {
       "text": "赵志光三动子图纸",
       "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3877,7 +3877,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1793436890899-c65n3t",
-      "updatedAt": 1793436890899,
+      "updatedAt": 1793450809197,
       "createdAt": 1793436699605
     },
     {
@@ -4187,5 +4187,5 @@
     "1793245739305-62x0la",
     "1793278529716-z4ysjo"
   ],
-  "updateTime": "2026/10/31 20:46:43"
+  "updateTime": "2026/10/31 20:46:50"
 }

@@ -3886,7 +3886,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3897,7 +3897,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1793436963732-jsn578",
-      "updatedAt": 1793436963732,
+      "updatedAt": 1793450820972,
       "createdAt": 1793436767368
     }
   ],
@@ -4168,5 +4168,5 @@
     "1793278529716-z4ysjo",
     "1793438911954-10c3vx"
   ],
-  "updateTime": "2026/10/31 20:46:57"
+  "updateTime": "2026/10/31 20:47:04"
 }

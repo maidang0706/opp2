@@ -3953,13 +3953,6 @@
       "updatedAt": 1790957912071
     },
     {
-      "text": "整理艾贝特费用",
-      "done": false,
-      "createdAt": 1790957909022,
-      "id": "mvdxyp93-ymjmu0",
-      "updatedAt": 1790957909022
-    },
-    {
       "text": "亿纬定子落实合同",
       "done": false,
       "createdAt": 1790957889322,
@@ -4143,7 +4136,8 @@
     "1793245036316-32syyh",
     "1791724099601-7jwrbq",
     "mvwf61ba-93v8k8",
-    "mvdxyp93-qhxajo"
+    "mvdxyp93-qhxajo",
+    "mvdxyp93-ymjmu0"
   ],
-  "updateTime": "2026/10/31 23:21:10"
+  "updateTime": "2026/10/31 23:21:23"
 }

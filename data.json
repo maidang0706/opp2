@@ -3899,26 +3899,6 @@
       "id": "1793436963732-jsn578",
       "updatedAt": 1793436963732,
       "createdAt": 1793436767368
-    },
-    {
-      "text": "中基维修模组报价",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793438911954-10c3vx",
-      "updatedAt": 1793438911954,
-      "createdAt": 1793438713639
     }
   ],
   "workList": [
@@ -4185,7 +4165,8 @@
     "1792589832820-tzu9ma",
     "1792980048852-jn84oq",
     "1793245739305-62x0la",
-    "1793278529716-z4ysjo"
+    "1793278529716-z4ysjo",
+    "1793438911954-10c3vx"
   ],
-  "updateTime": "2026/10/31 20:46:50"
+  "updateTime": "2026/10/31 20:46:57"
 }

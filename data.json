@@ -3859,6 +3859,26 @@
       "id": "1793436963732-jsn578",
       "updatedAt": 1793450820972,
       "createdAt": 1793436767368
+    },
+    {
+      "text": "艾贝特费用",
+      "date": "2026-10-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793452273821-9xygrm",
+      "updatedAt": 1793452273821,
+      "createdAt": 1793452079924
     }
   ],
   "workList": [
@@ -4137,5 +4157,5 @@
     "1793245036316-32syyh",
     "1791724099601-7jwrbq"
   ],
-  "updateTime": "2026/10/31 21:10:59"
+  "updateTime": "2026/10/31 21:11:16"
 }

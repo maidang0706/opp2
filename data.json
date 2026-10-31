@@ -3862,7 +3862,7 @@
     },
     {
       "text": "艾贝特费用",
-      "date": "2026-11-09",
+      "date": "2026-11-02",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3873,11 +3873,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1793452273821-9xygrm",
-      "updatedAt": 1793453912773,
+      "updatedAt": 1793453929063,
       "createdAt": 1793452079924
     }
   ],
@@ -4151,5 +4151,5 @@
     "1791724099601-7jwrbq",
     "mvwf61ba-93v8k8"
   ],
-  "updateTime": "2026/10/31 21:38:41"
+  "updateTime": "2026/10/31 21:38:52"
 }

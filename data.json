@@ -3882,26 +3882,6 @@
       "createdAt": 1793452079924
     },
     {
-      "text": "整理报销",
-      "date": "2026-11-01",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793524723880-7w3m1s",
-      "updatedAt": 1793524723880,
-      "createdAt": 1793524530829
-    },
-    {
       "text": "整理中基的报价内容",
       "date": "2026-11-01",
       "time": "",
@@ -3915,10 +3895,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1793524741280-5p4kov",
-      "updatedAt": 1793524741280,
+      "updatedAt": 1793540691702,
       "createdAt": 1793524548190
     },
     {
@@ -4238,7 +4218,8 @@
     "1791724099601-7jwrbq",
     "mvwf61ba-93v8k8",
     "mvdxyp93-qhxajo",
-    "mvdxyp93-ymjmu0"
+    "mvdxyp93-ymjmu0",
+    "1793524723880-7w3m1s"
   ],
-  "updateTime": "2026/11/1 21:44:45"
+  "updateTime": "2026/11/1 21:44:53"
 }

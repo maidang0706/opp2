@@ -4021,6 +4021,26 @@
       "id": "1793541592978-7kzf65",
       "updatedAt": 1793541592978,
       "createdAt": 1793541394829
+    },
+    {
+      "text": "EL210-75-M6-L900-B-ZJ-260055查滑块型号",
+      "date": "2026-11-02",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793547806999-z9nng1",
+      "updatedAt": 1793547806999,
+      "createdAt": 1793547606965
     }
   ],
   "workList": [
@@ -4282,5 +4302,5 @@
     "mvdxyp93-ymjmu0",
     "1793524723880-7w3m1s"
   ],
-  "updateTime": "2026/11/1 21:59:58"
+  "updateTime": "2026/11/1 23:43:31"
 }

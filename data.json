@@ -3940,6 +3940,26 @@
       "id": "1793524752419-5vn90h",
       "updatedAt": 1793524752419,
       "createdAt": 1793524559841
+    },
+    {
+      "text": "新客户：日月欣",
+      "date": "2026-11-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": true,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793524777288-5y65w6",
+      "updatedAt": 1793524777288,
+      "createdAt": 1793524583201
     }
   ],
   "workList": [
@@ -4200,5 +4220,5 @@
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0"
   ],
-  "updateTime": "2026/11/1 17:19:19"
+  "updateTime": "2026/11/1 17:19:44"
 }

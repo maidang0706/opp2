@@ -3617,7 +3617,7 @@
     },
     {
       "text": "物料分拣系统是否用直线电机？应杰科技，威派腾达，广东启源创新",
-      "date": "2026-10-26",
+      "date": "2026-11-02",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3628,11 +3628,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792983449908-exyq4i",
-      "updatedAt": 1792983620359,
+      "updatedAt": 1793540669017,
       "createdAt": 1792983254576
     },
     {
@@ -4240,5 +4240,5 @@
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0"
   ],
-  "updateTime": "2026/11/1 21:44:22"
+  "updateTime": "2026/11/1 21:44:34"
 }

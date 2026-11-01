@@ -3946,7 +3946,7 @@
       "date": "2026-11-02",
       "time": "",
       "isAllDay": true,
-      "isVisit": false,
+      "isVisit": true,
       "priority": "low",
       "repeat": {
         "type": 0,
@@ -3958,7 +3958,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1793524777288-5y65w6",
-      "updatedAt": 1793524777288,
+      "updatedAt": 1793524785309,
       "createdAt": 1793524583201
     }
   ],
@@ -4220,5 +4220,5 @@
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0"
   ],
-  "updateTime": "2026/11/1 17:19:44"
+  "updateTime": "2026/11/1 17:19:50"
 }

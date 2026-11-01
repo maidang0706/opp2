@@ -3721,7 +3721,7 @@
     },
     {
       "text": "让唐自祥把两个选型表格合并到一起",
-      "date": "2026-10-30",
+      "date": "2026-11-06",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3732,11 +3732,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1793277413890-deagtk",
-      "updatedAt": 1793277413891,
+      "updatedAt": 1793540678253,
       "createdAt": 1793277226089
     },
     {
@@ -4240,5 +4240,5 @@
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0"
   ],
-  "updateTime": "2026/11/1 21:44:34"
+  "updateTime": "2026/11/1 21:44:45"
 }

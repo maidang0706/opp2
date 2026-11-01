@@ -3577,7 +3577,7 @@
     },
     {
       "text": "卓誉见明天老板，承诺函",
-      "date": "2026-10-26",
+      "date": "2026-11-02",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3588,11 +3588,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1792418552121-tenl4f",
-      "updatedAt": 1792931019633,
+      "updatedAt": 1793540655712,
       "createdAt": 1792418362983
     },
     {
@@ -4240,5 +4240,5 @@
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0"
   ],
-  "updateTime": "2026/11/1 21:44:15"
+  "updateTime": "2026/11/1 21:44:22"
 }

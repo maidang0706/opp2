@@ -3920,6 +3920,26 @@
       "id": "1793524741280-5p4kov",
       "updatedAt": 1793524741280,
       "createdAt": 1793524548190
+    },
+    {
+      "text": "给柯信电话",
+      "date": "2026-11-01",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793524752419-5vn90h",
+      "updatedAt": 1793524752419,
+      "createdAt": 1793524559841
     }
   ],
   "workList": [
@@ -4180,5 +4200,5 @@
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0"
   ],
-  "updateTime": "2026/11/1 17:19:07"
+  "updateTime": "2026/11/1 17:19:19"
 }

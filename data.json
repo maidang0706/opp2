@@ -3983,26 +3983,6 @@
       "createdAt": 1793540621936
     },
     {
-      "text": "给小熊发表格",
-      "date": "2026-11-02",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793541403262-1yb5q5",
-      "updatedAt": 1793541403262,
-      "createdAt": 1793541204259
-    },
-    {
       "text": "物流展",
       "date": "2026-11-05",
       "time": "",
@@ -4341,7 +4321,8 @@
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0",
     "1793524723880-7w3m1s",
-    "1793547806999-z9nng1"
+    "1793547806999-z9nng1",
+    "1793541403262-1yb5q5"
   ],
-  "updateTime": "2026/11/2 08:56:06"
+  "updateTime": "2026/11/2 08:56:09"
 }

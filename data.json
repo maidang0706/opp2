@@ -4001,6 +4001,26 @@
       "id": "1793621620439-vs87cu",
       "updatedAt": 1793621620439,
       "createdAt": 1793621423315
+    },
+    {
+      "text": "誉昊款确认",
+      "date": "2026-11-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793621631245-e4rpp4",
+      "updatedAt": 1793621631245,
+      "createdAt": 1793621430122
     }
   ],
   "workList": [
@@ -4269,5 +4289,5 @@
     "1793436963732-jsn578",
     "1793348638668-twn002"
   ],
-  "updateTime": "2026/11/2 20:13:46"
+  "updateTime": "2026/11/2 20:13:54"
 }

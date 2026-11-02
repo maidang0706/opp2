@@ -4001,6 +4001,26 @@
       "id": "1793621801142-xa4f7o",
       "updatedAt": 1793621801142,
       "createdAt": 1793621601393
+    },
+    {
+      "text": "交销售预测和回款预测",
+      "date": "2026-11-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793624300773-7spev5",
+      "updatedAt": 1793624300774,
+      "createdAt": 1793624103011
     }
   ],
   "workList": [
@@ -4271,5 +4291,5 @@
     "1793550850011-e9t4q5",
     "1793581014746-w9dkol"
   ],
-  "updateTime": "2026/11/2 20:31:18"
+  "updateTime": "2026/11/2 20:58:27"
 }

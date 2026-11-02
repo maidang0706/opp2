@@ -4023,26 +4023,6 @@
       "createdAt": 1793541394829
     },
     {
-      "text": "EL210-75-M6-L900-B-ZJ-260055查滑块型号",
-      "date": "2026-11-02",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793547806999-z9nng1",
-      "updatedAt": 1793547806999,
-      "createdAt": 1793547606965
-    },
-    {
       "text": "亿纬要求月结",
       "date": "2026-11-02",
       "time": "",
@@ -4360,7 +4340,8 @@
     "mvwf61ba-93v8k8",
     "mvdxyp93-qhxajo",
     "mvdxyp93-ymjmu0",
-    "1793524723880-7w3m1s"
+    "1793524723880-7w3m1s",
+    "1793547806999-z9nng1"
   ],
-  "updateTime": "2026/11/2 08:33:06"
+  "updateTime": "2026/11/2 08:56:06"
 }

@@ -3981,6 +3981,26 @@
       "id": "1793621631245-e4rpp4",
       "updatedAt": 1793621631245,
       "createdAt": 1793621430122
+    },
+    {
+      "text": "问电信套餐情况",
+      "date": "2026-11-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793621801142-xa4f7o",
+      "updatedAt": 1793621801142,
+      "createdAt": 1793621601393
     }
   ],
   "workList": [
@@ -4251,5 +4271,5 @@
     "1793550850011-e9t4q5",
     "1793581014746-w9dkol"
   ],
-  "updateTime": "2026/11/2 20:14:02"
+  "updateTime": "2026/11/2 20:16:44"
 }

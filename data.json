@@ -4081,6 +4081,26 @@
       "id": "1793642463792-6mo7ti",
       "updatedAt": 1793642463792,
       "createdAt": 1793642259056
+    },
+    {
+      "text": "抖音插件，微信公众号软件，行业工艺，视频收藏到IMA，拜访内容记录等",
+      "date": "2026-11-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793642586363-grvc7a",
+      "updatedAt": 1793642586363,
+      "createdAt": 1793642380490
     }
   ],
   "workList": [
@@ -4351,5 +4371,5 @@
     "1793550850011-e9t4q5",
     "1793581014746-w9dkol"
   ],
-  "updateTime": "2026/11/3 02:01:06"
+  "updateTime": "2026/11/3 02:03:08"
 }

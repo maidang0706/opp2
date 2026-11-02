@@ -3923,26 +3923,6 @@
       "createdAt": 1793540453375
     },
     {
-      "text": "亿纬询价和黄宇泽沟通",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793540818809-k39tbs",
-      "updatedAt": 1793540818809,
-      "createdAt": 1793540621936
-    },
-    {
       "text": "物流展",
       "date": "2026-11-05",
       "time": "",
@@ -4304,7 +4284,8 @@
     "1793547806999-z9nng1",
     "1793541403262-1yb5q5",
     "1793257197905-wuq7uq",
-    "1793159366379-4do104"
+    "1793159366379-4do104",
+    "1793540818809-k39tbs"
   ],
-  "updateTime": "2026/11/2 16:04:45"
+  "updateTime": "2026/11/2 16:05:00"
 }

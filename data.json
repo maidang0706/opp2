@@ -3803,26 +3803,6 @@
       "createdAt": 1793436699605
     },
     {
-      "text": "中基雄韬项目报价",
-      "date": "2026-11-02",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793436963732-jsn578",
-      "updatedAt": 1793541410373,
-      "createdAt": 1793436767368
-    },
-    {
       "text": "艾贝特费用",
       "date": "2026-11-02",
       "time": "",
@@ -4285,7 +4265,8 @@
     "1793541403262-1yb5q5",
     "1793257197905-wuq7uq",
     "1793159366379-4do104",
-    "1793540818809-k39tbs"
+    "1793540818809-k39tbs",
+    "1793436963732-jsn578"
   ],
-  "updateTime": "2026/11/2 19:57:29"
+  "updateTime": "2026/11/2 20:13:18"
 }

@@ -3943,46 +3943,6 @@
       "createdAt": 1793550629072
     },
     {
-      "text": "深圳中基和誉昊付款没有？",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793550850011-e9t4q5",
-      "updatedAt": 1793550850011,
-      "createdAt": 1793550647191
-    },
-    {
-      "text": "精朗网口坏的驱动器情况",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793581014746-w9dkol",
-      "updatedAt": 1793581014746,
-      "createdAt": 1793580810098
-    },
-    {
       "text": "中基维修模组",
       "date": "2026-11-03",
       "time": "",
@@ -4287,7 +4247,9 @@
     "1793159366379-4do104",
     "1793540818809-k39tbs",
     "1793436963732-jsn578",
-    "1793348638668-twn002"
+    "1793348638668-twn002",
+    "1793550850011-e9t4q5",
+    "1793581014746-w9dkol"
   ],
-  "updateTime": "2026/11/2 20:13:54"
+  "updateTime": "2026/11/2 20:13:58"
 }

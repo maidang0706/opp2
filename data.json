@@ -4061,6 +4061,26 @@
       "id": "1793550850011-e9t4q5",
       "updatedAt": 1793550850011,
       "createdAt": 1793550647191
+    },
+    {
+      "text": "精朗网口坏的驱动器情况",
+      "date": "2026-11-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793581014746-w9dkol",
+      "updatedAt": 1793581014746,
+      "createdAt": 1793580810098
     }
   ],
   "workList": [
@@ -4324,5 +4344,5 @@
     "1793547806999-z9nng1",
     "1793541403262-1yb5q5"
   ],
-  "updateTime": "2026/11/2 08:56:09"
+  "updateTime": "2026/11/2 08:56:57"
 }

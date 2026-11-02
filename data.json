@@ -3743,26 +3743,6 @@
       "createdAt": 1793283547033
     },
     {
-      "text": "中基维修模组报价",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793348638668-twn002",
-      "updatedAt": 1793348638668,
-      "createdAt": 1793348444504
-    },
-    {
       "text": "科瑞思",
       "date": "2026-11-02",
       "time": "",
@@ -4266,7 +4246,8 @@
     "1793257197905-wuq7uq",
     "1793159366379-4do104",
     "1793540818809-k39tbs",
-    "1793436963732-jsn578"
+    "1793436963732-jsn578",
+    "1793348638668-twn002"
   ],
-  "updateTime": "2026/11/2 20:13:30"
+  "updateTime": "2026/11/2 20:13:37"
 }

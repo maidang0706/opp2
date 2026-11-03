@@ -4215,6 +4215,15 @@
   ],
   "visitList": [
     {
+      "name": "科瑞",
+      "isNew": true,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793691350370,
+      "id": "mw0dinoi-xcamfy",
+      "updatedAt": 1793691350370
+    },
+    {
       "name": "日月欣",
       "isNew": true,
       "date": "2026-11-03",
@@ -4438,5 +4447,5 @@
     "mw0cvkdl-6tv7i7",
     "mw0cveys-hyma4v"
   ],
-  "updateTime": "2026/11/3 15:35:43"
+  "updateTime": "2026/11/3 15:35:54"
 }

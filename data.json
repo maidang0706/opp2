@@ -4224,6 +4224,15 @@
       "updatedAt": 1793690207351
     },
     {
+      "name": "精智达",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690422928,
+      "id": "mw0cys28-grig4i",
+      "updatedAt": 1793690422928
+    },
+    {
       "name": "捷佳伟创",
       "isNew": false,
       "date": "2026-11-03",
@@ -4272,10 +4281,10 @@
       "name": "中基",
       "isNew": false,
       "date": "2026-11-03",
-      "done": false,
+      "done": true,
       "createdAt": 1793690199735,
       "id": "mw0ctzuf-cuk0an",
-      "updatedAt": 1793690204719
+      "updatedAt": 1793690432050
     }
   ],
   "deletedIds": [
@@ -4417,5 +4426,5 @@
     "1793581014746-w9dkol",
     "1793547888343-ji3ax6"
   ],
-  "updateTime": "2026/11/3 15:18:13"
+  "updateTime": "2026/11/3 15:20:32"
 }

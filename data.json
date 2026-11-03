@@ -4224,6 +4224,15 @@
       "updatedAt": 1793690207351
     },
     {
+      "name": "中基铝壳",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690439923,
+      "id": "mw0cz56b-o9hxab",
+      "updatedAt": 1793690439923
+    },
+    {
       "name": "精智达",
       "isNew": false,
       "date": "2026-11-03",
@@ -4281,10 +4290,10 @@
       "name": "中基",
       "isNew": false,
       "date": "2026-11-03",
-      "done": true,
+      "done": false,
       "createdAt": 1793690199735,
       "id": "mw0ctzuf-cuk0an",
-      "updatedAt": 1793690432050
+      "updatedAt": 1793690434762
     }
   ],
   "deletedIds": [
@@ -4426,5 +4435,5 @@
     "1793581014746-w9dkol",
     "1793547888343-ji3ax6"
   ],
-  "updateTime": "2026/11/3 15:20:32"
+  "updateTime": "2026/11/3 15:20:42"
 }

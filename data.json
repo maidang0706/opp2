@@ -4213,7 +4213,17 @@
       "updatedAt": 1790957327950
     }
   ],
-  "visitList": [],
+  "visitList": [
+    {
+      "name": "吉阳",
+      "isNew": true,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690131177,
+      "id": "mw0csiy1-mcra76",
+      "updatedAt": 1793690131177
+    }
+  ],
   "deletedIds": [
     "1792334496847-f6l4fj",
     "1792334484447-yfxrg8",
@@ -4353,5 +4363,5 @@
     "1793581014746-w9dkol",
     "1793547888343-ji3ax6"
   ],
-  "updateTime": "2026/11/3 15:14:12"
+  "updateTime": "2026/11/3 15:15:36"
 }

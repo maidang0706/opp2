@@ -3903,26 +3903,6 @@
       "createdAt": 1793541394829
     },
     {
-      "text": "亿纬要求月结",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793547888343-ji3ax6",
-      "updatedAt": 1793547899084,
-      "createdAt": 1793547689697
-    },
-    {
       "text": "深圳中基付款没有？",
       "date": "2026-11-09",
       "time": "",
@@ -4369,7 +4349,8 @@
     "1793436963732-jsn578",
     "1793348638668-twn002",
     "1793550850011-e9t4q5",
-    "1793581014746-w9dkol"
+    "1793581014746-w9dkol",
+    "1793547888343-ji3ax6"
   ],
-  "updateTime": "2026/11/3 02:03:52"
+  "updateTime": "2026/11/3 14:48:48"
 }

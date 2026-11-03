@@ -4023,26 +4023,6 @@
       "createdAt": 1793627327127
     },
     {
-      "text": "中基软包，中基铝壳，捷牛，精智达，精朗，捷佳伟创，中欣，吉阳，科瑞",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793635966504-tjm9jt",
-      "updatedAt": 1793635970855,
-      "createdAt": 1793635769609
-    },
-    {
       "text": "在标题行后面新增本周计划拜访的客户，完成以后划掉",
       "date": "2026-11-07",
       "time": "",
@@ -4445,7 +4425,8 @@
     "1793547888343-ji3ax6",
     "mw0ctzuf-cuk0an",
     "mw0cvkdl-6tv7i7",
-    "mw0cveys-hyma4v"
+    "mw0cveys-hyma4v",
+    "1793635966504-tjm9jt"
   ],
-  "updateTime": "2026/11/3 15:36:04"
+  "updateTime": "2026/11/3 15:36:18"
 }

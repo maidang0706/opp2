@@ -4224,6 +4224,15 @@
       "updatedAt": 1793690207351
     },
     {
+      "name": "精朗",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690482625,
+      "id": "mw0d024h-i0tkgh",
+      "updatedAt": 1793690482625
+    },
+    {
       "name": "中基软包",
       "isNew": false,
       "date": "2026-11-03",
@@ -4444,5 +4453,5 @@
     "1793581014746-w9dkol",
     "1793547888343-ji3ax6"
   ],
-  "updateTime": "2026/11/3 15:21:13"
+  "updateTime": "2026/11/3 15:21:28"
 }

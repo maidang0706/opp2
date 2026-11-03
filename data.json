@@ -4233,15 +4233,6 @@
       "updatedAt": 1793690482625
     },
     {
-      "name": "中基软包",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690446341,
-      "id": "mw0cza4l-ea9oo4",
-      "updatedAt": 1793690446341
-    },
-    {
       "name": "中基铝壳",
       "isNew": false,
       "date": "2026-11-03",
@@ -4312,6 +4303,15 @@
       "createdAt": 1793690199735,
       "id": "mw0ctzuf-cuk0an",
       "updatedAt": 1793690434762
+    },
+    {
+      "name": "中基软包",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690446341,
+      "id": "mw0cza4l-ea9oo4",
+      "updatedAt": 1793690499629
     }
   ],
   "deletedIds": [
@@ -4453,5 +4453,5 @@
     "1793581014746-w9dkol",
     "1793547888343-ji3ax6"
   ],
-  "updateTime": "2026/11/3 15:21:28"
+  "updateTime": "2026/11/3 15:21:44"
 }

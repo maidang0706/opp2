@@ -4224,6 +4224,24 @@
       "updatedAt": 1793690207351
     },
     {
+      "name": "捷佳伟创",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690278216,
+      "id": "mw0cvoeg-iex96b",
+      "updatedAt": 1793690278216
+    },
+    {
+      "name": "日月欣",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690273001,
+      "id": "mw0cvkdl-6tv7i7",
+      "updatedAt": 1793690273001
+    },
+    {
       "name": "科瑞",
       "isNew": false,
       "date": "2026-11-03",
@@ -4399,5 +4417,5 @@
     "1793581014746-w9dkol",
     "1793547888343-ji3ax6"
   ],
-  "updateTime": "2026/11/3 15:17:50"
+  "updateTime": "2026/11/3 15:18:01"
 }

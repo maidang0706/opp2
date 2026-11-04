@@ -4101,6 +4101,26 @@
       "id": "1793803852316-whzdvf",
       "updatedAt": 1793803852316,
       "createdAt": 1793803650242
+    },
+    {
+      "text": "整理捷牛的录音，买二手手机",
+      "date": "2026-11-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793807886484-jutp7o",
+      "updatedAt": 1793807886484,
+      "createdAt": 1793807681392
     }
   ],
   "workList": [
@@ -4468,5 +4488,5 @@
     "mw0cveys-hyma4v",
     "1793635966504-tjm9jt"
   ],
-  "updateTime": "2026/11/4 22:53:02"
+  "updateTime": "2026/11/4 23:58:10"
 }

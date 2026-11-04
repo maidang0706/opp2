@@ -4061,6 +4061,26 @@
       "id": "1793642586363-grvc7a",
       "updatedAt": 1793642630302,
       "createdAt": 1793642380490
+    },
+    {
+      "text": "给中欣李工发图纸",
+      "date": "2026-11-05",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793803556888-7lb028",
+      "updatedAt": 1793803556889,
+      "createdAt": 1793803352961
     }
   ],
   "workList": [
@@ -4336,5 +4356,5 @@
     "mw0cveys-hyma4v",
     "1793635966504-tjm9jt"
   ],
-  "updateTime": "2026/11/4 22:45:43"
+  "updateTime": "2026/11/4 22:45:59"
 }

@@ -4081,6 +4081,26 @@
       "id": "1793803556888-7lb028",
       "updatedAt": 1793803556889,
       "createdAt": 1793803352961
+    },
+    {
+      "text": "像中欣这种如何填工况更快",
+      "date": "2026-11-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793803852316-whzdvf",
+      "updatedAt": 1793803852316,
+      "createdAt": 1793803650242
     }
   ],
   "workList": [
@@ -4356,5 +4376,5 @@
     "mw0cveys-hyma4v",
     "1793635966504-tjm9jt"
   ],
-  "updateTime": "2026/11/4 22:50:28"
+  "updateTime": "2026/11/4 22:50:58"
 }

@@ -4193,98 +4193,6 @@
       "updatedAt": 1790957327950
     }
   ],
-  "visitList": [
-    {
-      "name": "科瑞",
-      "isNew": true,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793691350370,
-      "id": "mw0dinoi-xcamfy",
-      "updatedAt": 1793691350370
-    },
-    {
-      "name": "日月欣",
-      "isNew": true,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793691338240,
-      "id": "mw0diebl-cllv5f",
-      "updatedAt": 1793691338241
-    },
-    {
-      "name": "吉阳",
-      "isNew": true,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690131177,
-      "id": "mw0csiy1-mcra76",
-      "updatedAt": 1793690207351
-    },
-    {
-      "name": "精朗",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690482625,
-      "id": "mw0d024h-i0tkgh",
-      "updatedAt": 1793690482625
-    },
-    {
-      "name": "中基铝壳",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690439923,
-      "id": "mw0cz56b-o9hxab",
-      "updatedAt": 1793690458574
-    },
-    {
-      "name": "精智达",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690422928,
-      "id": "mw0cys28-grig4i",
-      "updatedAt": 1793690422928
-    },
-    {
-      "name": "捷佳伟创",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690278216,
-      "id": "mw0cvoeg-iex96b",
-      "updatedAt": 1793690278216
-    },
-    {
-      "name": "中欣",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690261408,
-      "id": "mw0cvbfk-uyunl3",
-      "updatedAt": 1793690261408
-    },
-    {
-      "name": "捷牛",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690254976,
-      "id": "mw0cv6gw-ediezl",
-      "updatedAt": 1793690254976
-    },
-    {
-      "name": "中基软包",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": true,
-      "createdAt": 1793690446341,
-      "id": "mw0cza4l-ea9oo4",
-      "updatedAt": 1793690499629
-    }
-  ],
   "deletedIds": [
     "1792334496847-f6l4fj",
     "1792334484447-yfxrg8",
@@ -4428,5 +4336,5 @@
     "mw0cveys-hyma4v",
     "1793635966504-tjm9jt"
   ],
-  "updateTime": "2026/11/3 15:36:18"
+  "updateTime": "2026/11/4 22:44:52"
 }

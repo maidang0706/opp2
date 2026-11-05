@@ -4141,6 +4141,26 @@
       "id": "1793886982120-gdio2n",
       "updatedAt": 1793886982121,
       "createdAt": 1793886776588
+    },
+    {
+      "text": "中基价格",
+      "date": "2026-11-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793886987104-2h7b35",
+      "updatedAt": 1793886987104,
+      "createdAt": 1793886785535
     }
   ],
   "workList": [
@@ -4416,5 +4436,5 @@
     "mw0cveys-hyma4v",
     "1793635966504-tjm9jt"
   ],
-  "updateTime": "2026/11/5 21:56:26"
+  "updateTime": "2026/11/5 21:56:36"
 }

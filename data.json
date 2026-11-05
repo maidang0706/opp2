@@ -4121,6 +4121,26 @@
       "id": "1793807886484-jutp7o",
       "updatedAt": 1793807886484,
       "createdAt": 1793807681392
+    },
+    {
+      "text": "卓誉线缆问题",
+      "date": "2026-11-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793886982120-gdio2n",
+      "updatedAt": 1793886982121,
+      "createdAt": 1793886776588
     }
   ],
   "workList": [
@@ -4396,5 +4416,5 @@
     "mw0cveys-hyma4v",
     "1793635966504-tjm9jt"
   ],
-  "updateTime": "2026/11/5 21:56:11"
+  "updateTime": "2026/11/5 21:56:26"
 }

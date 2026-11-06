@@ -4141,6 +4141,26 @@
       "id": "1793926626941-vaglht",
       "updatedAt": 1793926626941,
       "createdAt": 1793926419573
+    },
+    {
+      "text": "更新选型表格里面的参数，动子重量这些",
+      "date": "2026-11-07",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793934017441-ximwz3",
+      "updatedAt": 1793934017442,
+      "createdAt": 1793933811276
     }
   ],
   "workList": [
@@ -4512,5 +4532,5 @@
     "1793621801142-xa4f7o",
     "1793624300773-7spev5"
   ],
-  "updateTime": "2026/11/6 11:00:02"
+  "updateTime": "2026/11/6 11:00:22"
 }

@@ -3903,26 +3903,6 @@
       "createdAt": 1793550629072
     },
     {
-      "text": "中基维修模组",
-      "date": "2026-11-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793621620439-vs87cu",
-      "updatedAt": 1793621620439,
-      "createdAt": 1793621423315
-    },
-    {
       "text": "誉昊款确认",
       "date": "2026-11-03",
       "time": "",
@@ -3941,46 +3921,6 @@
       "id": "1793621631245-e4rpp4",
       "updatedAt": 1793621631245,
       "createdAt": 1793621430122
-    },
-    {
-      "text": "问电信套餐情况",
-      "date": "2026-11-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793621801142-xa4f7o",
-      "updatedAt": 1793689278280,
-      "createdAt": 1793621601393
-    },
-    {
-      "text": "交销售预测和回款预测",
-      "date": "2026-11-03",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793624300773-7spev5",
-      "updatedAt": 1793689281989,
-      "createdAt": 1793624103011
     },
     {
       "text": "车报销",
@@ -4455,7 +4395,10 @@
     "mw0cvkdl-6tv7i7",
     "mw0cveys-hyma4v",
     "1793635966504-tjm9jt",
-    "1793436890899-c65n3t"
+    "1793436890899-c65n3t",
+    "1793621620439-vs87cu",
+    "1793621801142-xa4f7o",
+    "1793624300773-7spev5"
   ],
-  "updateTime": "2026/11/6 08:55:41"
+  "updateTime": "2026/11/6 08:56:17"
 }

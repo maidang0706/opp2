@@ -4121,6 +4121,26 @@
       "id": "1793955743893-kd8aa1",
       "updatedAt": 1793955743893,
       "createdAt": 1793955537633
+    },
+    {
+      "text": "中欣报价和给3D",
+      "date": "2026-11-06",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1793955767317-bpmtxx",
+      "updatedAt": 1793955767317,
+      "createdAt": 1793955560683
     }
   ],
   "workList": [
@@ -4404,5 +4424,5 @@
     "1793926513606-6p0mha",
     "1793926626941-vaglht"
   ],
-  "updateTime": "2026/11/6 17:02:26"
+  "updateTime": "2026/11/6 17:02:50"
 }

@@ -4043,26 +4043,6 @@
       "createdAt": 1793886776588
     },
     {
-      "text": "中基价格",
-      "date": "2026-11-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793886987104-2h7b35",
-      "updatedAt": 1793959862089,
-      "createdAt": 1793886785535
-    },
-    {
       "text": "更新选型表格里面的参数，动子重量这些",
       "date": "2026-11-07",
       "time": "",
@@ -4081,46 +4061,6 @@
       "id": "1793934017441-ximwz3",
       "updatedAt": 1793934017442,
       "createdAt": 1793933811276
-    },
-    {
-      "text": "答复邹小军价格",
-      "date": "2026-11-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793949265396-50xbwt",
-      "updatedAt": 1793959863304,
-      "createdAt": 1793949054696
-    },
-    {
-      "text": "周阳选型核对",
-      "date": "2026-11-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793955743893-kd8aa1",
-      "updatedAt": 1793959865088,
-      "createdAt": 1793955537633
     },
     {
       "text": "中欣报价和给3D",
@@ -4534,7 +4474,10 @@
     "1793886998513-ojjwh1",
     "1793621631245-e4rpp4",
     "1793926513606-6p0mha",
-    "1793926626941-vaglht"
+    "1793926626941-vaglht",
+    "1793886987104-2h7b35",
+    "1793949265396-50xbwt",
+    "1793955743893-kd8aa1"
   ],
-  "updateTime": "2026/11/6 22:58:57"
+  "updateTime": "2026/11/6 22:59:12"
 }

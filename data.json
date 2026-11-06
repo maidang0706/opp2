@@ -4063,46 +4063,6 @@
       "createdAt": 1793886785535
     },
     {
-      "text": "问誉昊和老莫",
-      "date": "2026-11-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793926513606-6p0mha",
-      "updatedAt": 1793937019526,
-      "createdAt": 1793926303310
-    },
-    {
-      "text": "宏唯情况",
-      "date": "2026-11-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1793926626941-vaglht",
-      "updatedAt": 1793949273440,
-      "createdAt": 1793926419573
-    },
-    {
       "text": "更新选型表格里面的参数，动子重量这些",
       "date": "2026-11-07",
       "time": "",
@@ -4512,7 +4472,9 @@
     "1793621801142-xa4f7o",
     "1793624300773-7spev5",
     "1793886998513-ojjwh1",
-    "1793621631245-e4rpp4"
+    "1793621631245-e4rpp4",
+    "1793926513606-6p0mha",
+    "1793926626941-vaglht"
   ],
-  "updateTime": "2026/11/6 15:14:46"
+  "updateTime": "2026/11/6 15:14:59"
 }

@@ -4262,15 +4262,6 @@
       "updatedAt": 1793690207351
     },
     {
-      "name": "精朗",
-      "isNew": false,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690482625,
-      "id": "mw0d024h-i0tkgh",
-      "updatedAt": 1793690482625
-    },
-    {
       "name": "精智达",
       "isNew": false,
       "date": "2026-11-03",
@@ -4280,13 +4271,13 @@
       "updatedAt": 1793690422928
     },
     {
-      "name": "捷佳伟创",
+      "name": "精朗",
       "isNew": false,
       "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793690278216,
-      "id": "mw0cvoeg-iex96b",
-      "updatedAt": 1793690278216
+      "done": true,
+      "createdAt": 1793690482625,
+      "id": "mw0d024h-i0tkgh",
+      "updatedAt": 1793949300714
     },
     {
       "name": "中基软包",
@@ -4305,6 +4296,15 @@
       "createdAt": 1793690439923,
       "id": "mw0cz56b-o9hxab",
       "updatedAt": 1793803959650
+    },
+    {
+      "name": "捷佳伟创",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690278216,
+      "id": "mw0cvoeg-iex96b",
+      "updatedAt": 1793949302140
     },
     {
       "name": "中欣",
@@ -4476,5 +4476,5 @@
     "1793926513606-6p0mha",
     "1793926626941-vaglht"
   ],
-  "updateTime": "2026/11/6 15:14:59"
+  "updateTime": "2026/11/6 15:15:09"
 }

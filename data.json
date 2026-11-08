@@ -55,10 +55,12 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [],
+      "onlyDone": [
+        "2026-11-15"
+      ],
       "_renderDate": "2026-06-21",
       "createdAt": 1792334967175,
-      "updatedAt": 1793284601494,
+      "updatedAt": 1794145415328,
       "isWeekTodo": false
     },
     {
@@ -4588,5 +4590,5 @@
     "1793955767317-bpmtxx",
     "1793642586363-grvc7a"
   ],
-  "updateTime": "2026/11/8 21:17:10"
+  "updateTime": "2026/11/8 21:43:38"
 }

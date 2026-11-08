@@ -4203,6 +4203,26 @@
       "id": "1794145633539-mqky13",
       "updatedAt": 1794145633539,
       "createdAt": 1794145426925
+    },
+    {
+      "text": "中欣报价情况",
+      "date": "2026-11-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794145645583-e95adz",
+      "updatedAt": 1794145645583,
+      "createdAt": 1794145438658
     }
   ],
   "workList": [
@@ -4690,5 +4710,5 @@
     "1793955767317-bpmtxx",
     "1793642586363-grvc7a"
   ],
-  "updateTime": "2026/11/8 21:47:19"
+  "updateTime": "2026/11/8 21:47:32"
 }

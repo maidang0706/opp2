@@ -4377,6 +4377,24 @@
       "createdAt": 1794143786015,
       "id": "mw7uvx9b-cs63n9",
       "updatedAt": 1794143786015
+    },
+    {
+      "name": "精朗",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143799467,
+      "id": "mw7uw7mz-r356nh",
+      "updatedAt": 1794143799467
+    },
+    {
+      "name": "卓誉",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143794154,
+      "id": "mw7uw3je-alyuwb",
+      "updatedAt": 1794143794154
     }
   ],
   "deletedIds": [
@@ -4543,5 +4561,5 @@
     "1793955767317-bpmtxx",
     "1793642586363-grvc7a"
   ],
-  "updateTime": "2026/11/8 21:16:32"
+  "updateTime": "2026/11/8 21:16:40"
 }

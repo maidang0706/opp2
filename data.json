@@ -55,12 +55,10 @@
         "end": ""
       },
       "done": false,
-      "onlyDone": [
-        "2026-11-15"
-      ],
+      "onlyDone": [],
       "_renderDate": "2026-06-21",
       "createdAt": 1792334967175,
-      "updatedAt": 1794145415328,
+      "updatedAt": 1794145426131,
       "isWeekTodo": false
     },
     {
@@ -3981,7 +3979,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1793975546434-s8q9x7",
-      "updatedAt": 1793975546434,
+      "updatedAt": 1794145424869,
       "createdAt": 1793975342555
     },
     {
@@ -4590,5 +4588,5 @@
     "1793955767317-bpmtxx",
     "1793642586363-grvc7a"
   ],
-  "updateTime": "2026/11/8 21:43:38"
+  "updateTime": "2026/11/8 21:43:46"
 }

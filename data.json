@@ -4105,8 +4105,8 @@
     {
       "text": "中欣沈工选型",
       "date": "2026-11-09",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4119,7 +4119,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794117776194-5gwu26",
-      "updatedAt": 1794117776194,
+      "updatedAt": 1794117780773,
       "createdAt": 1794117570076
     }
   ],
@@ -4499,5 +4499,5 @@
     "1793949265396-50xbwt",
     "1793955743893-kd8aa1"
   ],
-  "updateTime": "2026/11/8 14:02:59"
+  "updateTime": "2026/11/8 14:03:04"
 }

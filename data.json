@@ -3491,7 +3491,7 @@
       "updatedAt": 1792334768175
     },
     {
-      "text": "精智达选型",
+      "text": "精智达选型，艾贝特费用",
       "date": "2026-11-09",
       "time": "",
       "isAllDay": true,
@@ -3508,7 +3508,7 @@
       "onlyDone": [],
       "id": "1792330335781-8i80oc",
       "createdAt": 1792334223036,
-      "updatedAt": 1794142394707,
+      "updatedAt": 1794145788096,
       "dev": "未知"
     },
     {
@@ -3743,26 +3743,6 @@
       "id": "1793283739756-bhqhwl",
       "updatedAt": 1793283739756,
       "createdAt": 1793283547033
-    },
-    {
-      "text": "艾贝特费用",
-      "date": "2026-11-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793452273821-9xygrm",
-      "updatedAt": 1794142409830,
-      "createdAt": 1793452079924
     },
     {
       "text": "整理中基的报价内容",
@@ -4749,7 +4729,8 @@
     "1793886982120-gdio2n",
     "1793955767317-bpmtxx",
     "1793642586363-grvc7a",
-    "1794145599219-i92zoh"
+    "1794145599219-i92zoh",
+    "1793452273821-9xygrm"
   ],
-  "updateTime": "2026/11/8 21:49:47"
+  "updateTime": "2026/11/8 21:49:55"
 }

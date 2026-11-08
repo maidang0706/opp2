@@ -4101,6 +4101,26 @@
       "id": "1793975546434-s8q9x7",
       "updatedAt": 1793975546434,
       "createdAt": 1793975342555
+    },
+    {
+      "text": "中欣沈工选型",
+      "date": "2026-11-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794117776194-5gwu26",
+      "updatedAt": 1794117776194,
+      "createdAt": 1794117570076
     }
   ],
   "workList": [
@@ -4479,5 +4499,5 @@
     "1793949265396-50xbwt",
     "1793955743893-kd8aa1"
   ],
-  "updateTime": "2026/11/8 14:01:40"
+  "updateTime": "2026/11/8 14:02:59"
 }

@@ -3876,10 +3876,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1793541592978-7kzf65",
-      "updatedAt": 1793541592978,
+      "updatedAt": 1794142350767,
       "createdAt": 1793541394829
     },
     {
@@ -3921,26 +3921,6 @@
       "id": "1793627526517-9okky9",
       "updatedAt": 1793627526517,
       "createdAt": 1793627327127
-    },
-    {
-      "text": "在标题行后面新增本周计划拜访的客户，完成以后划掉",
-      "date": "2026-11-07",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793642463792-6mo7ti",
-      "updatedAt": 1793642463792,
-      "createdAt": 1793642259056
     },
     {
       "text": "抖音插件，微信公众号软件，行业工艺，视频收藏到IMA，拜访内容记录等，人情世故学习",
@@ -4608,7 +4588,8 @@
     "mw7fppjy-t1qf0c",
     "mw0dinoi-xcamfy",
     "mw7fp405-iqntnm",
-    "mw7fx6n0-ogfovc"
+    "mw7fx6n0-ogfovc",
+    "1793642463792-6mo7ti"
   ],
-  "updateTime": "2026/11/8 20:52:22"
+  "updateTime": "2026/11/8 20:52:32"
 }

@@ -3845,8 +3845,8 @@
     {
       "text": "深圳中基付款没有？",
       "date": "2026-11-09",
-      "time": "",
-      "isAllDay": true,
+      "time": "15:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -3859,7 +3859,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1793550828446-jylzm1",
-      "updatedAt": 1793550828446,
+      "updatedAt": 1794142464724,
       "createdAt": 1793550629072
     },
     {
@@ -4563,5 +4563,5 @@
     "1793524777288-5y65w6",
     "1793886982120-gdio2n"
   ],
-  "updateTime": "2026/11/8 20:54:08"
+  "updateTime": "2026/11/8 20:54:28"
 }

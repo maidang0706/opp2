@@ -4223,6 +4223,26 @@
       "id": "1794145645583-e95adz",
       "updatedAt": 1794145645583,
       "createdAt": 1794145438658
+    },
+    {
+      "text": "宏唯报价情况",
+      "date": "2026-11-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794145690601-gi94di",
+      "updatedAt": 1794145690601,
+      "createdAt": 1794145482495
     }
   ],
   "workList": [
@@ -4710,5 +4730,5 @@
     "1793955767317-bpmtxx",
     "1793642586363-grvc7a"
   ],
-  "updateTime": "2026/11/8 21:48:03"
+  "updateTime": "2026/11/8 21:48:17"
 }

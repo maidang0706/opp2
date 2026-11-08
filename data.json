@@ -4295,15 +4295,6 @@
   ],
   "visitList": [
     {
-      "name": "科瑞",
-      "isNew": true,
-      "date": "2026-11-03",
-      "done": false,
-      "createdAt": 1793691350370,
-      "id": "mw0dinoi-xcamfy",
-      "updatedAt": 1793691350370
-    },
-    {
       "name": "日月欣",
       "isNew": true,
       "date": "2026-11-03",
@@ -4383,15 +4374,6 @@
       "createdAt": 1793690254976,
       "id": "mw0cv6gw-ediezl",
       "updatedAt": 1793803956125
-    },
-    {
-      "name": "科瑞",
-      "isNew": false,
-      "date": "2026-11-08",
-      "done": false,
-      "createdAt": 1794118273925,
-      "id": "mw7fp405-iqntnm",
-      "updatedAt": 1794118273925
     },
     {
       "name": "科瑞",
@@ -4556,7 +4538,9 @@
     "1793886987104-2h7b35",
     "1793949265396-50xbwt",
     "1793955743893-kd8aa1",
-    "mw7fppjy-t1qf0c"
+    "mw7fppjy-t1qf0c",
+    "mw0dinoi-xcamfy",
+    "mw7fp405-iqntnm"
   ],
-  "updateTime": "2026/11/8 14:12:00"
+  "updateTime": "2026/11/8 14:12:05"
 }

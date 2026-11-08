@@ -4359,6 +4359,24 @@
       "createdAt": 1794142365384,
       "id": "mw7u1h3c-8sbmif",
       "updatedAt": 1794142365384
+    },
+    {
+      "name": "中基",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143790659,
+      "id": "mw7uw0ub-rhqzxu",
+      "updatedAt": 1794143790659
+    },
+    {
+      "name": "精智达",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143786015,
+      "id": "mw7uvx9b-cs63n9",
+      "updatedAt": 1794143786015
     }
   ],
   "deletedIds": [
@@ -4525,5 +4543,5 @@
     "1793955767317-bpmtxx",
     "1793642586363-grvc7a"
   ],
-  "updateTime": "2026/11/8 20:55:06"
+  "updateTime": "2026/11/8 21:16:32"
 }

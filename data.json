@@ -3743,26 +3743,6 @@
       "createdAt": 1793283547033
     },
     {
-      "text": "科瑞思",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793348747156-fu53hh",
-      "updatedAt": 1793348783630,
-      "createdAt": 1793348553693
-    },
-    {
       "text": "艾贝特费用",
       "date": "2026-11-02",
       "time": "",
@@ -4430,6 +4410,15 @@
       "createdAt": 1794118667683,
       "id": "mw7fxjtv-ev0bnb",
       "updatedAt": 1794118667683
+    },
+    {
+      "name": "科瑞思",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794142365384,
+      "id": "mw7u1h3c-8sbmif",
+      "updatedAt": 1794142365384
     }
   ],
   "deletedIds": [
@@ -4589,7 +4578,8 @@
     "mw0dinoi-xcamfy",
     "mw7fp405-iqntnm",
     "mw7fx6n0-ogfovc",
-    "1793642463792-6mo7ti"
+    "1793642463792-6mo7ti",
+    "1793348747156-fu53hh"
   ],
-  "updateTime": "2026/11/8 20:52:39"
+  "updateTime": "2026/11/8 20:52:51"
 }

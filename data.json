@@ -4121,6 +4121,26 @@
       "id": "1794117776194-5gwu26",
       "updatedAt": 1794117780773,
       "createdAt": 1794117570076
+    },
+    {
+      "text": "誉昊价格沟通",
+      "date": "2026-11-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794117816677-mnzhuw",
+      "updatedAt": 1794117816677,
+      "createdAt": 1794117613465
     }
   ],
   "workList": [
@@ -4499,5 +4519,5 @@
     "1793949265396-50xbwt",
     "1793955743893-kd8aa1"
   ],
-  "updateTime": "2026/11/8 14:03:04"
+  "updateTime": "2026/11/8 14:03:43"
 }

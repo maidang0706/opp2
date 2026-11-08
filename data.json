@@ -3916,10 +3916,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1793627526517-9okky9",
-      "updatedAt": 1793627526517,
+      "updatedAt": 1794142353517,
       "createdAt": 1793627327127
     },
     {
@@ -4591,5 +4591,5 @@
     "mw7fx6n0-ogfovc",
     "1793642463792-6mo7ti"
   ],
-  "updateTime": "2026/11/8 20:52:32"
+  "updateTime": "2026/11/8 20:52:39"
 }

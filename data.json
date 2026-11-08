@@ -3983,26 +3983,6 @@
       "createdAt": 1793933811276
     },
     {
-      "text": "中欣报价和给3D",
-      "date": "2026-11-06",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793955767317-bpmtxx",
-      "updatedAt": 1793955767317,
-      "createdAt": 1793955560683
-    },
-    {
       "text": "答复借用",
       "date": "2026-11-11",
       "time": "",
@@ -4561,7 +4541,8 @@
     "1793642463792-6mo7ti",
     "1793348747156-fu53hh",
     "1793524777288-5y65w6",
-    "1793886982120-gdio2n"
+    "1793886982120-gdio2n",
+    "1793955767317-bpmtxx"
   ],
-  "updateTime": "2026/11/8 20:54:28"
+  "updateTime": "2026/11/8 20:54:38"
 }

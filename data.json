@@ -4125,7 +4125,7 @@
       "createdAt": 1794145258551
     },
     {
-      "text": "精朗寄了驱动器维修0102",
+      "text": "精朗寄了驱动器维修0102，查精朗谢工滑块型号",
       "date": "2026-11-09",
       "time": "09:00",
       "isAllDay": false,
@@ -4141,28 +4141,8 @@
       "done": false,
       "onlyDone": [],
       "id": "1794145488581-8tyjvy",
-      "updatedAt": 1794145499474,
+      "updatedAt": 1794145772103,
       "createdAt": 1794145283665
-    },
-    {
-      "text": "查精朗谢工滑块型号",
-      "date": "2026-11-09",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794145599219-i92zoh",
-      "updatedAt": 1794145599219,
-      "createdAt": 1794145396313
     },
     {
       "text": "中基模组入库问题",
@@ -4768,7 +4748,8 @@
     "1793524777288-5y65w6",
     "1793886982120-gdio2n",
     "1793955767317-bpmtxx",
-    "1793642586363-grvc7a"
+    "1793642586363-grvc7a",
+    "1794145599219-i92zoh"
   ],
-  "updateTime": "2026/11/8 21:49:04"
+  "updateTime": "2026/11/8 21:49:40"
 }

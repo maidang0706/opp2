@@ -3390,7 +3390,7 @@
     },
     {
       "text": "催款：卓誉，精朗，深圳中基，襄阳中基，捷佳伟创，誉辰，誉昊，中欣",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "time": "",
       "isAllDay": true,
       "isVisit": true,
@@ -3406,7 +3406,7 @@
       "onlyDone": [],
       "id": "1792068977043-131gin",
       "createdAt": 1792334784175,
-      "updatedAt": 1793455891292
+      "updatedAt": 1794142384846
     },
     {
       "text": "博滔动子选型",
@@ -3801,26 +3801,6 @@
       "id": "1793524752419-5vn90h",
       "updatedAt": 1793524752419,
       "createdAt": 1793524559841
-    },
-    {
-      "text": "新客户：日月欣，科瑞，吉阳",
-      "date": "2026-11-02",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": true,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793524777288-5y65w6",
-      "updatedAt": 1793622673782,
-      "createdAt": 1793524583201
     },
     {
       "text": "整理报销",
@@ -4579,7 +4559,8 @@
     "mw7fp405-iqntnm",
     "mw7fx6n0-ogfovc",
     "1793642463792-6mo7ti",
-    "1793348747156-fu53hh"
+    "1793348747156-fu53hh",
+    "1793524777288-5y65w6"
   ],
-  "updateTime": "2026/11/8 20:52:58"
+  "updateTime": "2026/11/8 20:53:08"
 }

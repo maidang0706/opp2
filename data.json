@@ -4123,6 +4123,26 @@
       "id": "1794145462817-qkrdhd",
       "updatedAt": 1794145462818,
       "createdAt": 1794145258551
+    },
+    {
+      "text": "精朗寄了驱动器维修",
+      "date": "2026-11-09",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794145488581-8tyjvy",
+      "updatedAt": 1794145488581,
+      "createdAt": 1794145283665
     }
   ],
   "workList": [
@@ -4610,5 +4630,5 @@
     "1793955767317-bpmtxx",
     "1793642586363-grvc7a"
   ],
-  "updateTime": "2026/11/8 21:44:27"
+  "updateTime": "2026/11/8 21:44:53"
 }

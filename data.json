@@ -3985,26 +3985,6 @@
       "createdAt": 1794117613465
     },
     {
-      "text": "立创达情况",
-      "date": "2026-11-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794117829287-fqitvt",
-      "updatedAt": 1794117829287,
-      "createdAt": 1794117624043
-    },
-    {
       "text": "交报销",
       "date": "2026-11-09",
       "time": "",
@@ -4692,7 +4672,8 @@
     "1794145599219-i92zoh",
     "1793452273821-9xygrm",
     "1792418552121-tenl4f",
-    "1794145488581-8tyjvy"
+    "1794145488581-8tyjvy",
+    "1794117829287-fqitvt"
   ],
-  "updateTime": "2026/11/9 10:24:15"
+  "updateTime": "2026/11/9 10:24:22"
 }

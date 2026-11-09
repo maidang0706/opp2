@@ -4164,6 +4164,26 @@
       "id": "1794216471350-enqn2l",
       "updatedAt": 1794216471350,
       "createdAt": 1794216264572
+    },
+    {
+      "text": "精朗报价",
+      "date": "2026-11-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794216478687-q9nsl8",
+      "updatedAt": 1794216478687,
+      "createdAt": 1794216271438
     }
   ],
   "workList": [
@@ -4659,5 +4679,5 @@
     "1794142230994-v23k5r",
     "1794142211398-a9vx1w"
   ],
-  "updateTime": "2026/11/9 17:27:55"
+  "updateTime": "2026/11/9 17:28:03"
 }

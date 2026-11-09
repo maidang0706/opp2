@@ -4144,6 +4144,26 @@
       "id": "1794212540593-62p0hf",
       "updatedAt": 1794212540593,
       "createdAt": 1794212335102
+    },
+    {
+      "text": "中基新的报价",
+      "date": "2026-11-09",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794216471350-enqn2l",
+      "updatedAt": 1794216471350,
+      "createdAt": 1794216264572
     }
   ],
   "workList": [
@@ -4276,6 +4296,197 @@
       "updatedAt": 1790957327950
     }
   ],
+  "visitList": [
+    {
+      "name": "日月欣",
+      "isNew": true,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793691338240,
+      "id": "mw0diebl-cllv5f",
+      "updatedAt": 1793691338241
+    },
+    {
+      "name": "吉阳",
+      "isNew": true,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690131177,
+      "id": "mw0csiy1-mcra76",
+      "updatedAt": 1793690207351
+    },
+    {
+      "name": "精智达",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690422928,
+      "id": "mw0cys28-grig4i",
+      "updatedAt": 1793690422928
+    },
+    {
+      "name": "精朗",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690482625,
+      "id": "mw0d024h-i0tkgh",
+      "updatedAt": 1793949300714
+    },
+    {
+      "name": "中基软包",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690446341,
+      "id": "mw0cza4l-ea9oo4",
+      "updatedAt": 1793690499629
+    },
+    {
+      "name": "中基铝壳",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690439923,
+      "id": "mw0cz56b-o9hxab",
+      "updatedAt": 1793803959650
+    },
+    {
+      "name": "捷佳伟创",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690278216,
+      "id": "mw0cvoeg-iex96b",
+      "updatedAt": 1793949302140
+    },
+    {
+      "name": "中欣",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690261408,
+      "id": "mw0cvbfk-uyunl3",
+      "updatedAt": 1793803957964
+    },
+    {
+      "name": "捷牛",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690254976,
+      "id": "mw0cv6gw-ediezl",
+      "updatedAt": 1793803956125
+    },
+    {
+      "name": "科瑞",
+      "isNew": true,
+      "date": "2026-11-08",
+      "done": false,
+      "createdAt": 1794118289443,
+      "id": "mw7fpfz7-fa5kay",
+      "updatedAt": 1794118289443
+    },
+    {
+      "name": "科瑞",
+      "isNew": true,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794118661493,
+      "id": "mw7fxf1x-s9615r",
+      "updatedAt": 1794118661493
+    },
+    {
+      "name": "吉阳",
+      "isNew": true,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794118672839,
+      "id": "mw7fxnt3-47wy7h",
+      "updatedAt": 1794118672839
+    },
+    {
+      "name": "日月欣",
+      "isNew": true,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794118667683,
+      "id": "mw7fxjtv-ev0bnb",
+      "updatedAt": 1794118667683
+    },
+    {
+      "name": "科瑞思",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794142365384,
+      "id": "mw7u1h3c-8sbmif",
+      "updatedAt": 1794142365384
+    },
+    {
+      "name": "中基",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143790659,
+      "id": "mw7uw0ub-rhqzxu",
+      "updatedAt": 1794143790659
+    },
+    {
+      "name": "精智达",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143786015,
+      "id": "mw7uvx9b-cs63n9",
+      "updatedAt": 1794143786015
+    },
+    {
+      "name": "精朗",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143799467,
+      "id": "mw7uw7mz-r356nh",
+      "updatedAt": 1794143799467
+    },
+    {
+      "name": "卓誉",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143794154,
+      "id": "mw7uw3je-alyuwb",
+      "updatedAt": 1794143794154
+    },
+    {
+      "name": "联申达",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143811561,
+      "id": "mw7uwgyx-dppw9h",
+      "updatedAt": 1794143811561
+    },
+    {
+      "name": "誉昊",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143808116,
+      "id": "mw7uweb8-a1wcr9",
+      "updatedAt": 1794143808116
+    },
+    {
+      "name": "宏唯",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143822596,
+      "id": "mw7uwphg-3c44m3",
+      "updatedAt": 1794143822596
+    }
+  ],
   "deletedIds": [
     "1792334496847-f6l4fj",
     "1792334484447-yfxrg8",
@@ -4283,13 +4494,13 @@
     "1792335063122-mnemcy",
     "1792335101870-h1om54",
     "1792141447101-us4o3a",
-    "1792336201354-i0to22",
     "1792335797269-u2lmxr",
+    "1792336201354-i0to22",
     "1792335878817-37cxpt",
     "1792335858361-arbefx",
     "1792336896201-ker1a4",
-    "1792336937624-tdmrp1",
     "1792337004730-c42zzg",
+    "1792336937624-tdmrp1",
     "1792337071544-tuhysd",
     "1792337566040-h021ez",
     "1791899551257-73oxw8",
@@ -4448,5 +4659,5 @@
     "1794142230994-v23k5r",
     "1794142211398-a9vx1w"
   ],
-  "updateTime": "2026/11/9 16:22:25"
+  "updateTime": "2026/11/9 17:27:55"
 }

@@ -4098,11 +4098,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1794212540593-62p0hf",
-      "updatedAt": 1794212540593,
+      "updatedAt": 1794231899918,
       "createdAt": 1794212335102
     },
     {
@@ -4641,5 +4641,5 @@
     "1794145462817-qkrdhd",
     "1794117816677-mnzhuw"
   ],
-  "updateTime": "2026/11/9 21:44:33"
+  "updateTime": "2026/11/9 21:45:06"
 }

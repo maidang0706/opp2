@@ -3986,26 +3986,6 @@
       "createdAt": 1794142228506
     },
     {
-      "text": "和贝贝去珠海",
-      "date": "2026-11-10",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794145462817-qkrdhd",
-      "updatedAt": 1794145462818,
-      "createdAt": 1794145258551
-    },
-    {
       "text": "中基模组入库问题找谭佩剑",
       "date": "2026-11-09",
       "time": "",
@@ -4677,7 +4657,8 @@
     "1794117829287-fqitvt",
     "1794117776194-5gwu26",
     "1794142230994-v23k5r",
-    "1794142211398-a9vx1w"
+    "1794142211398-a9vx1w",
+    "1794145462817-qkrdhd"
   ],
-  "updateTime": "2026/11/9 21:43:54"
+  "updateTime": "2026/11/9 21:44:03"
 }

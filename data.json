@@ -3907,7 +3907,7 @@
     },
     {
       "text": "更新选型表格里面的参数，动子重量这些",
-      "date": "2026-11-09",
+      "date": "2026-11-15",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3918,11 +3918,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1793934017441-ximwz3",
-      "updatedAt": 1794142334500,
+      "updatedAt": 1794293419587,
       "createdAt": 1793933811276
     },
     {
@@ -4681,5 +4681,5 @@
     "1794145462817-qkrdhd",
     "1794117816677-mnzhuw"
   ],
-  "updateTime": "2026/11/9 21:48:30"
+  "updateTime": "2026/11/10 14:50:29"
 }

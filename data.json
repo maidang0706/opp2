@@ -4064,6 +4064,26 @@
       "id": "1794232071680-nh9hfp",
       "updatedAt": 1794232071680,
       "createdAt": 1794231863728
+    },
+    {
+      "text": "吕志垚生日",
+      "date": "2026-11-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794296101072-jm2dln",
+      "updatedAt": 1794296101072,
+      "createdAt": 1794295896386
     }
   ],
   "workList": [
@@ -4376,5 +4396,5 @@
     "1794216478687-q9nsl8",
     "1794216471350-enqn2l"
   ],
-  "updateTime": "2026/11/10 15:34:50"
+  "updateTime": "2026/11/10 15:35:03"
 }

@@ -4084,6 +4084,26 @@
       "id": "1794296101072-jm2dln",
       "updatedAt": 1794296101072,
       "createdAt": 1794295896386
+    },
+    {
+      "text": "妈生日",
+      "date": "2026-11-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794296108718-5hqaeu",
+      "updatedAt": 1794296108718,
+      "createdAt": 1794295902806
     }
   ],
   "workList": [
@@ -4396,5 +4416,5 @@
     "1794216478687-q9nsl8",
     "1794216471350-enqn2l"
   ],
-  "updateTime": "2026/11/10 15:35:03"
+  "updateTime": "2026/11/10 15:35:10"
 }

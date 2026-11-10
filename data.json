@@ -3986,46 +3986,6 @@
       "createdAt": 1794145414778
     },
     {
-      "text": "中基报价情况",
-      "date": "2026-11-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794145633539-mqky13",
-      "updatedAt": 1794145633539,
-      "createdAt": 1794145426925
-    },
-    {
-      "text": "中欣报价情况",
-      "date": "2026-11-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794145645583-e95adz",
-      "updatedAt": 1794145645583,
-      "createdAt": 1794145438658
-    },
-    {
       "text": "宏唯报价情况",
       "date": "2026-11-09",
       "time": "",
@@ -4064,26 +4024,6 @@
       "id": "1794145719862-fhjv35",
       "updatedAt": 1794145719862,
       "createdAt": 1794145509728
-    },
-    {
-      "text": "精智达合同更改",
-      "date": "2026-11-09",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794145736583-7rbrqg",
-      "updatedAt": 1794145736583,
-      "createdAt": 1794145527148
     },
     {
       "text": "中基中了极电的插钉机",
@@ -4679,7 +4619,10 @@
     "1794142230994-v23k5r",
     "1794142211398-a9vx1w",
     "1794145462817-qkrdhd",
-    "1794117816677-mnzhuw"
+    "1794117816677-mnzhuw",
+    "1794145633539-mqky13",
+    "1794145645583-e95adz",
+    "1794145736583-7rbrqg"
   ],
-  "updateTime": "2026/11/10 14:50:29"
+  "updateTime": "2026/11/10 14:50:59"
 }

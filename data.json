@@ -3987,7 +3987,7 @@
     },
     {
       "text": "何建远要样品",
-      "date": "2026-11-09",
+      "date": "2026-11-12",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3998,11 +3998,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1794145719862-fhjv35",
-      "updatedAt": 1794145719862,
+      "updatedAt": 1794401233172,
       "createdAt": 1794145509728
     },
     {
@@ -4771,5 +4771,5 @@
     "1794358221878-hyfck9",
     "1794374135268-ocsp3o"
   ],
-  "updateTime": "2026/11/11 20:46:53"
+  "updateTime": "2026/11/11 20:47:19"
 }

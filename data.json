@@ -4086,26 +4086,6 @@
       "createdAt": 1794302066415
     },
     {
-      "text": "问南斌魏价格情况",
-      "date": "2026-11-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794358342884-sete2c",
-      "updatedAt": 1794400117974,
-      "createdAt": 1794358134045
-    },
-    {
       "text": "答复黄银辉",
       "date": "2026-11-11",
       "time": "",
@@ -4712,7 +4692,8 @@
     "1794374135268-ocsp3o",
     "1794212540593-62p0hf",
     "1794400133679-zcjkfl",
-    "1794145690601-gi94di"
+    "1794145690601-gi94di",
+    "1794358342884-sete2c"
   ],
-  "updateTime": "2026/11/11 20:49:34"
+  "updateTime": "2026/11/11 20:49:42"
 }

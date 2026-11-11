@@ -3947,7 +3947,7 @@
     },
     {
       "text": "中基模组入库问题找谭佩剑",
-      "date": "2026-11-09",
+      "date": "2026-11-12",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3958,11 +3958,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1794145620969-awjbdd",
-      "updatedAt": 1794231870518,
+      "updatedAt": 1794401335046,
       "createdAt": 1794145414778
     },
     {
@@ -4561,10 +4561,10 @@
       "name": "宏唯",
       "isNew": false,
       "date": "2026-11-09",
-      "done": false,
+      "done": true,
       "createdAt": 1794143822596,
       "id": "mw7uwphg-3c44m3",
-      "updatedAt": 1794143822596
+      "updatedAt": 1794401339030
     }
   ],
   "deletedIds": [
@@ -4752,5 +4752,5 @@
     "1794374135268-ocsp3o",
     "1794212540593-62p0hf"
   ],
-  "updateTime": "2026/11/11 20:48:52"
+  "updateTime": "2026/11/11 20:49:01"
 }

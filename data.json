@@ -4164,6 +4164,26 @@
       "id": "1794400138740-nqwpey",
       "updatedAt": 1794401399128,
       "createdAt": 1794399927462
+    },
+    {
+      "text": "做一个客户信息管理的HTML文件",
+      "date": "2026-11-14",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794404517118-20vuyv",
+      "updatedAt": 1794404517118,
+      "createdAt": 1794404309853
     }
   ],
   "workList": [
@@ -4676,5 +4696,5 @@
     "1794358342884-sete2c",
     "1794399902494-wyx8ki"
   ],
-  "updateTime": "2026/11/11 21:41:46"
+  "updateTime": "2026/11/11 21:42:01"
 }

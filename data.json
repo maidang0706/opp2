@@ -4184,6 +4184,26 @@
       "id": "1794358362260-2a212n",
       "updatedAt": 1794358362260,
       "createdAt": 1794358152492
+    },
+    {
+      "text": "XM方案里面的线缆型号怎么复制更方便",
+      "date": "2026-11-11",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794374135268-ocsp3o",
+      "updatedAt": 1794374135268,
+      "createdAt": 1794373935520
     }
   ],
   "workList": [
@@ -4689,5 +4709,5 @@
     "1794299389324-eqprgg",
     "1793975546434-s8q9x7"
   ],
-  "updateTime": "2026/11/11 13:15:26"
+  "updateTime": "2026/11/11 13:15:48"
 }

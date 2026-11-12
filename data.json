@@ -4184,6 +4184,26 @@
       "id": "1794404517118-20vuyv",
       "updatedAt": 1794404574119,
       "createdAt": 1794404309853
+    },
+    {
+      "text": "邹小军，增加600行程，双动子图纸",
+      "date": "2026-11-12",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794484388307-uye4d8",
+      "updatedAt": 1794484388307,
+      "createdAt": 1794484177492
     }
   ],
   "workList": [
@@ -4505,5 +4525,5 @@
     "1794358342884-sete2c",
     "1794399902494-wyx8ki"
   ],
-  "updateTime": "2026/11/12 19:52:41"
+  "updateTime": "2026/11/12 19:53:10"
 }

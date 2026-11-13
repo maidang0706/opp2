@@ -4106,26 +4106,6 @@
       "createdAt": 1794358152492
     },
     {
-      "text": "精朗补差价订单和其他两个订单",
-      "date": "2026-11-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794399891820-lkig08",
-      "updatedAt": 1794529425798,
-      "createdAt": 1794399683177
-    },
-    {
       "text": "问中欣、精朗、中基报价情况",
       "date": "2026-11-12",
       "time": "",
@@ -4144,26 +4124,6 @@
       "id": "1794400125307-j7fivp",
       "updatedAt": 1794529430847,
       "createdAt": 1794399918061
-    },
-    {
-      "text": "中基报价",
-      "date": "2026-11-12",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794400138740-nqwpey",
-      "updatedAt": 1794529409968,
-      "createdAt": 1794399927462
     },
     {
       "text": "做一个客户信息管理的HTML文件，还有拜访记录的HTML文件，可以填完直接复制出来给打卡记录",
@@ -4524,7 +4484,9 @@
     "1794145690601-gi94di",
     "1794358342884-sete2c",
     "1794399902494-wyx8ki",
-    "1794484388307-uye4d8"
+    "1794484388307-uye4d8",
+    "1794400138740-nqwpey",
+    "1794399891820-lkig08"
   ],
-  "updateTime": "2026/11/13 08:23:53"
+  "updateTime": "2026/11/13 08:24:05"
 }

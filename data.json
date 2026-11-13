@@ -4106,26 +4106,6 @@
       "createdAt": 1794358152492
     },
     {
-      "text": "问中欣、精朗、中基报价情况",
-      "date": "2026-11-12",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794400125307-j7fivp",
-      "updatedAt": 1794529430847,
-      "createdAt": 1794399918061
-    },
-    {
       "text": "做一个客户信息管理的HTML文件，还有拜访记录的HTML文件，可以填完直接复制出来给打卡记录",
       "date": "2026-11-14",
       "time": "",
@@ -4486,7 +4466,8 @@
     "1794399902494-wyx8ki",
     "1794484388307-uye4d8",
     "1794400138740-nqwpey",
-    "1794399891820-lkig08"
+    "1794399891820-lkig08",
+    "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/13 08:24:05"
+  "updateTime": "2026/11/13 08:24:09"
 }

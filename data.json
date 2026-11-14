@@ -4144,6 +4144,26 @@
       "id": "1794485790999-l69mra",
       "updatedAt": 1794485790999,
       "createdAt": 1794485582792
+    },
+    {
+      "text": "中基朱永康选型",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794670199218-743rsa",
+      "updatedAt": 1794670199219,
+      "createdAt": 1794669996659
     }
   ],
   "workList": [
@@ -4660,5 +4680,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/14 23:29:53"
+  "updateTime": "2026/11/14 23:30:07"
 }

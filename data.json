@@ -4344,6 +4344,26 @@
       "id": "1794747717947-jtg3b6",
       "updatedAt": 1794747717947,
       "createdAt": 1794747506714
+    },
+    {
+      "text": "亿纬参观工厂",
+      "date": "2026-11-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794747737752-vx4is7",
+      "updatedAt": 1794747737752,
+      "createdAt": 1794747535495
     }
   ],
   "workList": [
@@ -4860,5 +4880,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 21:02:06"
+  "updateTime": "2026/11/15 21:02:36"
 }

@@ -4228,8 +4228,8 @@
     {
       "text": "精朗驱动器和读头发货",
       "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4242,7 +4242,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794747493391-ga20n9",
-      "updatedAt": 1794747493391,
+      "updatedAt": 1794750708181,
       "createdAt": 1794747282785
     },
     {
@@ -4368,8 +4368,8 @@
     {
       "text": "中欣给合同",
       "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "mid",
       "repeat": {
@@ -4382,7 +4382,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794747792679-3ckc8t",
-      "updatedAt": 1794747792679,
+      "updatedAt": 1794750699769,
       "createdAt": 1794747579027
     },
     {
@@ -4468,8 +4468,8 @@
     {
       "text": "精朗网口有问题的维修情况",
       "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -4482,7 +4482,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794748460795-21t45t",
-      "updatedAt": 1794748460795,
+      "updatedAt": 1794750702216,
       "createdAt": 1794748235701
     },
     {
@@ -5022,5 +5022,5 @@
     "1794746061634-oa17ds",
     "1794485790999-l69mra"
   ],
-  "updateTime": "2026/11/15 21:51:34"
+  "updateTime": "2026/11/15 21:51:50"
 }

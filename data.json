@@ -4019,10 +4019,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794296101072-jm2dln",
-      "updatedAt": 1794296101072,
+      "updatedAt": 1794749223655,
       "createdAt": 1794295896386
     },
     {
@@ -4039,10 +4039,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794296108718-5hqaeu",
-      "updatedAt": 1794296108718,
+      "updatedAt": 1794749225022,
       "createdAt": 1794295902806
     },
     {
@@ -5040,5 +5040,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 21:24:31"
+  "updateTime": "2026/11/15 21:27:11"
 }

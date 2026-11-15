@@ -4184,6 +4184,26 @@
       "id": "1794745946357-5jg721",
       "updatedAt": 1794745946357,
       "createdAt": 1794745739876
+    },
+    {
+      "text": "中欣安排技术",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794745966122-urln6s",
+      "updatedAt": 1794745966122,
+      "createdAt": 1794745757842
     }
   ],
   "workList": [
@@ -4700,5 +4720,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 20:32:31"
+  "updateTime": "2026/11/15 20:32:50"
 }

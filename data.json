@@ -4484,6 +4484,26 @@
       "id": "1794748299736-rsqcoe",
       "updatedAt": 1794748305319,
       "createdAt": 1794748080363
+    },
+    {
+      "text": "邹小军EL210-50-M4X2-L3540-B-ZJ-260232加接油槽的3D",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794748432526-l70wnk",
+      "updatedAt": 1794748432526,
+      "createdAt": 1794748210565
     }
   ],
   "workList": [
@@ -5000,5 +5020,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 21:11:57"
+  "updateTime": "2026/11/15 21:13:58"
 }

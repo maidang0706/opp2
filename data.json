@@ -4244,6 +4244,26 @@
       "id": "1794746003515-5xwhl8",
       "updatedAt": 1794746003515,
       "createdAt": 1794745793812
+    },
+    {
+      "text": "中基朱永康图纸",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794746061634-oa17ds",
+      "updatedAt": 1794746061634,
+      "createdAt": 1794745848077
     }
   ],
   "workList": [
@@ -4760,5 +4780,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 20:33:28"
+  "updateTime": "2026/11/15 20:34:24"
 }

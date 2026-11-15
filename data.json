@@ -4248,8 +4248,8 @@
     {
       "text": "中基朱永康图纸",
       "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4262,7 +4262,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794746061634-oa17ds",
-      "updatedAt": 1794746061634,
+      "updatedAt": 1794746068365,
       "createdAt": 1794745848077
     }
   ],
@@ -4780,5 +4780,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 20:34:24"
+  "updateTime": "2026/11/15 20:34:33"
 }

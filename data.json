@@ -4448,8 +4448,8 @@
     {
       "text": "邹小军EL210-50-M4X2-L3540-B-ZJ-260232加接油槽的3D",
       "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4462,7 +4462,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794748432526-l70wnk",
-      "updatedAt": 1794748432526,
+      "updatedAt": 1794750687805,
       "createdAt": 1794748210565
     },
     {
@@ -5022,5 +5022,5 @@
     "1794746061634-oa17ds",
     "1794485790999-l69mra"
   ],
-  "updateTime": "2026/11/15 21:51:18"
+  "updateTime": "2026/11/15 21:51:34"
 }

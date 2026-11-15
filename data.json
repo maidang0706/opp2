@@ -4464,6 +4464,26 @@
       "id": "1794748183601-smz3jr",
       "updatedAt": 1794748183601,
       "createdAt": 1794747965801
+    },
+    {
+      "text": "中基杨赞EL210-50-M6X3-L2520-B-ZJ-260231给3D",
+      "date": "2026-11-16",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794748299736-rsqcoe",
+      "updatedAt": 1794748305319,
+      "createdAt": 1794748080363
     }
   ],
   "workList": [
@@ -4980,5 +5000,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 21:09:51"
+  "updateTime": "2026/11/15 21:11:47"
 }

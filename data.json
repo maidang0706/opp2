@@ -4246,26 +4246,6 @@
       "createdAt": 1794745793812
     },
     {
-      "text": "中基朱永康图纸",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794746061634-oa17ds",
-      "updatedAt": 1794746068365,
-      "createdAt": 1794745848077
-    },
-    {
       "text": "精朗驱动器和读头发货",
       "date": "2026-11-16",
       "time": "",
@@ -5058,7 +5038,8 @@
     "1794484388307-uye4d8",
     "1794400138740-nqwpey",
     "1794399891820-lkig08",
-    "1794400125307-j7fivp"
+    "1794400125307-j7fivp",
+    "1794746061634-oa17ds"
   ],
-  "updateTime": "2026/11/15 21:50:13"
+  "updateTime": "2026/11/15 21:50:22"
 }

@@ -4204,6 +4204,26 @@
       "id": "1794745966122-urln6s",
       "updatedAt": 1794745966122,
       "createdAt": 1794745757842
+    },
+    {
+      "text": "中基清陶现场去人了没有",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794745975319-f82ruq",
+      "updatedAt": 1794745975319,
+      "createdAt": 1794745766996
     }
   ],
   "workList": [
@@ -4720,5 +4740,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 20:32:50"
+  "updateTime": "2026/11/15 20:33:01"
 }

@@ -4504,6 +4504,26 @@
       "id": "1794748432526-l70wnk",
       "updatedAt": 1794748432526,
       "createdAt": 1794748210565
+    },
+    {
+      "text": "精朗网口有问题的维修情况",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794748460795-21t45t",
+      "updatedAt": 1794748460795,
+      "createdAt": 1794748235701
     }
   ],
   "workList": [
@@ -5020,5 +5040,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 21:13:58"
+  "updateTime": "2026/11/15 21:14:24"
 }

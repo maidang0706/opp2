@@ -4248,8 +4248,8 @@
     {
       "text": "方剑勇的送货单",
       "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4262,7 +4262,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794747521282-isttly",
-      "updatedAt": 1794747521282,
+      "updatedAt": 1794750712810,
       "createdAt": 1794747310487
     },
     {
@@ -4328,8 +4328,8 @@
     {
       "text": "捷佳伟创发资料给杨蔚",
       "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4342,7 +4342,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794747758471-x840hp",
-      "updatedAt": 1794747758471,
+      "updatedAt": 1794750717168,
       "createdAt": 1794747546566
     },
     {
@@ -5022,5 +5022,5 @@
     "1794746061634-oa17ds",
     "1794485790999-l69mra"
   ],
-  "updateTime": "2026/11/15 21:51:50"
+  "updateTime": "2026/11/15 21:52:02"
 }

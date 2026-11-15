@@ -4444,6 +4444,26 @@
       "id": "1794748165511-f5ryom",
       "updatedAt": 1794748169179,
       "createdAt": 1794747946233
+    },
+    {
+      "text": "中基价格申请",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794748183601-smz3jr",
+      "updatedAt": 1794748183601,
+      "createdAt": 1794747965801
     }
   ],
   "workList": [
@@ -4960,5 +4980,5 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp"
   ],
-  "updateTime": "2026/11/15 21:09:39"
+  "updateTime": "2026/11/15 21:09:51"
 }

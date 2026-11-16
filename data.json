@@ -4385,6 +4385,26 @@
       "id": "1794749713297-o55336",
       "updatedAt": 1794749713297,
       "createdAt": 1794749489859
+    },
+    {
+      "text": "中欣给配置",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794793125538-1jkbr9",
+      "updatedAt": 1794793125538,
+      "createdAt": 1794792904891
     }
   ],
   "workList": [
@@ -4909,5 +4929,5 @@
     "1794748299736-rsqcoe",
     "1794748432526-l70wnk"
   ],
-  "updateTime": "2026/11/16 09:35:13"
+  "updateTime": "2026/11/16 09:38:47"
 }

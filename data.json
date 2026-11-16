@@ -4166,26 +4166,6 @@
       "createdAt": 1794745739876
     },
     {
-      "text": "中欣安排技术",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794745966122-urln6s",
-      "updatedAt": 1794746091109,
-      "createdAt": 1794745757842
-    },
-    {
       "text": "做27年预测",
       "date": "2026-11-16",
       "time": "",
@@ -4810,7 +4790,8 @@
     "1794400125307-j7fivp",
     "1794746061634-oa17ds",
     "1794485790999-l69mra",
-    "1794745975319-f82ruq"
+    "1794745975319-f82ruq",
+    "1794745966122-urln6s"
   ],
-  "updateTime": "2026/11/16 08:53:27"
+  "updateTime": "2026/11/16 08:53:33"
 }

@@ -4140,10 +4140,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794670199218-743rsa",
-      "updatedAt": 1794747395331,
+      "updatedAt": 1794790942028,
       "createdAt": 1794669996659
     },
     {
@@ -4966,5 +4966,5 @@
     "1794745966122-urln6s",
     "1794747521282-isttly"
   ],
-  "updateTime": "2026/11/16 09:02:21"
+  "updateTime": "2026/11/16 09:02:25"
 }

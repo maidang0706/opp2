@@ -4107,26 +4107,6 @@
       "createdAt": 1794404309853
     },
     {
-      "text": "捷佳伟创报价",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794745946357-5jg721",
-      "updatedAt": 1794817390377,
-      "createdAt": 1794745739876
-    },
-    {
       "text": "做27年预测",
       "date": "2026-11-16",
       "time": "",
@@ -4145,26 +4125,6 @@
       "id": "1794746003515-5xwhl8",
       "updatedAt": 1794746003515,
       "createdAt": 1794745793812
-    },
-    {
-      "text": "精朗驱动器和读头发货",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794747493391-ga20n9",
-      "updatedAt": 1794790947633,
-      "createdAt": 1794747282785
     },
     {
       "text": "誉昊盖章问题",
@@ -4365,6 +4325,26 @@
       "id": "1794749713297-o55336",
       "updatedAt": 1794749713297,
       "createdAt": 1794749489859
+    },
+    {
+      "text": "精朗要的图纸",
+      "date": "2026-11-16",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794835778509-ks2cgx",
+      "updatedAt": 1794835778509,
+      "createdAt": 1794835565835
     }
   ],
   "workList": [
@@ -4889,7 +4869,9 @@
     "1794748299736-rsqcoe",
     "1794748432526-l70wnk",
     "1794793125538-1jkbr9",
-    "1794302271562-dcadzj"
+    "1794302271562-dcadzj",
+    "1794745946357-5jg721",
+    "1794747493391-ga20n9"
   ],
-  "updateTime": "2026/11/16 21:29:14"
+  "updateTime": "2026/11/16 21:29:45"
 }

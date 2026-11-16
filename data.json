@@ -4199,10 +4199,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794745975319-f82ruq",
-      "updatedAt": 1794749264069,
+      "updatedAt": 1794790401222,
       "createdAt": 1794745766996
     },
     {
@@ -4831,5 +4831,5 @@
     "1794746061634-oa17ds",
     "1794485790999-l69mra"
   ],
-  "updateTime": "2026/11/16 08:53:15"
+  "updateTime": "2026/11/16 08:53:23"
 }

@@ -4186,26 +4186,6 @@
       "createdAt": 1794745757842
     },
     {
-      "text": "中基清陶现场高创去人了没有",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794745975319-f82ruq",
-      "updatedAt": 1794790401222,
-      "createdAt": 1794745766996
-    },
-    {
       "text": "做27年预测",
       "date": "2026-11-16",
       "time": "",
@@ -4829,7 +4809,8 @@
     "1794399891820-lkig08",
     "1794400125307-j7fivp",
     "1794746061634-oa17ds",
-    "1794485790999-l69mra"
+    "1794485790999-l69mra",
+    "1794745975319-f82ruq"
   ],
-  "updateTime": "2026/11/16 08:53:23"
+  "updateTime": "2026/11/16 08:53:27"
 }

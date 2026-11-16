@@ -4206,26 +4206,6 @@
       "createdAt": 1794747282785
     },
     {
-      "text": "方剑勇的送货单",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794747521282-isttly",
-      "updatedAt": 1794750712810,
-      "createdAt": 1794747310487
-    },
-    {
       "text": "誉昊盖章问题",
       "date": "2026-11-16",
       "time": "09:00",
@@ -4791,7 +4771,8 @@
     "1794746061634-oa17ds",
     "1794485790999-l69mra",
     "1794745975319-f82ruq",
-    "1794745966122-urln6s"
+    "1794745966122-urln6s",
+    "1794747521282-isttly"
   ],
-  "updateTime": "2026/11/16 08:53:33"
+  "updateTime": "2026/11/16 08:54:37"
 }

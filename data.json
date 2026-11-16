@@ -4227,26 +4227,6 @@
       "createdAt": 1794747565037
     },
     {
-      "text": "中欣给合同和配置",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794747792679-3ckc8t",
-      "updatedAt": 1794795675579,
-      "createdAt": 1794747579027
-    },
-    {
       "text": "问宏唯和精朗情况",
       "date": "2026-11-16",
       "time": "",
@@ -4871,7 +4851,8 @@
     "1794793125538-1jkbr9",
     "1794302271562-dcadzj",
     "1794745946357-5jg721",
-    "1794747493391-ga20n9"
+    "1794747493391-ga20n9",
+    "1794747792679-3ckc8t"
   ],
-  "updateTime": "2026/11/16 21:29:45"
+  "updateTime": "2026/11/16 21:29:57"
 }

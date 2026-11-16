@@ -4127,26 +4127,6 @@
       "createdAt": 1794404309853
     },
     {
-      "text": "中基朱永康图纸，EL210-50-M6X1M4X2-L2580-B-ZJ-260229，面对栅尺面M6在左边",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794670199218-743rsa",
-      "updatedAt": 1794790942028,
-      "createdAt": 1794669996659
-    },
-    {
       "text": "捷佳伟创报价",
       "date": "2026-11-16",
       "time": "09:00",
@@ -4365,46 +4345,6 @@
       "id": "1794748183601-smz3jr",
       "updatedAt": 1794748183601,
       "createdAt": 1794747965801
-    },
-    {
-      "text": "中基杨赞EL210-50-M6X3-L2520-B-ZJ-260231给3D",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794748299736-rsqcoe",
-      "updatedAt": 1794790939580,
-      "createdAt": 1794748080363
-    },
-    {
-      "text": "邹小军EL210-50-M4X2-L3540-B-ZJ-260232加接油槽的3D",
-      "date": "2026-11-16",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794748432526-l70wnk",
-      "updatedAt": 1794790940644,
-      "createdAt": 1794748210565
     },
     {
       "text": "精朗网口有问题的维修情况",
@@ -4964,7 +4904,10 @@
     "1794485790999-l69mra",
     "1794745975319-f82ruq",
     "1794745966122-urln6s",
-    "1794747521282-isttly"
+    "1794747521282-isttly",
+    "1794670199218-743rsa",
+    "1794748299736-rsqcoe",
+    "1794748432526-l70wnk"
   ],
-  "updateTime": "2026/11/16 09:02:30"
+  "updateTime": "2026/11/16 09:35:02"
 }

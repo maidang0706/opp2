@@ -4067,26 +4067,6 @@
       "createdAt": 1794299982243
     },
     {
-      "text": "未回传对账单客户",
-      "date": "2026-11-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794302271562-dcadzj",
-      "updatedAt": 1794750640282,
-      "createdAt": 1794302066415
-    },
-    {
       "text": "答复黄银辉",
       "date": "2026-11-11",
       "time": "",
@@ -4908,7 +4888,8 @@
     "1794670199218-743rsa",
     "1794748299736-rsqcoe",
     "1794748432526-l70wnk",
-    "1794793125538-1jkbr9"
+    "1794793125538-1jkbr9",
+    "1794302271562-dcadzj"
   ],
-  "updateTime": "2026/11/16 16:23:14"
+  "updateTime": "2026/11/16 16:25:03"
 }

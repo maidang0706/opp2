@@ -3928,7 +3928,7 @@
     },
     {
       "text": "卓誉处理",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3943,7 +3943,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794142436488-diz5bu",
-      "updatedAt": 1794749033278,
+      "updatedAt": 1794898982278,
       "createdAt": 1794142228506
     },
     {
@@ -4048,7 +4048,7 @@
     },
     {
       "text": "艾贝特费用整理",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -4063,7 +4063,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794300187492-lvgux1",
-      "updatedAt": 1794749232195,
+      "updatedAt": 1794898985708,
       "createdAt": 1794299982243
     },
     {
@@ -4385,6 +4385,26 @@
       "id": "1794883898365-q5iiu5",
       "updatedAt": 1794883898365,
       "createdAt": 1794883679912
+    },
+    {
+      "text": "精朗报价",
+      "date": "2026-11-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794898991674-jmj5ci",
+      "updatedAt": 1794898991674,
+      "createdAt": 1794898770629
     }
   ],
   "workList": [
@@ -4914,5 +4934,5 @@
     "1794747493391-ga20n9",
     "1794747792679-3ckc8t"
   ],
-  "updateTime": "2026/11/17 15:01:04"
+  "updateTime": "2026/11/17 15:03:13"
 }

@@ -3948,7 +3948,7 @@
     },
     {
       "text": "中基模组入库问题找谭佩剑",
-      "date": "2026-11-17",
+      "date": "2026-11-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3963,7 +3963,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794145620969-awjbdd",
-      "updatedAt": 1794749038629,
+      "updatedAt": 1794922044235,
       "createdAt": 1794145414778
     },
     {
@@ -4247,12 +4247,12 @@
       "createdAt": 1794747965801
     },
     {
-      "text": "精朗网口有问题的维修情况",
-      "date": "2026-11-17",
+      "text": "精朗网口有问题的驱动器发货",
+      "date": "2026-11-19",
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
-      "priority": "high",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -4263,7 +4263,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794748460795-21t45t",
-      "updatedAt": 1794817369359,
+      "updatedAt": 1794922033006,
       "createdAt": 1794748235701
     },
     {
@@ -4938,5 +4938,5 @@
     "1794145719862-fhjv35",
     "1794883898365-q5iiu5"
   ],
-  "updateTime": "2026/11/17 21:27:02"
+  "updateTime": "2026/11/17 21:27:26"
 }

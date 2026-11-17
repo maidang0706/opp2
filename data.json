@@ -3972,7 +3972,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -3983,7 +3983,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794145719862-fhjv35",
-      "updatedAt": 1794749048777,
+      "updatedAt": 1794899017936,
       "createdAt": 1794145509728
     },
     {
@@ -4425,6 +4425,26 @@
       "id": "1794898997982-2wbfap",
       "updatedAt": 1794898997982,
       "createdAt": 1794898781159
+    },
+    {
+      "text": "精智达下单",
+      "date": "2026-11-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794899009531-fknbax",
+      "updatedAt": 1794899009531,
+      "createdAt": 1794898795435
     }
   ],
   "workList": [
@@ -4954,5 +4974,5 @@
     "1794747493391-ga20n9",
     "1794747792679-3ckc8t"
   ],
-  "updateTime": "2026/11/17 15:03:25"
+  "updateTime": "2026/11/17 15:03:40"
 }

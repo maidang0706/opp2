@@ -4385,6 +4385,26 @@
       "id": "1794920358887-54njly",
       "updatedAt": 1794921994342,
       "createdAt": 1794920135033
+    },
+    {
+      "text": "中基CDHD-0102AEC2驱动器发货",
+      "date": "2026-11-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794922201163-qfqtow",
+      "updatedAt": 1794922201163,
+      "createdAt": 1794921990668
     }
   ],
   "workList": [
@@ -4919,5 +4939,5 @@
     "1794883898365-q5iiu5",
     "1794748183601-smz3jr"
   ],
-  "updateTime": "2026/11/17 21:29:02"
+  "updateTime": "2026/11/17 21:30:13"
 }

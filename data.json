@@ -4420,10 +4420,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794898997982-2wbfap",
-      "updatedAt": 1794898997982,
+      "updatedAt": 1794909428690,
       "createdAt": 1794898781159
     },
     {
@@ -4465,6 +4465,26 @@
       "id": "1794906761622-eldyzx",
       "updatedAt": 1794906761622,
       "createdAt": 1794906539717
+    },
+    {
+      "text": "中基赵文博的3D，EL210-75-M6X1M4X1-L2100-B-ZJ-260239",
+      "date": "2026-11-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794920358887-54njly",
+      "updatedAt": 1794920358887,
+      "createdAt": 1794920135033
     }
   ],
   "workList": [
@@ -4994,5 +5014,5 @@
     "1794747493391-ga20n9",
     "1794747792679-3ckc8t"
   ],
-  "updateTime": "2026/11/17 17:41:02"
+  "updateTime": "2026/11/17 20:59:22"
 }

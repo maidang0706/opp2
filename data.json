@@ -4387,46 +4387,6 @@
       "createdAt": 1794883679912
     },
     {
-      "text": "精朗报价",
-      "date": "2026-11-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794898991674-jmj5ci",
-      "updatedAt": 1794908460410,
-      "createdAt": 1794898770629
-    },
-    {
-      "text": "中基报价",
-      "date": "2026-11-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794898997982-2wbfap",
-      "updatedAt": 1794909428690,
-      "createdAt": 1794898781159
-    },
-    {
       "text": "精智达下单",
       "date": "2026-11-17",
       "time": "",
@@ -5012,7 +4972,9 @@
     "1794302271562-dcadzj",
     "1794745946357-5jg721",
     "1794747493391-ga20n9",
-    "1794747792679-3ckc8t"
+    "1794747792679-3ckc8t",
+    "1794898991674-jmj5ci",
+    "1794898997982-2wbfap"
   ],
-  "updateTime": "2026/11/17 21:23:14"
+  "updateTime": "2026/11/17 21:23:23"
 }

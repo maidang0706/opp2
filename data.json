@@ -4128,7 +4128,7 @@
     },
     {
       "text": "中航进名录了",
-      "date": "2026-11-17",
+      "date": "2026-11-16",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -4139,11 +4139,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1794747717947-jtg3b6",
-      "updatedAt": 1794750652278,
+      "updatedAt": 1794922070822,
       "createdAt": 1794747506714
     },
     {
@@ -4208,7 +4208,7 @@
     },
     {
       "text": "问宏唯和精朗情况",
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -4223,7 +4223,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794748165511-f5ryom",
-      "updatedAt": 1794748169179,
+      "updatedAt": 1794922085986,
       "createdAt": 1794747946233
     },
     {
@@ -4288,7 +4288,7 @@
     },
     {
       "text": "精朗要的图纸",
-      "date": "2026-11-16",
+      "date": "2026-11-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -4303,7 +4303,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794835778509-ks2cgx",
-      "updatedAt": 1794835778509,
+      "updatedAt": 1794922078207,
       "createdAt": 1794835565835
     },
     {
@@ -4938,5 +4938,5 @@
     "1794145719862-fhjv35",
     "1794883898365-q5iiu5"
   ],
-  "updateTime": "2026/11/17 21:27:39"
+  "updateTime": "2026/11/17 21:28:07"
 }

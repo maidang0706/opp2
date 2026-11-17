@@ -4372,7 +4372,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -4383,7 +4383,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794883898365-q5iiu5",
-      "updatedAt": 1794883898365,
+      "updatedAt": 1794899024135,
       "createdAt": 1794883679912
     },
     {
@@ -4974,5 +4974,5 @@
     "1794747493391-ga20n9",
     "1794747792679-3ckc8t"
   ],
-  "updateTime": "2026/11/17 15:03:40"
+  "updateTime": "2026/11/17 15:03:50"
 }

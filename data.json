@@ -4445,6 +4445,26 @@
       "id": "1794922395379-dwaoh6",
       "updatedAt": 1794922395379,
       "createdAt": 1794922181905
+    },
+    {
+      "text": "问捷佳伟创报价情况",
+      "date": "2026-11-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794922609859-uwowk2",
+      "updatedAt": 1794922609859,
+      "createdAt": 1794922390221
     }
   ],
   "workList": [
@@ -4979,5 +4999,5 @@
     "1794883898365-q5iiu5",
     "1794748183601-smz3jr"
   ],
-  "updateTime": "2026/11/17 21:33:26"
+  "updateTime": "2026/11/17 21:36:56"
 }

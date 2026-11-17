@@ -4088,9 +4088,9 @@
     },
     {
       "text": "做27年预测",
-      "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
+      "date": "2026-11-18",
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "high",
       "repeat": {
@@ -4103,7 +4103,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794746003515-5xwhl8",
-      "updatedAt": 1794746003515,
+      "updatedAt": 1794922100592,
       "createdAt": 1794745793812
     },
     {
@@ -4938,5 +4938,5 @@
     "1794145719862-fhjv35",
     "1794883898365-q5iiu5"
   ],
-  "updateTime": "2026/11/17 21:28:07"
+  "updateTime": "2026/11/17 21:28:22"
 }

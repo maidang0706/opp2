@@ -4445,6 +4445,26 @@
       "id": "1794899009531-fknbax",
       "updatedAt": 1794899009531,
       "createdAt": 1794898795435
+    },
+    {
+      "text": "中基CDHD-0102AEC2的驱动器寄回来",
+      "date": "2026-11-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794906761622-eldyzx",
+      "updatedAt": 1794906761622,
+      "createdAt": 1794906539717
     }
   ],
   "workList": [
@@ -4974,5 +4994,5 @@
     "1794747493391-ga20n9",
     "1794747792679-3ckc8t"
   ],
-  "updateTime": "2026/11/17 17:12:34"
+  "updateTime": "2026/11/17 17:12:45"
 }

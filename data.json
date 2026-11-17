@@ -3967,28 +3967,8 @@
       "createdAt": 1794145414778
     },
     {
-      "text": "何建远要样品",
-      "date": "2026-11-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794145719862-fhjv35",
-      "updatedAt": 1794906741655,
-      "createdAt": 1794145509728
-    },
-    {
       "text": "中基申请检测片",
-      "date": "2026-11-17",
+      "date": "2026-11-19",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -4003,7 +3983,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794232071680-nh9hfp",
-      "updatedAt": 1794749052974,
+      "updatedAt": 1794921963660,
       "createdAt": 1794231863728
     },
     {
@@ -4388,7 +4368,7 @@
     },
     {
       "text": "精智达下单",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -4403,7 +4383,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794899009531-fknbax",
-      "updatedAt": 1794899009531,
+      "updatedAt": 1794921969063,
       "createdAt": 1794898795435
     },
     {
@@ -4974,7 +4954,8 @@
     "1794747493391-ga20n9",
     "1794747792679-3ckc8t",
     "1794898991674-jmj5ci",
-    "1794898997982-2wbfap"
+    "1794898997982-2wbfap",
+    "1794145719862-fhjv35"
   ],
-  "updateTime": "2026/11/17 21:23:56"
+  "updateTime": "2026/11/17 21:26:15"
 }

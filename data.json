@@ -4347,26 +4347,6 @@
       "createdAt": 1794879029083
     },
     {
-      "text": "中基借用CDHD-0102AEC的驱动器",
-      "date": "2026-11-17",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794883898365-q5iiu5",
-      "updatedAt": 1794906745198,
-      "createdAt": 1794883679912
-    },
-    {
       "text": "精智达下单",
       "date": "2026-11-18",
       "time": "",
@@ -4407,10 +4387,10 @@
       "createdAt": 1794906539717
     },
     {
-      "text": "中基赵文博的3D，EL210-75-M6X1M4X1-L2100-B-ZJ-260239",
+      "text": "中基赵士博的3D，EL210-75-M6X1M4X1-L2100-B-ZJ-260239",
       "date": "2026-11-18",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4423,7 +4403,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794920358887-54njly",
-      "updatedAt": 1794920358887,
+      "updatedAt": 1794921994342,
       "createdAt": 1794920135033
     }
   ],
@@ -4955,7 +4935,8 @@
     "1794747792679-3ckc8t",
     "1794898991674-jmj5ci",
     "1794898997982-2wbfap",
-    "1794145719862-fhjv35"
+    "1794145719862-fhjv35",
+    "1794883898365-q5iiu5"
   ],
-  "updateTime": "2026/11/17 21:26:15"
+  "updateTime": "2026/11/17 21:26:34"
 }

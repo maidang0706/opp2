@@ -4405,6 +4405,26 @@
       "id": "1794898991674-jmj5ci",
       "updatedAt": 1794898991674,
       "createdAt": 1794898770629
+    },
+    {
+      "text": "中基报价",
+      "date": "2026-11-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794898997982-2wbfap",
+      "updatedAt": 1794898997982,
+      "createdAt": 1794898781159
     }
   ],
   "workList": [
@@ -4934,5 +4954,5 @@
     "1794747493391-ga20n9",
     "1794747792679-3ckc8t"
   ],
-  "updateTime": "2026/11/17 15:03:13"
+  "updateTime": "2026/11/17 15:03:25"
 }

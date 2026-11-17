@@ -4227,26 +4227,6 @@
       "createdAt": 1794747946233
     },
     {
-      "text": "中基价格申请",
-      "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794748183601-smz3jr",
-      "updatedAt": 1794748183601,
-      "createdAt": 1794747965801
-    },
-    {
       "text": "精朗网口有问题的驱动器发货",
       "date": "2026-11-19",
       "time": "09:00",
@@ -4936,7 +4916,8 @@
     "1794898991674-jmj5ci",
     "1794898997982-2wbfap",
     "1794145719862-fhjv35",
-    "1794883898365-q5iiu5"
+    "1794883898365-q5iiu5",
+    "1794748183601-smz3jr"
   ],
-  "updateTime": "2026/11/17 21:28:22"
+  "updateTime": "2026/11/17 21:28:36"
 }

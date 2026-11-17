@@ -4365,6 +4365,26 @@
       "id": "1794879247481-xwuzpf",
       "updatedAt": 1794879247481,
       "createdAt": 1794879029083
+    },
+    {
+      "text": "中基借用CDHD-0102AEC的驱动器",
+      "date": "2026-11-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1794883898365-q5iiu5",
+      "updatedAt": 1794883898365,
+      "createdAt": 1794883679912
     }
   ],
   "workList": [
@@ -4894,5 +4914,5 @@
     "1794747493391-ga20n9",
     "1794747792679-3ckc8t"
   ],
-  "updateTime": "2026/11/17 10:51:29"
+  "updateTime": "2026/11/17 10:51:41"
 }

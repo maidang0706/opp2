@@ -4425,6 +4425,26 @@
       "id": "1795012858235-qv032n",
       "updatedAt": 1795012858235,
       "createdAt": 1795012641426
+    },
+    {
+      "text": "通过录音来获取客户信息，最新有哪些项目，自动生成一个文件，晚上可以自己再整理一下。",
+      "date": "2026-11-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795013098719-gx4rxr",
+      "updatedAt": 1795013098719,
+      "createdAt": 1795012883721
     }
   ],
   "workList": [
@@ -4967,5 +4987,5 @@
     "1794747775542-yg17l5",
     "1795011896204-94vstu"
   ],
-  "updateTime": "2026/11/18 22:41:05"
+  "updateTime": "2026/11/18 22:45:08"
 }

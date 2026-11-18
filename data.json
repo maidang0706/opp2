@@ -4187,7 +4187,7 @@
       "createdAt": 1794747565037
     },
     {
-      "text": "问宏唯和精朗情况",
+      "text": "问宏唯和精朗情况，捷佳伟创",
       "date": "2026-11-19",
       "time": "",
       "isAllDay": true,
@@ -4203,7 +4203,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794748165511-f5ryom",
-      "updatedAt": 1795011632052,
+      "updatedAt": 1795011645849,
       "createdAt": 1794747946233
     },
     {
@@ -4365,26 +4365,6 @@
       "id": "1794922395379-dwaoh6",
       "updatedAt": 1794922395379,
       "createdAt": 1794922181905
-    },
-    {
-      "text": "问捷佳伟创报价情况",
-      "date": "2026-11-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794922609859-uwowk2",
-      "updatedAt": 1794922609859,
-      "createdAt": 1794922390221
     },
     {
       "text": "亿纬的资料",
@@ -4942,7 +4922,8 @@
     "1794746003515-5xwhl8",
     "1794920358887-54njly",
     "1794922201163-qfqtow",
-    "1794965513057-5belc8"
+    "1794965513057-5belc8",
+    "1794922609859-uwowk2"
   ],
-  "updateTime": "2026/11/18 22:20:43"
+  "updateTime": "2026/11/18 22:20:53"
 }

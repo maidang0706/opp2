@@ -4405,6 +4405,26 @@
       "id": "1795012251701-ulgglw",
       "updatedAt": 1795012251701,
       "createdAt": 1795012033333
+    },
+    {
+      "text": "改商机HTML文件，让手机端更直观更方便的填写，不需要电脑端的很多功能",
+      "date": "2026-11-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795012858235-qv032n",
+      "updatedAt": 1795012858235,
+      "createdAt": 1795012641426
     }
   ],
   "workList": [
@@ -4947,5 +4967,5 @@
     "1794747775542-yg17l5",
     "1795011896204-94vstu"
   ],
-  "updateTime": "2026/11/18 22:40:31"
+  "updateTime": "2026/11/18 22:41:05"
 }

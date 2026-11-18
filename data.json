@@ -4087,26 +4087,6 @@
       "createdAt": 1794404309853
     },
     {
-      "text": "做27年预测",
-      "date": "2026-11-18",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794746003515-5xwhl8",
-      "updatedAt": 1794992733780,
-      "createdAt": 1794745793812
-    },
-    {
       "text": "誉昊盖章问题",
       "date": "2026-11-16",
       "time": "09:00",
@@ -4325,26 +4305,6 @@
       "id": "1794879247481-xwuzpf",
       "updatedAt": 1794879247481,
       "createdAt": 1794879029083
-    },
-    {
-      "text": "精智达下单",
-      "date": "2026-11-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794899009531-fknbax",
-      "updatedAt": 1794921969063,
-      "createdAt": 1794898795435
     },
     {
       "text": "中基CDHD-0102AEC2的驱动器寄回来",
@@ -5037,7 +4997,9 @@
     "1794898997982-2wbfap",
     "1794145719862-fhjv35",
     "1794883898365-q5iiu5",
-    "1794748183601-smz3jr"
+    "1794748183601-smz3jr",
+    "1794899009531-fknbax",
+    "1794746003515-5xwhl8"
   ],
-  "updateTime": "2026/11/18 17:06:24"
+  "updateTime": "2026/11/18 17:35:53"
 }

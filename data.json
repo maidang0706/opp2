@@ -4088,7 +4088,7 @@
     },
     {
       "text": "誉昊盖章问题",
-      "date": "2026-11-16",
+      "date": "2026-11-19",
       "time": "09:00",
       "isAllDay": false,
       "isVisit": false,
@@ -4103,7 +4103,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794747693058-6vm7pc",
-      "updatedAt": 1794747693058,
+      "updatedAt": 1795011699168,
       "createdAt": 1794747491430
     },
     {
@@ -4165,26 +4165,6 @@
       "id": "1794747758471-x840hp",
       "updatedAt": 1795011637149,
       "createdAt": 1794747546566
-    },
-    {
-      "text": "亿纬要填供应商资料",
-      "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794747775542-yg17l5",
-      "updatedAt": 1794747775542,
-      "createdAt": 1794747565037
     },
     {
       "text": "问宏唯和精朗情况，捷佳伟创",
@@ -4923,7 +4903,8 @@
     "1794920358887-54njly",
     "1794922201163-qfqtow",
     "1794965513057-5belc8",
-    "1794922609859-uwowk2"
+    "1794922609859-uwowk2",
+    "1794747775542-yg17l5"
   ],
-  "updateTime": "2026/11/18 22:21:33"
+  "updateTime": "2026/11/18 22:21:44"
 }

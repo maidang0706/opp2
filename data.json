@@ -4367,7 +4367,7 @@
       "createdAt": 1794992556329
     },
     {
-      "text": "帮黄宇泽找点胶机客户",
+      "text": "帮黄宇泽找点胶机客户，物流行业，我的挑战客户",
       "date": "2026-11-16",
       "time": "",
       "isAllDay": true,
@@ -4383,28 +4383,8 @@
       "done": false,
       "onlyDone": [],
       "id": "1795011886681-v4npn2",
-      "updatedAt": 1795011886681,
+      "updatedAt": 1795011915667,
       "createdAt": 1795011676203
-    },
-    {
-      "text": "关注物流行业",
-      "date": "2026-11-16",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": true,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795011896204-94vstu",
-      "updatedAt": 1795011896204,
-      "createdAt": 1795011675203
     }
   ],
   "workList": [
@@ -4944,7 +4924,8 @@
     "1794922201163-qfqtow",
     "1794965513057-5belc8",
     "1794922609859-uwowk2",
-    "1794747775542-yg17l5"
+    "1794747775542-yg17l5",
+    "1795011896204-94vstu"
   ],
-  "updateTime": "2026/11/18 22:25:08"
+  "updateTime": "2026/11/18 22:25:24"
 }

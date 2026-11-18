@@ -4445,6 +4445,26 @@
       "id": "1795013098719-gx4rxr",
       "updatedAt": 1795013098719,
       "createdAt": 1795012883721
+    },
+    {
+      "text": "镜头组装机大理石+配件方案来推",
+      "date": "2026-11-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795013923654-huxozs",
+      "updatedAt": 1795013923654,
+      "createdAt": 1795013702857
     }
   ],
   "workList": [
@@ -4796,5 +4816,5 @@
     "1794747775542-yg17l5",
     "1795011896204-94vstu"
   ],
-  "updateTime": "2026/11/18 22:58:19"
+  "updateTime": "2026/11/18 22:58:48"
 }

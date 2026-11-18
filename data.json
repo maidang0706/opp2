@@ -4107,7 +4107,7 @@
       "createdAt": 1794747491430
     },
     {
-      "text": "中航进名录了",
+      "text": "中航进名录了，锂电终端鹏程无限",
       "date": "2026-11-16",
       "time": "",
       "isAllDay": true,
@@ -4123,7 +4123,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794747717947-jtg3b6",
-      "updatedAt": 1794922070822,
+      "updatedAt": 1794994593068,
       "createdAt": 1794747506714
     },
     {
@@ -4385,26 +4385,6 @@
       "id": "1794922609859-uwowk2",
       "updatedAt": 1794922609859,
       "createdAt": 1794922390221
-    },
-    {
-      "text": "鹏程无限",
-      "date": "2026-11-18",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794965513057-5belc8",
-      "updatedAt": 1794965513057,
-      "createdAt": 1794965288235
     },
     {
       "text": "亿纬的资料",
@@ -4961,7 +4941,8 @@
     "1794899009531-fknbax",
     "1794746003515-5xwhl8",
     "1794920358887-54njly",
-    "1794922201163-qfqtow"
+    "1794922201163-qfqtow",
+    "1794965513057-5belc8"
   ],
-  "updateTime": "2026/11/18 17:36:16"
+  "updateTime": "2026/11/18 17:36:37"
 }

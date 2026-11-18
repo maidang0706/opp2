@@ -4139,11 +4139,11 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1794747737752-vx4is7",
-      "updatedAt": 1794994571992,
+      "updatedAt": 1795011839598,
       "createdAt": 1794747535495
     },
     {
@@ -4906,5 +4906,5 @@
     "1794922609859-uwowk2",
     "1794747775542-yg17l5"
   ],
-  "updateTime": "2026/11/18 22:23:43"
+  "updateTime": "2026/11/18 22:24:07"
 }

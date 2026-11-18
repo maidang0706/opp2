@@ -4465,6 +4465,26 @@
       "id": "1795013923654-huxozs",
       "updatedAt": 1795013923654,
       "createdAt": 1795013702857
+    },
+    {
+      "text": "订单里面显示模组是哪个机型用的",
+      "date": "2026-11-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795014164114-42x7lt",
+      "updatedAt": 1795014164114,
+      "createdAt": 1795013939637
     }
   ],
   "workList": [
@@ -4816,5 +4836,5 @@
     "1794747775542-yg17l5",
     "1795011896204-94vstu"
   ],
-  "updateTime": "2026/11/18 23:02:29"
+  "updateTime": "2026/11/18 23:02:46"
 }

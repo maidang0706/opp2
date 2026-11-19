@@ -4100,10 +4100,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794747693058-6vm7pc",
-      "updatedAt": 1795011699168,
+      "updatedAt": 1795097689339,
       "createdAt": 1794747491430
     },
     {
@@ -4512,7 +4512,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "mid",
       "repeat": {
         "type": 0,
         "days": [],
@@ -4523,7 +4523,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1795097646454-qdo7yk",
-      "updatedAt": 1795097665220,
+      "updatedAt": 1795097685046,
       "createdAt": 1795097435439
     }
   ],
@@ -5068,5 +5068,5 @@
     "1795011896204-94vstu",
     "1795022080250-kbu10e"
   ],
-  "updateTime": "2026/11/19 22:14:34"
+  "updateTime": "2026/11/19 22:14:54"
 }

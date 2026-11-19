@@ -4545,6 +4545,26 @@
       "id": "1795098984161-239t5b",
       "updatedAt": 1795098984161,
       "createdAt": 1795098763280
+    },
+    {
+      "text": "中欣交货",
+      "date": "2026-11-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795099004872-em63cc",
+      "updatedAt": 1795099004872,
+      "createdAt": 1795098782513
     }
   ],
   "workList": [
@@ -5090,5 +5110,5 @@
     "1794906761622-eldyzx",
     "1794747693058-6vm7pc"
   ],
-  "updateTime": "2026/11/19 22:36:33"
+  "updateTime": "2026/11/19 22:36:53"
 }

@@ -4585,6 +4585,26 @@
       "id": "1795099336204-lluvlr",
       "updatedAt": 1795099336204,
       "createdAt": 1795099113876
+    },
+    {
+      "text": "精朗商务谈判",
+      "date": "2026-11-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795105534902-9k3pbu",
+      "updatedAt": 1795105534902,
+      "createdAt": 1795105308159
     }
   ],
   "workList": [
@@ -5130,5 +5150,5 @@
     "1794906761622-eldyzx",
     "1794747693058-6vm7pc"
   ],
-  "updateTime": "2026/11/20 00:24:16"
+  "updateTime": "2026/11/20 00:25:41"
 }

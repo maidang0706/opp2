@@ -4505,6 +4505,26 @@
       "id": "1795077101909-sgpr6c",
       "updatedAt": 1795077101909,
       "createdAt": 1795076879350
+    },
+    {
+      "text": "捷佳伟创订单",
+      "date": "2026-11-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": true,
+      "onlyDone": [],
+      "id": "1795097646454-qdo7yk",
+      "updatedAt": 1795097656393,
+      "createdAt": 1795097435439
     }
   ],
   "workList": [
@@ -5048,5 +5068,5 @@
     "1795011896204-94vstu",
     "1795022080250-kbu10e"
   ],
-  "updateTime": "2026/11/19 16:31:47"
+  "updateTime": "2026/11/19 22:14:24"
 }

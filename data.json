@@ -4287,7 +4287,7 @@
       "createdAt": 1794879029083
     },
     {
-      "text": "中基CDHD-0102AEC2的驱动器寄回来",
+      "text": "王益强要的钢带发货",
       "date": "2026-11-20",
       "time": "",
       "isAllDay": true,
@@ -4302,28 +4302,8 @@
       "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
-      "id": "1794906761622-eldyzx",
-      "updatedAt": 1795011658713,
-      "createdAt": 1794906539717
-    },
-    {
-      "text": "王益强要的钢带发货",
-      "date": "2026-11-19",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
       "id": "1794922227926-8jn5t8",
-      "updatedAt": 1795011663696,
+      "updatedAt": 1795098894025,
       "createdAt": 1794922017648
     },
     {
@@ -4527,7 +4507,7 @@
       "createdAt": 1795097435439
     },
     {
-      "text": "中基寄回驱动器和光电开关",
+      "text": "中基寄回CDHD-0102AEC2驱动器和欧姆龙光电开关",
       "date": "2026-11-20",
       "time": "",
       "isAllDay": true,
@@ -4543,7 +4523,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1795098868868-veqv2l",
-      "updatedAt": 1795098868868,
+      "updatedAt": 1795098884509,
       "createdAt": 1795098650848
     }
   ],
@@ -5086,7 +5066,8 @@
     "1794922609859-uwowk2",
     "1794747775542-yg17l5",
     "1795011896204-94vstu",
-    "1795022080250-kbu10e"
+    "1795022080250-kbu10e",
+    "1794906761622-eldyzx"
   ],
-  "updateTime": "2026/11/19 22:34:40"
+  "updateTime": "2026/11/19 22:34:54"
 }

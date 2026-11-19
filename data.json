@@ -4525,6 +4525,26 @@
       "id": "1795097646454-qdo7yk",
       "updatedAt": 1795097685046,
       "createdAt": 1795097435439
+    },
+    {
+      "text": "中基寄回驱动器和光电开关",
+      "date": "2026-11-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795098868868-veqv2l",
+      "updatedAt": 1795098868868,
+      "createdAt": 1795098650848
     }
   ],
   "workList": [
@@ -5068,5 +5088,5 @@
     "1795011896204-94vstu",
     "1795022080250-kbu10e"
   ],
-  "updateTime": "2026/11/19 22:15:02"
+  "updateTime": "2026/11/19 22:34:40"
 }

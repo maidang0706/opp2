@@ -4525,6 +4525,26 @@
       "id": "1795098969281-a774z8",
       "updatedAt": 1795098969282,
       "createdAt": 1795098751329
+    },
+    {
+      "text": "中基雄韬订单",
+      "date": "2026-11-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795098984161-239t5b",
+      "updatedAt": 1795098984161,
+      "createdAt": 1795098763280
     }
   ],
   "workList": [
@@ -5070,5 +5090,5 @@
     "1794906761622-eldyzx",
     "1794747693058-6vm7pc"
   ],
-  "updateTime": "2026/11/19 22:36:20"
+  "updateTime": "2026/11/19 22:36:33"
 }

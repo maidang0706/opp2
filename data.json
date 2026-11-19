@@ -4087,26 +4087,6 @@
       "createdAt": 1794404309853
     },
     {
-      "text": "誉昊盖章问题",
-      "date": "2026-11-19",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794747693058-6vm7pc",
-      "updatedAt": 1795097689339,
-      "createdAt": 1794747491430
-    },
-    {
       "text": "中航进名录了，锂电终端鹏程无限",
       "date": "2026-11-16",
       "time": "",
@@ -4328,7 +4308,7 @@
     },
     {
       "text": "亿纬的资料",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -4343,7 +4323,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794992774900-bldvbw",
-      "updatedAt": 1795011675113,
+      "updatedAt": 1795098943421,
       "createdAt": 1794992556329
     },
     {
@@ -5067,7 +5047,8 @@
     "1794747775542-yg17l5",
     "1795011896204-94vstu",
     "1795022080250-kbu10e",
-    "1794906761622-eldyzx"
+    "1794906761622-eldyzx",
+    "1794747693058-6vm7pc"
   ],
-  "updateTime": "2026/11/19 22:35:30"
+  "updateTime": "2026/11/19 22:35:44"
 }

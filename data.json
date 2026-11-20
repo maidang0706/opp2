@@ -4187,26 +4187,6 @@
       "createdAt": 1794749489859
     },
     {
-      "text": "精朗要的图纸",
-      "date": "2026-11-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794835778509-ks2cgx",
-      "updatedAt": 1795174621453,
-      "createdAt": 1794835565835
-    },
-    {
       "text": "体检预约",
       "date": "2026-11-21",
       "time": "",
@@ -4467,26 +4447,6 @@
       "createdAt": 1795098650848
     },
     {
-      "text": "黄宇泽迪尔泰情况",
-      "date": "2026-11-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795098969281-a774z8",
-      "updatedAt": 1795174629547,
-      "createdAt": 1795098751329
-    },
-    {
       "text": "中欣交货",
       "date": "2026-11-26",
       "time": "",
@@ -4505,26 +4465,6 @@
       "id": "1795099004872-em63cc",
       "updatedAt": 1795099004872,
       "createdAt": 1795098782513
-    },
-    {
-      "text": "誉昊订单",
-      "date": "2026-11-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795099336204-lluvlr",
-      "updatedAt": 1795174616943,
-      "createdAt": 1795099113876
     },
     {
       "text": "再核一遍中基的订单",
@@ -5092,7 +5032,10 @@
     "1794748460795-21t45t",
     "1795098984161-239t5b",
     "1795105534902-9k3pbu",
-    "1795097646454-qdo7yk"
+    "1795097646454-qdo7yk",
+    "1795099336204-lluvlr",
+    "1794835778509-ks2cgx",
+    "1795098969281-a774z8"
   ],
-  "updateTime": "2026/11/20 19:37:21"
+  "updateTime": "2026/11/20 19:37:31"
 }

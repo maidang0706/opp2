@@ -4485,6 +4485,26 @@
       "id": "1795174606262-tbt8mw",
       "updatedAt": 1795174606262,
       "createdAt": 1795174382692
+    },
+    {
+      "text": "开放XM方案明细文档给朗仪",
+      "date": "2026-11-21",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795174995823-jkxztz",
+      "updatedAt": 1795174995823,
+      "createdAt": 1795174772065
     }
   ],
   "workList": [
@@ -5037,5 +5057,5 @@
     "1794835778509-ks2cgx",
     "1795098969281-a774z8"
   ],
-  "updateTime": "2026/11/20 19:40:29"
+  "updateTime": "2026/11/20 19:43:20"
 }

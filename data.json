@@ -3907,26 +3907,6 @@
       "createdAt": 1793807681392
     },
     {
-      "text": "更新选型表格里面的参数，动子重量这些",
-      "date": "2026-11-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1793934017441-ximwz3",
-      "updatedAt": 1795011817374,
-      "createdAt": 1793933811276
-    },
-    {
       "text": "卓誉处理",
       "date": "2026-11-16",
       "time": "",
@@ -4519,6 +4499,13 @@
   ],
   "optimizeList": [
     {
+      "text": "更新选型表格里面的参数，动子重量这些",
+      "done": false,
+      "createdAt": 1795179950507,
+      "id": "mwozsiwb-wwgheh",
+      "updatedAt": 1795179950507
+    },
+    {
       "text": "开放XM方案明细文档给朗仪",
       "done": false,
       "createdAt": 1795179937373,
@@ -4985,7 +4972,8 @@
     "1795012858235-qv032n",
     "1795013098719-gx4rxr",
     "1795077101909-sgpr6c",
-    "1795174995823-jkxztz"
+    "1795174995823-jkxztz",
+    "1793934017441-ximwz3"
   ],
-  "updateTime": "2026/11/20 21:05:43"
+  "updateTime": "2026/11/20 21:05:55"
 }

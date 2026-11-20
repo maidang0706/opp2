@@ -4472,6 +4472,13 @@
   ],
   "optimizeList": [
     {
+      "text": "把交期合并到代办里面，还有对账也加进去",
+      "done": false,
+      "createdAt": 1795187039117,
+      "id": "mwp40gi5-qvru1s",
+      "updatedAt": 1795187039117
+    },
+    {
       "text": "订单里面显示模组是哪个机型用的",
       "done": false,
       "createdAt": 1795179963203,
@@ -4957,5 +4964,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/20 23:03:28"
+  "updateTime": "2026/11/20 23:04:06"
 }

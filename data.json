@@ -4180,10 +4180,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794748460795-21t45t",
-      "updatedAt": 1795098948112,
+      "updatedAt": 1795174609647,
       "createdAt": 1794748235701
     },
     {
@@ -4480,10 +4480,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1795097646454-qdo7yk",
-      "updatedAt": 1795097685046,
+      "updatedAt": 1795174616175,
       "createdAt": 1795097435439
     },
     {
@@ -4540,10 +4540,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1795098984161-239t5b",
-      "updatedAt": 1795098984161,
+      "updatedAt": 1795174612457,
       "createdAt": 1795098763280
     },
     {
@@ -4600,11 +4600,31 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1795105534902-9k3pbu",
-      "updatedAt": 1795105534902,
+      "updatedAt": 1795174614178,
       "createdAt": 1795105308159
+    },
+    {
+      "text": "再核一遍中基的订单",
+      "date": "2026-11-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "mid",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795174606262-tbt8mw",
+      "updatedAt": 1795174606262,
+      "createdAt": 1795174382692
     }
   ],
   "workList": [
@@ -5150,5 +5170,5 @@
     "1794906761622-eldyzx",
     "1794747693058-6vm7pc"
   ],
-  "updateTime": "2026/11/20 19:36:36"
+  "updateTime": "2026/11/20 19:36:56"
 }

@@ -4187,26 +4187,6 @@
       "createdAt": 1794879019304
     },
     {
-      "text": "把代办和交期表做到一起，生日记录做到代办里面",
-      "date": "2026-11-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794879247481-xwuzpf",
-      "updatedAt": 1795011742329,
-      "createdAt": 1794879029083
-    },
-    {
       "text": "王益强要的钢带发货",
       "date": "2026-11-20",
       "time": "",
@@ -5052,7 +5032,8 @@
     "1795099336204-lluvlr",
     "1794835778509-ks2cgx",
     "1795098969281-a774z8",
-    "1794404517118-20vuyv"
+    "1794404517118-20vuyv",
+    "1794879247481-xwuzpf"
   ],
-  "updateTime": "2026/11/20 21:04:47"
+  "updateTime": "2026/11/20 21:04:55"
 }

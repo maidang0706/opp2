@@ -4220,10 +4220,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794835778509-ks2cgx",
-      "updatedAt": 1795098907251,
+      "updatedAt": 1795174621453,
       "createdAt": 1794835565835
     },
     {
@@ -4580,10 +4580,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1795099336204-lluvlr",
-      "updatedAt": 1795099336204,
+      "updatedAt": 1795174616943,
       "createdAt": 1795099113876
     },
     {
@@ -5170,5 +5170,5 @@
     "1794906761622-eldyzx",
     "1794747693058-6vm7pc"
   ],
-  "updateTime": "2026/11/20 19:36:56"
+  "updateTime": "2026/11/20 19:37:04"
 }

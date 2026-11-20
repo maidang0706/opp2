@@ -4167,26 +4167,6 @@
       "createdAt": 1794747946233
     },
     {
-      "text": "精朗网口有问题的驱动器发货，精朗补合同",
-      "date": "2026-11-20",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1794748460795-21t45t",
-      "updatedAt": 1795174609647,
-      "createdAt": 1794748235701
-    },
-    {
       "text": "baba",
       "date": "2027-01-11",
       "time": "",
@@ -4467,26 +4447,6 @@
       "createdAt": 1795076879350
     },
     {
-      "text": "捷佳伟创订单",
-      "date": "2026-11-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795097646454-qdo7yk",
-      "updatedAt": 1795174616175,
-      "createdAt": 1795097435439
-    },
-    {
       "text": "中基寄回CDHD-0102AEC2驱动器和欧姆龙光电开关",
       "date": "2026-11-20",
       "time": "",
@@ -4527,26 +4487,6 @@
       "createdAt": 1795098751329
     },
     {
-      "text": "中基雄韬订单",
-      "date": "2026-11-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795098984161-239t5b",
-      "updatedAt": 1795174612457,
-      "createdAt": 1795098763280
-    },
-    {
       "text": "中欣交货",
       "date": "2026-11-26",
       "time": "",
@@ -4585,26 +4525,6 @@
       "id": "1795099336204-lluvlr",
       "updatedAt": 1795174616943,
       "createdAt": 1795099113876
-    },
-    {
-      "text": "精朗商务谈判",
-      "date": "2026-11-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795105534902-9k3pbu",
-      "updatedAt": 1795174614178,
-      "createdAt": 1795105308159
     },
     {
       "text": "再核一遍中基的订单",
@@ -5168,7 +5088,11 @@
     "1795011896204-94vstu",
     "1795022080250-kbu10e",
     "1794906761622-eldyzx",
-    "1794747693058-6vm7pc"
+    "1794747693058-6vm7pc",
+    "1794748460795-21t45t",
+    "1795098984161-239t5b",
+    "1795105534902-9k3pbu",
+    "1795097646454-qdo7yk"
   ],
-  "updateTime": "2026/11/20 19:37:11"
+  "updateTime": "2026/11/20 19:37:21"
 }

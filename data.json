@@ -4067,26 +4067,6 @@
       "createdAt": 1794358152492
     },
     {
-      "text": "做一个客户信息管理的HTML文件，还有拜访记录的HTML文件，可以填完直接复制出来给打卡记录",
-      "date": "2026-11-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794404517118-20vuyv",
-      "updatedAt": 1795011806394,
-      "createdAt": 1794404309853
-    },
-    {
       "text": "中航进名录了，锂电终端鹏程无限",
       "date": "2026-11-16",
       "time": "",
@@ -4637,7 +4617,15 @@
       "updatedAt": 1790957327950
     }
   ],
-  "optimizeList": [],
+  "optimizeList": [
+    {
+      "text": "做一个客户信息管理的HTML文件，还有拜访记录的HTML文件，可以填完直接复制出来给打卡记录",
+      "done": false,
+      "createdAt": 1795179863984,
+      "id": "mwozqo4w-oz1832",
+      "updatedAt": 1795179863984
+    }
+  ],
   "visitList": [
     {
       "name": "日月欣",
@@ -5056,7 +5044,8 @@
     "1795097646454-qdo7yk",
     "1795099336204-lluvlr",
     "1794835778509-ks2cgx",
-    "1795098969281-a774z8"
+    "1795098969281-a774z8",
+    "1794404517118-20vuyv"
   ],
-  "updateTime": "2026/11/20 21:04:03"
+  "updateTime": "2026/11/20 21:04:34"
 }

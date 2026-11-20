@@ -4385,26 +4385,6 @@
       "id": "1795174606262-tbt8mw",
       "updatedAt": 1795174606262,
       "createdAt": 1795174382692
-    },
-    {
-      "text": "开放XM方案明细文档给朗仪",
-      "date": "2026-11-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795174995823-jkxztz",
-      "updatedAt": 1795174995823,
-      "createdAt": 1795174772065
     }
   ],
   "workList": [
@@ -4538,6 +4518,13 @@
     }
   ],
   "optimizeList": [
+    {
+      "text": "开放XM方案明细文档给朗仪",
+      "done": false,
+      "createdAt": 1795179937373,
+      "id": "mwozs8rh-jufizf",
+      "updatedAt": 1795179937373
+    },
     {
       "text": "订单明细里面22年和21年的订单没有",
       "done": false,
@@ -4997,7 +4984,8 @@
     "1794879247481-xwuzpf",
     "1795012858235-qv032n",
     "1795013098719-gx4rxr",
-    "1795077101909-sgpr6c"
+    "1795077101909-sgpr6c",
+    "1795174995823-jkxztz"
   ],
-  "updateTime": "2026/11/20 21:05:36"
+  "updateTime": "2026/11/20 21:05:43"
 }

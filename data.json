@@ -4327,26 +4327,6 @@
       "createdAt": 1795013939637
     },
     {
-      "text": "订单明细里面22年和21年的订单没有",
-      "date": "2026-11-21",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795077101909-sgpr6c",
-      "updatedAt": 1795077101909,
-      "createdAt": 1795076879350
-    },
-    {
       "text": "中基寄回CDHD-0102AEC2驱动器和欧姆龙光电开关",
       "date": "2026-11-23",
       "time": "",
@@ -4558,6 +4538,13 @@
     }
   ],
   "optimizeList": [
+    {
+      "text": "订单明细里面22年和21年的订单没有",
+      "done": false,
+      "createdAt": 1795179927179,
+      "id": "mwozs0wb-df0hey",
+      "updatedAt": 1795179927179
+    },
     {
       "text": "通过录音来获取客户信息，最新有哪些项目，自动生成一个文件，晚上可以自己再整理一下。",
       "done": false,
@@ -5009,7 +4996,8 @@
     "1794404517118-20vuyv",
     "1794879247481-xwuzpf",
     "1795012858235-qv032n",
-    "1795013098719-gx4rxr"
+    "1795013098719-gx4rxr",
+    "1795077101909-sgpr6c"
   ],
-  "updateTime": "2026/11/20 21:05:26"
+  "updateTime": "2026/11/20 21:05:36"
 }

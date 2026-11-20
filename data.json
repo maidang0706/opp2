@@ -4499,6 +4499,13 @@
   ],
   "optimizeList": [
     {
+      "text": "订单里面显示模组是哪个机型用的",
+      "done": false,
+      "createdAt": 1795179963203,
+      "id": "mwozssoz-do90jh",
+      "updatedAt": 1795179963203
+    },
+    {
       "text": "更新选型表格里面的参数，动子重量这些",
       "done": false,
       "createdAt": 1795179950507,
@@ -4975,5 +4982,5 @@
     "1795174995823-jkxztz",
     "1793934017441-ximwz3"
   ],
-  "updateTime": "2026/11/20 21:05:55"
+  "updateTime": "2026/11/20 21:06:04"
 }

@@ -4287,26 +4287,6 @@
       "createdAt": 1795013702857
     },
     {
-      "text": "订单里面显示模组是哪个机型用的",
-      "date": "2026-11-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795014164114-42x7lt",
-      "updatedAt": 1795014164114,
-      "createdAt": 1795013939637
-    },
-    {
       "text": "中基寄回CDHD-0102AEC2驱动器和欧姆龙光电开关",
       "date": "2026-11-23",
       "time": "",
@@ -4980,7 +4960,8 @@
     "1795013098719-gx4rxr",
     "1795077101909-sgpr6c",
     "1795174995823-jkxztz",
-    "1793934017441-ximwz3"
+    "1793934017441-ximwz3",
+    "1795014164114-42x7lt"
   ],
-  "updateTime": "2026/11/20 21:06:04"
+  "updateTime": "2026/11/20 21:06:14"
 }

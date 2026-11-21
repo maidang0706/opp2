@@ -4470,6 +4470,262 @@
       "updatedAt": 1790957327950
     }
   ],
+  "optimizeList": [
+    {
+      "text": "把交期合并到代办里面，还有对账也加进去",
+      "done": false,
+      "createdAt": 1795187039117,
+      "id": "mwp40gi5-qvru1s",
+      "updatedAt": 1795187039117
+    },
+    {
+      "text": "订单里面显示模组是哪个机型用的",
+      "done": false,
+      "createdAt": 1795179963203,
+      "id": "mwozssoz-do90jh",
+      "updatedAt": 1795179963203
+    },
+    {
+      "text": "更新选型表格里面的参数，动子重量这些",
+      "done": false,
+      "createdAt": 1795179950507,
+      "id": "mwozsiwb-wwgheh",
+      "updatedAt": 1795179950507
+    },
+    {
+      "text": "开放XM方案明细文档给朗仪",
+      "done": false,
+      "createdAt": 1795179937373,
+      "id": "mwozs8rh-jufizf",
+      "updatedAt": 1795179937373
+    },
+    {
+      "text": "订单明细里面22年和21年的订单没有",
+      "done": false,
+      "createdAt": 1795179927179,
+      "id": "mwozs0wb-df0hey",
+      "updatedAt": 1795179927179
+    },
+    {
+      "text": "通过录音来获取客户信息，最新有哪些项目，自动生成一个文件，晚上可以自己再整理一下。",
+      "done": false,
+      "createdAt": 1795179912655,
+      "id": "mwozrpov-pt7kxg",
+      "updatedAt": 1795179912655
+    },
+    {
+      "text": "改商机HTML文件，让手机端更直观更方便的填写，不需要电脑端的很多功能",
+      "done": false,
+      "createdAt": 1795179896741,
+      "id": "mwozrdet-04pid2",
+      "updatedAt": 1795179896741
+    },
+    {
+      "text": "把代办和交期表做到一起，生日记录做到代办里面",
+      "done": false,
+      "createdAt": 1795179878767,
+      "id": "mwozqzjj-ubyz7g",
+      "updatedAt": 1795179878767
+    },
+    {
+      "text": "做一个客户信息管理的HTML文件，还有拜访记录的HTML文件，可以填完直接复制出来给打卡记录",
+      "done": false,
+      "createdAt": 1795179863984,
+      "id": "mwozqo4w-oz1832",
+      "updatedAt": 1795179863984
+    }
+  ],
+  "visitList": [
+    {
+      "name": "日月欣",
+      "isNew": true,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793691338240,
+      "id": "mw0diebl-cllv5f",
+      "updatedAt": 1793691338241
+    },
+    {
+      "name": "吉阳",
+      "isNew": true,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690131177,
+      "id": "mw0csiy1-mcra76",
+      "updatedAt": 1793690207351
+    },
+    {
+      "name": "精智达",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": false,
+      "createdAt": 1793690422928,
+      "id": "mw0cys28-grig4i",
+      "updatedAt": 1793690422928
+    },
+    {
+      "name": "精朗",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690482625,
+      "id": "mw0d024h-i0tkgh",
+      "updatedAt": 1793949300714
+    },
+    {
+      "name": "中基软包",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690446341,
+      "id": "mw0cza4l-ea9oo4",
+      "updatedAt": 1793690499629
+    },
+    {
+      "name": "中基铝壳",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690439923,
+      "id": "mw0cz56b-o9hxab",
+      "updatedAt": 1793803959650
+    },
+    {
+      "name": "捷佳伟创",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690278216,
+      "id": "mw0cvoeg-iex96b",
+      "updatedAt": 1793949302140
+    },
+    {
+      "name": "中欣",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690261408,
+      "id": "mw0cvbfk-uyunl3",
+      "updatedAt": 1793803957964
+    },
+    {
+      "name": "捷牛",
+      "isNew": false,
+      "date": "2026-11-03",
+      "done": true,
+      "createdAt": 1793690254976,
+      "id": "mw0cv6gw-ediezl",
+      "updatedAt": 1793803956125
+    },
+    {
+      "name": "科瑞",
+      "isNew": true,
+      "date": "2026-11-08",
+      "done": false,
+      "createdAt": 1794118289443,
+      "id": "mw7fpfz7-fa5kay",
+      "updatedAt": 1794118289443
+    },
+    {
+      "name": "科瑞",
+      "isNew": true,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794118661493,
+      "id": "mw7fxf1x-s9615r",
+      "updatedAt": 1794118661493
+    },
+    {
+      "name": "吉阳",
+      "isNew": true,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794118672839,
+      "id": "mw7fxnt3-47wy7h",
+      "updatedAt": 1794118672839
+    },
+    {
+      "name": "日月欣",
+      "isNew": true,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794118667683,
+      "id": "mw7fxjtv-ev0bnb",
+      "updatedAt": 1794118667683
+    },
+    {
+      "name": "科瑞思",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": true,
+      "createdAt": 1794142365384,
+      "id": "mw7u1h3c-8sbmif",
+      "updatedAt": 1794300100645
+    },
+    {
+      "name": "中基",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": true,
+      "createdAt": 1794143790659,
+      "id": "mw7uw0ub-rhqzxu",
+      "updatedAt": 1794300097967
+    },
+    {
+      "name": "精智达",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143786015,
+      "id": "mw7uvx9b-cs63n9",
+      "updatedAt": 1794143786015
+    },
+    {
+      "name": "精朗",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143799467,
+      "id": "mw7uw7mz-r356nh",
+      "updatedAt": 1794143799467
+    },
+    {
+      "name": "卓誉",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": false,
+      "createdAt": 1794143794154,
+      "id": "mw7uw3je-alyuwb",
+      "updatedAt": 1794143794154
+    },
+    {
+      "name": "联申达",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": true,
+      "createdAt": 1794143811561,
+      "id": "mw7uwgyx-dppw9h",
+      "updatedAt": 1794300089578
+    },
+    {
+      "name": "誉昊",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": true,
+      "createdAt": 1794143808116,
+      "id": "mw7uweb8-a1wcr9",
+      "updatedAt": 1794300093305
+    },
+    {
+      "name": "宏唯",
+      "isNew": false,
+      "date": "2026-11-09",
+      "done": true,
+      "createdAt": 1794143822596,
+      "id": "mw7uwphg-3c44m3",
+      "updatedAt": 1794401339030
+    }
+  ],
   "deletedIds": [
     "1792334496847-f6l4fj",
     "1792334484447-yfxrg8",
@@ -4477,13 +4733,13 @@
     "1792335063122-mnemcy",
     "1792335101870-h1om54",
     "1792141447101-us4o3a",
-    "1792336201354-i0to22",
     "1792335797269-u2lmxr",
+    "1792336201354-i0to22",
     "1792335878817-37cxpt",
     "1792335858361-arbefx",
     "1792336896201-ker1a4",
-    "1792336937624-tdmrp1",
     "1792337004730-c42zzg",
+    "1792336937624-tdmrp1",
     "1792337071544-tuhysd",
     "1792337566040-h021ez",
     "1791899551257-73oxw8",
@@ -4708,5 +4964,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/20 23:52:47"
+  "updateTime": "2026/11/21 11:46:56"
 }

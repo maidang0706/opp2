@@ -4549,6 +4549,13 @@
   ],
   "optimizeList": [
     {
+      "text": "把生日加进来",
+      "done": false,
+      "createdAt": 1795273795800,
+      "id": "mwqjnye0-461d8i",
+      "updatedAt": 1795273795800
+    },
+    {
       "text": "把交期合并到代办里面，还有对账也加进去",
       "done": false,
       "createdAt": 1795187039117,
@@ -5041,5 +5048,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/21 23:01:38"
+  "updateTime": "2026/11/21 23:10:01"
 }

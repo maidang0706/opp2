@@ -4650,29 +4650,6 @@
       "autoKey": "custdate\u0001kaipiao\u0001深圳中基\u00012026-11-25",
       "createdAt": 1795283719452,
       "updatedAt": 1795284359667
-    },
-    {
-      "id": "auto-custdate-cd63d5e0",
-      "text": "中欣开票截止日",
-      "date": "2026-11-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "autoFrom": "custdate",
-      "autoSub": "kaipiao",
-      "autoKey": "custdate\u0001kaipiao\u0001中欣\u00012026-11-25",
-      "createdAt": 1795285197246,
-      "updatedAt": 1795285197246
     }
   ],
   "workList": [
@@ -5415,7 +5392,8 @@
     "auto-custdate-bbeea8cc",
     "auto-custdate-80405dec",
     "auto-custdate-197ec48c",
-    "auto-custdate-4f68e033"
+    "auto-custdate-4f68e033",
+    "auto-custdate-cd63d5e0"
   ],
-  "updateTime": "2026/11/22 02:23:32"
+  "updateTime": "2026/11/22 02:24:29"
 }

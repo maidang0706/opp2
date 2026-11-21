@@ -4345,6 +4345,26 @@
       "id": "1795174606262-tbt8mw",
       "updatedAt": 1795174606262,
       "createdAt": 1795174382692
+    },
+    {
+      "text": "捷佳伟创模组给备注",
+      "date": "2026-11-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795267946672-si4ud1",
+      "updatedAt": 1795267946672,
+      "createdAt": 1795267733345
     }
   ],
   "workList": [
@@ -5001,5 +5021,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/21 21:32:25"
+  "updateTime": "2026/11/21 21:32:34"
 }

@@ -4742,6 +4742,29 @@
       "autoKey": "custdate\u0001jiziliao\u0001捷佳伟创\u00012026-11-20",
       "createdAt": 1795283719453,
       "updatedAt": 1795284359668
+    },
+    {
+      "id": "auto-custdate-4f68e033",
+      "text": "捷佳伟创开票截止日",
+      "date": "2026-11-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "custdate",
+      "autoSub": "kaipiao",
+      "autoKey": "custdate\u0001kaipiao\u0001捷佳伟创\u00012026-11-15",
+      "createdAt": 1795284437644,
+      "updatedAt": 1795284437644
     }
   ],
   "workList": [
@@ -5481,5 +5504,5 @@
     "auto-custdate-1795283719453-txiu6q",
     "auto-custdate-2fd5da2a"
   ],
-  "updateTime": "2026/11/22 02:06:45"
+  "updateTime": "2026/11/22 02:07:20"
 }

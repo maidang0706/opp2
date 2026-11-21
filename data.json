@@ -4627,6 +4627,248 @@
       "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110046\u00012026-11-10",
       "createdAt": 1795276606254,
       "updatedAt": 1795276606254
+    },
+    {
+      "id": "auto-order-1795277656547-p83dmm",
+      "text": "中欣XM261118LT01",
+      "date": "2026-12-02",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "深圳市中欣科技有限公司\u0001XM261118LT01\u00012026-12-02",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656547-ktdii7",
+      "text": "中基创展CZ0672026110248",
+      "date": "2026-12-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110248\u00012026-12-03",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656547-bjg3yo",
+      "text": "中欣XM261116LT01",
+      "date": "2026-11-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "深圳市中欣科技有限公司\u0001XM261116LT01\u00012026-11-27",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656547-mqfum9",
+      "text": "中基创展CZ0672026110183",
+      "date": "2026-11-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110183\u00012026-11-26",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656547-y1dsdm",
+      "text": "中基创展CZ0672026110183",
+      "date": "2026-12-03",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110183\u00012026-12-03",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656547-ixcnim",
+      "text": "中基创展CZ0672026110072",
+      "date": "2026-11-17",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110072\u00012026-11-17",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656547-opo5ff",
+      "text": "中基创展CZ0672026110072",
+      "date": "2026-11-18",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110072\u00012026-11-18",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656547-rinbn3",
+      "text": "中基创展CZ0672026110072",
+      "date": "2026-11-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110072\u00012026-11-10",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656547-65fjbu",
+      "text": "中基创展CZ0672026110072",
+      "date": "2026-11-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110072\u00012026-11-20",
+      "createdAt": 1795277656547,
+      "updatedAt": 1795277656547
+    },
+    {
+      "id": "auto-order-1795277656548-yuy47u",
+      "text": "中基创展CZ0672026110072",
+      "date": "2026-11-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110072\u00012026-11-25",
+      "createdAt": 1795277656548,
+      "updatedAt": 1795277656548
+    },
+    {
+      "id": "auto-order-1795277656548-avpo3a",
+      "text": "中基创展CZ0672026110046",
+      "date": "2026-11-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "order",
+      "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110046\u00012026-11-10",
+      "createdAt": 1795277656548,
+      "updatedAt": 1795277656548
     }
   ],
   "workList": [
@@ -5324,5 +5566,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/22 00:14:51"
+  "updateTime": "2026/11/22 00:16:13"
 }

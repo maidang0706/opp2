@@ -4556,13 +4556,6 @@
       "updatedAt": 1795273795800
     },
     {
-      "text": "把交期合并到代办里面，还有对账也加进去",
-      "done": false,
-      "createdAt": 1795187039117,
-      "id": "mwp40gi5-qvru1s",
-      "updatedAt": 1795187039117
-    },
-    {
       "text": "订单里面显示模组是哪个机型用的",
       "done": false,
       "createdAt": 1795179963203,
@@ -4596,6 +4589,13 @@
       "createdAt": 1795179863984,
       "id": "mwozqo4w-oz1832",
       "updatedAt": 1795179863984
+    },
+    {
+      "text": "把交期合并到代办里面，还有对账也加进去",
+      "done": true,
+      "createdAt": 1795187039117,
+      "id": "mwp40gi5-qvru1s",
+      "updatedAt": 1795286812066
     },
     {
       "text": "开放XM方案明细文档给朗仪",
@@ -5089,5 +5089,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/22 02:46:48"
+  "updateTime": "2026/11/22 02:46:57"
 }

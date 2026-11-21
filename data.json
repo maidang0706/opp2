@@ -4470,6 +4470,43 @@
       "updatedAt": 1790957327950
     }
   ],
+  "habitList": [
+    {
+      "text": "和小蔡一起开发的新客户，先帮他来约，比如博明视觉和博测达",
+      "done": false,
+      "createdAt": 1793539959947,
+      "id": "mvxvdu36-osvv3g",
+      "updatedAt": 1795174813384
+    },
+    {
+      "text": "每天回看抖音视频",
+      "done": false,
+      "createdAt": 1793287576773,
+      "id": "mvtp4dz9-eipxsr",
+      "updatedAt": 1793287576773
+    },
+    {
+      "text": "下午6-7点不睡觉",
+      "done": false,
+      "createdAt": 1793287556657,
+      "id": "mvtp3ygh-2ttcrb",
+      "updatedAt": 1793287556657
+    },
+    {
+      "text": "每周1-2天跑3家新客户",
+      "done": false,
+      "createdAt": 1793287282963,
+      "id": "mvtoy39v-xe0czu",
+      "updatedAt": 1793287282963
+    },
+    {
+      "text": "每天12点之前睡觉",
+      "done": false,
+      "createdAt": 1793287267525,
+      "id": "mvtoxrd1-bdrbpy",
+      "updatedAt": 1793287267525
+    }
+  ],
   "optimizeList": [
     {
       "text": "把交期合并到代办里面，还有对账也加进去",
@@ -4964,5 +5001,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/21 21:31:28"
+  "updateTime": "2026/11/21 21:31:45"
 }

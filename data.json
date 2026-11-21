@@ -4570,20 +4570,6 @@
       "updatedAt": 1795179950507
     },
     {
-      "text": "开放XM方案明细文档给朗仪",
-      "done": false,
-      "createdAt": 1795179937373,
-      "id": "mwozs8rh-jufizf",
-      "updatedAt": 1795179937373
-    },
-    {
-      "text": "订单明细里面22年和21年的订单没有",
-      "done": false,
-      "createdAt": 1795179927179,
-      "id": "mwozs0wb-df0hey",
-      "updatedAt": 1795179927179
-    },
-    {
       "text": "通过录音来获取客户信息，最新有哪些项目，自动生成一个文件，晚上可以自己再整理一下。",
       "done": false,
       "createdAt": 1795179912655,
@@ -4610,6 +4596,20 @@
       "createdAt": 1795179863984,
       "id": "mwozqo4w-oz1832",
       "updatedAt": 1795179863984
+    },
+    {
+      "text": "开放XM方案明细文档给朗仪",
+      "done": true,
+      "createdAt": 1795179937373,
+      "id": "mwozs8rh-jufizf",
+      "updatedAt": 1795268260779
+    },
+    {
+      "text": "订单明细里面22年和21年的订单没有",
+      "done": true,
+      "createdAt": 1795179927179,
+      "id": "mwozs0wb-df0hey",
+      "updatedAt": 1795268264502
     }
   ],
   "visitList": [
@@ -5041,5 +5041,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/21 21:37:37"
+  "updateTime": "2026/11/21 21:37:46"
 }

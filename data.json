@@ -4627,6 +4627,144 @@
       "autoKey": "襄阳中基创展智能科技有限公司\u0001CZ0672026110046\u00012026-11-10",
       "createdAt": 1795276606254,
       "updatedAt": 1795276606254
+    },
+    {
+      "id": "auto-custdate-1795283719452-04f1ai",
+      "text": "中欣对账截止日",
+      "date": "2026-11-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "custdate",
+      "autoSub": "duizhang",
+      "autoKey": "custdate\u0001duizhang\u0001中欣\u00012026-11-10",
+      "createdAt": 1795283719452,
+      "updatedAt": 1795283719452
+    },
+    {
+      "id": "auto-custdate-1795283719452-rb3vki",
+      "text": "深圳中基开票截止日",
+      "date": "2026-11-25",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "custdate",
+      "autoSub": "kaipiao",
+      "autoKey": "custdate\u0001kaipiao\u0001深圳中基\u00012026-11-25",
+      "createdAt": 1795283719452,
+      "updatedAt": 1795283719452
+    },
+    {
+      "id": "auto-custdate-1795283719453-oxu5a9",
+      "text": "汇艺对账截止日",
+      "date": "2026-11-15",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "custdate",
+      "autoSub": "duizhang",
+      "autoKey": "custdate\u0001duizhang\u0001汇艺\u00012026-11-15",
+      "createdAt": 1795283719453,
+      "updatedAt": 1795283719453
+    },
+    {
+      "id": "auto-custdate-1795283719453-iroc8w",
+      "text": "汇艺开票截止日",
+      "date": "2026-11-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "custdate",
+      "autoSub": "kaipiao",
+      "autoKey": "custdate\u0001kaipiao\u0001汇艺\u00012026-11-20",
+      "createdAt": 1795283719453,
+      "updatedAt": 1795283719453
+    },
+    {
+      "id": "auto-custdate-1795283719453-wb6ofb",
+      "text": "捷佳伟创对账截止日",
+      "date": "2026-11-10",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "custdate",
+      "autoSub": "duizhang",
+      "autoKey": "custdate\u0001duizhang\u0001捷佳伟创\u00012026-11-10",
+      "createdAt": 1795283719453,
+      "updatedAt": 1795283719453
+    },
+    {
+      "id": "auto-custdate-1795283719453-txiu6q",
+      "text": "捷佳伟创寄资料截止日",
+      "date": "2026-11-20",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "autoFrom": "custdate",
+      "autoSub": "jiziliao",
+      "autoKey": "custdate\u0001jiziliao\u0001捷佳伟创\u00012026-11-20",
+      "createdAt": 1795283719453,
+      "updatedAt": 1795283719453
     }
   ],
   "workList": [
@@ -5342,5 +5480,5 @@
     "auto-order-1795277656548-yuy47u",
     "auto-order-1795277656548-avpo3a"
   ],
-  "updateTime": "2026/11/22 01:38:47"
+  "updateTime": "2026/11/22 01:55:20"
 }

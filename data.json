@@ -4577,13 +4577,6 @@
       "updatedAt": 1795179912655
     },
     {
-      "text": "改商机HTML文件，让手机端更直观更方便的填写，不需要电脑端的很多功能",
-      "done": false,
-      "createdAt": 1795179896741,
-      "id": "mwozrdet-04pid2",
-      "updatedAt": 1795179896741
-    },
-    {
       "text": "把代办和交期表做到一起，生日记录做到代办里面",
       "done": false,
       "createdAt": 1795179878767,
@@ -4610,6 +4603,13 @@
       "createdAt": 1795179927179,
       "id": "mwozs0wb-df0hey",
       "updatedAt": 1795268264502
+    },
+    {
+      "text": "改商机HTML文件，让手机端更直观更方便的填写，不需要电脑端的很多功能",
+      "done": true,
+      "createdAt": 1795179896741,
+      "id": "mwozrdet-04pid2",
+      "updatedAt": 1795272762227
     }
   ],
   "visitList": [
@@ -5041,5 +5041,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/21 22:52:31"
+  "updateTime": "2026/11/21 23:01:38"
 }

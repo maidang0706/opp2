@@ -3928,7 +3928,7 @@
     },
     {
       "text": "中基模组入库问题找谭佩剑",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3943,12 +3943,12 @@
       "done": false,
       "onlyDone": [],
       "id": "1794145620969-awjbdd",
-      "updatedAt": 1795337034329,
+      "updatedAt": 1795358319449,
       "createdAt": 1794145414778
     },
     {
       "text": "中基申请检测片",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "time": "",
       "isAllDay": true,
       "isVisit": false,
@@ -3963,7 +3963,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794232071680-nh9hfp",
-      "updatedAt": 1795337038037,
+      "updatedAt": 1795358323399,
       "createdAt": 1794231863728
     },
     {
@@ -5190,5 +5190,5 @@
     "mvdxyp93-nqpdsm",
     "1795288128423-44b8ir"
   ],
-  "updateTime": "2026/11/22 22:38:37"
+  "updateTime": "2026/11/22 22:38:49"
 }

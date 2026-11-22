@@ -4327,26 +4327,6 @@
       "createdAt": 1795098782513
     },
     {
-      "text": "再核一遍中基的订单",
-      "date": "2026-11-20",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795174606262-tbt8mw",
-      "updatedAt": 1795174606262,
-      "createdAt": 1795174382692
-    },
-    {
       "text": "捷佳伟创模组给备注，没有配线缆的",
       "date": "2026-11-23",
       "time": "",
@@ -5188,7 +5168,8 @@
     "1793934017441-ximwz3",
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm",
-    "1795288128423-44b8ir"
+    "1795288128423-44b8ir",
+    "1795174606262-tbt8mw"
   ],
-  "updateTime": "2026/11/22 22:48:40"
+  "updateTime": "2026/11/22 22:48:54"
 }

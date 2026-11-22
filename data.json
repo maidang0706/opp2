@@ -4597,13 +4597,6 @@
       "updatedAt": 1795179912655
     },
     {
-      "text": "把代办和交期表做到一起，生日记录做到代办里面",
-      "done": false,
-      "createdAt": 1795179878767,
-      "id": "mwozqzjj-ubyz7g",
-      "updatedAt": 1795179878767
-    },
-    {
       "text": "做一个客户信息管理的HTML文件，还有拜访记录的HTML文件，可以填完直接复制出来给打卡记录",
       "done": false,
       "createdAt": 1795179863984,
@@ -4637,6 +4630,13 @@
       "createdAt": 1795179896741,
       "id": "mwozrdet-04pid2",
       "updatedAt": 1795272762227
+    },
+    {
+      "text": "把代办和交期表做到一起，生日记录做到代办里面",
+      "done": true,
+      "createdAt": 1795179878767,
+      "id": "mwozqzjj-ubyz7g",
+      "updatedAt": 1795336657019
     }
   ],
   "visitList": [
@@ -5109,5 +5109,5 @@
     "1795014164114-42x7lt",
     "mvdxyp93-nqpdsm"
   ],
-  "updateTime": "2026/11/22 16:37:02"
+  "updateTime": "2026/11/22 16:37:57"
 }

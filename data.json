@@ -4425,6 +4425,26 @@
       "id": "1795340522741-0zzvl3",
       "updatedAt": 1795340522742,
       "createdAt": 1795340301593
+    },
+    {
+      "text": "XM方案明细里面的计算表格快速查询功能完善",
+      "date": "2026-11-22",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795353355413-icqhii",
+      "updatedAt": 1795353355413,
+      "createdAt": 1795353138208
     }
   ],
   "workList": [
@@ -5130,5 +5150,5 @@
     "mvdxyp93-nqpdsm",
     "1795288128423-44b8ir"
   ],
-  "updateTime": "2026/11/22 21:15:43"
+  "updateTime": "2026/11/22 21:16:03"
 }

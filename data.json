@@ -4449,8 +4449,8 @@
     {
       "text": "EL210-75-M6X1M4X1-L2220-B-ZJ-260252，赵士博给3D",
       "date": "2026-11-23",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4463,7 +4463,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1795358054506-ymfivi",
-      "updatedAt": 1795358054506,
+      "updatedAt": 1795358140086,
       "createdAt": 1795357834991
     }
   ],
@@ -5170,5 +5170,5 @@
     "mvdxyp93-nqpdsm",
     "1795288128423-44b8ir"
   ],
-  "updateTime": "2026/11/22 22:34:20"
+  "updateTime": "2026/11/22 22:35:43"
 }

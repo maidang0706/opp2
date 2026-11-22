@@ -4269,8 +4269,8 @@
     {
       "text": "捷佳伟创模组给备注，没有配线缆的",
       "date": "2026-11-23",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4283,14 +4283,14 @@
       "done": false,
       "onlyDone": [],
       "id": "1795267946672-si4ud1",
-      "updatedAt": 1795268173728,
+      "updatedAt": 1795359032347,
       "createdAt": 1795267733345
     },
     {
       "text": "给朗仪XM方案HTML文件。",
       "date": "2026-11-23",
-      "time": "",
-      "isAllDay": true,
+      "time": "09:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4303,7 +4303,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1795267958464-haadv1",
-      "updatedAt": 1795267958464,
+      "updatedAt": 1795359037296,
       "createdAt": 1795267744611
     },
     {
@@ -5115,5 +5115,5 @@
     "1795099004872-em63cc",
     "1794748165511-f5ryom"
   ],
-  "updateTime": "2026/11/22 22:50:28"
+  "updateTime": "2026/11/22 22:50:38"
 }

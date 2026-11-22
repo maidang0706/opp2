@@ -4385,6 +4385,26 @@
       "id": "1795267958464-haadv1",
       "updatedAt": 1795267958464,
       "createdAt": 1795267744611
+    },
+    {
+      "text": "EL210-25-M6x2-L6240-B-ZJ-260198出一对一图纸",
+      "date": "2026-11-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795339001428-5lut3c",
+      "updatedAt": 1795339001428,
+      "createdAt": 1795338785447
     }
   ],
   "workList": [
@@ -5090,5 +5110,5 @@
     "mvdxyp93-nqpdsm",
     "1795288128423-44b8ir"
   ],
-  "updateTime": "2026/11/22 17:16:27"
+  "updateTime": "2026/11/22 17:16:48"
 }

@@ -4385,26 +4385,6 @@
       "id": "1795267958464-haadv1",
       "updatedAt": 1795267958464,
       "createdAt": 1795267744611
-    },
-    {
-      "text": "朗仪的HTML文件把XM方案表加进去，方案表复制的时候不要数量，xm交期表里面的日期填写也不用开放给她；",
-      "date": "2026-11-22",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795288128423-44b8ir",
-      "updatedAt": 1795319910864,
-      "createdAt": 1795287899856
     }
   ],
   "workList": [
@@ -5107,7 +5087,8 @@
     "1795174995823-jkxztz",
     "1793934017441-ximwz3",
     "1795014164114-42x7lt",
-    "mvdxyp93-nqpdsm"
+    "mvdxyp93-nqpdsm",
+    "1795288128423-44b8ir"
   ],
-  "updateTime": "2026/11/22 16:44:22"
+  "updateTime": "2026/11/22 16:44:36"
 }

@@ -4089,8 +4089,8 @@
     {
       "text": "问杨蔚发票问题",
       "date": "2026-11-23",
-      "time": "09:00",
-      "isAllDay": false,
+      "time": "",
+      "isAllDay": true,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4103,7 +4103,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1794747758471-x840hp",
-      "updatedAt": 1795337020279,
+      "updatedAt": 1795358144406,
       "createdAt": 1794747546566
     },
     {
@@ -5170,5 +5170,5 @@
     "mvdxyp93-nqpdsm",
     "1795288128423-44b8ir"
   ],
-  "updateTime": "2026/11/22 22:35:43"
+  "updateTime": "2026/11/22 22:35:52"
 }

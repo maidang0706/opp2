@@ -4306,6 +4306,26 @@
       "id": "1795358980276-q17xbu",
       "updatedAt": 1795398873956,
       "createdAt": 1795358764187
+    },
+    {
+      "text": "中基襄阳报价",
+      "date": "2026-11-23",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795417173456-wbg28k",
+      "updatedAt": 1795417173456,
+      "createdAt": 1795416958322
     }
   ],
   "workList": [
@@ -5021,5 +5041,5 @@
     "1795267958464-haadv1",
     "1795339001428-5lut3c"
   ],
-  "updateTime": "2026/11/23 14:56:57"
+  "updateTime": "2026/11/23 14:59:37"
 }

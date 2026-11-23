@@ -4267,26 +4267,6 @@
       "createdAt": 1795267733345
     },
     {
-      "text": "给朗仪XM方案HTML文件。",
-      "date": "2026-11-23",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795267958464-haadv1",
-      "updatedAt": 1795359037296,
-      "createdAt": 1795267744611
-    },
-    {
       "text": "EL210-25-M6x2-L6240-B-ZJ-260198出一对一图纸",
       "date": "2026-11-23",
       "time": "",
@@ -4325,46 +4305,6 @@
       "id": "1795340522741-0zzvl3",
       "updatedAt": 1795340522742,
       "createdAt": 1795340301593
-    },
-    {
-      "text": "EL210-75-M6X1M4X1-L2220-B-ZJ-260252，赵士博给3D",
-      "date": "2026-11-23",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795358054506-ymfivi",
-      "updatedAt": 1795358140086,
-      "createdAt": 1795357834991
-    },
-    {
-      "text": "EL210-50-M6-L2640-B-ZJ-260251，读头侧加接油槽出3D",
-      "date": "2026-11-23",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795358235959-8bf0gg",
-      "updatedAt": 1795358241243,
-      "createdAt": 1795358015680
     },
     {
       "text": "中基备注更新",
@@ -5094,7 +5034,10 @@
     "1794747737752-vx4is7",
     "1795099004872-em63cc",
     "1794748165511-f5ryom",
-    "1793803556888-7lb028"
+    "1793803556888-7lb028",
+    "1795358054506-ymfivi",
+    "1795358235959-8bf0gg",
+    "1795267958464-haadv1"
   ],
-  "updateTime": "2026/11/23 09:28:46"
+  "updateTime": "2026/11/23 09:48:28"
 }

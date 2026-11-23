@@ -4208,26 +4208,6 @@
       "createdAt": 1795098650848
     },
     {
-      "text": "捷佳伟创模组给备注，没有配线缆的",
-      "date": "2026-11-23",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795267946672-si4ud1",
-      "updatedAt": 1795399667993,
-      "createdAt": 1795267733345
-    },
-    {
       "text": "找王红霞改选型表格",
       "date": "2026-11-23",
       "time": "",
@@ -4983,7 +4963,8 @@
     "1795358980276-q17xbu",
     "1794922227926-8jn5t8",
     "1794922395379-dwaoh6",
-    "1795417173456-wbg28k"
+    "1795417173456-wbg28k",
+    "1795267946672-si4ud1"
   ],
-  "updateTime": "2026/11/23 21:47:54"
+  "updateTime": "2026/11/23 21:48:07"
 }

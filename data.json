@@ -4246,6 +4246,26 @@
       "id": "1795441651267-bbosdr",
       "updatedAt": 1795441651267,
       "createdAt": 1795441446170
+    },
+    {
+      "text": "中基换光电开关",
+      "date": "2026-11-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795441733618-8rz55m",
+      "updatedAt": 1795441733618,
+      "createdAt": 1795441528045
     }
   ],
   "workList": [
@@ -4966,5 +4986,5 @@
     "1795417173456-wbg28k",
     "1795267946672-si4ud1"
   ],
-  "updateTime": "2026/11/23 21:48:18"
+  "updateTime": "2026/11/23 21:49:04"
 }

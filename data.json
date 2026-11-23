@@ -4288,26 +4288,6 @@
       "createdAt": 1795340301593
     },
     {
-      "text": "中基备注更新",
-      "date": "2026-11-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "mid",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795358980276-q17xbu",
-      "updatedAt": 1795398873956,
-      "createdAt": 1795358764187
-    },
-    {
       "text": "中基襄阳报价",
       "date": "2026-11-23",
       "time": "",
@@ -5039,7 +5019,8 @@
     "1795358054506-ymfivi",
     "1795358235959-8bf0gg",
     "1795267958464-haadv1",
-    "1795339001428-5lut3c"
+    "1795339001428-5lut3c",
+    "1795358980276-q17xbu"
   ],
-  "updateTime": "2026/11/23 14:59:37"
+  "updateTime": "2026/11/23 15:00:26"
 }

@@ -4240,32 +4240,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": false,
+      "isWeekTodo": true,
       "done": false,
       "onlyDone": [],
       "id": "1795340522741-0zzvl3",
-      "updatedAt": 1795340522742,
+      "updatedAt": 1795441668124,
       "createdAt": 1795340301593
-    },
-    {
-      "text": "中基襄阳报价",
-      "date": "2026-11-23",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795417173456-wbg28k",
-      "updatedAt": 1795417173456,
-      "createdAt": 1795416958322
     },
     {
       "text": "给朱永康发选型资料",
@@ -5002,7 +4982,8 @@
     "1795339001428-5lut3c",
     "1795358980276-q17xbu",
     "1794922227926-8jn5t8",
-    "1794922395379-dwaoh6"
+    "1794922395379-dwaoh6",
+    "1795417173456-wbg28k"
   ],
-  "updateTime": "2026/11/23 21:47:43"
+  "updateTime": "2026/11/23 21:47:54"
 }

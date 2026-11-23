@@ -4366,6 +4366,26 @@
       "id": "1795443206437-wx8xeh",
       "updatedAt": 1795443206437,
       "createdAt": 1795442994465
+    },
+    {
+      "text": "中欣换驱动器",
+      "date": "2026-11-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "high",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795443719435-v84tqi",
+      "updatedAt": 1795443719435,
+      "createdAt": 1795443505234
     }
   ],
   "workList": [
@@ -5086,5 +5106,5 @@
     "1795417173456-wbg28k",
     "1795267946672-si4ud1"
   ],
-  "updateTime": "2026/11/23 22:13:35"
+  "updateTime": "2026/11/23 22:22:07"
 }

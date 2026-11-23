@@ -4286,6 +4286,26 @@
       "id": "1795441768688-yihnpd",
       "updatedAt": 1795441768688,
       "createdAt": 1795441560022
+    },
+    {
+      "text": "给罗思程发图纸",
+      "date": "2026-11-24",
+      "time": "09:00",
+      "isAllDay": false,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795441794326-n4h3je",
+      "updatedAt": 1795441794326,
+      "createdAt": 1795441587389
     }
   ],
   "workList": [
@@ -5006,5 +5026,5 @@
     "1795417173456-wbg28k",
     "1795267946672-si4ud1"
   ],
-  "updateTime": "2026/11/23 21:49:37"
+  "updateTime": "2026/11/23 21:50:05"
 }

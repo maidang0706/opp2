@@ -4288,26 +4288,6 @@
       "createdAt": 1795442994465
     },
     {
-      "text": "中欣换驱动器",
-      "date": "2026-11-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795443719435-v84tqi",
-      "updatedAt": 1795443719435,
-      "createdAt": 1795443505234
-    },
-    {
       "text": "线马磁栅（出线0.5米，备注写不进去",
       "date": "2026-11-24",
       "time": "",
@@ -5143,7 +5123,8 @@
     "1795441651267-bbosdr",
     "1795441794326-n4h3je",
     "1795442402977-dv7or6",
-    "1795441768688-yihnpd"
+    "1795441768688-yihnpd",
+    "1795443719435-v84tqi"
   ],
-  "updateTime": "2026/11/24 16:15:26"
+  "updateTime": "2026/11/24 16:20:23"
 }

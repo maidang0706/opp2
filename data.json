@@ -4130,8 +4130,8 @@
     {
       "text": "卢严吃饭",
       "date": "2026-11-25",
-      "time": "",
-      "isAllDay": true,
+      "time": "18:00",
+      "isAllDay": false,
       "isVisit": false,
       "priority": "low",
       "repeat": {
@@ -4144,7 +4144,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1795012251701-ulgglw",
-      "updatedAt": 1795012251701,
+      "updatedAt": 1795536461456,
       "createdAt": 1795012033333
     },
     {
@@ -5116,5 +5116,5 @@
     "1795484241465-dfqh3l",
     "1795443206437-wx8xeh"
   ],
-  "updateTime": "2026/11/25 00:07:39"
+  "updateTime": "2026/11/25 00:07:49"
 }

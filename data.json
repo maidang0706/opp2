@@ -4248,26 +4248,6 @@
       "createdAt": 1795442934850
     },
     {
-      "text": "捷佳伟创给交期",
-      "date": "2026-11-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795443206437-wx8xeh",
-      "updatedAt": 1795443206437,
-      "createdAt": 1795442994465
-    },
-    {
       "text": "线马磁栅（出线0.5米，备注写不进去",
       "date": "2026-11-24",
       "time": "",
@@ -5113,7 +5093,8 @@
     "1795441768688-yihnpd",
     "1795443719435-v84tqi",
     "1794232071680-nh9hfp",
-    "1795484241465-dfqh3l"
+    "1795484241465-dfqh3l",
+    "1795443206437-wx8xeh"
   ],
-  "updateTime": "2026/11/25 00:06:31"
+  "updateTime": "2026/11/25 00:06:39"
 }

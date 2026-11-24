@@ -4366,6 +4366,26 @@
       "id": "1795443719435-v84tqi",
       "updatedAt": 1795443719435,
       "createdAt": 1795443505234
+    },
+    {
+      "text": "线马磁栅（出线0.5米，备注写不进去",
+      "date": "2026-11-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795484193551-c19k1i",
+      "updatedAt": 1795484193551,
+      "createdAt": 1795483973332
     }
   ],
   "workList": [
@@ -5087,5 +5107,5 @@
     "1795267946672-si4ud1",
     "1795441651267-bbosdr"
   ],
-  "updateTime": "2026/11/24 09:36:24"
+  "updateTime": "2026/11/24 09:36:35"
 }

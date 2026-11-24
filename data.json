@@ -4248,26 +4248,6 @@
       "createdAt": 1795441528045
     },
     {
-      "text": "中欣补栅尺订单",
-      "date": "2026-11-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795441768688-yihnpd",
-      "updatedAt": 1795441768688,
-      "createdAt": 1795441560022
-    },
-    {
       "text": "问宏唯情况",
       "date": "2026-11-24",
       "time": "",
@@ -5162,7 +5142,8 @@
     "1795267946672-si4ud1",
     "1795441651267-bbosdr",
     "1795441794326-n4h3je",
-    "1795442402977-dv7or6"
+    "1795442402977-dv7or6",
+    "1795441768688-yihnpd"
   ],
-  "updateTime": "2026/11/24 15:15:41"
+  "updateTime": "2026/11/24 15:15:57"
 }

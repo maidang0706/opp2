@@ -4366,6 +4366,26 @@
       "id": "1795490589938-8xw4fs",
       "updatedAt": 1795490589938,
       "createdAt": 1795490372404
+    },
+    {
+      "text": "丢单原因表格",
+      "date": "2026-11-24",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795508540076-52edj8",
+      "updatedAt": 1795508540076,
+      "createdAt": 1795508320609
     }
   ],
   "workList": [
@@ -5126,5 +5146,5 @@
     "1795441768688-yihnpd",
     "1795443719435-v84tqi"
   ],
-  "updateTime": "2026/11/24 16:20:23"
+  "updateTime": "2026/11/24 16:22:22"
 }

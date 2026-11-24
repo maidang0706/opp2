@@ -4510,19 +4510,20 @@
   ],
   "optimizeList": [
     {
+      "text": "复制文本申请价格和给下单备注的时候，数量不要，看怎么修改",
+      "category": "XM方案",
+      "done": false,
+      "createdAt": 1795536589376,
+      "id": "mwuw4j7k-h7xnub",
+      "updatedAt": 1795536589376
+    },
+    {
       "text": "商机表增加区域选项",
       "category": "XM商机",
       "done": false,
       "createdAt": 1795536543394,
       "id": "mwuw3jqb-umht82",
       "updatedAt": 1795536543395
-    },
-    {
-      "text": "复制文本申请价格和给下单备注的时候，数量不要，看怎么修改",
-      "done": false,
-      "createdAt": 1795493072506,
-      "id": "mwu67tdm-2rej4d",
-      "updatedAt": 1795493072506
     },
     {
       "text": "XM方案里面的电气配置，不能几个单元格一起复制",
@@ -5110,7 +5111,8 @@
     "1795484241465-dfqh3l",
     "1795443206437-wx8xeh",
     "mwufgt8r-7ux8pf",
-    "mwu68lji-ybq3p1"
+    "mwu68lji-ybq3p1",
+    "mwu67tdm-2rej4d"
   ],
-  "updateTime": "2026/11/25 00:09:31"
+  "updateTime": "2026/11/25 00:09:57"
 }

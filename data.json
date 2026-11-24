@@ -4511,10 +4511,11 @@
   "optimizeList": [
     {
       "text": "商机表增加区域选项",
+      "category": "XM商机",
       "done": false,
-      "createdAt": 1795508608779,
-      "id": "mwufgt8r-7ux8pf",
-      "updatedAt": 1795508608779
+      "createdAt": 1795536543394,
+      "id": "mwuw3jqb-umht82",
+      "updatedAt": 1795536543395
     },
     {
       "text": "优化待办改成优化HTML，可以分类来，具体改哪个HTML文件",
@@ -5114,7 +5115,8 @@
     "1795443719435-v84tqi",
     "1794232071680-nh9hfp",
     "1795484241465-dfqh3l",
-    "1795443206437-wx8xeh"
+    "1795443206437-wx8xeh",
+    "mwufgt8r-7ux8pf"
   ],
-  "updateTime": "2026/11/25 00:08:43"
+  "updateTime": "2026/11/25 00:09:11"
 }

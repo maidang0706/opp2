@@ -3908,7 +3908,7 @@
       "createdAt": 1794142228506
     },
     {
-      "text": "中基模组入库问题找谭佩剑",
+      "text": "中基模组入库问题找谭佩剑，申请检测片",
       "date": "2026-11-24",
       "time": "",
       "isAllDay": true,
@@ -3924,28 +3924,8 @@
       "done": false,
       "onlyDone": [],
       "id": "1794145620969-awjbdd",
-      "updatedAt": 1795358319449,
+      "updatedAt": 1795508561801,
       "createdAt": 1794145414778
-    },
-    {
-      "text": "中基申请检测片",
-      "date": "2026-11-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1794232071680-nh9hfp",
-      "updatedAt": 1795358323399,
-      "createdAt": 1794231863728
     },
     {
       "text": "吕志垚生日",
@@ -5144,7 +5124,8 @@
     "1795441794326-n4h3je",
     "1795442402977-dv7or6",
     "1795441768688-yihnpd",
-    "1795443719435-v84tqi"
+    "1795443719435-v84tqi",
+    "1794232071680-nh9hfp"
   ],
-  "updateTime": "2026/11/24 16:22:32"
+  "updateTime": "2026/11/24 16:22:46"
 }

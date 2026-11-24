@@ -4490,6 +4490,14 @@
   ],
   "optimizeList": [
     {
+      "text": "在点击新建方案或者更改方案或者新增变更的时候，弹出对话框，很多内容不能全部显示，这个再优化一下。",
+      "category": "XM方案",
+      "done": false,
+      "createdAt": 1795537313629,
+      "id": "mwuwk21p-jv28y5",
+      "updatedAt": 1795537313629
+    },
+    {
       "text": "线马磁栅（出线0.5米，备注写不进去",
       "category": "XM方案",
       "done": false,
@@ -5083,5 +5091,5 @@
     "mwozqzjj-ubyz7g",
     "1795484193551-c19k1i"
   ],
-  "updateTime": "2026/11/25 00:17:47"
+  "updateTime": "2026/11/25 00:22:00"
 }

@@ -4550,13 +4550,6 @@
       "updatedAt": 1795536543395
     },
     {
-      "text": "方案明细有方案修改增加以后不要直接跳转到全部方案",
-      "done": false,
-      "createdAt": 1795490082508,
-      "id": "mwu4fqa4-m2ms97",
-      "updatedAt": 1795490082508
-    },
-    {
       "text": "把生日加进来",
       "done": false,
       "createdAt": 1795273795800,
@@ -5124,7 +5117,8 @@
     "mwu68lji-ybq3p1",
     "mwu67tdm-2rej4d",
     "mwu671ql-weymzf",
-    "mwu4ny0m-vphkz0"
+    "mwu4ny0m-vphkz0",
+    "mwu4fqa4-m2ms97"
   ],
-  "updateTime": "2026/11/25 00:10:45"
+  "updateTime": "2026/11/25 00:10:53"
 }

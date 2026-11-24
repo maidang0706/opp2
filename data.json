@@ -4518,13 +4518,6 @@
       "updatedAt": 1795536543395
     },
     {
-      "text": "优化待办改成优化HTML，可以分类来，具体改哪个HTML文件",
-      "done": false,
-      "createdAt": 1795493109006,
-      "id": "mwu68lji-ybq3p1",
-      "updatedAt": 1795493109006
-    },
-    {
       "text": "复制文本申请价格和给下单备注的时候，数量不要，看怎么修改",
       "done": false,
       "createdAt": 1795493072506,
@@ -5116,7 +5109,8 @@
     "1794232071680-nh9hfp",
     "1795484241465-dfqh3l",
     "1795443206437-wx8xeh",
-    "mwufgt8r-7ux8pf"
+    "mwufgt8r-7ux8pf",
+    "mwu68lji-ybq3p1"
   ],
-  "updateTime": "2026/11/25 00:09:21"
+  "updateTime": "2026/11/25 00:09:31"
 }

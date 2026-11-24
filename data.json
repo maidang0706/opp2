@@ -4490,6 +4490,14 @@
   ],
   "optimizeList": [
     {
+      "text": "对账应收感觉做的手机看还是不方便，再优化一下",
+      "category": "XM应收",
+      "done": false,
+      "createdAt": 1795537350156,
+      "id": "mwuwku8c-j7a771",
+      "updatedAt": 1795537350156
+    },
+    {
       "text": "在点击新建方案或者更改方案或者新增变更的时候，弹出对话框，很多内容不能全部显示，这个再优化一下。",
       "category": "XM方案",
       "done": false,
@@ -5091,5 +5099,5 @@
     "mwozqzjj-ubyz7g",
     "1795484193551-c19k1i"
   ],
-  "updateTime": "2026/11/25 00:22:00"
+  "updateTime": "2026/11/25 00:22:37"
 }

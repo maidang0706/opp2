@@ -4248,26 +4248,6 @@
       "createdAt": 1795442934850
     },
     {
-      "text": "线马磁栅（出线0.5米，备注写不进去",
-      "date": "2026-11-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795484193551-c19k1i",
-      "updatedAt": 1795536402744,
-      "createdAt": 1795483973332
-    },
-    {
       "text": "我的组织架构现在是存在哪里",
       "date": "2026-11-28",
       "time": "",
@@ -4509,6 +4489,14 @@
     }
   ],
   "optimizeList": [
+    {
+      "text": "线马磁栅（出线0.5米，备注写不进去",
+      "category": "XM方案",
+      "done": false,
+      "createdAt": 1795536716810,
+      "id": "mwuw79je-ua7kxx",
+      "updatedAt": 1795536716810
+    },
     {
       "text": "订单里面显示模组是哪个机型用的",
       "category": "XM方案",
@@ -5092,7 +5080,8 @@
     "mwozs8rh-jufizf",
     "mwozs0wb-df0hey",
     "mwozrdet-04pid2",
-    "mwozqzjj-ubyz7g"
+    "mwozqzjj-ubyz7g",
+    "1795484193551-c19k1i"
   ],
-  "updateTime": "2026/11/25 00:11:55"
+  "updateTime": "2026/11/25 00:12:06"
 }

@@ -4587,20 +4587,6 @@
       "updatedAt": 1795179863984
     },
     {
-      "text": "把交期合并到代办里面，还有对账也加进去",
-      "done": true,
-      "createdAt": 1795187039117,
-      "id": "mwp40gi5-qvru1s",
-      "updatedAt": 1795286812066
-    },
-    {
-      "text": "开放XM方案明细文档给朗仪",
-      "done": true,
-      "createdAt": 1795179937373,
-      "id": "mwozs8rh-jufizf",
-      "updatedAt": 1795268260779
-    },
-    {
       "text": "订单明细里面22年和21年的订单没有",
       "done": true,
       "createdAt": 1795179927179,
@@ -5122,7 +5108,9 @@
     "mwu4ny0m-vphkz0",
     "mwu4fqa4-m2ms97",
     "mwqjnye0-461d8i",
-    "mwozssoz-do90jh"
+    "mwozssoz-do90jh",
+    "mwp40gi5-qvru1s",
+    "mwozs8rh-jufizf"
   ],
-  "updateTime": "2026/11/25 00:11:29"
+  "updateTime": "2026/11/25 00:11:37"
 }

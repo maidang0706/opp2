@@ -4288,26 +4288,6 @@
       "createdAt": 1795483973332
     },
     {
-      "text": "跟朗仪说要改备注的更新到方案表里面",
-      "date": "2026-11-24",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795484241465-dfqh3l",
-      "updatedAt": 1795508118232,
-      "createdAt": 1795484020752
-    },
-    {
       "text": "我的组织架构现在是存在哪里",
       "date": "2026-11-28",
       "time": "",
@@ -5125,7 +5105,8 @@
     "1795442402977-dv7or6",
     "1795441768688-yihnpd",
     "1795443719435-v84tqi",
-    "1794232071680-nh9hfp"
+    "1794232071680-nh9hfp",
+    "1795484241465-dfqh3l"
   ],
-  "updateTime": "2026/11/24 16:22:46"
+  "updateTime": "2026/11/24 16:22:58"
 }

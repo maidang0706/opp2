@@ -4558,13 +4558,6 @@
       "updatedAt": 1795536543395
     },
     {
-      "text": "把生日加进来",
-      "done": false,
-      "createdAt": 1795273795800,
-      "id": "mwqjnye0-461d8i",
-      "updatedAt": 1795273795800
-    },
-    {
       "text": "订单里面显示模组是哪个机型用的",
       "done": false,
       "createdAt": 1795179963203,
@@ -5126,7 +5119,8 @@
     "mwu67tdm-2rej4d",
     "mwu671ql-weymzf",
     "mwu4ny0m-vphkz0",
-    "mwu4fqa4-m2ms97"
+    "mwu4fqa4-m2ms97",
+    "mwqjnye0-461d8i"
   ],
-  "updateTime": "2026/11/25 00:11:03"
+  "updateTime": "2026/11/25 00:11:13"
 }

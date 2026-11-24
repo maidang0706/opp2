@@ -4510,6 +4510,14 @@
   ],
   "optimizeList": [
     {
+      "text": "订单里面显示模组是哪个机型用的",
+      "category": "XM方案",
+      "done": false,
+      "createdAt": 1795536681724,
+      "id": "mwuw6igs-o6fs8a",
+      "updatedAt": 1795536681724
+    },
+    {
       "text": "把生日加进来",
       "category": "XM代办",
       "done": false,
@@ -4556,13 +4564,6 @@
       "createdAt": 1795536543394,
       "id": "mwuw3jqb-umht82",
       "updatedAt": 1795536543395
-    },
-    {
-      "text": "订单里面显示模组是哪个机型用的",
-      "done": false,
-      "createdAt": 1795179963203,
-      "id": "mwozssoz-do90jh",
-      "updatedAt": 1795179963203
     },
     {
       "text": "更新选型表格里面的参数，动子重量这些",
@@ -5120,7 +5121,8 @@
     "mwu671ql-weymzf",
     "mwu4ny0m-vphkz0",
     "mwu4fqa4-m2ms97",
-    "mwqjnye0-461d8i"
+    "mwqjnye0-461d8i",
+    "mwozssoz-do90jh"
   ],
-  "updateTime": "2026/11/25 00:11:13"
+  "updateTime": "2026/11/25 00:11:29"
 }

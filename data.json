@@ -3392,7 +3392,7 @@
     },
     {
       "text": "催款：卓誉，精朗，深圳中基，襄阳中基，捷佳伟创，誉辰，誉昊，中欣",
-      "date": "2026-11-23",
+      "date": "2026-11-25",
       "time": "",
       "isAllDay": true,
       "isVisit": true,
@@ -3403,12 +3403,12 @@
         "start": "",
         "end": ""
       },
-      "isWeekTodo": true,
+      "isWeekTodo": false,
       "done": false,
       "onlyDone": [],
       "id": "1792068977043-131gin",
       "createdAt": 1792334784175,
-      "updatedAt": 1795337001887
+      "updatedAt": 1795570653095
     },
     {
       "text": "博滔动子选型",
@@ -5136,5 +5136,5 @@
     "1795570247817-b0nn8g",
     "mwvg70zh-w0pj0k"
   ],
-  "updateTime": "2026/11/25 09:37:09"
+  "updateTime": "2026/11/25 09:37:35"
 }

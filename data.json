@@ -4313,7 +4313,7 @@
       "time": "",
       "isAllDay": true,
       "isVisit": false,
-      "priority": "low",
+      "priority": "high",
       "repeat": {
         "type": 0,
         "days": [],
@@ -4324,7 +4324,7 @@
       "done": false,
       "onlyDone": [],
       "id": "1795578466136-wgigxw",
-      "updatedAt": 1795578466136,
+      "updatedAt": 1795578473137,
       "createdAt": 1795578249516
     }
   ],
@@ -5164,5 +5164,5 @@
     "1795570247817-b0nn8g",
     "mwvg70zh-w0pj0k"
   ],
-  "updateTime": "2026/11/25 11:47:48"
+  "updateTime": "2026/11/25 11:47:55"
 }

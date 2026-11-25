@@ -4805,6 +4805,15 @@
       "createdAt": 1795570324116,
       "id": "mwvg7l3o-bkoh9j",
       "updatedAt": 1795570324116
+    },
+    {
+      "name": "精智达半导体",
+      "isNew": true,
+      "date": "2026-11-23",
+      "done": false,
+      "createdAt": 1795570626737,
+      "id": "mwvge2lt-3bk9hx",
+      "updatedAt": 1795570626737
     }
   ],
   "roColWidths": {
@@ -5127,5 +5136,5 @@
     "1795570247817-b0nn8g",
     "mwvg70zh-w0pj0k"
   ],
-  "updateTime": "2026/11/25 09:37:00"
+  "updateTime": "2026/11/25 09:37:09"
 }

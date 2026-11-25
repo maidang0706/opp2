@@ -4108,26 +4108,6 @@
       "createdAt": 1795011676203
     },
     {
-      "text": "卢严吃饭",
-      "date": "2026-11-25",
-      "time": "18:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": false,
-      "onlyDone": [],
-      "id": "1795012251701-ulgglw",
-      "updatedAt": 1795536461456,
-      "createdAt": 1795012033333
-    },
-    {
       "text": "镜头组装机大理石+配件方案来推",
       "date": "2026-11-22",
       "time": "",
@@ -5125,7 +5105,8 @@
     "mwvg70zh-w0pj0k",
     "1795536451837-w3t9za",
     "1795578466136-wgigxw",
-    "1794747758471-x840hp"
+    "1794747758471-x840hp",
+    "1795012251701-ulgglw"
   ],
-  "updateTime": "2026/11/25 17:43:22"
+  "updateTime": "2026/11/25 20:25:41"
 }

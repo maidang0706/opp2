@@ -4789,6 +4789,15 @@
       "createdAt": 1795570257397,
       "id": "mwvg65md-0itmx7",
       "updatedAt": 1795570257397
+    },
+    {
+      "name": "精朗",
+      "isNew": false,
+      "date": "2026-11-23",
+      "done": false,
+      "createdAt": 1795570262884,
+      "id": "mwvg69us-dbv61q",
+      "updatedAt": 1795570262884
     }
   ],
   "roColWidths": {
@@ -5109,5 +5118,5 @@
     "1795484193551-c19k1i",
     "1795508540076-52edj8"
   ],
-  "updateTime": "2026/11/25 09:30:59"
+  "updateTime": "2026/11/25 09:31:04"
 }

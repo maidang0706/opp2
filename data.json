@@ -4286,46 +4286,6 @@
       "id": "1795490589938-8xw4fs",
       "updatedAt": 1795490589938,
       "createdAt": 1795490372404
-    },
-    {
-      "text": "周世博的PDF",
-      "date": "2026-11-25",
-      "time": "09:00",
-      "isAllDay": false,
-      "isVisit": false,
-      "priority": "low",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795536451837-w3t9za",
-      "updatedAt": 1795591194855,
-      "createdAt": 1795536239589
-    },
-    {
-      "text": "陈和昌选型",
-      "date": "2026-11-25",
-      "time": "",
-      "isAllDay": true,
-      "isVisit": false,
-      "priority": "high",
-      "repeat": {
-        "type": 0,
-        "days": [],
-        "start": "",
-        "end": ""
-      },
-      "isWeekTodo": false,
-      "done": true,
-      "onlyDone": [],
-      "id": "1795578466136-wgigxw",
-      "updatedAt": 1795591198352,
-      "createdAt": 1795578249516
     }
   ],
   "workList": [
@@ -5162,7 +5122,9 @@
     "1795484193551-c19k1i",
     "1795508540076-52edj8",
     "1795570247817-b0nn8g",
-    "mwvg70zh-w0pj0k"
+    "mwvg70zh-w0pj0k",
+    "1795536451837-w3t9za",
+    "1795578466136-wgigxw"
   ],
-  "updateTime": "2026/11/25 15:34:31"
+  "updateTime": "2026/11/25 15:34:47"
 }

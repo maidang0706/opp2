@@ -4266,6 +4266,26 @@
       "id": "1795490589938-8xw4fs",
       "updatedAt": 1795490589938,
       "createdAt": 1795490372404
+    },
+    {
+      "text": "中欣借IO端子，查CDHD-0132AEC的库存",
+      "date": "2026-11-26",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795599796389-09ymd6",
+      "updatedAt": 1795599796389,
+      "createdAt": 1795599585695
     }
   ],
   "workList": [
@@ -5107,5 +5127,5 @@
     "1795578466136-wgigxw",
     "1794747758471-x840hp"
   ],
-  "updateTime": "2026/11/25 17:42:43"
+  "updateTime": "2026/11/25 17:43:22"
 }

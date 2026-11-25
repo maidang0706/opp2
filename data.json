@@ -4041,10 +4041,10 @@
         "end": ""
       },
       "isWeekTodo": false,
-      "done": false,
+      "done": true,
       "onlyDone": [],
       "id": "1794747758471-x840hp",
-      "updatedAt": 1795536381769,
+      "updatedAt": 1795591223270,
       "createdAt": 1794747546566
     },
     {
@@ -5164,5 +5164,5 @@
     "1795570247817-b0nn8g",
     "mwvg70zh-w0pj0k"
   ],
-  "updateTime": "2026/11/25 15:20:02"
+  "updateTime": "2026/11/25 15:20:30"
 }

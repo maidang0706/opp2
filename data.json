@@ -4807,6 +4807,15 @@
       "createdAt": 1795570267498,
       "id": "mwvg6dey-xu371t",
       "updatedAt": 1795570267498
+    },
+    {
+      "name": "捷佳伟创",
+      "isNew": false,
+      "date": "2026-11-23",
+      "done": false,
+      "createdAt": 1795570272000,
+      "id": "mwvg6gw0-9kpm9a",
+      "updatedAt": 1795570272001
     }
   ],
   "roColWidths": {
@@ -5127,5 +5136,5 @@
     "1795484193551-c19k1i",
     "1795508540076-52edj8"
   ],
-  "updateTime": "2026/11/25 09:31:09"
+  "updateTime": "2026/11/25 09:31:13"
 }

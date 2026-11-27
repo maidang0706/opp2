@@ -4266,6 +4266,26 @@
       "id": "1795773090257-243lbe",
       "updatedAt": 1795773090257,
       "createdAt": 1795772876745
+    },
+    {
+      "text": "中基杨赞的3D",
+      "date": "2026-11-27",
+      "time": "",
+      "isAllDay": true,
+      "isVisit": false,
+      "priority": "low",
+      "repeat": {
+        "type": 0,
+        "days": [],
+        "start": "",
+        "end": ""
+      },
+      "isWeekTodo": false,
+      "done": false,
+      "onlyDone": [],
+      "id": "1795773099300-xs617d",
+      "updatedAt": 1795773099300,
+      "createdAt": 1795772884509
     }
   ],
   "workList": [
@@ -5109,5 +5129,5 @@
     "1795012251701-ulgglw",
     "1794992774900-bldvbw"
   ],
-  "updateTime": "2026/11/27 17:51:32"
+  "updateTime": "2026/11/27 17:51:41"
 }

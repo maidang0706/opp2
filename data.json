@@ -4450,6 +4450,13 @@
   ],
   "optimizeList": [
     {
+      "text": "xm方案筛选的输入框长度可以设置",
+      "done": false,
+      "createdAt": 1795773586713,
+      "id": "mwyt87ix-98xpon",
+      "updatedAt": 1795773586713
+    },
+    {
       "text": "周末的代办事项可否新建一个页面来写",
       "category": "XM代办",
       "done": false,
@@ -5129,5 +5136,5 @@
     "1795012251701-ulgglw",
     "1794992774900-bldvbw"
   ],
-  "updateTime": "2026/11/27 17:59:10"
+  "updateTime": "2026/11/27 17:59:50"
 }

@@ -4490,13 +4490,6 @@
   ],
   "optimizeList": [
     {
-      "text": "xm方案筛选的输入框长度可以设置",
-      "done": false,
-      "createdAt": 1795773586713,
-      "id": "mwyt87ix-98xpon",
-      "updatedAt": 1795773586713
-    },
-    {
       "text": "周末的代办事项可否新建一个页面来写",
       "category": "XM代办",
       "done": false,
@@ -4604,6 +4597,13 @@
       "createdAt": 1795179863984,
       "id": "mwozqo4w-oz1832",
       "updatedAt": 1795179863984
+    },
+    {
+      "text": "xm方案筛选的输入框长度可以设置",
+      "done": true,
+      "createdAt": 1795773586713,
+      "id": "mwyt87ix-98xpon",
+      "updatedAt": 1795860460689
     }
   ],
   "visitList": [
@@ -5176,5 +5176,5 @@
     "1795012251701-ulgglw",
     "1794992774900-bldvbw"
   ],
-  "updateTime": "2026/11/28 18:07:36"
+  "updateTime": "2026/11/28 18:07:42"
 }
